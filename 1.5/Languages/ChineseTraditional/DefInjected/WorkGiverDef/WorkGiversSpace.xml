@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sacrifice prisoners -->
+  <DoArchotechSacrifice.label>獻祭囚犯</DoArchotechSacrifice.label>
+  <!-- EN: sacrificing -->
+  <DoArchotechSacrifice.gerund>獻祭</DoArchotechSacrifice.gerund>
+  <!-- EN: sacrifice -->
+  <DoArchotechSacrifice.verb>獻祭</DoArchotechSacrifice.verb>
+  
+  <!-- EN: recycle items -->
+  <DoBillsRecyclotron.label>回收物品</DoBillsRecyclotron.label>
+  <!-- EN: recycling at -->
+  <DoBillsRecyclotron.gerund>回收於</DoBillsRecyclotron.gerund>
+  <!-- EN: recycle -->
+  <DoBillsRecyclotron.verb>回收</DoBillsRecyclotron.verb>
+  
+  <!-- EN: fight mechanites -->
+  <FightMechanites.label>清理奈米機械</FightMechanites.label>
+  <!-- EN: scraping -->
+  <FightMechanites.gerund>清理</FightMechanites.gerund>
+  <!-- EN: scraping -->
+  <FightMechanites.verb>清理</FightMechanites.verb>
+  
+  <!-- EN: install consciousness -->
+  <InstallConsciousness.label>載入意識</InstallConsciousness.label>
+  <!-- EN: installing -->
+  <InstallConsciousness.gerund>載入意識於</InstallConsciousness.gerund>
+  <!-- EN: install -->
+  <InstallConsciousness.verb>載入</InstallConsciousness.verb>
+  
+  <!-- EN: load torpedo -->
+  <LoadTorpedoTube.label>裝載魚雷</LoadTorpedoTube.label>
+  <!-- EN: loading -->
+  <LoadTorpedoTube.gerund>裝載</LoadTorpedoTube.gerund>
+  <!-- EN: load -->
+  <LoadTorpedoTube.verb>裝載</LoadTorpedoTube.verb>
+  
+  <!-- EN: scan for orbital sites -->
+  <ScanSpace.label>掃瞄星球軌道</ScanSpace.label>
+  <!-- EN: scanning at -->
+  <ScanSpace.gerund>掃瞄於</ScanSpace.gerund>
+  <!-- EN: scan -->
+  <ScanSpace.verb>掃瞄</ScanSpace.verb>
+  
+</LanguageData>

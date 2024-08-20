@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Kim Kismet -->
+  <Kim.label>「天命」金</Kim.label>
+  <!-- EN: Kim sees a special destiny for your colonists - perhaps to follow in her footsteps. She's less likely to fire harmful events on pawns who have been with your colony for years, and more likely to test newcomers in the crucible of the Rim. -->
+  <Kim.description>金察觉到你的殖民者们有着不平凡的命运——也许会走上和她同样的道路。她很少会制造负面事件去困扰已在殖民地生活多年的元老们，更喜欢考验那些初到边缘世界这个险恶之地的新来者。</Kim.description>
+  
+  <!-- EN: Sara Spacer -->
+  <Sara.label>「科技至上」莎拉</Sara.label>
+  <!-- EN: Sara knows that a colony's true power comes from technology. She'll ignore wealth when calculating threat strength, instead considering your colony's research progress and number of high-tech buildings. -->
+  <Sara.description>莎拉明白，殖民地的真正实力源自先进的科技。在计算威胁强度时，她并不在乎你的财富值，而是会考虑整个殖民地的研究进度和高科技建筑的数量。</Sara.description>
+  
+</LanguageData>

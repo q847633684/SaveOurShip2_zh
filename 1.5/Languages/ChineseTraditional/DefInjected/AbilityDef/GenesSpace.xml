@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cryptosleep cocoon -->
+  <SoS2_CryptoCocoon.label>休眠繭</SoS2_CryptoCocoon.label>
+  <!-- EN: Extrude a protective cocoon and begin the process of natural cryptosleep. You can awaken at will, but the process is metabolically draining and you will emerge badly malnourished. -->
+  <SoS2_CryptoCocoon.description>構造一個能將自身長期維持在生理暫停狀態的休眠繭。可通過大幅加快新陳代謝的方式隨時醒來，但也會因此陷入嚴重的營養不良狀態。</SoS2_CryptoCocoon.description>
+  
+</LanguageData>

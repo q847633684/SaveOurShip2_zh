@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hardpoints -->
+  <Hardpoints.label>掛載點</Hardpoints.label>
+  <!-- EN: How many hardpoints this shuttle has. -->
+  <Hardpoints.description>這種載具附帶有幾個可用於砲塔改裝的掛載點。</Hardpoints.description>
+  
+  <!-- EN: Space Dodge Chance -->
+  <SoS2CombatDodgeChance.label>太空戰閃避幾率</SoS2CombatDodgeChance.label>
+  <!-- EN: This vehicle's chance of dodging enemy fire during space combat. -->
+  <SoS2CombatDodgeChance.description>這種載具在太空戰時閃避敵人攻擊的幾率。</SoS2CombatDodgeChance.description>
+  
+</LanguageData>

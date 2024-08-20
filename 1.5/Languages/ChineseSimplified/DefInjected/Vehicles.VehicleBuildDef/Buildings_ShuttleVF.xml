@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Heavy Shuttle -->
+  <SoS2_Shuttle_Heavy_Blueprint.label>重型穿梭机</SoS2_Shuttle_Heavy_Blueprint.label>
+  <!-- EN: A large shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features two hardpoints for turrets. -->
+  <SoS2_Shuttle_Heavy_Blueprint.description>同时具有轨道和亚轨道航行能力的重型穿梭机。\n\n这种穿梭机的设计基于小型化的飞船组件，只要完成了相应的研究项目，就能对它进行改装。\n这种穿梭机附带有2个可用于炮塔改装的挂载点。\n\n注意：大部分的改装都会降低穿梭机的载货量。\n\n&lt;color=#00B9FF&gt;乘员：&lt;/color&gt;飞行员 x1\n&lt;color=#00B9FF&gt;动力：&lt;/color&gt;铀燃料罐</SoS2_Shuttle_Heavy_Blueprint.description>
+  
+  <!-- EN: Personal Shuttle -->
+  <SoS2_Shuttle_Personal_Blueprint.label>私人穿梭机</SoS2_Shuttle_Personal_Blueprint.label>
+  <!-- EN: A single-occupant shuttlecraft capable of both orbital and suborbital flight. Unlike larger shuttles, this model runs on chemfuel and cannot be upgraded. -->
+  <SoS2_Shuttle_Personal_Blueprint.description>同时具有轨道和亚轨道航行能力的私人穿梭机。\n\n与更大型的穿梭机不同，这种穿梭机无法进行改装。\n\n&lt;color=#00B9FF&gt;乘员：&lt;/color&gt;飞行员 x1\n&lt;color=#00B9FF&gt;动力：&lt;/color&gt;化合燃料</SoS2_Shuttle_Personal_Blueprint.description>
+  
+  <!-- EN: Shuttle -->
+  <SoS2_Shuttle_Standard_Blueprint.label>穿梭机</SoS2_Shuttle_Standard_Blueprint.label>
+  <!-- EN: A shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features one hardpoint for a turret. -->
+  <SoS2_Shuttle_Standard_Blueprint.description>同时具有轨道和亚轨道航行能力的穿梭机。\n\n这种穿梭机的设计基于小型化的飞船组件，只要完成了相应的研究项目，就能对它进行改装。\n这种穿梭机附带有1个可用于炮塔改装的挂载点。\n\n注意：大部分的改装都会降低穿梭机的载货量。\n\n&lt;color=#00B9FF&gt;乘员：&lt;/color&gt;飞行员 x1\n&lt;color=#00B9FF&gt;动力：&lt;/color&gt;铀燃料罐</SoS2_Shuttle_Standard_Blueprint.description>
+  
+  <!-- EN: Superheavy Shuttle -->
+  <SoS2_Shuttle_Superheavy_Blueprint.label>超重型穿梭机</SoS2_Shuttle_Superheavy_Blueprint.label>
+  <!-- EN: A very large shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features three hardpoints for turrets. -->
+  <SoS2_Shuttle_Superheavy_Blueprint.description>同时具有轨道和亚轨道航行能力的超重型穿梭机。\n\n这种穿梭机的设计基于小型化的飞船组件，只要完成了相应的研究项目，就能对它进行改装。\n这种穿梭机附带有3个可用于炮塔改装的挂载点。\n\n注意：大部分的改装都会降低穿梭机的载货量。\n\n&lt;color=#00B9FF&gt;乘员：&lt;/color&gt;飞行员 x1\n&lt;color=#00B9FF&gt;动力：&lt;/color&gt;铀燃料罐</SoS2_Shuttle_Superheavy_Blueprint.description>
+  
+</LanguageData>

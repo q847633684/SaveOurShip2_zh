@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: downed ship -->
+  <SoSMayday.label>坠毁的飞船</SoSMayday.label>
+  <!-- EN: A downed starship. -->
+  <SoSMayday.description>一艘坠毁的飞船。</SoSMayday.description>
+  
+  <!-- EN: damaged satellites -->
+  <SpaceHackableSatellite.label>受损的卫星</SpaceHackableSatellite.label>
+  <!-- EN: Ancient satellites dating back to this world's original terraformation. If repaired, they could prove useful. -->
+  <SpaceHackableSatellite.description>这种古老的卫星似乎和这颗星球最初的地形改造有关。如果能将其修复，它可以发挥出很大的作用。</SpaceHackableSatellite.description>
+  
+  <!-- EN: valuable asteroids -->
+  <SpaceValuableAsteroids.label>富矿小行星</SpaceValuableAsteroids.label>
+  <!-- EN: Small rocks containing a high concentration of precious materials. Likely towed into orbit long ago, but never mined for some unknown reason. -->
+  <SpaceValuableAsteroids.description>蕴藏有大量珍稀材料和矿物的小行星。似乎在很久以前就被引力捕获至星球轨道上了，但出于某种未知的原因而从未被开采过。</SpaceValuableAsteroids.description>
+  
+</LanguageData>

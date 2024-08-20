@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Archotech -->
+  <ResearchTabArchotech.label>遠古科技</ResearchTabArchotech.label>
+  <!-- EN: [ANY SUFFICIENTLY ADVANCED TECHNOLOGY IS INDISTINGUISHABLE FROM ME] -->
+  <ResearchTabArchotech.generalDescription>「凡 足 夠 先 進 之 技 術\n皆 與 吾 等 緊 密 相 關」</ResearchTabArchotech.generalDescription>
+  <!-- EN: [Save Our Ship 2] Archotech research projects -->
+  <ResearchTabArchotech.generalTitle>SOS2遠古科技研究項目</ResearchTabArchotech.generalTitle>
+  
+  <!-- EN: Ship -->
+  <ResearchTabShip.label>飛船</ResearchTabShip.label>
+  <!-- EN: Unlock starship components and other space-based technologies. -->
+  <ResearchTabShip.generalDescription>研究並解鎖與飛船製造有關的技術。</ResearchTabShip.generalDescription>
+  <!-- EN: [Save Our Ship 2] Ship research projects -->
+  <ResearchTabShip.generalTitle>SOS2飛船研究項目</ResearchTabShip.generalTitle>
+  
+</LanguageData>

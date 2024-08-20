@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crittersleep caskets (8) -->
+  <CrittersleepCasket.label>动物低温休眠舱（8）</CrittersleepCasket.label>
+  <!-- EN: An array of self-powered sarcophagi capable of keeping up to eight small animals in stasis. Animals should be medically anesthetized before being placed into cryptosleep. -->
+  <CrittersleepCasket.description>能将8只小体型动物长期维持在生理暂停状态的自供电型装置。\n\n只有处于倒地或麻醉状态下的动物才能被装进动物低温休眠舱中。</CrittersleepCasket.description>
+  
+  <!-- EN: crittersleep caskets (32) -->
+  <CrittersleepCasketLarge.label>动物低温休眠舱（32）</CrittersleepCasketLarge.label>
+  <!-- EN: A large array of self-powered sarcophagi capable of keeping up to thirty-two small animals in stasis. Animals should be medically anesthetized before being placed into cryptosleep. -->
+  <CrittersleepCasketLarge.description>能将32只小体型动物长期维持在生理暂停状态的自供电型装置。\n\n只有处于倒地或麻醉状态下的动物才能被装进动物低温休眠舱中。</CrittersleepCasketLarge.description>
+  
+  <!-- EN: cryptonest -->
+  <Cryptonest.label>低温休眠巢</Cryptonest.label>
+  <!-- EN: A self-powered sarcophagus capable of keeping up to sixteen eggs in stasis. -->
+  <Cryptonest.description>能将16枚卵蛋长期维持在生理暂停状态的自供电型装置。</Cryptonest.description>
+  
+  <!-- EN: hullfoam distributor -->
+  <HullFoamDistributor.label>应急泡沫填充器</HullFoamDistributor.label>
+  <!-- EN: A pumping station for distributing hullfoam throughout a ship. When a portion of the ship's hull is destroyed in combat, this system will automatically patch the hole with hullfoam. -->
+  <HullFoamDistributor.description>专为飞船设计的应急泡沫填充器。当部分船体在战斗中被毁时，此装置将会自动用应急泡沫来填充裂痕和缺口。</HullFoamDistributor.description>
+  
+  <!-- EN: hullfoam -->
+  <HullFoamWall.label>应急泡沫船体</HullFoamWall.label>
+  <!-- EN: An airtight slab of hullfoam. -->
+  <HullFoamWall.description>用于应急封闭缺口的泡沫船体。</HullFoamWall.description>
+  
+  <!-- EN: minified thing -->
+  <MinifiedThingShipMove.label>minified thing</MinifiedThingShipMove.label>
+  
+  <!-- EN: starting pawn spawner -->
+  <PawnSpawnerStart.label>初始角色生成器</PawnSpawnerStart.label>
+  <!-- EN: Will spawn starting pawns on this location instead of resorting to backups - crypto casket, salvage bay, bridge. Use only on starting maps. -->
+  <PawnSpawnerStart.description>在指定地点生成初始角色，而非借助于低温休眠舱、回收港或控制台的备份。只能在初始地图上使用。</PawnSpawnerStart.description>
+  
+  <!-- EN: afterlife casket -->
+  <Ship_AvatarCasket.label>“来世”构造舱</Ship_AvatarCasket.label>
+  <!-- EN: A tank of advanced mechanites capable of dismantling a deceased human body and constructing a formgel swarm which mimics the subject's original biological functions.\nThe subject's consciousness is transferred with perfect fidelity to an artificial neuro-psychic substrate which remains in the tank, remotely controlling its formgel via psychic entanglement. An afterlife casket can preserve only a single consciousness at a time. -->
+  <Ship_AvatarCasket.description>装满了高级纳米机械的设备，可将刚逝去不久的人类躯体分解，并仿照其原本的生物机能构造一个拟形胶凝体，以达到“起死回生”的目的。\n\n将死亡的殖民者放入其中后，他们的意识会被完美转移至内置的“神经-心灵”人造基底中，且能通过心灵纠缠原理来远程控制自己的胶凝体。“来世”构造舱无法同时保存多个意识。</Ship_AvatarCasket.description>
+  
+  <!-- EN: ship hull -->
+  <Ship_Beam.label>船体</Ship_Beam.label>
+  <!-- EN: The outer structural elements of a ship's hull. Includes conduits for power, life-support gases, and coolant. -->
+  <Ship_Beam.description>用于组成飞船的重要外部结构，内部嵌有电缆、氧气管道和热量管道。</Ship_Beam.description>
+  
+  <!-- EN: ship hull (unpowered) -->
+  <Ship_Beam_Unpowered.label>船体（无动力）</Ship_Beam_Unpowered.label>
+  <!-- EN: The outer structural elements of a ship's hull. Does not include conduits for power or coolant. -->
+  <Ship_Beam_Unpowered.description>用于组成飞船的重要外部结构，内部并未嵌有电缆和热量管道。</Ship_Beam_Unpowered.description>
+  
+  <!-- EN: ship computer core -->
+  <Ship_ComputerCore.label>飞船电脑核心</Ship_ComputerCore.label>
+  <!-- EN: A computer core capable of housing a superhumanlike AI who can pilot your ship, accurately fire its weapons, or guide it on interstellar journeys. Includes a mechanite breeding tank which allows the AI to manifest a formgel avatar. -->
+  <Ship_ComputerCore.description>装载有类似于超人一般的AI的电脑核心，能够引导舰载武器精准开火，或带领飞船在数十年的星际航行里经受任何挑战。它还额外搭载了一个纳米机械培养罐，可以构造出等同于AI化身的拟形胶凝体。</Ship_ComputerCore.description>
+  
+  <!-- EN: hull corner (1x1) -->
+  <Ship_Corner_OneOne.label>船体斜角（1×1）</Ship_Corner_OneOne.label>
+  <!-- EN: Angled armor for a ship's outer hull. -->
+  <Ship_Corner_OneOne.description>船体的斜角部位。</Ship_Corner_OneOne.description>
+  
+  <!-- EN: hull corner (1x1) flip -->
+  <Ship_Corner_OneOneFlip.label>船体斜角（1×1）</Ship_Corner_OneOneFlip.label>
+  <!-- EN: Angled armor for a ship's outer hull. -->
+  <Ship_Corner_OneOneFlip.description>船体的斜角部位。</Ship_Corner_OneOneFlip.description>
+  
+  <!-- EN: hull corner (1x3) -->
+  <Ship_Corner_OneThree.label>船体斜角（1×3）</Ship_Corner_OneThree.label>
+  <!-- EN: Angled armor for a ship's outer hull. -->
+  <Ship_Corner_OneThree.description>船体的斜角部位。</Ship_Corner_OneThree.description>
+  
+  <!-- EN: hull corner (1x3) flip -->
+  <Ship_Corner_OneThreeFlip.label>船体斜角（1×3）</Ship_Corner_OneThreeFlip.label>
+  <!-- EN: Angled armor for a ship's outer hull. -->
+  <Ship_Corner_OneThreeFlip.description>船体的斜角部位。</Ship_Corner_OneThreeFlip.description>
+  
+  <!-- EN: hull corner (1x2) -->
+  <Ship_Corner_OneTwo.label>船体斜角（1×2）</Ship_Corner_OneTwo.label>
+  <!-- EN: Angled armor for a ship's outer hull. -->
+  <Ship_Corner_OneTwo.description>船体的斜角部位。</Ship_Corner_OneTwo.description>
+  
+  <!-- EN: hull corner (1x2) flip -->
+  <Ship_Corner_OneTwoFlip.label>船体斜角（1×2）</Ship_Corner_OneTwoFlip.label>
+  <!-- EN: Angled armor for a ship's outer hull. -->
+  <Ship_Corner_OneTwoFlip.description>船体的斜角部位。</Ship_Corner_OneTwoFlip.description>
+  
+  <!-- EN: ship cryptosleep casket -->
+  <Ship_CryptosleepCasket.label>飞船低温休眠舱</Ship_CryptosleepCasket.label>
+  <!-- EN: A cryptosleep casket with multiple built-in timers and contingencies. Can be opened without manual intervention. In the event of catastrophic ship failure, it can also act as an escape pod.\n\nIt would be a good idea to have at least one of these aboard any starship. -->
+  <Ship_CryptosleepCasket.description>内置有多重定时系统和应急装置的低温休眠舱，无需人工操作就能自动开启。如果飞船遭到了灾难性的破坏，它也可以当作逃生舱使用。\n\n在飞船上配备这种装置是很有必要的。</Ship_CryptosleepCasket.description>
+  
+  <!-- EN: drone core -->
+  <Ship_DroneCore.label>简易飞船电脑核心</Ship_DroneCore.label>
+  <!-- EN: A simple computer core housing a subpersona AI. Incapable of creative problem-solving or interstellar guidance, it is nonetheless effective at piloting a ship in combat. -->
+  <Ship_DroneCore.description>装载有次级人格AI的简易电脑核心，虽然不具备灵活解决问题和引导星际航行的能力，但可以在战斗中有效地操控飞船。</Ship_DroneCore.description>
+  
+  <!-- EN: rocket engine -->
+  <Ship_Engine.label>火箭推进器</Ship_Engine.label>
+  <!-- EN: A chemfuel-powered engine capable of launching a ship into orbit. Not suitable for interplanetary travel.\n\nThrust: 1000\nFuel use: 2 chemfuel/s\nMax takeoff strength: 1000 -->
+  <Ship_Engine.description>可以将飞船送至星球轨道上的化合燃料推进器。并不适合星际航行。\n\n【飞船推力】：1000\n【燃料消耗】：2化合燃料/秒\n【起飞重量上限】：1000</Ship_Engine.description>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <Ship_Engine_Interplanetary.label>约翰逊-田中驱动器</Ship_Engine_Interplanetary.label>
+  <!-- EN: An advanced reactionless engine capable of interplanetary and interstellar travel.\n\nCannot be used inside a planet's atmosphere.\n\nJT mass limit: 10000\nThrust: 500 -->
+  <Ship_Engine_Interplanetary.description>能够将飞船送入太空并且穿过广阔星际空间的高级无工质推进器。并不适合在星球大气层内使用。\n\n【飞船推力】：500\n【星际航行重量上限】：10000</Ship_Engine_Interplanetary.description>
+  
+  <!-- EN: large Johnson-Tanaka drive -->
+  <Ship_Engine_Interplanetary_Large.label>大型约翰逊-田中驱动器</Ship_Engine_Interplanetary_Large.label>
+  <!-- EN: An advanced reactionless engine capable of interplanetary and interstellar travel.\n\nCannot be used inside a planet's atmosphere. This larger version usually found on big warships using two manifolds in a more efficient configuration.\n\nJT mass limit: 30000\nThrust: 2000 -->
+  <Ship_Engine_Interplanetary_Large.description>能够将飞船送入太空并且穿过广阔星际空间的高级无工质推进器。这种更大的型号通常能在大型战舰上找到。由于搭载了两个纠缠流形，它的性能要比普通型号更强。并不适合在星球大气层内使用。\n\n【飞船推力】：2000\n【星际航行重量上限】：30000</Ship_Engine_Interplanetary_Large.description>
+  
+  <!-- EN: nuclear engine -->
+  <Ship_Engine_Large.label>核能推进器</Ship_Engine_Large.label>
+  <!-- EN: A nuclear-powered engine capable of launching a ship into orbit. Will cause pollution. Not suitable for interplanetary travel.\n\nThrust: 3000\nFuel use: 3 fuel pods/s\nMax takeoff strength: 4000 -->
+  <Ship_Engine_Large.description>可以将飞船送至星球轨道上的核能推进器。性能要比火箭推进器强得多。并不适合星际航行。\n\n【飞船推力】：3000\n【燃料消耗】：3铀燃料罐/秒\n【起飞重量上限】：4000</Ship_Engine_Large.description>
+  
+  <!-- EN: small rocket engine -->
+  <Ship_Engine_Small.label>小型火箭推进器</Ship_Engine_Small.label>
+  <!-- EN: A chemfuel-powered engine capable of launching a ship into orbit. Not suitable for interplanetary travel.\n\nThrust: 500\nFuel use: 1 chemfuel/s\nMax takeoff strength: 750 -->
+  <Ship_Engine_Small.description>可以将飞船送至星球轨道上的化合燃料推进器。并不适合星际航行。\n\n【飞船推力】：500\n【燃料消耗】：1化合燃料/秒\n【起飞重量上限】：750</Ship_Engine_Small.description>
+  
+  <!-- EN: ship hull -->
+  <Ship_FakeBeam.label>船体</Ship_FakeBeam.label>
+  <!-- EN: The outer structural elements of a ship's hull. Includes conduits for power, life-support gases, and coolant. -->
+  <Ship_FakeBeam.description>用于组成飞船的重要外部结构，内部嵌有电缆、氧气管道和热量管道。</Ship_FakeBeam.description>
+  
+  <!-- EN: Life Support System -->
+  <Ship_LifeSupport.label>生命维持系统</Ship_LifeSupport.label>
+  <!-- EN: Recycles oxygen in all fully-enclosed ship rooms. Required to keep non-cryptosleeping colonists and animals alive.\n\nWhile one one life-support system is necessary per ship, having backups can save the crew in an emergency. -->
+  <Ship_LifeSupport.description>用于制造和循环氧气的生命维持系统，可供未进行低温休眠的殖民者和动物在飞船上正常生活。\n\n虽然每艘飞船仅需一台生命维持系统即可，但多建造几台备用的可以在情况危急时挽救船员们的性命。</Ship_LifeSupport.description>
+  
+  <!-- EN: Small Life Support System -->
+  <Ship_LifeSupport_Small.label>小型生命维持系统</Ship_LifeSupport_Small.label>
+  <!-- EN: Recycles oxygen in all fully-enclosed ship rooms. Required to keep non-cryptosleeping colonists and animals alive. This version sacrifices power efficiency for a more compact design that can fit on small ships.\n\nWhile one one life-support system is necessary per ship, having backups can save the crew in an emergency. -->
+  <Ship_LifeSupport_Small.description>用于制造和循环氧气的生命维持系统，可供未进行低温休眠的殖民者和动物在飞船上正常生活。\n\n这种型号以耗电量为代价压缩了体积，也更适合配备在小型飞船上。\n\n虽然每艘飞船仅需一台生命维持系统即可，但多建造几台备用的可以在情况危急时挽救船员们的性命。</Ship_LifeSupport_Small.description>
+  
+  <!-- EN: ship fission reactor -->
+  <Ship_Reactor.label>飞船裂变反应堆</Ship_Reactor.label>
+  <!-- EN: A compact, self-contained fission reactor. Burns uranium fuel pods. Vents heat into a heatsink network if available, or into the surrounding room if not.\n\nIts base power production of 10,000W can be boosted with several increasingly risky overdrive modes. -->
+  <Ship_Reactor.description>消耗铀燃料罐进行发电的紧凑型裂变反应堆，其运行时产生的热量会依据情况排放至热量网络系统或飞船舱室内。\n\n默认电力输出为10000W，但可以切换至风险逐级递增的过载模式以进行提高。</Ship_Reactor.description>
+  
+  <!-- EN: small fission reactor -->
+  <Ship_Reactor_Small.label>小型飞船裂变反应堆</Ship_Reactor_Small.label>
+  <!-- EN: A compact, self-contained fission reactor. Burns uranium fuel pods. Vents heat into a heatsink network if available, or into the surrounding room if not.\n\nIts base power production of 3,000W can be boosted with several increasingly risky overdrive modes. -->
+  <Ship_Reactor_Small.description>消耗铀燃料罐进行发电的紧凑型裂变反应堆，其运行时产生的热量会依据情况排放至热量网络系统或飞船舱室内。\n\n默认电力输出为3000W，但可以切换至风险逐级递增的过载模式以进行提高。</Ship_Reactor_Small.description>
+  
+  <!-- EN: basic sensors -->
+  <Ship_SensorCluster.label>基础传感器</Ship_SensorCluster.label>
+  <!-- EN: Basic ship sensors required for ship operation. Allow a ship to reach orbit or observe an area to land at once in orbit. -->
+  <Ship_SensorCluster.description>驱动和操控飞船所必需的传感器设备。允许将飞船送至星球轨道上，或观察指定区域的地图以便飞船着陆。</Ship_SensorCluster.description>
+  
+  <!-- EN: advanced sensors -->
+  <Ship_SensorClusterAdv.label>高级传感器</Ship_SensorClusterAdv.label>
+  <!-- EN: Advanced ship sensors. Automatically scans for nearby sites of interest. Capable of scanning the interiors of enemy ships. -->
+  <Ship_SensorClusterAdv.description>更加先进的高级传感器。除了基础功能外，它还可以自动扫描轨道上有探查价值的任务事件点，以及侦测敌舰的内部结构。</Ship_SensorClusterAdv.description>
+  
+  <!-- EN: RCS thruster -->
+  <Ship_Thruster.label>姿态控制推进器</Ship_Thruster.label>
+  <!-- EN: A small thruster that is required to reposition ships. One is required for every 2000 weight. -->
+  <Ship_Thruster.description>移动、旋转和翻转飞船所必需的小型推进器。\n\n【支持重量上限】：2000</Ship_Thruster.description>
+  
+  <!-- EN: ship airlock -->
+  <ShipAirlock.label>飞船气闸</ShipAirlock.label>
+  <!-- EN: Allows access to a ship or divides rooms inside it. Low-energy plasma barriers prevent gases from escaping. -->
+  <ShipAirlock.description>用于飞船入口或分隔舱室。电力运转，人穿过气闸不会减速。产生的低能等离子体屏障可以防止氧气逸出。</ShipAirlock.description>
+  
+  <!-- EN: docking clamp -->
+  <ShipAirlockBeam.label>对接装置</ShipAirlockBeam.label>
+  <!-- EN: One half of a system for attaching spacecraft. Place two of these directly adjacent to a vacuum-facing airlock, facing outward: |o| where | represents a docking clamp and o represents the airlock. The airlock will then gain the ability to extend a docking tube up to 3 tiles long.\n\nNo special equipment is necessary on the other end; simply line the tube up with the other ship's airlock. You can also connect it to other airlocks.\n\nThe tube is not rated for interplanetary travel or atmospheric re-entry so ships will automatically decouple. -->
+  <ShipAirlockBeam.description>用于对接飞船的装置，必须在面朝真空区域的气闸左右两侧各放置一个。结构示例（“|”为对接装置，“o”为气闸）：|o|\n对接装置可向前延伸出3格长的对接通道，与另一艘飞船的气闸对齐后，就能将两艘飞船连接起来。\n\n注意：对接通道会在飞船星际航行或重返大气层时自动收回。</ShipAirlockBeam.description>
+  
+  <!-- EN: airlock floor -->
+  <ShipAirlockBeamTile.label>对接通道地板</ShipAirlockBeamTile.label>
+  
+  <!-- EN: airlock wall -->
+  <ShipAirlockBeamWall.label>对接通道墙</ShipAirlockBeamWall.label>
+  <!-- EN: An airtight extended airlock wall. -->
+  <ShipAirlockBeamWall.description>气密的对接通道墙。</ShipAirlockBeamWall.description>
+  
+  <!-- EN: airlock wall -->
+  <ShipAirlockBeamWallInert.label>对接通道墙</ShipAirlockBeamWallInert.label>
+  <!-- EN: An airtight extended airlock wall. -->
+  <ShipAirlockBeamWallInert.description>气密的对接通道墙。</ShipAirlockBeamWallInert.description>
+  
+  <!-- EN: ship blueprint (Heavy bomber) -->
+  <ShipBPBomberHeavy.label>飞船蓝图（重型轰炸机）</ShipBPBomberHeavy.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Heavy bomber\nA heavily armed ship but incapable of extended operations in space.\n\nMass: 1092\nSize: 28 x 26\nT/W ratio: 3.151\nCombat rating: 130\n\nWeapons: \n1x large railgun turret\n2x laser turret\n2x torpedo launcher\n2x plasma turret\n\nRequired resources: \nsteel: 5447\nplasteel: 1937\nadvanced component: 91\ncomponent: 168\nuranium: 160\nsilver: 225\ngold: 4\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion\nThird stage:\nship navigation, cruiser armaments, heatsinks, ship fission reactor, laser turrets, basic ship sensors, firefoam, ship shields, capacitor arrays, ship torpedoes, plasma turrets, ship life support -->
+  <ShipBPBomberHeavy.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：重型轰炸机\n这种飞船虽然全副武装，但不具备在太空中延程航行的能力。\n\n【重量】：1092\n【大小】：28 x 26\n【推力/重量比】：3.151\n【战斗等级】：130\n\n【武装】：\n大型轨道炮塔x1\n激光炮塔x2\n鱼雷发射管x2\n等离子炮塔x2\n\n【资源消耗】：\n钢铁x5447\n玻璃钢x1937\n高级零部件x91\n零部件x168\n铀x160\n白银x225\n黄金x4\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器\n[三阶段]：\n飞船导航系统，巡洋舰武备，飞船散热器，飞船裂变反应堆，飞船激光炮塔，基础传感器，泡沫灭火器，飞船护盾，电容阵列，飞船鱼雷，飞船等离子炮塔，飞船生命维持系统</ShipBPBomberHeavy.description>
+  
+  <!-- EN: ship blueprint (Firefly class transport) -->
+  <ShipBPCargoFirefly.label>飞船蓝图（“火萤”级运输船）</ShipBPCargoFirefly.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Firefly class transport\nAn unarmed transport ship with a large cargo hold.\n\nMass: 4720\nSize: 79 x 50\nT/W ratio: 1.644\nCombat rating: 63\n\nWeapons: \nnone\nRequired resources: \nsteel: 25099\nplasteel: 5890\nadvanced component: 202\ncomponent: 740\ngold: 16\nuranium: 170\nentanglement manifold: 1\nsilver: 100\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, solar panel, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor, Johnson-Tanaka Drive\nThird stage:\nship navigation, advanced ship sensors, microelectronics, escape pods, ship life support, salvage bay, vitals monitor, shuttle bay, complex furniture, heatsinks, machining, firefoam, hospital bed, capacitor arrays -->
+  <ShipBPCargoFirefly.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：重型轰炸机\n这种飞船可以装载大量货物，但未配备武装。\n\n【重量】：4720\n【大小】：79 x 50\n【推力/重量比】：1.644\n【战斗等级】：63\n\n【武装】：\n无\n\n【资源消耗】：\n钢铁x25099\n玻璃钢x5890\n高级零部件x202\n零部件x740\n铀x170\n白银x100\n黄金x16\n纠缠流形x1\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，太阳能板，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆，约翰逊-田中驱动器\n[三阶段]：\n飞船导航系统，高级传感器，微电子基础，飞船低温休眠舱，飞船生命维持系统，回收港，生命体征监测仪，星港，复杂家具，飞船散热器，机械加工，泡沫灭火器，医疗床，电容阵列</ShipBPCargoFirefly.description>
+  
+  <!-- EN: ship blueprint (Corvette) -->
+  <ShipBPCorvette.label>飞船蓝图（轻型护卫舰A）</ShipBPCorvette.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Corvette\nA very small corvette.\n\nMass: 1868\nSize: 36 x 20\nT/W ratio: 2.371\nCombat rating: 132\n\nWeapons: \n2x torpedo launcher\n4x laser turret\n2x railgun turret\n\nRequired resources: \nsteel: 9328\nplasteel: 2971\nadvanced component: 131\ncomponent: 315\nsilver: 900\ngold: 4\nuranium: 120\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion\nThird stage:\nship navigation, heatsinks, ship shields, microelectronics, basic ship sensors, ship fission reactor, ship torpedoes, ship life support, machining, firefoam, tube television, laser turrets, capacitor arrays, railgun turrets, salvage bay -->
+  <ShipBPCorvette.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：轻型护卫舰A\n非常小的轻型护卫舰。\n\n【重量】：1868\n【大小】：36 x 20\n【推力/重量比】：2.371\n【战斗等级】：132\n\n【武装】：\n激光炮塔x4\n鱼雷发射管x2\n轨道炮塔x2\n\n【资源消耗】：\n钢铁x9328\n玻璃钢x2971\n高级零部件x131\n零部件x315\n铀x120\n白银x900\n黄金x4\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器\n[三阶段]：\n飞船导航系统，飞船散热器，飞船护盾，微电子基础，基础传感器，飞船裂变反应堆，飞船鱼雷，飞船生命维持系统，机械加工，泡沫灭火器，显像管电视，飞船激光炮塔，电容阵列，飞船轨道炮塔，回收港</ShipBPCorvette.description>
+  
+  <!-- EN: ship blueprint (Ardent class corvette) -->
+  <ShipBPCorvetteArdent.label>飞船蓝图（“热诚”级轻型护卫舰）</ShipBPCorvetteArdent.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Ardent class corvette\nA large but fast corvette.\n\nMass: 3746\nSize: 49 x 32\nT/W ratio: 2.201\nCombat rating: 320\n\nWeapons: \n6x laser turret\n2x large plasma turret\n2x torpedo launcher\n2x large railgun turret\n\nRequired resources: \nsteel: 22030\nplasteel: 6274\nadvanced component: 300\ncomponent: 651\nuranium: 490\ngold: 20\nsilver: 900\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, microelectronics, laser turrets, capacitor arrays, escape pods, cruiser armaments, basic ship sensors, salvage bay, ship shields, drug production, hospital bed, fabrication, purge ports, ship torpedoes, machining, heatsinks, advanced ship sensors, complex furniture, firefoam, ship life support, flatscreen television, vitals monitor -->
+  <ShipBPCorvetteArdent.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：“热诚”级轻型护卫舰\n较大的轻型护卫舰，速度优秀。\n\n【重量】：3746\n【大小】：49 x 32\n【推力/重量比】：2.201\n【战斗等级】：320\n\n【武装】：\n激光炮塔x6\n鱼雷发射管x2\n大型等离子炮塔x2\n大型轨道炮塔x2\n\n【资源消耗】：\n钢铁x22030\n玻璃钢x6274\n高级零部件x300\n零部件x651\n铀x490\n白银x900\n黄金x20\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，微电子基础，飞船激光炮塔，电容阵列，飞船低温休眠舱，巡洋舰武备，基础传感器，回收港，飞船护盾，成瘾品生产，医疗床，精密装配，紧急排热端口，飞船鱼雷，机械加工，飞船散热器，高级传感器，复杂家具，泡沫灭火器，飞船生命维持系统，平板电视，生命体征监测仪</ShipBPCorvetteArdent.description>
+  
+  <!-- EN: ship blueprint (Arrowhead corvette) -->
+  <ShipBPCorvetteArrowhead.label>飞船蓝图（“箭头”级轻型护卫舰）</ShipBPCorvetteArrowhead.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Arrowhead corvette\nA small lightly armed corvette.\n\nMass: 3152\nSize: 44 x 38\nT/W ratio: 1.412\nCombat rating: 167\n\nWeapons: \n1x large railgun turret\n4x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 15871\nadvanced component: 172\nplasteel: 4454\ncomponent: 501\nuranium: 190\nsilver: 900\ngold: 4\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, flatscreen television, microelectronics, cruiser armaments, escape pods, ship shields, firefoam, laser turrets, basic ship sensors, ship torpedoes, hullfoam, ship life support, capacitor arrays, heatsinks, salvage bay, hospital bed, vitals monitor, machining -->
+  <ShipBPCorvetteArrowhead.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：“箭头”级轻型护卫舰\n较小的轻型护卫舰，搭载了少量武装。\n\n【重量】：3152\n【大小】：44 x 38\n【推力/重量比】：1.412\n【战斗等级】：167\n\n【武装】：\n激光炮塔x4\n鱼雷发射管x2\n大型轨道炮塔x1\n\n【资源消耗】：\n钢铁x15871\n玻璃钢x4454\n高级零部件x172\n零部件x501\n铀x190\n白银x900\n黄金x4\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，平板电视，微电子基础，巡洋舰武备，飞船低温休眠舱，飞船护盾，泡沫灭火器，飞船激光炮塔，基础传感器，飞船鱼雷，应急泡沫，飞船生命维持系统，电容阵列，飞船散热器，回收港，医疗床，生命体征监测仪，机械加工</ShipBPCorvetteArrowhead.description>
+  
+  <!-- EN: ship blueprint (Corvette) -->
+  <ShipBPCorvetteGunship.label>飞船蓝图（轻型护卫舰B）</ShipBPCorvetteGunship.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Corvette\nA slow but heavily armed corvette.\n\nMass: 3694\nSize: 69 x 26\nT/W ratio: 1.400\nCombat rating: 262\n\nWeapons: \n8x laser turret\n2x large railgun turret\n2x large plasma turret\n\nRequired resources: \nsteel: 20404\nadvanced component: 245\nplasteel: 6390\ncomponent: 651\nuranium: 530\ngold: 4\nsilver: 1700\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion\nThird stage:\nship navigation, laser turrets, basic ship sensors, microelectronics, ship shields, heatsinks, cruiser armaments, firefoam, capacitor arrays, flatscreen television, hospital bed, escape pods, ship fission reactor, machining, salvage bay, ship life support, vitals monitor -->
+  <ShipBPCorvetteGunship.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：轻型护卫舰B\n速度缓慢但全副武装的轻型护卫舰。\n\n【重量】：3694\n【大小】：69 x 26\n【推力/重量比】：1.400\n【战斗等级】：262\n\n【武装】：\n激光炮塔x8\n大型等离子炮塔x2\n大型轨道炮塔x2\n\n【资源消耗】：\n钢铁x20404\n玻璃钢x6390\n高级零部件x245\n零部件x651\n铀x530\n白银x1700\n黄金x4\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器\n[三阶段]：\n飞船导航系统，飞船激光炮塔，基础传感器，微电子基础，飞船护盾，飞船散热器，巡洋舰武备，泡沫灭火器，电容阵列，平板电视，医疗床，飞船低温休眠舱，飞船裂变反应堆，机械加工，回收港，飞船生命维持系统，生命体征监测仪</ShipBPCorvetteGunship.description>
+  
+  <!-- EN: ship blueprint (Old Martian corvette) -->
+  <ShipBPCorvetteMartian.label>飞船蓝图（老式火星轻型护卫舰）</ShipBPCorvetteMartian.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Old Martian corvette\nAn ancient design that stood the test of time.\n\nMass: 2516\nSize: 59 x 22\nT/W ratio: 1.733\nCombat rating: 137\n\nWeapons: \n6x cannon turret\n1x torpedo launcher (2)\n\nRequired resources: \nsteel: 12796\nplasteel: 3622\nadvanced component: 146\ngold: 20\ncomponent: 397\nuranium: 300\nsilver: 100\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, basic ship sensors, ship cannons, capacitor arrays, microelectronics, hydroponics, heatsinks, machining, salvage bay, advanced ship sensors, flatscreen television, ship torpedoes, hospital bed, vitals monitor, ship life support -->
+  <ShipBPCorvetteMartian.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：老式火星轻型护卫舰\n虽然整体设计相当古老，但仍经得起时间考验的轻型护卫舰。\n\n【重量】：2516\n【大小】：59 x 22\n【推力/重量比】：1.733\n【战斗等级】：137\n\n【武装】：\n双联鱼雷发射管x1\n动能炮塔x6\n\n【资源消耗】：\n钢铁x12796\n玻璃钢x3622\n高级零部件x146\n零部件x397\n铀x300\n白银x100\n黄金x20\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，基础传感器，飞船动能炮塔，电容阵列，微电子基础，水栽培，飞船散热器，机械加工，回收港，高级传感器，平板电视，飞船鱼雷，医疗床，生命体征监测仪，飞船生命维持系统</ShipBPCorvetteMartian.description>
+  
+  <!-- EN: ship blueprint (Corvette) -->
+  <ShipBPCorvetteTorpedo.label>飞船蓝图（轻型护卫舰C）</ShipBPCorvetteTorpedo.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Corvette\nA heavily armed torpedo corvette.\n\nMass: 3733\nSize: 60 x 36\nT/W ratio: 1.853\nCombat rating: 313\n\nWeapons: \n6x laser turret\n2x large plasma turret\n2x torpedo launcher (2)\n\nRequired resources: \nsteel: 21371\nplasteel: 6070\nadvanced component: 274\ncomponent: 651\nuranium: 325\nsilver: 900\ngold: 20\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion\nThird stage:\nship navigation, laser turrets, cruiser armaments, microelectronics, capacitor arrays, escape pods, tube television, heatsinks, hospital bed, ship shields, ship life support, vitals monitor, basic ship sensors, ship fission reactor, ship torpedoes, firefoam, purge ports, advanced ship sensors, salvage bay, machining -->
+  <ShipBPCorvetteTorpedo.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：轻型护卫舰C\n全副武装的鱼雷轻型护卫舰。\n\n【重量】：3733\n【大小】：60 x 36\n【推力/重量比】：1.853\n【战斗等级】：313\n\n【武装】：\n激光炮塔x6\n双联鱼雷发射管x2\n大型等离子炮塔x2\n\n【资源消耗】：\n钢铁x21371\n玻璃钢x6070\n高级零部件x274\n零部件x651\n铀x325\n白银x900\n黄金x20\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器\n[三阶段]：\n飞船导航系统，基础传感器，飞船激光炮塔，巡洋舰武备，微电子基础，电容阵列，飞船低温休眠舱，显像管电视，飞船散热器，医疗床，飞船护盾，飞船生命维持系统，生命体征监测仪，飞船裂变反应堆，飞船鱼雷，泡沫灭火器，紧急排热端口，高级传感器，机械加工，回收港</ShipBPCorvetteTorpedo.description>
+  
+  <!-- EN: ship blueprint (Corvette) -->
+  <ShipBPCorvetteWinged.label>飞船蓝图（轻型护卫舰D）</ShipBPCorvetteWinged.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Corvette\nA winged corvette.\n\nMass: 3101\nSize: 44 x 48\nT/W ratio: 1.758\nCombat rating: 179\n\nWeapons: \n1x large railgun turret\n6x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 15648\nadvanced component: 172\nplasteel: 4794\ncomponent: 548\nuranium: 220\ngold: 4\nsilver: 900\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion\nThird stage:\nship navigation, capacitor arrays, cruiser armaments, microelectronics, ship life support, vitals monitor, hospital bed, basic ship sensors, laser turrets, ship fission reactor, salvage bay, heatsinks, escape pods, tube television, ship shields, ship torpedoes, firefoam -->
+  <ShipBPCorvetteWinged.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：轻型护卫舰D\n带有展翼的轻型护卫舰。\n\n【重量】：3101\n【大小】：44 x 48\n【推力/重量比】：1.758\n【战斗等级】：179\n\n【武装】：\n激光炮塔x6\n鱼雷发射管x2\n大型轨道炮塔x2\n\n【资源消耗】：\n钢铁x15648\n玻璃钢x4794\n高级零部件x172\n零部件x548\n铀x220\n白银x900\n黄金x4\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器\n[三阶段]：\n飞船导航系统，基础传感器，电容阵列，巡洋舰武备，微电子基础，飞船生命维持系统，生命体征监测仪，医疗床，飞船激光炮塔，飞船裂变反应堆，回收港，飞船散热器，飞船低温休眠舱，显像管电视，飞船护盾，飞船鱼雷，泡沫灭火器</ShipBPCorvetteWinged.description>
+  
+  <!-- EN: ship blueprint (Thor class cruiser) -->
+  <ShipBPCruiserThor.label>飞船蓝图（“雷神”级巡洋舰）</ShipBPCruiserThor.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Thor class cruiser\nA heavily armed cruiser.\n\nMass: 14617\nSize: 134 x 48\nT/W ratio: 1.455\nCombat rating: 1816\n\nWeapons: \n8x large railgun turret\n18x laser turret\n16x plasma turret\n2x spinal barrel: railgun\n8x torpedo launcher (2)\n\nRequired resources: \nsteel: 78409\nplasteel: 25883\nadvanced component: 1158\ngold: 86\npersona core: 1\nuranium: 2070\ncomponent: 1986\nsilver: 2800\ncloth: 50\nwood: 25\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship computer core, cruiser armaments, escape pods, laser turrets, flatscreen television, shuttle bay, hospital bed, vitals monitor, capacitor arrays, fabrication, heatsinks, plasma turrets, ship shields, salvage bay, firefoam, machining, capital ship armaments, ship torpedoes, purge ports, hydroponics, drug production, ship navigation, microelectronics, advanced ship sensors, complex furniture, hullfoam, ship life support -->
+  <ShipBPCruiserThor.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：“雷神”级巡洋舰\n全副武装的巡洋舰。\n\n【重量】：14617\n【大小】：134 x 48\n【推力/重量比】：1.455\n【战斗等级】：1816\n\n【武装】：\n激光炮塔x18\n双联鱼雷发射管x8\n等离子炮塔x16\n大型轨道炮塔x8\n脊峰火炮：轨道炮x2\n\n【资源消耗】：\n钢铁x78409\n玻璃钢x25883\n高级零部件x1158\n零部件x1986\n铀x2070\n白银x2800\n黄金x86\n布x50\n原木x25\n人格核心x1\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，飞船电脑核心，巡洋舰武备，飞船低温休眠舱，飞船激光炮塔，平板电视，星港，医疗床，生命体征监测仪，电容阵列，精密装配，飞船散热器，飞船等离子炮塔，飞船护盾，回收港，泡沫灭火器，机械加工，主力舰武备，飞船鱼雷，紧急排热端口，水栽培，成瘾品生产，微电子基础，高级传感器，复杂家具，应急泡沫，飞船生命维持系统</ShipBPCruiserThor.description>
+  
+  <!-- EN: ship blueprint (Torpedo destroyer) -->
+  <ShipBPDestroyer.label>飞船蓝图（鱼雷驱逐舰）</ShipBPDestroyer.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Torpedo destroyer\nA large and heavily armed ship.\n\nMass: 8214\nSize: 107 x 44\nT/W ratio: 1.376\nCombat rating: 804\n\nWeapons: \n10x laser turret\n6x torpedo launcher (2)\n3x large railgun turret\n4x large plasma turret\n\nRequired resources: \nsteel: 45802\nplasteel: 13275\nadvanced component: 588\ncomponent: 1331\nuranium: 830\ngold: 32\nsilver: 1900\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, flatscreen television, microelectronics, hydroponics, escape pods, hospital bed, laser turrets, vitals monitor, advanced ship sensors, hullfoam, ship life support, capacitor arrays, ship torpedoes, purge ports, salvage bay, heatsinks, ship shields, cruiser armaments, firefoam, gun turrets, shuttle bay, machining, complex furniture -->
+  <ShipBPDestroyer.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：鱼雷驱逐舰\n全副武装的驱逐舰。\n\n【重量】：8214\n【大小】：107 x 44\n【推力/重量比】：1.376\n【战斗等级】：804\n\n【武装】：\n激光炮塔x10\n双联鱼雷发射管x6\n大型等离子炮塔x4\n大型轨道炮塔x3\n\n【资源消耗】：\n钢铁x45802\n玻璃钢x13275\n高级零部件x588\n零部件x1331\n铀x830\n白银x1900\n黄金x32\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，平板电视，微电子基础，水栽培，飞船低温休眠舱，医疗床，飞船激光炮塔，生命体征监测仪，高级传感器，应急泡沫，飞船生命维持系统，电容阵列，飞船鱼雷，紧急排热端口，回收港，飞船散热器，飞船护盾，巡洋舰武备，泡沫灭火器，自动机枪塔，星港，机械加工，复杂家具</ShipBPDestroyer.description>
+  
+  <!-- EN: ship blueprint (Exploration Vessel) -->
+  <ShipBPExplorationVessel.label>飞船蓝图（科考船）</ShipBPExplorationVessel.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Exploration Vessel\nA ship designed for exploring the rim. Features a large science bay.\n\nMass: 4104\nSize: 49 x 36\nT/W ratio: 1.877\nCombat rating: 197\n\nWeapons: \n6x laser turret\n2x large laser turret\n\nRequired resources: \nsteel: 22334\nadvanced component: 246\nplasteel: 6185\ncomponent: 672\nuranium: 320\ngold: 24\nsilver: 1000\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, flatscreen television, escape pods, multi-analyzer, microelectronics, laser turrets, ship life support, complex furniture, hospital bed, shuttle bay, ship shields, hullfoam, vitals monitor, basic ship sensors, heatsinks, firefoam, hydroponics, capacitor arrays, cruiser armaments, machining -->
+  <ShipBPExplorationVessel.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：科考船\n为探索边缘世界而设计的飞船。它最显著的特征是位于船艏的大型科研区。\n\n【重量】：4104\n【大小】：49 x 36\n【推力/重量比】：1.877\n【战斗等级】：197\n\n【武装】：\n激光炮塔x6\n大型激光炮塔x2\n\n【资源消耗】：\n钢铁x22334\n玻璃钢x6185\n高级零部件x246\n零部件x672\n铀x320\n白银x1000\n黄金x24\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，基础传感器，平板电视，飞船低温休眠舱，多元分析仪，微电子基础，飞船激光炮塔，飞船生命维持系统，复杂家具，医疗床，星港，飞船护盾，应急泡沫，生命体征监测仪，飞船散热器，泡沫灭火器，水栽培，电容阵列，巡洋舰武备，机械加工</ShipBPExplorationVessel.description>
+  
+  <!-- EN: ship blueprint (Archer class frigate) -->
+  <ShipBPFrigateArcher.label>飞船蓝图（“射手”级护卫舰）</ShipBPFrigateArcher.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Archer class frigate\nAn agile frigate that prefers to engage targets from long range with its spinal railgun.\n\nMass: 7425\nSize: 76 x 44\nT/W ratio: 1.909\nCombat rating: 640\n\nWeapons: \n10x laser turret\n2x large plasma turret\n1x spinal barrel: railgun\n2x torpedo launcher\n\nRequired resources: \nsteel: 40579\nadvanced component: 548\nplasteel: 12097\ncomponent: 1091\nuranium: 750\nsilver: 1100\ngold: 52\ncloth: 130\nwood: 55\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, laser turrets, capital ship armaments, microelectronics, escape pods, hullfoam, ship shields, advanced ship sensors, heatsinks, hospital bed, ship life support, capacitor arrays, cruiser armaments, machining, fabrication, purge ports, firefoam, shuttle bay, salvage bay, multi-analyzer, hydroponics, ship torpedoes, complex furniture, drug production, complex clothing, vitals monitor, flatscreen television -->
+  <ShipBPFrigateArcher.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：“射手”级护卫舰\n这种护卫舰机动性相当优秀，擅长用脊峰轨道炮远程打击目标。\n\n【重量】：7425\n【大小】：76 x 44\n【推力/重量比】：1.909\n【战斗等级】：640\n\n【武装】：\n激光炮塔x10\n鱼雷发射管x2\n大型等离子炮塔x2\n脊峰火炮：轨道炮x1\n\n【资源消耗】：\n钢铁x40579\n玻璃钢x12097\n高级零部件x548\n零部件x1091\n铀x750\n白银x1100\n黄金x52\n布x130\n原木x55\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，基础传感器，飞船激光炮塔，主力舰武备，微电子基础，飞船低温休眠舱，应急泡沫，飞船护盾，高级传感器，飞船散热器，医疗床，飞船生命维持系统，电容阵列，巡洋舰武备，机械加工，精密装配，紧急排热端口，泡沫灭火器，星港，回收港，多元分析仪，水栽培，飞船鱼雷，复杂家具，成瘾品生产，复杂衣物，生命体征监测仪，平板电视</ShipBPFrigateArcher.description>
+  
+  <!-- EN: ship blueprint (Ironclad class frigate) -->
+  <ShipBPFrigateIronclad.label>飞船蓝图（“铁甲”级护卫舰）</ShipBPFrigateIronclad.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Ironclad class frigate\nA large frigate with a distinct shape.\n\nMass: 8162\nSize: 86 x 64\nT/W ratio: 1.719\nCombat rating: 735\n\nWeapons: \n6x ShipTurret_Plasma_Large\n8x laser turret\n3x large railgun turret\n8x ShipTurret_Plasma\n2x torpedo launcher (2)\n\nRequired resources: \nsteel: 43471\nadvanced component: 502\nplasteel: 11766\ncomponent: 1233\nuranium: 480\ncloth: 50\nwood: 25\ngold: 106\npersona core: 1\nsilver: 1100\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, heatsinks, capacitor arrays, laser turrets, microelectronics, cruiser armaments, complex furniture, multi-analyzer, escape pods, advanced ship sensors, ship computer core, flatscreen television, hospital bed, salvage bay, shuttle bay, machining, fabrication, firefoam, ship torpedoes, hydroponics, ship life support, ship shields, hullfoam, purge ports, vitals monitor -->
+  <ShipBPFrigateIronclad.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：“铁甲”级护卫舰\n造型奇特的大型护卫舰。\n\n【重量】：8162\n【大小】：86 x 64\n【推力/重量比】：1.719\n【战斗等级】：735\n\n【武装】：\n激光炮塔x8\n双联鱼雷发射管x2\n大型等离子炮塔x6\n等离子炮塔x8\n大型轨道炮塔x3\n\n【资源消耗】：\n钢铁x43471\n玻璃钢x11766\n高级零部件x502\n零部件x1233\n铀x480\n白银x1100\n黄金x106\n布x50\n原木x25\n人格核心x1\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，基础传感器，飞船散热器，电容阵列，飞船激光炮塔，微电子基础，巡洋舰武备，复杂家具，多元分析仪，飞船低温休眠舱，高级传感器，飞船电脑核心，平板电视，医疗床，回收港，星港，机械加工，精密装配，泡沫灭火器，飞船鱼雷，水栽培，飞船生命维持系统，飞船护盾，应急泡沫，紧急排热端口，生命体征监测仪</ShipBPFrigateIronclad.description>
+  
+  <!-- EN: ship blueprint (Frigate) -->
+  <ShipBPFrigateWinged.label>飞船蓝图（护卫舰）</ShipBPFrigateWinged.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Frigate\nA large and powerful frigate.\n\nMass: 8249\nSize: 77 x 60\nT/W ratio: 1.781\nCombat rating: 674\n\nWeapons: \n2x plasma turret\n2x torpedo launcher (2)\n2x large railgun turret\n10x laser turret\n1x spinal barrel: railgun\n1x large laser turret\n\nRequired resources: \nsteel: 45369\nadvanced component: 566\nplasteel: 13290\ncomponent: 1323\nuranium: 800\ncloth: 50\nwood: 25\ngold: 52\nsilver: 1100\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion, ship fission reactor\nThird stage:\nship navigation, salvage bay, capacitor arrays, microelectronics, shuttle bay, plasma turrets, escape pods, ship life support, ship torpedoes, hospital bed, hydroponics, vitals monitor, hullfoam, machining, complex furniture, advanced ship sensors, ship shields, firefoam, cruiser armaments, laser turrets, heatsinks, capital ship armaments, multi-analyzer, fabrication, purge ports, flatscreen television -->
+  <ShipBPFrigateWinged.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：护卫舰\n强力的大型护卫舰。\n\n【重量】：8249\n【大小】：77 x 60\n【推力/重量比】：1.781\n【战斗等级】：674\n\n【武装】：\n激光炮塔x10\n大型激光炮塔x1\n双联鱼雷发射管x2\n等离子炮塔x2\n大型轨道炮塔x2\n脊峰火炮：轨道炮x1\n\n【资源消耗】：\n钢铁x45369\n玻璃钢x13290\n高级零部件x566\n零部件x1323\n铀x800\n白银x1100\n黄金x52\n布x50\n原木x25\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器，飞船裂变反应堆\n[三阶段]：\n飞船导航系统，基础传感器，回收港，星港，电容阵列，微电子基础，飞船等离子炮塔，飞船低温休眠舱，飞船生命维持系统，飞船鱼雷，医疗床，水栽培，生命体征监测仪，应急泡沫，机械加工，复杂家具，高级传感器，飞船护盾，泡沫灭火器，巡洋舰武备，飞船激光炮塔，飞船散热器，主力舰武备，多元分析仪，精密装配，紧急排热端口，平板电视</ShipBPFrigateWinged.description>
+  
+  <!-- EN: ship blueprint (Mining rig) -->
+  <ShipBPMiningRig.label>飞船蓝图（采矿船）</ShipBPMiningRig.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Mining rig\nA slow but spacious ship with a large mining laser.\n\nMass: 4026\nSize: 62 x 40\nT/W ratio: 1.191\nCombat rating: 190\n\nWeapons: \n2x laser turret\n1x spinal barrel: laser\n\nRequired resources: \nsteel: 20646\nplasteel: 5829\nadvanced component: 191\ncomponent: 636\ngold: 4\nuranium: 140\nsilver: 900\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, solar panel, air conditioning\nSecond stage:\nrocket propulsion\nThird stage:\nship navigation, microelectronics, flatscreen television, basic ship sensors, hospital bed, laser turrets, heatsinks, capacitor arrays, machining, ship shields, complex furniture, escape pods, ship life support, vitals monitor, ship fission reactor, salvage bay, capital ship armaments -->
+  <ShipBPMiningRig.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：采矿船\n搭载了大型激光采矿设备的飞船，速度缓慢但内部空间很大。\n\n【重量】：4026\n【大小】：62 x 40\n【推力/重量比】：1.191\n【战斗等级】：190\n\n【武装】：\n激光炮塔x2\n脊峰火炮：激光炮x1\n\n【资源消耗】：\n钢铁x20646\n玻璃钢x5829\n高级零部件x191\n零部件x636\n铀x140\n白银x900\n黄金x4\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调，太阳能板\n[二阶段]：\n火箭推进器\n[三阶段]：\n飞船导航系统，基础传感器，微电子基础，平板电视，医疗床，飞船激光炮塔，飞船散热器，电容阵列，机械加工，飞船护盾，复杂家具，飞船低温休眠舱，飞船生命维持系统，生命体征监测仪，飞船裂变反应堆，回收港，主力舰武备</ShipBPMiningRig.description>
+  
+  <!-- EN: ship blueprint (Small transport) -->
+  <ShipBPTransportSmall.label>飞船蓝图（小型运输船）</ShipBPTransportSmall.label>
+  <!-- EN: A three stage reusable blueprint that can be used to build a complete space ship as long as one is capable of constructing the individual parts. Can be customized at any point but the next stage will only place prints when the required parts under them are already built.\n\nClass: Small transport\nA small lightly armed transport ship.\n\nMass: 1472\nSize: 30 x 22\nT/W ratio: 1.974\nCombat rating: 44\n\nWeapons: \n2x laser turret\n\nRequired resources: \nsteel: 7461\nplasteel: 2084\nadvanced component: 91\ncomponent: 249\ngold: 4\nuranium: 40\nsilver: 250\n\nRequired research for full construction:\nFirst stage:\nstarflight basics, electricity, air conditioning\nSecond stage:\nrocket propulsion\nThird stage:\nship navigation, microelectronics, flatscreen television, ship life support, basic ship sensors, salvage bay, heatsinks, laser turrets, ship fission reactor, ship shields, machining, hospital bed, vitals monitor, firefoam, capacitor arrays -->
+  <ShipBPTransportSmall.description>用于建造一艘完整飞船的可复用式蓝图。\n部署蓝图后，需要依次开展三个阶段的建造工程。只有完成了一个阶段的建造工程后，才能开始下一阶段的建造工程。你也可以按照自己的想法随心改造它。\n\n【飞船类型】：小型运输船\n较小的运输船，搭载了少量武装。\n\n【重量】：1472\n【大小】：30 x 22\n【推力/重量比】：1.974\n【战斗等级】：44\n\n【武装】：\n激光炮塔x2\n\n【资源消耗】：\n钢铁x7461\n玻璃钢x2084\n高级零部件x91\n零部件x249\n铀x40\n白银x250\n黄金x4\n\n【所需研究项目】：\n[一阶段]：\n星际航行基础，电力，空调\n[二阶段]：\n火箭推进器\n[三阶段]：\n飞船导航系统，基础传感器，微电子基础，平板电视，飞船生命维持系统，回收港，飞船散热器，飞船激光炮塔，飞船裂变反应堆，飞船护盾，机械加工，医疗床，电容阵列，生命体征监测仪，泡沫灭火器</ShipBPTransportSmall.description>
+  
+  <!-- EN: capacitor array -->
+  <ShipCapacitor.label>飞船电容阵列</ShipCapacitor.label>
+  <!-- EN: Efficiently stores up to 10,000Wd of energy. -->
+  <ShipCapacitor.description>储存多余的电力并在飞船交战时为火炮供给电力。蓄电效率和容量很高。\n【最大蓄电量】：10000Wd</ShipCapacitor.description>
+  
+  <!-- EN: ship capacitor -->
+  <ShipCapacitorSmall.label>飞船电容器</ShipCapacitorSmall.label>
+  <!-- EN: Efficiently stores up to 1,000Wd of energy. -->
+  <ShipCapacitorSmall.description>储存多余的电力并在飞船交战时为火炮供给电力。蓄电效率很高。\n【最大蓄电量】：1000Wd</ShipCapacitorSmall.description>
+  
+  <!-- EN: cloaking device -->
+  <ShipCloakingDevice.label>隐形装置</ShipCloakingDevice.label>
+  <!-- EN: Generates a field which masks heat emissions, hiding your ship from passive scans. This prevents random ship battles from starting, but is not helpful once combat has already begun. It also cannot protect you from the powerful scanners used to find ships with high Notoriety.\n\nWhile the device is active, your ship's heat sinks will be disabled and heat capacity will decrease. -->
+  <ShipCloakingDevice.description>虽然被叫做“隐形装置”，但它并不能真的让物体隐形，而是通过掩盖飞船的热量散射来防止被敌人追踪。能有效规避非必要的飞船交战，但如果战斗已经开始，就起不到任何作用了。\n\n隐形装置无法骗过那些专用于扫描恶誉飞船的传感器。\n\n当隐形装置开启时，飞船的散热器将无法工作，且热容量上限会逐渐被削减。</ShipCloakingDevice.description>
+  
+  <!-- EN: science console -->
+  <ShipConsoleScience.label>科研控制台</ShipConsoleScience.label>
+  <!-- EN: Allows colonists to scan for objects of interest, observe sites from orbit and scan enemy ship interiors in combat. -->
+  <ShipConsoleScience.description>需要手动操作的控制台。允许殖民者扫描轨道上有探查价值的任务事件点、观察指定区域的地图和在战斗时侦测敌舰的内部结构。</ShipConsoleScience.description>
+  
+  <!-- EN: tactical console -->
+  <ShipConsoleTactical.label>战术控制台</ShipConsoleTactical.label>
+  <!-- EN: Provides weapon selection and targeting options. Increases weapon accuracy based on operator shooting skill. -->
+  <ShipConsoleTactical.description>需要手动操作的控制台。允许批量选中舰载炮塔和瞄准指定目标。操作者的射击技能等级会影响炮塔的射击精度。</ShipConsoleTactical.description>
+  
+  <!-- EN: hardpoint -->
+  <ShipHardpoint.label>承力平台</ShipHardpoint.label>
+  <!-- EN: Support structure for attaching buildings and turrets to a ship's exterior. Anything built atop this will be considered part of the ship.\n\nIntegrated nano-composite armor reduces damage to turrets placed atop this hardpoint by half. -->
+  <ShipHardpoint.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力平台搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpoint.description>
+  
+  <!-- EN: large hardpoint -->
+  <ShipHardpointExtraMedium.label>大型承力平台</ShipHardpointExtraMedium.label>
+  <!-- EN: Support structure for attaching buildings and turrets to a ship's exterior. Anything built atop this will be considered part of the ship.\n\nIntegrated nano-composite armor reduces damage to turrets placed atop this hardpoint by half. -->
+  <ShipHardpointExtraMedium.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力平台搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpointExtraMedium.description>
+  
+  <!-- EN: XL hardpoint -->
+  <ShipHardpointLarge.label>巨型承力平台</ShipHardpointLarge.label>
+  <!-- EN: Support structure for attaching buildings and turrets to a ship's exterior. Anything built atop this will be considered part of the ship.\n\nIntegrated nano-composite armor reduces damage to turrets placed atop this hardpoint by half. -->
+  <ShipHardpointLarge.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力平台搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpointLarge.description>
+  
+  <!-- EN: small hardpoint -->
+  <ShipHardpointSmall.label>小型承力平台</ShipHardpointSmall.label>
+  <!-- EN: Support structure for attaching buildings and turrets to a ship's exterior. Anything built atop this will be considered part of the ship.\n\nIntegrated nano-composite armor reduces damage to turrets placed atop this hardpoint by half. -->
+  <ShipHardpointSmall.description>用于将建筑和炮塔连接至飞船外部的支撑结构。任何建造在上面的东西都会被视作为飞船的一部分。\n\n承力平台搭载有纳米复合装甲强化系统，任何建造在上面的炮塔都将额外获得50%的减伤加成。</ShipHardpointSmall.description>
+  
+  <!-- EN: hullfoam plating -->
+  <ShipHullfoamTile.label>应急泡沫船体护板</ShipHullfoamTile.label>
+  <!-- EN: Airtight hullfoam, sprayed to replace a missing hull plate. -->
+  <ShipHullfoamTile.description>用于应急封闭缺口的泡沫船体护板。</ShipHullfoamTile.description>
+  
+  <!-- EN: hull plating -->
+  <ShipHullTile.label>船体护板</ShipHullTile.label>
+  <!-- EN: Spaceworthy hull plating. Designates this tile (and any objects built on it) as part of a ship. Must be placed inside an outer hull. -->
+  <ShipHullTile.description>用于组成飞船的重要内部结构，可将其所在的地格（以及任何建造在上面的东西）视作为飞船的一部分。\n\n只能在由船体组成的封闭空间内进行铺设。</ShipHullTile.description>
+  
+  <!-- EN: dummy def -->
+  <ShipInside_PassiveCooler.label>dummy def</ShipInside_PassiveCooler.label>
+  <!-- EN: Don't use this. It exists only because Dubs has so far refused to fix things on his end. -->
+  <ShipInside_PassiveCooler.description>别用这玩意。它之所以存在，是因为卫生mod与SOS2之间出现了比较严重的兼容问题，但Dubs至今仍不想将其修复。</ShipInside_PassiveCooler.description>
+
+  <!-- EN: ship vent -->
+  <ShipInside_PassiveVent.label>飞船通风装置</ShipInside_PassiveVent.label>
+  <!-- EN: Exchanges heat with the coolant network, cooling or heating a ship's interior to the desired temperature.\n\nCan also heat rooms with electricity. -->
+  <ShipInside_PassiveVent.description>与飞船热量网络系统相连的通风装置，可通过热交换原理来提高或降低飞船舱室内的温度。\n\n也能消耗电力为飞船舱室供暖。</ShipInside_PassiveVent.description>
+  
+  <!-- EN: solar generator -->
+  <ShipInside_SolarGenerator.label>飞船太阳能板</ShipInside_SolarGenerator.label>
+  <!-- EN: Produces electricity from sunlight. Up to 600W in space and 300W on planet surface. Does not work in the dark or under artificial light. -->
+  <ShipInside_SolarGenerator.description>利用太阳光来发电，在阳光不足时停止工作，人工光源无法用作发电。\n\n【电力输出（地面）】：300W\n【电力输出（太空）】：600W</ShipInside_SolarGenerator.description>
+  
+  <!-- EN: New Ship Position -->
+  <ShipMoveBlueprint.label>飞船的新位置</ShipMoveBlueprint.label>
+  <!-- EN: Select where you would like to move the ship. -->
+  <ShipMoveBlueprint.description>选择想要将飞船移动至的新位置。</ShipMoveBlueprint.description>
+  
+  <!-- EN: pilot console -->
+  <ShipPilotSeatMini.label>驾驶控制台</ShipPilotSeatMini.label>
+  <!-- EN: Allows colonists to pilot a starship. -->
+  <ShipPilotSeatMini.description>需要手动操作的控制台。允许殖民者驾驶飞船。</ShipPilotSeatMini.description>
+  
+  <!-- EN: salvage bay -->
+  <ShipSalvageBay.label>回收港</ShipSalvageBay.label>
+  <!-- EN: Moves wrecks to your map or removes unwanted ones. More bays are required to move larger ships.\n\nWeight limit: 5000 -->
+  <ShipSalvageBay.description>回收港能够将飞船残骸直接遗弃，或打捞至你飞船所在的地图上。要打捞的飞船残骸越大，所需要的回收港就越多。\n\n【打捞重量上限】：5000</ShipSalvageBay.description>
+  
+  <!-- EN: glittertech salvage bay -->
+  <ShipSalvageBayNano.label>闪耀科技回收港</ShipSalvageBayNano.label>
+  <!-- EN: Unlike the normal salvage bay this version uses a tractor beam based on a reverse JT principle. Moves wrecks to your map or removes unwanted ones. It can also retrieve small loose objects from around enemy wrecks. \n\nWeight limit: 10000 -->
+  <ShipSalvageBayNano.description>与普通的回收港有所不同，闪耀科技回收港配备有基于逆向约翰逊-田中原理研发而成的牵引光束。回收港能够将飞船残骸直接遗弃，或打捞至你飞船所在的地图上。要打捞的飞船残骸越大，所需要的回收港就越多。\n\n【打捞重量上限】：10000</ShipSalvageBayNano.description>
+  
+  <!-- EN: shuttle bay -->
+  <ShipShuttleBay.label>星港</ShipShuttleBay.label>
+  <!-- EN: Provides docking facilities for shuttles. This advanced maintenance bay uses mechanites to automatically repair damaged components up to half health, and will double the rate at which pawns perform repairs. It will also automatically refuel docked shuttles from its internal storage.\n\nMust be kept clear of obstructions. Place beacons around it to allow Imperial shuttles to land on it. -->
+  <ShipShuttleBay.description>可以装载、发射和对接穿梭机的平台设施。星港既可以释放纳米机械来自动维修受损的穿梭机（最高50%耐久值），又能使殖民者在此处的修理效率变为原本的两倍。它还能利用内置的加油泵自动为停靠的穿梭机补充燃料。\n\n建造星港时请确保周围没有障碍物。\n\n帝国的穿梭机无需飞船着陆信标就可以在星港处着陆。</ShipShuttleBay.description>
+  
+  <!-- EN: large shuttle bay -->
+  <ShipShuttleBayLarge.label>大型星港</ShipShuttleBayLarge.label>
+  <!-- EN: Provides docking facilities for shuttles, including the superheavy version. This advanced maintenance bay uses mechanites to automatically repair damaged components up to half health, and will double the rate at which pawns perform repairs. It will also automatically refuel docked shuttles from its internal storage.\n\nMust be kept clear of obstructions. Place beacons around it to allow Imperial shuttles to land on it. -->
+  <ShipShuttleBayLarge.description>可以装载、发射和对接穿梭机的平台设施。这种更大型的版本能支持超重型穿梭机。星港既可以释放纳米机械来自动维修受损的穿梭机（最高50%耐久值），又能使殖民者在此处的修理效率变为原本的两倍。它还能利用内置的加油泵自动为停靠的穿梭机补充燃料。\n\n建造星港时请确保周围没有障碍物。\n\n帝国的穿梭机无需飞船着陆信标就可以在星港处着陆。</ShipShuttleBayLarge.description>
+  
+  <!-- EN: Dummy Object -->
+  <SoS2DummyObject.label>Dummy Object</SoS2DummyObject.label>
+  
+  <!-- EN: spacer crib -->
+  <SpaceCrib.label>太空婴儿床</SpaceCrib.label>
+  <!-- EN: A high-tech bed perfect for a sleepy baby. In the event of life support failure, a protective shell will close around the occupant, recycling oxygen and regulating temperature. It also functions as an escape pod if the ship is critically damaged.\n\nIt is not a cryptosleep casket and cannot keep its occupant alive during interstellar journeys. -->
+  <SpaceCrib.description>一种舒适的高科技婴儿床，非常适合困倦的宝宝睡觉。当飞船的生命维持系统发生故障时，它会自动弹出防护罩将婴儿盖住，同时启动氧气循环和温度调节功能。如果飞船遭到了灾难性的破坏，它也可以当作逃生舱使用。\n\n注意：这种床并非低温休眠舱，无法在星际旅行时将婴儿长期维持在生理暂停状态。</SpaceCrib.description>
+  
+  <!-- EN: wall sun lamp -->
+  <WallSunLampSoS.label>太阳壁灯</WallSunLampSoS.label>
+  <!-- EN: An wall-mounted sun lamp that lights an area brightly enough to grow crops, but consumes a large amount of power. Automatically turns itself off at night. It is less powerful than a standing sun lamp, but can be mounted on walls. -->
+  <WallSunLampSoS.description>将一片区域照亮到足以种植农作物，但需要消耗大量电力。夜晚时会自动关闭。这种太阳灯可以安装在墙体上，但作用范围要小于普通的太阳灯。</WallSunLampSoS.description>
+  <!-- EN: Off for plant resting period -->
+  <WallSunLampSoS.comps.CompSchedule.offMessage>植物休眠期间关闭。</WallSunLampSoS.comps.CompSchedule.offMessage>
+  
+</LanguageData>

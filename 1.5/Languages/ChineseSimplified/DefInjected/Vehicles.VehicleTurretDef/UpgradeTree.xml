@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shuttle laser cannon -->
+  <SoS2ShuttleLaser.label>穿梭机激光炮塔</SoS2ShuttleLaser.label>
+  <!-- EN: A shuttle turret which fires a powerful laser. -->
+  <SoS2ShuttleLaser.description>穿梭机使用的激光炮塔。</SoS2ShuttleLaser.description>
+  <!-- EN: Single Shot -->
+  <SoS2ShuttleLaser.fireModes.0.label>单发</SoS2ShuttleLaser.fireModes.0.label>
+  <!-- EN: Select Target.\n\nFire for effect -->
+  <SoS2ShuttleLaser.gizmoDescription>选择目标。\n\n效力射击</SoS2ShuttleLaser.gizmoDescription>
+
+  <!-- EN: shuttle plasma cannon -->
+  <SoS2ShuttlePlasma.label>穿梭机等离子炮塔</SoS2ShuttlePlasma.label>
+  <!-- EN: A shuttle turret which fires a burst of superheated plasma. -->
+  <SoS2ShuttlePlasma.description>穿梭机使用的等离子炮塔。</SoS2ShuttlePlasma.description>
+  <!-- EN: Single Shot -->
+  <SoS2ShuttlePlasma.fireModes.0.label>单发</SoS2ShuttlePlasma.fireModes.0.label>
+  <!-- EN: Select Target.\n\nFire for effect -->
+  <SoS2ShuttlePlasma.gizmoDescription>选择目标。\n\n效力射击</SoS2ShuttlePlasma.gizmoDescription>
+  
+  <!-- EN: shuttle torpedo tube -->
+  <SoS2ShuttleTorpedo.label>穿梭机鱼雷发射管</SoS2ShuttleTorpedo.label>
+  <!-- EN: A shuttle-mounted torpedo tube, capable of devastating bombing runs against starships. During ground operations, it can also be used as direct-fire artillery. -->
+  <SoS2ShuttleTorpedo.description>穿梭机使用的鱼雷发射管。当穿梭机在星球上着陆时，这种炮塔也可以攻击地面目标。</SoS2ShuttleTorpedo.description>
+  <!-- EN: Single Shot -->
+  <SoS2ShuttleTorpedo.fireModes.0.label>单发</SoS2ShuttleTorpedo.fireModes.0.label>
+  <!-- EN: Select Target.\n\nFire for effect -->
+  <SoS2ShuttleTorpedo.gizmoDescription>选择目标。\n\n效力射击</SoS2ShuttleTorpedo.gizmoDescription>
+  
+</LanguageData>

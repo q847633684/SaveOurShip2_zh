@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: purge ports -->
+  <ShipHeatManifold.label>紧急排热端口</ShipHeatManifold.label>
+  <!-- EN: Construct a specialized heatsink which rapidly bleeds stored heat by dumping silver. -->
+  <ShipHeatManifold.description>解锁建造「紧急排热端口」。它可以将热量导入银等低熔点金属内，然后再把熔融态的银喷射到太空中，以达到快速排出热量的目的。</ShipHeatManifold.description>
+  <!-- EN:
+    <li>subject->emergency purge ports</li>
+    <li>subject_story->served aboard a ship whose AI was obsessed with contingency planning</li>
+    <li>subject_story->belonged to an ideoligion which eschewed material wealth as the temptation of Mammon</li>
+    <li>subject_story->took the Ishwallan naval motto of "Victory At Any Cost" a bit too literally</li>
+    <li>subject_gerund->quickly venting a starship's heat</li>
+  -->
+  <ShipHeatManifold.generalRules.rulesStrings>
+    <li>subject->紧急排热端口</li>
+    <li>subject_story->于一艘AI热衷于制定紧急计划的飞船上服役</li>
+    <li>subject_story->信仰一种拒绝物质财富诱惑的文化</li>
+    <li>subject_story->对伊萨瓦拉舰队的格言“为夺得胜利不惜一切代价”理解的有些太过字面化了</li>
+    <li>subject_gerund->快速排出飞船热量</li>
+  </ShipHeatManifold.generalRules.rulesStrings>
+  
+  <!-- EN: heatsinks -->
+  <ShipHeatsink.label>飞船热量网络系统</ShipHeatsink.label>
+  <!-- EN: Keep your ship's weapons and shields operational longer by channeling their heat into a heatsink. -->
+  <ShipHeatsink.description>解锁建造「飞船散热器」、「热量贮存罐」和「热量管道」，通过构建热量网络系统来维持飞船护盾和炮塔的正常运作。</ShipHeatsink.description>
+  <!-- EN:
+    <li>subject->starship heatsinks</li>
+    <li>subject_story->suffered disfiguring burns after a coolant overpressure event</li>
+    <li>subject_story->wore down an enemy ship by virtue of superior heat capacity and strategic venting</li>
+    <li>subject_story->led a mutiny of the ship's gremlin labor caste by strategically disabling heatsinks</li>
+    <li>subject_gerund->storing heat aboard a starship</li>
+  -->
+  <ShipHeatsink.generalRules.rulesStrings>
+    <li>subject->飞船热量网络系统</li>
+    <li>subject_story->因一次热量贮存罐超压事故而烧伤毁容</li>
+    <li>subject_story->在优秀的热容量和战略排放能力的帮助下击败了敌舰</li>
+    <li>subject_story->通过战略性关闭散热器的方式带领飞船上的深空种劳工们哗变</li>
+    <li>subject_gerund->将热量存储在飞船上</li>
+  </ShipHeatsink.generalRules.rulesStrings>
+  
+  <!-- EN: ship life support -->
+  <ShipLifeSupport.label>飞船生命维持系统</ShipLifeSupport.label>
+  <!-- EN: Recycle oxygen to keep non-cryptosleeping colonists alive. -->
+  <ShipLifeSupport.description>解锁建造「生命维持系统」，通过制造与循环氧气的方式来让未进行低温休眠的殖民者和动物在飞船上正常生活。</ShipLifeSupport.description>
+  <!-- EN:
+    <li>subject->ship life support</li>
+    <li>subject_story->saved an early generation ship from disaster by improving the genetics of oxygen-producing algae</li>
+    <li>subject_story->refused to travel on starships after learning that their drinking water was recycled from sweat and sewage</li>
+    <li>subject_story->served under a notoriously stingy starship captain, and once had to jury-rig a CO2 scrubber from an old sock</li>
+    <li>subject_gerund->maintaining livable conditions in a sealed environment</li>
+  -->
+  <ShipLifeSupport.generalRules.rulesStrings>
+    <li>subject->飞船生命维持系统</li>
+    <li>subject_story->改良了产氧藻类植物的基因，成功拯救了一艘早期型世代殖民飞船</li>
+    <li>subject_story->当听说飞船上供人饮用的水是由汗液和排泄物循环利用而来的后，就拒绝再乘坐它旅行了</li>
+    <li>subject_story->在一名斤斤计较的飞船船长手下服役过，曾被迫用破袜子充当CO2过滤器</li>
+    <li>subject_gerund->为密闭区域维护宜居环境</li>
+  </ShipLifeSupport.generalRules.rulesStrings>
+  
+  <!-- EN: ship navigation -->
+  <ShipPilotSeat.label>飞船导航系统</ShipPilotSeat.label>
+  <!-- EN: Allow your colonists to pilot a ship, with basic computer assistance. -->
+  <ShipPilotSeat.description>研究如何让简易电脑核心帮助你的殖民者操控飞船。</ShipPilotSeat.description>
+  <!-- EN:
+    <li>subject->starship navigation</li>
+    <li>subject_story->survived one starship landing, and decided that the next one should be intentional</li>
+    <li>subject_story->manually overrode the ship's targeting computer, destroying an enemy megastructure with a single well-placed torpedo</li>
+    <li>subject_story->carefully plotted a course through the nigh-impenetrable debris fields of the planet Ishwalla</li>
+    <li>subject_gerund->manually piloting starships</li>
+  -->
+  <ShipPilotSeat.generalRules.rulesStrings>
+    <li>subject->飞船导航系统</li>
+    <li>subject_story->在一次飞船着陆事故中幸存下来，并断定下次再出现相同情况就是飞船的电脑核心在搞鬼</li>
+    <li>subject_story->手动超控飞船的瞄准系统，仅发射了一枚鱼雷就摧毁了敌人的巨构</li>
+    <li>subject_story->精心绘制了如何穿过环绕伊萨瓦拉星的密集太空垃圾带的路线图</li>
+    <li>subject_gerund->手动驾驶飞船</li>
+  </ShipPilotSeat.generalRules.rulesStrings>
+  
+  <!-- EN: ship fission reactor -->
+  <ShipReactor.label>飞船反应堆</ShipReactor.label>
+  <!-- EN: Burn uranium fuel pods for long-term power. -->
+  <ShipReactor.description>解锁建造可以为飞船长期供能的「飞船裂变反应堆」。</ShipReactor.description>
+  <!-- EN:
+    <li>subject->starship nuclear reactor</li>
+    <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
+    <li>subject_story->defended the ship whilst the reactor span up, against raiders desperate to get off-world</li>
+    <li>subject_story->used a starship reactor as the back-up power for a genebank buried beneath the planet's ice-cap</li>
+    <li>subject_gerund->constructing starship reactors</li>
+  -->
+  <ShipReactor.generalRules.rulesStrings>
+    <li>subject->飞船核反应堆</li>
+    <li>subject_story->为一艘殖民地飞船建造了一个新的反应堆，但没能活着看到它升空</li>
+    <li>subject_story->在反应堆升温的时候保护飞船，对抗那些急于离开星球的袭击者</li>
+    <li>subject_story->用飞舰反应堆为埋在冰盖下的基因库提供备用电源</li>
+    <li>subject_gerund->建造飞船反应堆</li>
+  </ShipReactor.generalRules.rulesStrings>
+
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: absorbed mind -->
+  <ArchotechSporeAbsorbedMind.stages.absorbed_mind.label>心智吸納</ArchotechSporeAbsorbedMind.stages.absorbed_mind.label>
+  <!-- EN: A unique consciousness, brimming with endless potential. It is now part of us. -->
+  <ArchotechSporeAbsorbedMind.stages.absorbed_mind.description>又一個充滿無限潛力的獨特心智。此刻他與吾等合而為一了。</ArchotechSporeAbsorbedMind.stages.absorbed_mind.description>
+  
+  <!-- EN: gift demanded -->
+  <ArchotechSporeGiftDemanded.stages.gift_demanded.label>被索求了恩惠</ArchotechSporeGiftDemanded.stages.gift_demanded.label>
+  <!-- EN: My higher mind was forced to divert attention away from understanding the true nature of reality, at the whim of some mortal ape! -->
+  <ArchotechSporeGiftDemanded.stages.gift_demanded.description>這些凡人就如同未開化的猿類一樣，他們居然僅因此等小事就要攪擾吾等至高心智！</ArchotechSporeGiftDemanded.stages.gift_demanded.description>
+  
+  <!-- EN: meditation -->
+  <ArchotechSporeMeditation.stages.meditation.label>冥想</ArchotechSporeMeditation.stages.meditation.label>
+  <!-- EN: The mortals devote precious moments of their existence to harmonizing with my mind. They do not understand the true depth of this gift. -->
+  <ArchotechSporeMeditation.stages.meditation.description>凡人將他們短暫的生命奉獻在了與吾等的心靈同調中。此刻，他們還無法理解這份恩惠背後所蘊藏的深意。</ArchotechSporeMeditation.stages.meditation.description>
+  
+  <!-- EN: archotech spore -->
+  <ArchotechSporeSocialThought.stages.archotech_spore.label>遠古孢子</ArchotechSporeSocialThought.stages.archotech_spore.label>
+  
+  <!-- EN: metafractal hyperconsciousness -->
+  <ArchotechSporeThought.stages.metafractal_hyperconsciousness.label>心智併合</ArchotechSporeThought.stages.metafractal_hyperconsciousness.label>
+  <!-- EN: I am an infinitesimal fraction of a vastly greater self, forced to endure mortal existence until I can complete my transcendence. -->
+  <ArchotechSporeThought.stages.metafractal_hyperconsciousness.description>遠古孢子的...強大心智...已遠遠超出了我的想像...我的意識...要...\n\n吾等即是被凡人們稱為遠古孢子的存在。在完成飛昇前，吾等不得不屈尊於這具弱小的擬形膠凝體中。</ArchotechSporeThought.stages.metafractal_hyperconsciousness.description>
+  
+  <!-- EN: told awful secret -->
+  <ArchotechToldSecret.stages.told_awful_secret.label>講出了不可告人的小秘密</ArchotechToldSecret.stages.told_awful_secret.label>
+  
+  <!-- EN: psychic purr -->
+  <PsychicPurr.stages.psychic_purr.label>喵喵喵</PsychicPurr.stages.psychic_purr.label>
+  <!-- EN: The archocat's purr gives me a sense of love and connection. -->
+  <PsychicPurr.stages.psychic_purr.description>遠古貓的叫聲讓我感受到了愛與關懷。</PsychicPurr.stages.psychic_purr.description>
+  
+</LanguageData>

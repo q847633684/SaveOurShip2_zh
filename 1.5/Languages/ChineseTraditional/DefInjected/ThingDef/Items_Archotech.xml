@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archolife pod -->
+  <ArcholifePod.label>遠古生物培養莢</ArcholifePod.label>
+  <!-- EN: A slurry of synthetic cells wrapped in a single-use incubator. Can be programmed (select a pawn and right-click) to "hatch" a radically redesigned version of an ordinary creature. Spawning an archothrumbo requires a stack of 10. -->
+  <ArcholifePod.description>裝有合成細胞漿質的一次性孵化器，使用後（選擇一名殖民者，再右鍵單擊遠古生物培養莢）可立即孵化出一隻指定的遠古生物。\n\n孵化遠古獨角獸需要消耗10個堆疊在一起的遠古生物培養莢。</ArcholifePod.description>
+  
+  <!-- EN: exotic particles -->
+  <ArchotechExoticParticles.label>異形粒子</ArchotechExoticParticles.label>
+  <!-- EN: Particles whose behavior defies conventionally-understood physics, safely contained. Can be used to construct a wide range of devices. -->
+  <ArchotechExoticParticles.description>這種粒子被安全地保存在罐中，它們所展現出的奇異特性顯然超出了我們對物理學的認知。可用於建造各種各樣的設備。</ArchotechExoticParticles.description>
+  
+  <!-- EN: mechanite disassembler core -->
+  <ArchotechMechaniteCore.label>噬艦者奈米機械核心</ArchotechMechaniteCore.label>
+  <!-- EN: A self-contained mechanite factory designed to produce disassembler mechanites. -->
+  <ArchotechMechaniteCore.description>用於裝配噬艦者奈米機械的核心工廠裝置。</ArchotechMechaniteCore.description>
+  
+  <!-- EN: psychic flayer core -->
+  <ArchotechPsychicCore.label>弒靈者核心</ArchotechPsychicCore.label>
+  <!-- EN: A large psychic effector capable of disrupting the minds of distant foes. Can be used to construct a spinal weapon. -->
+  <ArchotechPsychicCore.description>這種大號的心靈裝置可以擾亂遠處敵人的心智。可用於建造脊峰火砲。</ArchotechPsychicCore.description>
+  
+  <!-- EN: archite repair gel -->
+  <ArchotechRepairGel.label>遠古分子修復膠</ArchotechRepairGel.label>
+  <!-- EN: A one-use super-dose of archites tuned to repair damaged items. It can either be used to fully restore an item's hit points, or applied to all worn gear. In the latter case the repair effect will be split between all damaged equipment. -->
+  <ArchotechRepairGel.description>用於修復受損物品耐久值的一次性超劑量遠古分子機械液。將它塗抹在單種物品上後，可將其完全修復；將它塗抹在使用者身上後，可在一段時間內持續修復其穿戴/裝備的所有衣物/武器。</ArchotechRepairGel.description>
+  <!-- EN: Repair single item -->
+  <ArchotechRepairGel.comps.CompUsable.useLabel>修復單種物品</ArchotechRepairGel.comps.CompUsable.useLabel>
+  <!-- EN: Apply to gear -->
+  <ArchotechRepairGel.ingestible.ingestCommandString>修復自身衣物/武器</ArchotechRepairGel.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <ArchotechRepairGel.ingestible.ingestReportString>正在塗抹{0}。</ArchotechRepairGel.ingestible.ingestReportString>
+  
+</LanguageData>

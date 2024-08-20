@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astromite -->
+  <Astromite.label>天螨</Astromite.label>
+  <!-- EN: A large, genetically-engineered mite. Thick chitin plates and an anaerobic metabolism allow it to survive in space. Originally designed as part of an organic asteroid-mining system, the project was abandoned when the hives proved too difficult to control. Like other eusocial arthropods, it cannot reproduce individually. -->
+  <Astromite.description>天螨（Astromite），一種大型的基因工程造物。它們身覆著厚重的甲殼質，厭氧的新陳代謝機制使其能無限期地存活於太空之中。最初是被設計成一種太空有機採礦系統的一員，但計劃最終被中止，因它們難以被控制。就像其他的完全群居性節肢動物，它們無法獨立地繁殖。</Astromite.description>
+  <!-- EN: mandibles -->
+  <Astromite.tools.mandibles.label>下顎</Astromite.tools.mandibles.label>
+  <!-- EN: head -->
+  <Astromite.tools.head.label>頭</Astromite.tools.head.label>
+  
+  <!-- EN: cosmopillar -->
+  <Cosmopillar.label>宙柱蛆</Cosmopillar.label>
+  <!-- EN: This tremendous grub holds the dubious honor of "most disgusting creature in space." Chewing through solid stone and leaving a tunnel lubricated by its own slime, the cosmopillar was originally engineered as the vanguard of a hive of asteroid-mining insects. The project has long since been abandoned, but all throughout the Rim, asteroid miners live in fear of hungry cosmopillars.\n\nRumors persist that the oldest cosmopillars enter a deep hibernation at the center of asteroids, where their unstable genetics cause them to pupate into something even more terrible... -->
+  <Cosmopillar.description>宇宙之柱（Cosmopillar），又稱宙柱蛆。風聞這種巨型的蛆蟲擁有著「宇宙中最噁心的生物」的惡譽。它們原本被設計成一種小行星礦蟲巢群的先鋒，能嚼穿堅實的石體並留下一條條粘稠滑溜的坑道。這個礦蟲計劃在很久以前就被中止，但它們已經穿行於邊緣世界之中了，星際礦工們一直活在這些永不饜足的巨蟲的陰影之下。\n\n有傳聞宣稱，最年長的宙柱蛆休眠於小行星的中心，不穩定的基因將促使它們化蛹成更為恐怖的物種...</Cosmopillar.description>
+  <!-- EN: insect meat -->
+  <Cosmopillar.race.meatLabel>蟲肉</Cosmopillar.race.meatLabel>
+  <!-- EN: head claw -->
+  <Cosmopillar.tools.head_claw.label>鉗子</Cosmopillar.tools.head_claw.label>
+  <!-- EN: head -->
+  <Cosmopillar.tools.head.label>頭</Cosmopillar.tools.head.label>
+  
+  <!-- EN: stellapede -->
+  <Stellapede.label>星際闊步蟲</Stellapede.label>
+  <!-- EN: A vacuum-adapted variant of the familiar spelopede, the stellapede's anaerobic metabolism allows it to survive in space indefinitely. It appears to subsist primarily on minerals, but will eagerly hunt any organic prey it senses. -->
+  <Stellapede.description>星際闊步蟲（Stellapede）是能適應於真空的穴居闊步蟲的異變種，厭氧的新陳代謝機制使其能無限期地存活於太空之中。雖然它們似乎以礦物生命維持，卻會過分熱切地獵殺所有感知到的有機物。</Stellapede.description>
+  <!-- EN: head claw -->
+  <Stellapede.tools.head_claw.label>鉗子</Stellapede.tools.head_claw.label>
+  <!-- EN: head -->
+  <Stellapede.tools.head.label>頭部</Stellapede.tools.head.label>
+  
+</LanguageData>

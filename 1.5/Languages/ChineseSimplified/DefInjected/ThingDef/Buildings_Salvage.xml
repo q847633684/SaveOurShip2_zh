@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insane AI -->
+  <BlackBoxAI.label>失控的AI</BlackBoxAI.label>
+  <!-- EN: The ancient ship's AI core. Hostile, psychically capable, and deeply disturbed. Only the most gifted negotiators would have any hope of talking it out of suicide, and you will only get one chance at this. -->
+  <BlackBoxAI.description>远古飞船上搭载的人格核心。充满敌意，且极富攻击性。只有社交技能等级非常高的殖民者才有希望说服它放弃启动自毁程序，但机会也仅有一次。</BlackBoxAI.description>
+  
+  <!-- EN: Detached Ship Part -->
+  <DetachedShipPart.label>飞船残骸</DetachedShipPart.label>
+  <!-- EN: A destroyed portion of a spaceship. -->
+  <DetachedShipPart.description>飞船被毁坏的部分。</DetachedShipPart.description>
+  
+  <!-- EN: Ancient Johnson-Tanaka drive -->
+  <JTDriveSalvage.label>远古约翰逊-田中驱动器</JTDriveSalvage.label>
+  <!-- EN: An advanced reactionless engine capable of interplanetary and interstellar travel. Damaged by re-entry but still mostly functional.\n\nSafely opening the drive to reverse-engineer it will require a lengthy momentum discharge process, which is certain to attract raiders. -->
+  <JTDriveSalvage.description>能够将飞船送入太空并且穿过广阔星际空间的高级无工质推进器。虽然在重返大气层时受到了损伤，但各项功能却依旧完好。\n\n安全地启动驱动器进并行逆向工程需要花费很长时间，而因此产生的能量波动也必定会招来袭击者。</JTDriveSalvage.description>
+  
+  <!-- EN: wrecked hull -->
+  <Ship_Beam_Wrecked.label>船体残骸</Ship_Beam_Wrecked.label>
+  <!-- EN: The outer structural elements of a ship's hull that have been damaged beyond repair. No longer spaceworthy. -->
+  <Ship_Beam_Wrecked.description>用于组成飞船的重要外部结构。看起来已经完全无法修复了。</Ship_Beam_Wrecked.description>
+  
+  <!-- EN: wrecked hull -->
+  <Ship_Beam_Wrecked_Fake.label>船体残骸</Ship_Beam_Wrecked_Fake.label>
+  <!-- EN: The outer structural elements of a ship's hull. Damaged beyond repair. -->
+  <Ship_Beam_Wrecked_Fake.description>用于组成飞船的重要外部结构。看起来已经完全无法修复了。</Ship_Beam_Wrecked_Fake.description>
+  
+  <!-- EN: damaged reactor -->
+  <Ship_DamagedReactor.label>受损的裂变反应堆</Ship_DamagedReactor.label>
+  <!-- EN: An ancient, badly damaged fission reactor. Until it is shut down, it will inflict severe radiation sickness on any nearby creature. -->
+  <Ship_DamagedReactor.description>已严重受损的老旧裂变反应堆。直到将其关闭前，它都会对附近的任何生物造成严重的辐射疾病。</Ship_DamagedReactor.description>
+  
+  <!-- EN: lab console -->
+  <Ship_LabConsole.label>实验室控制台</Ship_LabConsole.label>
+  <!-- EN: An ancient but functional control console. A skilled researcher might be able to use this to shut down the ship's reactors. -->
+  <Ship_LabConsole.description>老旧但功能完备的的控制台。智识技能等级高的殖民者或许可以用它来关闭飞船的裂变反应堆。</Ship_LabConsole.description>
+  
+  <!-- EN: security console -->
+  <Ship_SecurityConsole.label>安保控制台</Ship_SecurityConsole.label>
+  <!-- EN: An ancient but functional control console. A skilled researcher could use this to open the ship's locked doors. -->
+  <Ship_SecurityConsole.description>老旧但功能完备的的控制台。智识技能等级高的殖民者可以用它来打开飞船上那些陷入锁定状态的气闸。</Ship_SecurityConsole.description>
+  
+  <!-- EN: damaged airlock -->
+  <ShipAirlockWrecked.label>受损的飞船气闸</ShipAirlockWrecked.label>
+  <!-- EN: The wreckage of an airlock, barely able to maintain minimum pressure. -->
+  <ShipAirlockWrecked.description>已严重受损的飞船气闸，几乎完全失去了原本的功能。</ShipAirlockWrecked.description>
+  
+  <!-- EN: ship salvage -->
+  <ShipChunkSalvage.label>高级飞船残骸</ShipChunkSalvage.label>
+  <!-- EN: Advanced spacecraft systems, relatively intact. Can be deconstructed to yield spacer components. -->
+  <ShipChunkSalvage.description>内部结构相对完好的高级飞船残骸。看起来还能从中回收少量有用的材料和高级零部件。</ShipChunkSalvage.description>
+  
+  <!-- EN: hull wreckage -->
+  <ShipHullTileWrecked.label>船体残骸</ShipHullTileWrecked.label>
+  <!-- EN: Wreckage of a ship's hull. No longer spaceworthy. -->
+  <ShipHullTileWrecked.description>毫无利用价值的船体残骸。</ShipHullTileWrecked.description>
+  
+  <!-- EN: hull wreckage -->
+  <ShipHullTileWreckedFake.label>船体残骸</ShipHullTileWreckedFake.label>
+  <!-- EN: Wreckage of a ship's hull. No longer spaceworthy. -->
+  <ShipHullTileWreckedFake.description>毫无利用价值的船体残骸。</ShipHullTileWreckedFake.description>
+  
+  <!-- EN: satellite core -->
+  <Space_Satellite_Core.label>卫星系统核心</Space_Satellite_Core.label>
+  <!-- EN: The core of an ancient communications nexus. Repairing this will take considerable skill, and once repaired, the system will also need to be hacked by a skilled researcher. Either step can result in the activation of defense systems.\n\nThe spoils of victory are great, however - this satellite could be used as a backdoor into ancient orbital bombardment, solar energy collection, or weather-control arrays.\n\nAlternatively, you could simply deconstruct it, but this is virtually guaranteed to provoke defenses. -->
+  <Space_Satellite_Core.description>远古通信网络系统的核心装置。无论修复还是破解都需要相当高的技能等级，而且任何一步出了差错都可能会激活防卫协议。\n\n不过，胜利的果实显然是价值不菲的——这颗卫星可用来执行轨道轰炸、轨道能量束打击或操控天气。\n\n当然，你也可以直接把它拆掉，但这必然会直接激活其中的防卫协议。</Space_Satellite_Core.description>
+  
+  <!-- EN: hive -->
+  <SpaceHive.label>太空虫巢</SpaceHive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <SpaceHive.description>一个巨型虫族的巢穴。如果被唤醒，它将随着时间的流逝不断繁殖出巨型虫族和新虫巢。也会产出珍贵的虫胶。</SpaceHive.description>
+  
+</LanguageData>

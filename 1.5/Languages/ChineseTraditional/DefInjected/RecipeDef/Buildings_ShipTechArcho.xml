@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recycle -->
+  <RecyclotronRecipe.label>回收物品</RecyclotronRecipe.label>
+  <!-- EN: Use mechanites to break down an object into its base resources, with near-perfect efficiency. -->
+  <RecyclotronRecipe.description>使用奈米機械液將一個物品分解成基礎資源進行回收，利用率近乎完美。</RecyclotronRecipe.description>
+  <!-- EN: Recycling item. -->
+  <RecyclotronRecipe.jobString>回收物品。</RecyclotronRecipe.jobString>
+  
+</LanguageData>

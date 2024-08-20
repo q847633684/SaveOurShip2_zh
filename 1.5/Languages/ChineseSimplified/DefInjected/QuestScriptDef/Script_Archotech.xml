@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[archotech_name] warmly embraces your minds, offering its human progenitors a choice of gifts.</li>
+  -->
+  <ArchotechGiftQuest.questDescriptionRules.rulesStrings>
+    <li>questDescription->[archotech_name]亲切地环拥着你们的心灵，并准备给予你们一份恩惠。</li>
+  </ArchotechGiftQuest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[quest_name]</li>
+  -->
+  <ArchotechGiftQuest.questNameRules.rulesStrings>
+    <li>questName->[quest_name]</li>
+  </ArchotechGiftQuest.questNameRules.rulesStrings>
+
+</LanguageData>

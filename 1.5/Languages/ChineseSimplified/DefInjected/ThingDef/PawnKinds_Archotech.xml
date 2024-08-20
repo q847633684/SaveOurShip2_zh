@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archocat -->
+  <Archocat.label>超凡猫</Archocat.label>
+  <!-- EN: A perfected version of the domestic cat, this adorable ball of fluff wants nothing more than to spend its days playing with a ship's crew. In addition to frequent nuzzling, the archocat emits a psychic purr which improves nearby colonists' mood. It can technically be trained to "haul" by batting objects across the floor.\n\nUniquely among archolife, the archocat can be psychically convinced to change its body shape and coat color. This seems to be effortless for the creature but it only ever takes one of two discrete forms - a fluffy tortoiseshell or a lithe calico with a stumpy tail. It is unknown whether this is a physical limitation or a psychological one, and your archotech spore treats the whole matter as a joke that the rest of your colonists are not in on.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archocat.description>作为家猫的完美版本，这只可爱的毛球只想和船上的船员一起玩耍。除了频繁的亲昵外，超凡猫还会发出灵性的叫声，改善附近殖民者的心情。从技术上讲，它可以通过在地板上击打物体来训练“搬运”。\n\n超凡猫具有改变自身外观的能力，但只有两种样式可供选择——毛茸茸的玳瑁猫或短尾巴的三花猫。虽然不清楚这究竟是因为肉体还是心灵上存在某种限制，但你的超凡孢子显然只将其当作笑料看待。不过，你的殖民者们可不这么认为。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archocat.description>
+  <!-- EN: left claw -->
+  <Archocat.tools.left_claw.label>左爪</Archocat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Archocat.tools.right_claw.label>右爪</Archocat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Archocat.tools.head.label>头</Archocat.tools.head.label>
+  
+  <!-- EN: archoffalo -->
+  <Archoffalo.label>超凡雪牛</Archoffalo.label>
+  <!-- EN: Your archotech spore respects the Rim's desire not to use ground vehicles, and so has designed the archoffalo to replace them. The beast's prehensile hair is capable of shaping and hardening to form bags, platforms, or any other structure required to carry cargo. When it gets too long, it can be sheared for hyperweave.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archoffalo.description>你的超凡孢子尊重了边缘世界（泰南）不使用地面车辆的愿望，所以设计了超凡雪牛来代替它们。这种生物的毛发可以塑形和硬化，并形成袋子、平台或其他任何能用于运载货物的结构。当毛发变得太长时，可通过修剪来获得超织物。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archoffalo.description>
+  <!-- EN: head -->
+  <Archoffalo.tools.head.label>头</Archoffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Archoffalo.tools.left_hoof.label>左蹄</Archoffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Archoffalo.tools.right_hoof.label>右蹄</Archoffalo.tools.right_hoof.label>
+  
+  <!-- EN: archojerboa -->
+  <Archojerboa.label>超凡跳鼠</Archojerboa.label>
+  <!-- EN: This hyperactive rodent is capable of great leaps, often landing on an owner's shoulder to chirp in their ear. It makes an excellent pet, and its breeding rate ensures that everyone aboard your ship can have one. In an emergency, the archojerboa can also be used as live ammunition - its unstable vanometrics result in an explosion upon death.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archojerboa.description>这种好动的啮齿类动物拥有很强的跳跃能力，它们喜欢落在主人的肩膀上，并发出“吱吱”的叫声。作为一种优秀的宠物，超凡跳鼠的繁殖能力可以确保你飞船上的每个殖民者都能拥有一只。在紧急情况下，超凡跳鼠还可以作为“活体炸弹”使用——在死亡后，它体内不稳定的虚空能量会引发大爆炸。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archojerboa.description>
+  <!-- EN: left claw -->
+  <Archojerboa.tools.left_claw.label>左爪</Archojerboa.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Archojerboa.tools.right_claw.label>右爪</Archojerboa.tools.right_claw.label>
+  <!-- EN: head -->
+  <Archojerboa.tools.head.label>头</Archojerboa.tools.head.label>
+  
+  <!-- EN: archolope -->
+  <Archolope.label>超凡爆炸羊</Archolope.label>
+  <!-- EN: An elegant refinement of the standard boomalope, the archolope somehow generates exotic particles, safely contained in fullerene shells within the molecular structure of its "milk." Whatever process produces them seems inherently unstable - when an archolope dies, it unleashes thermonuclear fury.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archolope.description>超凡爆炸羊是普通爆炸羊的改良版，它能以某种方式生产异形粒子，并安全的存放于富勒烯保护壳中。无论产生它们的过程是什么，似乎都是不稳定的——当一个超凡爆炸羊死亡时，它就会释放出热核怒火。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archolope.description>
+  <!-- EN: head -->
+  <Archolope.tools.head.label>头</Archolope.tools.head.label>
+  <!-- EN: left hoof -->
+  <Archolope.tools.left_hoof.label>左蹄</Archolope.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Archolope.tools.right_hoof.label>右蹄</Archolope.tools.right_hoof.label>
+  
+  <!-- EN: archomutt -->
+  <Archomutt.label>超凡狗</Archomutt.label>
+  <!-- EN: Man's best friend just got even better. The archomutt is a large, fiercely loyal dog with boundless energy for play - and the combat performance of a heavy mechanoid when its family is threatened. It also makes a fine working dog and can be taught to haul.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archomutt.description>人类最好的朋友变得更棒了。超凡狗体型庞大且十分忠诚，它们有无穷的精力去玩耍——当家人受到威胁时，它们可以像重型机械体一样勇猛战斗。它们也是一种优秀的工作犬，只要经过细心训练，很快就可以学会搬运。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archomutt.description>
+  <!-- EN: left claw -->
+  <Archomutt.tools.left_claw.label>左爪</Archomutt.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Archomutt.tools.right_claw.label>右爪</Archomutt.tools.right_claw.label>
+  <!-- EN: head -->
+  <Archomutt.tools.head.label>头</Archomutt.tools.head.label>
+  
+  <!-- EN: archopanda -->
+  <Archopanda.label>超凡熊猫</Archopanda.label>
+  <!-- EN: Sometimes referred to as a "living teddy bear," the archopanda makes an ideal pet for anyone who appreciates being knocked off their feet by an enthusiastic nuzzle. Its gentle nature prevents it from being much use in combat, but it can be trained to haul and to carry goods in a caravan.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archopanda.description>这些憨态可掬的超凡熊猫是一种理想的宠物。温和的天性使它们并不适合战斗，但作为驮运动物和搬运工来说则是一流的。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archopanda.description>
+  <Archopanda.race.meatLabel>超凡熊猫肉</Archopanda.race.meatLabel>
+  <!-- EN: left claw -->
+  <Archopanda.tools.left_claw.label>左爪</Archopanda.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Archopanda.tools.right_claw.label>右爪</Archopanda.tools.right_claw.label>
+  <!-- EN: head -->
+  <Archopanda.tools.head.label>头</Archopanda.tools.head.label>
+  
+  <!-- EN: archospider -->
+  <Archospider.label>超凡巨蛛</Archospider.label>
+  <!-- EN: Perhaps your archotech spore hates arachnophobes. There are few other excuses for creating this monstrous life-form - a spider with tank-like armor, jaws capable of shearing plasteel, and a breeding rate that threatens to quickly overwhelm a planet's ecosystem. At least it is unfailingly loyal to its masters... so far.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archospider.description>也许你的超凡孢子讨厌蜘蛛恐惧症患者。创造这种畸形的生命体几乎没有其他的理由——超凡巨蛛拥有坦克般的装甲、能够轻易撕裂玻璃钢的口器和可以迅速摧毁星球生态系统的繁殖速度。至少到目前为止，它对主人的忠诚是不折不扣的。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archospider.description>
+  <Archospider.race.meatLabel>虫肉</Archospider.race.meatLabel>
+  <!-- EN: head claw -->
+  <Archospider.tools.head_claw.label>钳子</Archospider.tools.head_claw.label>
+  <!-- EN: head -->
+  <Archospider.tools.head.label>头</Archospider.tools.head.label>
+  
+  <!-- EN: archostrich -->
+  <Archostrich.label>超凡鸟</Archostrich.label>
+  <!-- EN: Flightless but fierce, the archostrich plays an unusual role as both a food source and battle animal. This bird excels as the vanguard of combat operations; it moves faster than most cars, and its kick can shred plasteel. It psychically reads the preferred tastes of nearby humans and modifies its eggs accordingly.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archostrich.description>这种无法飞行的鸟类拥有着不同寻常的作用——它们既是稳定的食物来源，也是凶猛无比战兽。超凡鸟的移动速度要比大多数载具快上不少，它们有力的踢击甚至可以撕碎玻璃钢。它们可以通过心灵感知来了解附近人类的喜好，并据此来修改蛋的口味。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archostrich.description>
+  <!-- EN: claws -->
+  <Archostrich.tools.claws.label>爪</Archostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Archostrich.tools.beak.label>喙</Archostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Archostrich.tools.head.label>头</Archostrich.tools.head.label>
+  
+  <!-- EN: archothrumbo -->
+  <Archothrumbo.label>超凡敲击兽</Archothrumbo.label>
+  <!-- EN: Can perfection be improved upon? Your archotech spore answers with a resounding [YES]. The archothrumbo is every bit as gorgeous and powerful as its predecessor, without the ravenous appetite. Its horn can wreathe itself in fire like a plasmasword, and its hooves release an EMP with each strike. There is no deadlier battle animal than this mythic beast.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archothrumbo.description>完美的造物还可以改进吗？你的超凡孢子不假思索地答道「然 也」。超凡敲击兽跟普通敲击兽一样既华丽又强大，但没有贪婪的胃口。它们的角就像等离子剑一样炽热且锋利，有力的踢击还能释放EMP。没有比这只神兽更致命的战兽了。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archothrumbo.description>
+  <!-- EN: horn -->
+  <Archothrumbo.tools.horn.label>角</Archothrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Archothrumbo.tools.left_foot.label>左足</Archothrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Archothrumbo.tools.right_foot.label>右足</Archothrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Archothrumbo.tools.head.label>头</Archothrumbo.tools.head.label>
+  
+  <!-- EN: archotortoise -->
+  <Archotortoise.label>超凡龟</Archotortoise.label>
+  <!-- EN: The archotortoise is nothing less than a mobile fortress. Armored with biologically-secreted plasteel, it can confidently stride into any melee. During peacetime its shell can be harvested for individual plasteel plates without harming it.\n\nLike all archolife, its cells power themselves vanometrically and it absorbs atoms directly from the air, so it does not need to eat. Archolife can survive vacuum exposure, has no known maximum age, and regenerates scarred or missing body parts. It can even generate a shield in combat. Without an archotech presence it will perish quickly. -->
+  <Archotortoise.description>超凡龟不亚于一座移动堡垒，坚固的玻璃钢外壳使它们可以自信地步入任何混战中。在和平时期，它们的外壳还能被收割成单独的玻璃钢。\n\n超凡生物体内的细胞可以从虚空中抽取能量，它们因此几乎不需要进食。它们没有最大年龄上限，既可以在真空环境下正常生存，也可以在战斗中生成保护自身的护盾，甚至还能治愈身上的疤痕并再生失去的肢体。</Archotortoise.description>
+  <!-- EN: beak -->
+  <Archotortoise.tools.beak.label>喙</Archotortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Archotortoise.tools.head.label>头</Archotortoise.tools.head.label>
+  
+  <!-- EN: archostrich egg (fert.) -->
+  <EggArchostrichFertilized.label>超凡鸟蛋（已受精）</EggArchostrichFertilized.label>
+  <!-- EN: A fertilized archostrich egg. If all goes well, it should hatch into a baby archostrich. It can be eaten raw, but it's much better cooked. -->
+  <EggArchostrichFertilized.description>已受精的超凡鸟蛋。如果一切顺利应该可以孵化出超凡鸟仔。可以生吃，但是最好烹饪后食用。</EggArchostrichFertilized.description>
+  
+  <!-- EN: archostrich egg (unfert.) -->
+  <EggArchostrichUnfertilized.label>超凡鸟蛋（未受精）</EggArchostrichUnfertilized.label>
+  <!-- EN: An unfertilized archostrich egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggArchostrichUnfertilized.description>未受精的超凡鸟蛋。可以生吃，但是最好烹饪后食用。</EggArchostrichUnfertilized.description>
+  
+  <!-- EN: archotortoise egg (fert.) -->
+  <EggArchotortoiseFertilized.label>超凡龟蛋（已受精）</EggArchotortoiseFertilized.label>
+  <!-- EN: A fertilized archotortoise egg. If all goes well, it should hatch into a baby archotortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggArchotortoiseFertilized.description>已受精的超凡龟蛋。如果一切顺利应该可以孵化出超凡龟仔。可以生吃，但是最好烹饪后食用。</EggArchotortoiseFertilized.description>
+  
+</LanguageData>

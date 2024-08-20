@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EVA suit -->
+  <Apparel_SpaceSuitBody.label>艙外活動套裝</Apparel_SpaceSuitBody.label>
+  <!-- EN: A suit designed to keep the occupant alive in outer space. Includes small thrusters for movement. -->
+  <Apparel_SpaceSuitBody.description>一套用於支持穿戴者在太空中活動的衣物，在設計時還額外加裝了能夠輔助移動的小型推進器。</Apparel_SpaceSuitBody.description>
+  
+  <!-- EN: kid EVA suit -->
+  <Apparel_SpaceSuitBodyChild.label>兒童艙外活動套裝</Apparel_SpaceSuitBodyChild.label>
+  <!-- EN: A suit designed to keep a child alive in outer space. Includes small thrusters for movement. -->
+  <Apparel_SpaceSuitBodyChild.description>一套用於支持兒童穿戴者在太空中活動的衣物，在設計時還額外加裝了能夠輔助移動的小型推進器。</Apparel_SpaceSuitBodyChild.description>
+  
+  <!-- EN: heavy EVA suit -->
+  <Apparel_SpaceSuitBodyHeavy.label>重型艙外活動套裝</Apparel_SpaceSuitBodyHeavy.label>
+  <!-- EN: A pressure-sealed suit of powered armor, designed to keep the occupant alive in outer space. Includes small thrusters for movement. -->
+  <Apparel_SpaceSuitBodyHeavy.description>一套用於支持穿戴者在太空中活動的動力裝甲，在設計時還額外加裝了能夠輔助移動的小型推進器。</Apparel_SpaceSuitBodyHeavy.description>
+  
+  <!-- EN: EVA helmet -->
+  <Apparel_SpaceSuitHelmet.label>艙外活動頭盔</Apparel_SpaceSuitHelmet.label>
+  <!-- EN: A helmet designed to keep the occupant alive in outer space. Recycles oxygen and provides resistance to toxic airborne particulates. -->
+  <Apparel_SpaceSuitHelmet.description>一頂用於支持穿戴者在太空中活動的頭盔，可以循環利用氧氣並提高對毒素和有毒環境的抗性。</Apparel_SpaceSuitHelmet.description>
+  
+  <!-- EN: kid EVA helmet -->
+  <Apparel_SpaceSuitHelmetChild.label>兒童艙外活動頭盔</Apparel_SpaceSuitHelmetChild.label>
+  <!-- EN: A helmet designed to keep a child alive in outer space. Recycles oxygen and provides resistance to toxic airborne particulates. -->
+  <Apparel_SpaceSuitHelmetChild.description>一頂用於支持兒童穿戴者在太空中活動的頭盔，可以循環利用氧氣並提高對毒素和有毒環境的抗性。</Apparel_SpaceSuitHelmetChild.description>
+  
+  <!-- EN: Heavy EVA helmet -->
+  <Apparel_SpaceSuitHelmetHeavy.label>重型艙外活動頭盔</Apparel_SpaceSuitHelmetHeavy.label>
+  <!-- EN: A pressure-sealed power armor helmet, designed to keep the occupant alive in outer space. Recycles oxygen and provides resistance to toxic airborne particulates. -->
+  <Apparel_SpaceSuitHelmetHeavy.description>一頂用於支持穿戴者在太空中活動的動力頭盔，可以循環利用氧氣並提高對毒素和有毒環境的抗性。</Apparel_SpaceSuitHelmetHeavy.description>
+  
+  <!-- EN: survival belt -->
+  <Apparel_SpaceSurvivalBelt.label>救生腰帶</Apparel_SpaceSurvivalBelt.label>
+  <!-- EN: An emergency survival belt used by starship crews. It remains dormant so long as air pressure is maintained. Once exposed to vacuum, the belt releases a semi-liquid membrane over the user's body and begins generating breathable air. For the next three hours, the user can survive exposure to vacuum, although their movements are slowed. The belt is single-use. -->
+  <Apparel_SpaceSurvivalBelt.description>常由飛船船員使用的緊急救生腰帶。在氣壓未發生變化時，它會一直保持休眠狀態。而一旦暴露在真空中，腰帶就會在使用者身體上釋放出一層半液膜，並開始產生可供生物呼吸的氧氣。在接下來的三個小時裡，使用者可以在真空環境中生存，儘管這會減慢他們的移動速度。\n\n這種救生腰帶是一次性物品。</Apparel_SpaceSurvivalBelt.description>
+  <!-- EN: charge -->
+  <Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.chargeNoun>救生罩</Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.cooldownGerund>冷卻中</Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: space bubble -->
+  <Apparel_SpaceSurvivalBelt.verbs.space_bubble.label>救生罩</Apparel_SpaceSurvivalBelt.verbs.space_bubble.label>
+  
+</LanguageData>

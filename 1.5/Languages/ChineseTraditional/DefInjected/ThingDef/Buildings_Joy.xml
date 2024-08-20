@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sapient holodeck -->
+  <Holodeck_AI.label>極致全像模擬設備</Holodeck_AI.label>
+  <!-- EN: A state-of-the-art holoprojector controlled by an AI. Its creativity allows for endless entertainment, customized to the user's tastes. The user will quickly gain skill points depending on the chosen sim. -->
+  <Holodeck_AI.description>由AI操控的全像模擬設備，使用者可以按照自己的喜好來定制投射的影像。使用者會依據所選擇的模擬影像來快速獲得對應的技能經驗值。</Holodeck_AI.description>
+  
+  <!-- EN: basic holodeck -->
+  <Holodeck_Basic.label>基礎全像模擬設備</Holodeck_Basic.label>
+  <!-- EN: A makeshift hologram emitter connected to a gaming PC. Capable of only simple simulations. Users will slowly gain skill points depending on the chosen sim. -->
+  <Holodeck_Basic.description>與遊戲電腦相連接的簡易全像模擬設備，只能投射一些較為粗略的影像。使用者會依據所選擇的模擬影像來慢慢獲得對應的技能經驗值。</Holodeck_Basic.description>
+  
+  <!-- EN: advanced holodeck -->
+  <Holodeck_Standard.label>高級全像模擬設備</Holodeck_Standard.label>
+  <!-- EN: A state-of-the-art holoprojector equipped with a wide range of simulations. Very entertaining. The user will gain skill points depending on the chosen sim. -->
+  <Holodeck_Standard.description>整體性能更先進的全像模擬設備，看起來非常有趣。使用者會依據所選擇的模擬影像來獲得對應的技能經驗值。</Holodeck_Standard.description>
+  
+  <!-- EN: space telescope -->
+  <TelescopeSpace.label>太空望遠鏡</TelescopeSpace.label>
+  <!-- EN: An advanced telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Includes its own reinforced window slot so it can be used under ship roofs. -->
+  <TelescopeSpace.description>更加高級的天文望遠鏡。某一類人作為興趣愛好和放鬆心情之用。歸功於其特殊的設計，這種望遠鏡可以安裝在屋頂或飛船艙頂下。</TelescopeSpace.description>
+  
+</LanguageData>

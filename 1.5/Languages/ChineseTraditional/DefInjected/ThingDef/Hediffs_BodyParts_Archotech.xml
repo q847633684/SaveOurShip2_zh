@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech ear -->
+  <SoSArchotechEar.label>遠古仿生耳</SoSArchotechEar.label>
+  <!-- EN: An artifical ear built by an archotech. It can hear sounds as soft as a mosquito's heartbeat, but is selective enough to pick out a single word whispered in a crowded room. The outer portion can reshape itself at will and even generate various adornments. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechEar.description>一種遠古智能製造的耳朵，外耳部分可以根據安裝者的意願來自由塑形。它既能聽到如同蚊子心跳般微小的聲音，也可以在人聲鼎沸的狹小房間內精準過濾出關鍵的詞句。它看上去就和自然的耳朵別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechEar.description>
+  
+  <!-- EN: archotech heart -->
+  <SoSArchotechHeart.label>遠古仿生心</SoSArchotechHeart.label>
+  <!-- EN: An artifical heart built by an archotech. Although it never beats uncomfortably fast, it can sustain superhuman levels of athletic activity. It somehow modifies the bloodstream, causing blood to flow back into wounds. Users also report faster wound healing. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechHeart.description>一種遠古智能製造的心臟，它的搏動速度不僅不會快到令人難以忍受，還可以讓安裝者長時間進行超人類水準的劇烈運動。它還能以某種方式操縱體內的血液循環系統，使帶有更多血小板和凝血因子的血液流至傷口處，以此來提高自愈速度。它看上去就和自然的心臟別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechHeart.description>
+  
+  <!-- EN: archotech jaw -->
+  <SoSArchotechJaw.label>遠古仿生頜</SoSArchotechJaw.label>
+  <!-- EN: An artifical jaw built by an archotech. It can reshape itself at will to match a viewer's sense of beauty, and the voice it projects is simply sublime. This not only improves the user's appearance, but increases their social impact substantially. The muscles are strong enough to crush a femur, yet delicate enough to nibble a lover's neck. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechJaw.description>一種遠古智能製造的頜部，可以迎合交談對象的審美來自由塑形。無論使用者原本的嗓音與歌喉有多麼難聽，經過它的轉化後都能變為令人熱淚盈眶的天籟之聲。它的咬合力足以輕易地將獨角獸的骨頭咬碎嚼爛，但也柔和到可以愛撫伴侶的脖子直到其酥麻癱軟。它看上去就和自然的頜部別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechJaw.description>
+  
+  <!-- EN: archotech kidney -->
+  <SoSArchotechKidney.label>遠古仿生腎</SoSArchotechKidney.label>
+  <!-- EN: An artifical kidney built by an archotech. It is capable of filtering out toxins, radioisotopes, and pathogens of all kinds. Users gain immunity more rapidly and can endure toxic exposure for longer. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechKidney.description>一種遠古智能製造的腎臟，可以快速排濾掉人體內的毒素、放射性物質以及各種各樣的病原體。安裝者不僅能獲得強大的免疫力，還可以長時間地在毒霧霾下自由漫步。它看上去就和自然的腎臟別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechKidney.description>
+  
+  <!-- EN: archotech liver -->
+  <SoSArchotechLiver.label>遠古仿生肝</SoSArchotechLiver.label>
+  <!-- EN: An artifical liver built by an archotech. It is capable of breaking down any chemical toxin, and even neutralizing radioactive isotopes through exotic physics. In conjunction with archotech kidneys, it provides complete immunity to toxic exposure. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechLiver.description>一種遠古智能製造的肝臟，可以迅速溶解任何種類的化學毒素，並通過人類尚不知曉的物理反應中和掉放射性物質。與遠古仿生腎強強聯手時，更是能讓安裝者完全免疫毒素造成的負面影響。它看上去就和自然的肝臟別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechLiver.description>
+  
+  <!-- EN: archotech lung -->
+  <SoSArchotechLung.label>遠古仿生肺</SoSArchotechLung.label>
+  <!-- EN: An artifical lung built by an archotech. It can extract trace amounts of oxygen from planetary atmospheres that would kill a baseline human, and is immune to caustic gases. Even underwater or in a vacuum, a vanometrically-powered scrubber recycles carbon dioxide into oxygen. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechLung.description>一種遠古智能製造的肺。它可以從生物無法存活的星球散逸層中抽取微乎其微的氧氣，也能完全過濾掉會對人體造成損害的腐蝕性氣體。即便身處於深水或真空環境下，它內置的虛空淨化器也可以將二氧化碳轉化成新鮮的氧氣。它看上去就和自然的肺別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechLung.description>
+  
+  <!-- EN: archotech nose -->
+  <SoSArchotechNose.label>遠古仿生鼻</SoSArchotechNose.label>
+  <!-- EN: An artifical nose built by an archotech. The outer portion can reshape itself at will to match a viewer's sense of beauty, improving the user's appearance. Its sensory apparatus is more sensitive than a bloodhound's, allowing pheromone-based communication with animals - and hence improving taming and training chances. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechNose.description>一種遠古智能製造的鼻子，可以迎合觀者的審美來自由塑形。它的靈敏度比最優秀的基因工程獵犬還強，還能通過識別和分泌信息素來和其他動物進行交流，對於那些想成為一流馴獸師的安裝者來說再合適不過了。它看上去就和自然的鼻子別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechNose.description>
+  
+  <!-- EN: archotech skin -->
+  <SoSArchotechSkin.label>遠古仿生皮膚</SoSArchotechSkin.label>
+  <!-- EN: This small patch of artificial skin quickly spreads to cover the user's body. Archotech skin resists pressure changes and offers complete immunity to vaccum depressurization, as well as providing significant armor and temperature insulation. In conjunction with archotech lungs, it offers the ability to survive vacuum indefinitely. It looks and feels like natural flesh, but is harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechSkin.description>一種遠古智能製造的植入物，可以迅速且自然地將安裝者原本的皮膚置換成更高級的仿生皮膚。它不僅能完全免疫艙外失壓造成的影響，與遠古仿生腎強強聯手時，還可以讓使用者在不穿戴艙外活動套裝的情況下於太空中自由活動。它看上去就和自然的皮膚別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechSkin.description>
+  
+  <!-- EN: archotech spine -->
+  <SoSArchotechSpine.label>遠古仿生脊椎</SoSArchotechSpine.label>
+  <!-- EN: An artifical spine built by an archotech. Capable of bending in ways that would make a cat jealous, yet rigid enough to carry a small car if necessary. The user's drastically increased core strength improves their manipulation ability. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechSpine.description>一種遠古智能製造的脊椎。它驚人的柔韌性能令貓咪心生妒羨，而挺直後的堅固程度也足以支起一輛小轎車。它對中樞肌肉力量的大幅強化同樣變相提高了安裝者的操作能力。它看上去就和自然的脊椎別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechSpine.description>
+  
+  <!-- EN: archotech stomach -->
+  <SoSArchotechStomach.label>遠古仿生胃</SoSArchotechStomach.label>
+  <!-- EN: An artifical stomach built by an archotech. It vanometrically provides all the power a body needs, and a module integrated with the lungs absorbs atoms from the air. The user (almost) never needs to eat again, though if they enjoy doing so, the stomach is still capable of breaking down food and is immune to food poisoning. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <SoSArchotechStomach.description>一種遠古智能製造的胃，其內置的虛空反應堆幾乎可以完全消除安裝者對進食的需求。即使被饞蟲勾起了興致，它也依舊能將食物消化分解掉，食物中毒的情況更是絕對不會出現。它看上去就和自然的胃別無二致，但卻比塑鋼還難摧毀，即使受到傷害也能飛快地自我修復。它的內部結構對於所有人來說都是個迷。</SoSArchotechStomach.description>
+  
+  <!-- EN: psychic manipulator -->
+  <SoSPsychicManipulator.label>心靈操縱裝置</SoSPsychicManipulator.label>
+  <!-- EN: Gives limited telekinetic ability, allowing the user to lift or move small objects. This improves manipulation, with an effect proportional to psychic sensitivity. -->
+  <SoSPsychicManipulator.description>這種安裝於大腦的植入物可以提供有限的念動能力，能幫助安裝者拾起或移動較遠的小物件。因此提高的操作能力和安裝者的心靈敏感度成正比。</SoSPsychicManipulator.description>
+  
+  <!-- EN: psychic predictor -->
+  <SoSPsychicPredictor.label>心靈預測裝置</SoSPsychicPredictor.label>
+  <!-- EN: Gives limited mind-reading ability, allowing the user to track enemies' movements before they make them. This improves melee dodge chance and shooting accuracy, with an effect proportional to psychic sensitivity. -->
+  <SoSPsychicPredictor.description>這種安裝於大腦的植入物可以提供有限的讀心能力，能幫助安裝者預測敵人的行動軌跡。因此提高的近戰閃避率、射擊精度和安裝者的心靈敏感度成正比。</SoSPsychicPredictor.description>
+  
+</LanguageData>

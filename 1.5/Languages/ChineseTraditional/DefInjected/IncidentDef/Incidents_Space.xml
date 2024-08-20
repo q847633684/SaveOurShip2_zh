@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ship combat -->
+  <ShipCombat.label>飛船交戰</ShipCombat.label>
+  
+  <!-- EN: space debris -->
+  <SpaceDebris.label>太空垃圾</SpaceDebris.label>
+  <!-- EN: Space debris -->
+  <SpaceDebris.letterLabel>太空垃圾</SpaceDebris.letterLabel>
+  <!-- EN: Ship has entered a debris field. Engage engines to evade or brace for impact! -->
+  <SpaceDebris.letterText>飛船駛入了一片太空垃圾帶。啟動你的推進器，做好隨時迴避或抵禦撞擊的準備！</SpaceDebris.letterText>
+  
+  <!-- EN: Pirates! -->
+  <SpacePirates.label>海盜！</SpacePirates.label>
+  <!-- EN: Pirates! -->
+  <SpacePirates.letterLabel>海盜！</SpacePirates.letterLabel>
+  
+  <!-- EN: transport pod recovery -->
+  <SpacePodFound.label>打撈運輸艙</SpacePodFound.label>
+  <!-- EN: Transport pod found -->
+  <SpacePodFound.letterLabel>發現運輸艙</SpacePodFound.letterLabel>
+  <!-- EN: A transport pod has been discovered nearby. Do you want to recover it with your salvage bay? -->
+  <SpacePodFound.letterText>飛船傳感器掃瞄到了附近的一個運輸艙。或許你可以使用回收港來打撈它？</SpacePodFound.letterText>
+  
+</LanguageData>

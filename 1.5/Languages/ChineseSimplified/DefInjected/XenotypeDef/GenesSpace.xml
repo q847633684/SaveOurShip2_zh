@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gremlin -->
+  <Gremlin.label>深空种</Gremlin.label>
+  <!-- EN: Engineered to serve as a spaceborne labor force, gremlins work tirelessly under hazardous conditions. Not only are they resistant to toxins and extreme cold, but gremlins can endure the vacuum of space without equipment - at least long enough to patch up the hull. They do not require cryptosleep caskets for interstellar journeys, as their bodies can secrete a cryptosleep cocoon. However, gremlins are painfully aware that they are a subordinate caste; their creators repurposed many of the brain's creative abilities, leaving them psychically deaf and inept at art and research. Likewise, no effort was made to build in psychological safeguards against the anxiety of prolonged spaceflight.\n\nGremlins were created during the first age of mass colonization thousands of years ago. The xenotype has fallen out of official favor on most worlds due to ethical concerns and several high-profile mutinies. Today, most gremlins receive their xenogerm as part of an indenture contract - captains who need crew can usually find someone desperate for passage offworld, no matter the strings attached. -->
+  <Gremlin.description>深空种是为在危险环境中不眠不休地工作而设计的飞船劳动力。他们不仅具有对毒素、火焰和低温的抗性，且能在不做任何防护措施的情况下于真空中活动——至少足以应急修理好受损的船体。在星际旅行时，也不需要为深空种准备低温休眠舱，因为他们可以使用特殊能力构造出具有同样功能的低温休眠茧。不过随着时间的推移，有越来越多的深空种清楚地意识到他们的阶级地位异常低下；他们大脑的创新能力被其创造者刻意调整并限制，因而无法在艺术和研究方面有所造诣，也不能成为灵能者或机械师。此外，长期太空旅行所产生的焦虑感很容易使他们出现心理问题。\n\n深空种诞生于数千年前的第一次太空殖民潮时期。由于存在伦理问题和多次引发大规模哗变的先例，这类异种人已不再被大部分世界的官方机构所青睐。现如今，大多数深空种之所以植入异种胚芽成为深空种，都是合同条款使然——缺人的船长总能找到那么几个急着脱离星球，急到不管招聘合同有何附加条件的倒霉蛋。</Gremlin.description>
+  <!-- EN: Engineered to labor aboard starships, gremlins do not sleep and can survive vacuum and other hazards. Their bodies can form a cryptosleep cocoon. However, their minds are creatively dull and they are unaffected by psychic phenomena. -->
+  <Gremlin.descriptionShort>深空种是为在危险环境中不眠不休地工作而设计的飞船劳动力。他们不仅具有对毒素、火焰和低温的抗性，且能在不做任何防护措施的情况下于真空中活动。在星际旅行时，也不需要为深空种准备低温休眠舱，因为他们可以使用特殊能力构造出具有同样功能的低温休眠茧。他们大脑的创新能力被刻意调整并限制，因而无法在艺术和研究方面有所造诣，也不能成为灵能者或机械师。</Gremlin.descriptionShort>
+  
+</LanguageData>

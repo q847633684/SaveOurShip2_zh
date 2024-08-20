@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>questDescription->Using your ship's sensors, [worker_definite] has found [site_label] in a nearby orbit.\n\nUnfortunately, the orbit is decaying and will lead to atmospheric re-entry in [timeoutTicks_duration].\n\n[allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <SpaceSiteQuest.questDescriptionRules.rulesStrings>
+    <li>questDescription->在飛船傳感器的幫助下，[worker_definite]成功掃瞄到了附近軌道上的[site_label]。\n\n然而不幸的是，[site_label]的軌道高度正在逐漸下降，且極有可能會在[timeoutTicks_duration]後重新墜入大氣層，最終在與空氣的劇烈摩擦中燃燒殆盡。\n\n[allSitePartsDescriptionsExceptFirst]</li>
+  </SpaceSiteQuest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[site_label]</li>
+  -->
+  <SpaceSiteQuest.questNameRules.rulesStrings>
+    <li>questName->[site_label]</li>
+  </SpaceSiteQuest.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任務已失效：[resolvedQuestName]</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: With a blazing streak across the upper atmosphere, the [site_label] plummeted to the planet below. Anything of value is now lost. -->
+  <SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>一道耀眼的閃光劃過天際，不斷墜落的[site_label]最終在大氣層中燃燒殆盡了。我們錯過了這次機會。</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

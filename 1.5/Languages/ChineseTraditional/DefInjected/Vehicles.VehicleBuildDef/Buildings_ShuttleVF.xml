@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Heavy Shuttle -->
+  <SoS2_Shuttle_Heavy_Blueprint.label>重型太空梭</SoS2_Shuttle_Heavy_Blueprint.label>
+  <!-- EN: A large shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features two hardpoints for turrets. -->
+  <SoS2_Shuttle_Heavy_Blueprint.description>同時具有軌道和亞軌道航行能力的重型太空梭。\n\n這種太空梭的設計基於小型化的飛船組件，只要完成了相應的研究項目，就能對它進行改裝。\n這種太空梭附帶有2個可用於砲塔改裝的掛載點。\n\n注意：大部分的改裝都會降低太空梭的載貨量。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;鈾燃料罐</SoS2_Shuttle_Heavy_Blueprint.description>
+  
+  <!-- EN: Personal Shuttle -->
+  <SoS2_Shuttle_Personal_Blueprint.label>私人太空梭</SoS2_Shuttle_Personal_Blueprint.label>
+  <!-- EN: A single-occupant shuttlecraft capable of both orbital and suborbital flight. Unlike larger shuttles, this model runs on chemfuel and cannot be upgraded. -->
+  <SoS2_Shuttle_Personal_Blueprint.description>同時具有軌道和亞軌道航行能力的私人太空梭。\n\n與更大型的太空梭不同，這種太空梭無法進行改裝。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;化合燃料</SoS2_Shuttle_Personal_Blueprint.description>
+  
+  <!-- EN: Shuttle -->
+  <SoS2_Shuttle_Standard_Blueprint.label>太空梭</SoS2_Shuttle_Standard_Blueprint.label>
+  <!-- EN: A shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features one hardpoint for a turret. -->
+  <SoS2_Shuttle_Standard_Blueprint.description>同時具有軌道和亞軌道航行能力的太空梭。\n\n這種太空梭的設計基於小型化的飛船組件，只要完成了相應的研究項目，就能對它進行改裝。\n這種太空梭附帶有1個可用於砲塔改裝的掛載點。\n\n注意：大部分的改裝都會降低太空梭的載貨量。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;鈾燃料罐</SoS2_Shuttle_Standard_Blueprint.description>
+  
+  <!-- EN: Superheavy Shuttle -->
+  <SoS2_Shuttle_Superheavy_Blueprint.label>超重型太空梭</SoS2_Shuttle_Superheavy_Blueprint.label>
+  <!-- EN: A very large shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features three hardpoints for turrets. -->
+  <SoS2_Shuttle_Superheavy_Blueprint.description>同時具有軌道和亞軌道航行能力的超重型太空梭。\n\n這種太空梭的設計基於小型化的飛船組件，只要完成了相應的研究項目，就能對它進行改裝。\n這種太空梭附帶有3個可用於砲塔改裝的掛載點。\n\n注意：大部分的改裝都會降低太空梭的載貨量。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;鈾燃料罐</SoS2_Shuttle_Superheavy_Blueprint.description>
+  
+</LanguageData>

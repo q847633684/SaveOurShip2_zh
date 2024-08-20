@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: salvage bay -->
+  <ShipSalvageBay.label>回收港</ShipSalvageBay.label>
+  <!-- EN: Utilize an automated gantry and swarms of tug drones to quickly retrieve salvage after a space battle. -->
+  <ShipSalvageBay.description>解鎖建造「回收港」。在一場飛船交戰後，你可以命令其搭載的自動起重吊台和回收無人機群來快速打撈敵艦殘骸。</ShipSalvageBay.description>
+  <!-- EN:
+    <li>subject->spaceborne salvage operations</li>
+    <li>subject_story->operated a legally-gray vulture fleet, picking the debris of space battles</li>
+    <li>subject_story->welded several captured ships into a single ungainly hulk</li>
+    <li>subject_story->served under an AI captain who took a strange pleasure in "eating" defeated ships</li>
+    <li>subject_gerund->salvaging shipwrecks</li>
+  -->
+  <ShipSalvageBay.generalRules.rulesStrings>
+    <li>subject->船載打撈裝置</li>
+    <li>subject_story->掌管著一隻遊走於法律灰色地帶的拾荒船隊，專門打撈那些太空戰後留下的碎片殘骸</li>
+    <li>subject_story->將幾艘俘獲來的飛船焊接在一起，造出了一艘醜陋的龐然大物</li>
+    <li>subject_story->在一名熱衷於「吞掉」戰敗飛船的古怪AI船長手下服役過</li>
+    <li>subject_gerund->打撈飛船殘骸</li>
+  </ShipSalvageBay.generalRules.rulesStrings>
+  
+  <!-- EN: glittertech salvage bay -->
+  <ShipSalvageBayGlitter.label>閃耀世界回收港</ShipSalvageBayGlitter.label>
+  <!-- EN: Utilize a reversed polarity JT beam to quickly retrieve salvage after a space battle.\nNote: Actually constructing the bay will require an Entanglement Manifold, a very rare artifact. -->
+  <ShipSalvageBayGlitter.description>解鎖建造「閃耀世界回收港」，配備有基於逆向約翰遜-田中原理研發而成的牽引光束\n\n注意：建造閃耀世界回收港時需要消耗糾纏流形，這種珍稀裝置很難獲得。</ShipSalvageBayGlitter.description>
+  <!-- EN:
+    <li>subject->Johnson-Tanaka theory</li>
+    <li>subject->exotic momentum transfer</li>
+    <li>subject_story->pirated interplanetary shipping, capturing small spacecraft with an asteroid-mounted tractor beam</li>
+    <li>subject_story->salvaged the wreckage of a spacefaring archotech which had apparently committed suicide</li>
+    <li>subject_story->jury-rigged a warship's drive to pull torpedoes away from vulnerable civilian craft</li>
+    <li>subject_gerund->salvaging starship wrecks</li>
+  -->
+  <ShipSalvageBayGlitter.generalRules.rulesStrings>
+    <li>subject->約翰遜-田中原理</li>
+    <li>subject->奇異動量轉移</li>
+    <li>subject_story->發起了一次星際船運劫掠作戰，用安裝在小行星上的牽引光束俘獲小型飛船</li>
+    <li>subject_story->打撈了一塊顯然是因自毀而產生的遠古飛行器碎片</li>
+    <li>subject_story->緊急啟動了一艘戰艦的驅動器，以將瞄準無武裝民用飛船的魚雷吸引走</li>
+    <li>subject_gerund->打撈飛船殘骸</li>
+  </ShipSalvageBayGlitter.generalRules.rulesStrings>
+  
+  <!-- EN: basic ship sensors -->
+  <ShipSensorCluster.label>基礎傳感器</ShipSensorCluster.label>
+  <!-- EN: Construct sensors for a ship, capable of basic navigation and observing areas from orbit. -->
+  <ShipSensorCluster.description>解鎖建造擁有基本導航和區域偵測功能的「基礎傳感器」。</ShipSensorCluster.description>
+  <!-- EN:
+    <li>subject->interstellar navigation</li>
+    <li>subject_story->used prototype starship sensors to detect an incoming extinction-level asteroid and evacuate the planet</li>
+    <li>subject_story->was employed as navigator and cook on a Glitterworld star-yacht</li>
+    <li>subject_story->refined the design of long-range sensors, improving their utility</li>
+    <li>subject_gerund->navigating interstellar space</li>
+    <li>subject_gerund->constructing starship sensors</li>
+  -->
+  <ShipSensorCluster.generalRules.rulesStrings>
+    <li>subject->星際導航</li>
+    <li>subject_story->使用原型飛船傳感器探測到即將到來的滅絕級小行星並撤離星球</li>
+    <li>subject_story->在閃耀世界的一艘星級遊艇上擔任領航員和廚師</li>
+    <li>subject_story->改進了遠距離傳感器的設計，提高了其實用性</li>
+    <li>subject_gerund->導航星際空間</li>
+    <li>subject_gerund->建造飛船傳感器</li>
+  </ShipSensorCluster.generalRules.rulesStrings>
+
+</LanguageData>

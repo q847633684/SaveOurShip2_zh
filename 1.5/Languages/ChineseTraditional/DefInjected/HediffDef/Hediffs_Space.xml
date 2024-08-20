@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Consciousness offline -->
+  <HologramDisconnected.label>意識離線</HologramDisconnected.label>
+  <!-- EN: This formgel's conscious substrate lacks power. Until it is restored, the swarm will remain in a comatose standby mode. -->
+  <HologramDisconnected.description>此單位的“神經-心靈”基底因斷電而停擺。直到恢復電力供應前，構成它的奈米機械群都將保持休眠待機模式。</HologramDisconnected.description>
+  
+  <!-- EN: formgel -->
+  <SoSHologram.label>擬形膠凝體</SoSHologram.label>
+  <!-- EN: This entity is a formgel - a swarm of mechanites which mimic the shape and function of a biological human body - remotely controlled by a human consciousness via psychic entanglement.\n\nA formgel appears as a gelatinous version of the human body which served as its initial template. It rapidly repairs itself from damage but significant injury can force the swarm to decohere; this does not harm the mind controlling the formgel, but a replacement swarm takes time to breed. Formgels are capable of indefinite self-maintenance and require only small amounts of nutrition to replace mechanites lost to entropy.\n\nUnlike holograms, a formgel is capable of engaging in the full range of human activities, including sexual reproduction and drug use. Its mimicry of biological functions extends to the abilities of its subject's xenotype, and it can even adapt to a newly implanted xenogerm. Although it is immune to most organic pathogens, exotic diseases such as sensory mechanites can still infect a formgel.\n\nFormgels are the invention of nanoscientist Dr. Kimberly Yao, designed as a next-generation replacement for hologram technology. Although hardlight fields were capable of imitating the shape of a human body and performing most crew duties, the lack of high-resolution sensory feedback inevitably resulted in a sense of dissociation and progressive psychosis in brains operating holographic avatars. Yao initially tested the technology on herself as part of her successful evolution into an archotech superintelligence, and formgels can now be found aboard starships throughout known space. -->
+  <SoSHologram.description>此單位是由某人的意識通過心靈糾纏原理控制的擬形膠凝體。\n\擬形膠凝體由奈米機械群構造而成，從外形來看和人類並無差別。它可以迅速修復身上的傷口，但如果受損過於嚴重，奈米機械就會崩解潰散。雖然這不會對控制擬形膠凝體的意識造成負面影響，但奈米機械需要一定時間才能再生。擬形膠凝體能夠永久性地自我維持下去，且僅需攝入少量營養來補充因熵增而損耗的奈米機械。\n\n與全息投影不同，擬形膠凝體有能力參與各種各樣的人類活動，甚至包括生殖行為和使用成癮品。對生物機能的精密模仿還可以讓它繼承其控制者原本的異種基因，並適應新植入的異種胚芽。擬形膠凝體免疫絕大多數的有機病原體，但仍會患上感官奈米機械感染這樣的特殊疾病。\n\n擬形膠凝體是奈米材料學家金伯利·姚博士為取代老舊的全息投影技術而設計的。儘管硬光場也可以擬為人形且勝任大部分船員工作，但高精度感官反饋的缺失終將會使全息投影的控制者產生愈發嚴重的割裂感和精神問題。姚博士將這項技術首先應用在了自己身上，且最終成功蛻變為新生的遠古智能。如今，你幾乎可以在任何一艘飛船上發現擬形膠凝體的身影。</SoSHologram.description>
+  <!-- EN: This entity is a formgel - a swarm of mechanites which mimic the shape and function of a biological human body - remotely controlled by a human consciousness via psychic entanglement. -->
+  <SoSHologram.descriptionShort>此單位是由某人的意識通過心靈糾纏原理控制的擬形膠凝體。擬形膠凝體由奈米機械群構造而成，從外形來看和人類並無差別。</SoSHologram.descriptionShort>
+  
+  <!-- EN: archotech formgel -->
+  <SoSHologramArchotech.label>遠古擬形膠凝體</SoSHologramArchotech.label>
+  <!-- EN: This entity is a formgel - a swarm of mechanites which mimic the shape and function of a biological human body - remotely controlled by an archotech spore via psychic entanglement.\n\nA formgel appears as a gelatinous version of the human body which served as its initial template. It rapidly repairs itself from damage but significant injury can force the swarm to decohere; this does not harm the mind controlling the formgel, but a replacement swarm takes time to breed. Formgels are capable of indefinite self-maintenance and require only small amounts of nutrition to replace mechanites lost to entropy.\n\nUnlike holograms, a formgel is capable of engaging in the full range of human activities, including sexual reproduction and drug use. Its mimicry of biological functions extends to the abilities of its subject's xenotype, and it can even adapt to a newly implanted xenogerm. Although it is immune to most organic pathogens, exotic diseases such as sensory mechanites can still infect a formgel.\n\nFormgels are the invention of nanoscientist Dr. Kimberly Yao, designed as a next-generation replacement for hologram technology. Although hardlight fields were capable of imitating the shape of a human body and performing most crew duties, the lack of high-resolution sensory feedback inevitably resulted in a sense of dissociation and progressive psychosis in brains operating holographic avatars. Yao initially tested the technology on herself as part of her successful evolution into an archotech superintelligence, and formgels can now be found aboard starships throughout known space. -->
+  <SoSHologramArchotech.description>此單位是由遠古孢子的意識通過心靈糾纏原理控制的擬形膠凝體。\n\擬形膠凝體由奈米機械群構造而成，從外形來看和人類並無差別。它可以迅速修復身上的傷口，但如果受損過於嚴重，奈米機械就會崩解潰散。雖然這不會對控制擬形膠凝體的意識造成負面影響，但奈米機械需要一定時間才能再生。擬形膠凝體能夠永久性地自我維持下去，且僅需攝入少量營養來補充因熵增而損耗的奈米機械。\n\n與全息投影不同，擬形膠凝體有能力參與各種各樣的人類活動，甚至包括生殖行為和使用成癮品。對生物機能的精密模仿還可以讓它繼承其控制者原本的異種基因，並適應新植入的異種胚芽。擬形膠凝體免疫絕大多數的有機病原體，但仍會患上感官奈米機械感染這樣的特殊疾病。\n\n擬形膠凝體是奈米材料學家金伯利·姚博士為取代老舊的全息投影技術而設計的。儘管硬光場也可以擬為人形且勝任大部分船員工作，但高精度感官反饋的缺失終將會使全息投影的控制者產生愈發嚴重的割裂感和精神問題。姚博士將這項技術首先應用在了自己身上，且最終成功蛻變為新生的遠古智能。如今，你幾乎可以在任何一艘飛船上發現擬形膠凝體的身影。</SoSHologramArchotech.description>
+  <!-- EN: This entity is a formgel - a swarm of mechanites which mimic the shape and function of a biological human body - remotely controlled by an archotech spore via psychic entanglement. -->
+  <SoSHologramArchotech.descriptionShort>此單位是由遠古孢子的意識通過心靈糾纏原理控制的擬形膠凝體。擬形膠凝體由奈米機械群構造而成，從外形來看和人類並無差別。</SoSHologramArchotech.descriptionShort>
+  
+  <!-- EN: persona formgel -->
+  <SoSHologramMachine.label>人格AI擬形膠凝體</SoSHologramMachine.label>
+  <!-- EN: This entity is a formgel - a swarm of mechanites which mimic the shape and function of a biological human body - remotely controlled by a machine persona via psychic entanglement.\n\nA formgel appears as a gelatinous version of the human body which served as its initial template. It rapidly repairs itself from damage but significant injury can force the swarm to decohere; this does not harm the mind controlling the formgel, but a replacement swarm takes time to breed. Formgels are capable of indefinite self-maintenance and require only small amounts of nutrition to replace mechanites lost to entropy.\n\nUnlike holograms, a formgel is capable of engaging in the full range of human activities, including sexual reproduction and drug use. Its mimicry of biological functions extends to the abilities of its subject's xenotype, and it can even adapt to a newly implanted xenogerm. Although it is immune to most organic pathogens, exotic diseases such as sensory mechanites can still infect a formgel.\n\nFormgels are the invention of nanoscientist Dr. Kimberly Yao, designed as a next-generation replacement for hologram technology. Although hardlight fields were capable of imitating the shape of a human body and performing most crew duties, the lack of high-resolution sensory feedback inevitably resulted in a sense of dissociation and progressive psychosis in brains operating holographic avatars. Yao initially tested the technology on herself as part of her successful evolution into an archotech superintelligence, and formgels can now be found aboard starships throughout known space. -->
+  <SoSHologramMachine.description>此單位是由某個人格AI的意識通過心靈糾纏原理控制的擬形膠凝體。\n\擬形膠凝體由奈米機械群構造而成，從外形來看和人類並無差別。它可以迅速修復身上的傷口，但如果受損過於嚴重，奈米機械就會崩解潰散。雖然這不會對控制擬形膠凝體的意識造成負面影響，但奈米機械需要一定時間才能再生。擬形膠凝體能夠永久性地自我維持下去，且僅需攝入少量營養來補充因熵增而損耗的奈米機械。\n\n與全息投影不同，擬形膠凝體有能力參與各種各樣的人類活動，甚至包括生殖行為和使用成癮品。對生物機能的精密模仿還可以讓它繼承其控制者原本的異種基因，並適應新植入的異種胚芽。擬形膠凝體免疫絕大多數的有機病原體，但仍會患上感官奈米機械感染這樣的特殊疾病。\n\n擬形膠凝體是奈米材料學家金伯利·姚博士為取代老舊的全息投影技術而設計的。儘管硬光場也可以擬為人形且勝任大部分船員工作，但高精度感官反饋的缺失終將會使全息投影的控制者產生愈發嚴重的割裂感和精神問題。姚博士將這項技術首先應用在了自己身上，且最終成功蛻變為新生的遠古智能。如今，你幾乎可以在任何一艘飛船上發現擬形膠凝體的身影。</SoSHologramMachine.description>
+  <!-- EN: This entity is a formgel - a swarm of mechanites which mimic the shape and function of a biological human body - remotely controlled by a machine persona via psychic entanglement. -->
+  <SoSHologramMachine.descriptionShort>此單位是由某個人格AI的意識通過心靈糾纏原理控制的擬形膠凝體。擬形膠凝體由奈米機械群構造而成，從外形來看和人類並無差別。</SoSHologramMachine.descriptionShort>
+  
+  <!-- EN: survival bubble -->
+  <SpaceBeltBubbleHediff.label>救生罩</SpaceBeltBubbleHediff.label>
+  <!-- EN: This creature is surrounded by a protective bubble, allowing it to survive vacuum exposure. -->
+  <SpaceBeltBubbleHediff.description>此單位被保護罩包圍，使其可以在真空環境中生存。</SpaceBeltBubbleHediff.description>
+  
+  <!-- EN: hypoxia -->
+  <SpaceHypoxia.label>缺氧</SpaceHypoxia.label>
+  <!-- EN: Organ failure due to lack of oxygen. Quickly fatal if no EVA suit or life-supported room can be found. -->
+  <SpaceHypoxia.description>缺氧正在導致器官快速衰竭。如果找不到艙外活動套裝或有生命維持系統的飛船艙室，將很快致命。</SpaceHypoxia.description>
+  <!-- EN: initial -->
+  <SpaceHypoxia.stages.initial.label>輕微</SpaceHypoxia.stages.initial.label>
+  <!-- EN: minor -->
+  <SpaceHypoxia.stages.minor.label>較輕</SpaceHypoxia.stages.minor.label>
+  <!-- EN: serious -->
+  <SpaceHypoxia.stages.serious.label>中等</SpaceHypoxia.stages.serious.label>
+  <!-- EN: extreme -->
+  <SpaceHypoxia.stages.extreme-0.label>嚴重</SpaceHypoxia.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SpaceHypoxia.stages.extreme-1.label>極重</SpaceHypoxia.stages.extreme-1.label>
+  
+  <!-- EN: EVA thrusters online -->
+  <ThrusterSpeed.label>艙外活動推進器上線</ThrusterSpeed.label>
+  <!-- EN: Deprecated - do not use -->
+  <ThrusterSpeed.description>已廢棄</ThrusterSpeed.description>
+  <!-- EN: active thrusters -->
+  <ThrusterSpeed.labelNoun>激活推進器</ThrusterSpeed.labelNoun>
+  
+  <!-- EN: decompression -->
+  <VacuumDamageHediff.label>失壓傷</VacuumDamageHediff.label>
+  <!-- EN: A decompression injury. -->
+  <VacuumDamageHediff.description>因太空失壓造成的傷口。</VacuumDamageHediff.description>
+  <!-- EN: set -->
+  <VacuumDamageHediff.comps.HediffComp_TendDuration.labelSolidTendedWell>已簡單處理</VacuumDamageHediff.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <VacuumDamageHediff.comps.HediffComp_TendDuration.labelTendedWell>已包紮</VacuumDamageHediff.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: sutured -->
+  <VacuumDamageHediff.comps.HediffComp_TendDuration.labelTendedWellInner>已縫合</VacuumDamageHediff.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: decompression scar -->
+  <VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>失壓傷疤痕</VacuumDamageHediff.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Lost to decompression -->
+  <VacuumDamageHediff.injuryProps.destroyedLabel>被毀</VacuumDamageHediff.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <VacuumDamageHediff.labelNounPretty>{1}中的{0}</VacuumDamageHediff.labelNounPretty>
+  
+</LanguageData>

@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced ship sensors -->
+  <ShipSensorClusterAdv.label>高级传感器</ShipSensorClusterAdv.label>
+  <!-- EN: Construct advanced sensors for a ship, capable of scanning the interior of enemy ships. -->
+  <ShipSensorClusterAdv.description>解锁建造可以侦测敌舰内部结构的「高级传感器」。</ShipSensorClusterAdv.description>
+  <!-- EN:
+    <li>subject->starship tactical intelligence</li>
+    <li>subject_story->used cutting-edge sensors to support boarding actions, directing marines to cut vulnerable thermal conduits</li>
+    <li>subject_story->became obsessed with peering through the hulls of mysterious archotech drones</li>
+    <li>subject_story->captained a small fleet of pirate hunters, using advanced sensors to avoid firing on compartments where the pirates held prisoners</li>
+    <li>subject_gerund->scanning enemy ships</li>
+    <li>subject_gerund->constructing starship sensors</li>
+  -->
+  <ShipSensorClusterAdv.generalRules.rulesStrings>
+    <li>subject->飞船战术情报</li>
+    <li>subject_story->使用了顶尖传感器来支援跳帮行动，指挥陆战队去切断薄弱的热量管道</li>
+    <li>subject_story->开始热衷于透过船体观察神秘莫测的超凡无人机</li>
+    <li>subject_story->统率着一支小型海盗猎人舰队，使用高级传感器来避免攻击海盗关押囚犯的飞船舱室</li>
+    <li>subject_gerund->扫描敌舰</li>
+    <li>subject_gerund->建造飞船传感器</li>
+  </ShipSensorClusterAdv.generalRules.rulesStrings>
+  
+  <!-- EN: ship shields -->
+  <ShipShields.label>飞船护盾</ShipShields.label>
+  <!-- EN: Protect your ship with a momentum-repulsor field. -->
+  <ShipShields.description>解锁建造可以产生动能排斥场以保护飞船的「护盾发生器」。</ShipShields.description>
+  <!-- EN:
+    <li>subject->starship shielding</li>
+    <li>subject_story->helped the post-apocalyptic planet Ishwalla return to spaceflight, designing a shield which could survive its orbital debris rings</li>
+    <li>subject_story->tuned a warship's shields to protect a planetside settlement from solar flares</li>
+    <li>subject_story->wrote an influential thesis on using shields to red-shift incoming laser beams</li>
+    <li>subject_gerund->constructing starship shields</li>
+  -->
+  <ShipShields.generalRules.rulesStrings>
+    <li>subject->飞船护盾</li>
+    <li>subject_story->帮助后启示录星球伊萨瓦拉重获航天能力，并设计了一种可以抵御轨道太空垃圾带的护盾</li>
+    <li>subject_story->通过调整战舰的护盾来保护星球边境的定居点不受太阳耀斑的影响</li>
+    <li>subject_story->撰写了一片有关如何用护盾红移激光能量束的知名论文</li>
+    <li>subject_gerund->建造飞船护盾发生器</li>
+  </ShipShields.generalRules.rulesStrings>
+  
+  <!-- EN: shuttle bay -->
+  <ShipShuttleBay.label>星港</ShipShuttleBay.label>
+  <!-- EN: Construct shuttle docking bays, for ferrying cargo to and from a ship. -->
+  <ShipShuttleBay.description>解锁建造可以装载、发射和对接穿梭机的「星港」。</ShipShuttleBay.description>
+  <!-- EN:
+    <li>subject->docking in space</li>
+    <li>subject_story->suffered decompression injuries due to a malfunctioning plasma barrier</li>
+    <li>subject_story->worked in "cargo acquisition" for an orbital slave trader</li>
+    <li>subject_story->squandered vast amounts of wealth on a fleet of racing shuttles</li>
+    <li>subject_gerund->landing shuttles aboard a starship</li>
+  -->
+  <ShipShuttleBay.generalRules.rulesStrings>
+    <li>subject->太空对接</li>
+    <li>subject_story->因等离子屏障出现故障而受了失压伤</li>
+    <li>subject_story->在一名轨道奴隶贩子手下干着“货物收购”的勾当</li>
+    <li>subject_story->将巨额财富挥霍在了竞速穿梭机队上</li>
+    <li>subject_gerund->将穿梭机着陆在飞船上</li>
+  </ShipShuttleBay.generalRules.rulesStrings>
+  
+  <!-- EN: EVA suits -->
+  <ShipSpaceSuits.label>舱外活动套装</ShipSpaceSuits.label>
+  <!-- EN: Self-contained life support systems allow colonists to survive in outer space. -->
+  <ShipSpaceSuits.description>解锁建造可以使殖民者在宇宙空间中活动和生存的「舱外活动套装」。</ShipSpaceSuits.description>
+  <!-- EN:
+    <li>subject->EVA suits</li>
+    <li>subject_story->discovered the hard way how human eyeballs react to vacuum</li>
+    <li>subject_story->led a clan of nomadic asteroid miners who revered their vac-suits as ancestral treasures</li>
+    <li>subject_story->organized the evacuation of the crippled passenger liner KSS Calypso</li>
+    <li>subject_gerund->keeping humans alive in vacuum</li>
+  -->
+  <ShipSpaceSuits.generalRules.rulesStrings>
+    <li>subject->舱外活动套装</li>
+    <li>subject_story->发现了人类眼球对真空环境的严重不良反应</li>
+    <li>subject_story->率领着一支将太空服视为传家宝的小行星游牧矿工氏族</li>
+    <li>subject_story->组织撤离了遇难客船KSS“卡里普索”号上的乘员</li>
+    <li>subject_gerund->让人类可以在真空中生存</li>
+  </ShipSpaceSuits.generalRules.rulesStrings>
+  
+  <!-- EN: EVA powered armor -->
+  <ShipSpaceSuitsHeavy.label>重型舱外活动套装</ShipSpaceSuitsHeavy.label>
+  <!-- EN: Apply life-support technology to powered armor, producing an armored suit which allows its occupant to survive in outer space. -->
+  <ShipSpaceSuitsHeavy.description>解锁建造动力装甲级别的「重型舱外活动套装」。</ShipSpaceSuitsHeavy.description>
+  <!-- EN:
+    <li>subject->EVA power armor</li>
+    <li>subject_story->served as quartermaster of an Imperial patrol ship during the fall of Sophiamunda</li>
+    <li>subject_story->was the lone survivor of a boarding action against a mechanoid battlesphere, thanks to special armor modifications</li>
+    <li>subject_story->defeated the pirate lord Mboko in single combat after audaciously boarding his flagship</li>
+    <li>subject_gerund->optimizing power armor for vacuum</li>
+  -->
+  <ShipSpaceSuitsHeavy.generalRules.rulesStrings>
+    <li>subject->重型舱外活动套装</li>
+    <li>subject_story->曾在索菲亚蒙达星大裂变时期于一艘帝国巡逻艇上担任军需官</li>
+    <li>subject_story->成了机械体战斗球形舰跳帮作战的唯一幸存者，而这多亏了对装甲的特殊改造</li>
+    <li>subject_story->毫无畏惧地登上了海盗王姆波克的旗舰，并在一场战斗中击败了他</li>
+    <li>subject_gerund->为在真空环境行动而优化动力装甲</li>
+  </ShipSpaceSuitsHeavy.generalRules.rulesStrings>
+  
+  <!-- EN: ship torpedoes -->
+  <ShipTorpedoes.label>飞船鱼雷</ShipTorpedoes.label>
+  <!-- EN: Launch powerful torpedoes at enemy ships. Effective at overwhelming shields. -->
+  <ShipTorpedoes.description>解锁建造「鱼雷发射管」和制作各种鱼雷，可以有效穿透敌舰护盾并对其造成杀伤。</ShipTorpedoes.description>
+  <!-- EN:
+    <li>subject->space torpedoes</li>
+    <li>subject_story->took control of a glitterworld antimatter-production facility, diverting its output to manufacture antigrain torpedoes</li>
+    <li>subject_story->was rumored to have died by riding a space torpedo while waving a cowboy hat</li>
+    <li>subject_story->developed laser-reflective coatings for space torpedoes, improving their ability to survive point defenses</li>
+    <li>subject_gerund->launching space torpedoes</li>
+  -->
+  <ShipTorpedoes.generalRules.rulesStrings>
+    <li>subject->太空鱼雷</li>
+    <li>subject_story->接管了一座闪耀世界的反物质制造厂，并令其全力装配反粒子鱼雷</li>
+    <li>subject_story->听说是因为边骑着太空鱼雷边挥舞着牛仔帽而死的</li>
+    <li>subject_story->为太空鱼雷研制了激光反射覆层，提高了它们面对点防御拦截时的生存能力</li>
+    <li>subject_gerund->发射太空鱼雷</li>
+  </ShipTorpedoes.generalRules.rulesStrings>
+  
+  <!-- EN: ship cannons -->
+  <ShipTurretAC.label>飞船动能炮塔</ShipTurretAC.label>
+  <!-- EN: Construct ballistic slugthrowers for ship-to-ship combat. Unlike energy weapons, these require ammo but need almost no cooling. -->
+  <ShipTurretAC.description>解锁建造用于飞船交战的「动能炮塔」，有效射程较近，可切换至点防御模式拦截鱼雷和穿梭机。与其他能量炮塔不同，动能炮塔需要装填实体弹药，但冷却时间很短。</ShipTurretAC.description>
+  <!-- EN:
+    <li>subject->starship autocannons</li>
+    <li>subject_story->saw energy weapons as needlessly complex, preferring the impact of metal on metal</li>
+    <li>subject_story->jury-rigged civilian spacecraft for a desperate assault on a pirate fortress</li>
+    <li>subject_story->accidentally ordered more uranium than the ship's reactor could burn, and sought a use for it</li>
+    <li>subject_gerund->constructing starship autocannons</li>
+  -->
+  <ShipTurretAC.generalRules.rulesStrings>
+    <li>subject->飞船动能炮塔</li>
+    <li>subject_story->觉得能量武器太花里胡哨，更喜欢金属实弹打在金属船体上的那种冲击感</li>
+    <li>subject_story->紧急操控民用飞船，对海盗要塞发动了孤注一掷的突击</li>
+    <li>subject_story->不小心订购了一大堆飞船反应堆根本用不完的铀，并试着寻找处理它们的办法</li>
+    <li>subject_gerund->建造飞船动能炮塔</li>
+  </ShipTurretAC.generalRules.rulesStrings>
+  
+  <!-- EN: railgun turrets -->
+  <ShipTurretKinetic.label>飞船轨道炮塔</ShipTurretKinetic.label>
+  <!-- EN: Construct small railguns for ship-to-ship combat. Most effective at long range. -->
+  <ShipTurretKinetic.description>解锁建造用于飞船交战的「轨道炮塔」，有效射程较远。</ShipTurretKinetic.description>
+  <!-- EN:
+    <li>subject->starship railguns</li>
+    <li>subject_story->was an unwilling participant in a game played between archotechs, who competed to target a human spacecraft from the furthest possible distance</li>
+    <li>subject_story->took symbolic vengeance on the Sophian navy by accelerating its victims' ashes to relativistic speeds</li>
+    <li>subject_story->operated the mass driver of a lunar mining facility, launching containers of helium-3 into precise orbits</li>
+    <li>subject_gerund->constructing starship railguns</li>
+  -->
+  <ShipTurretKinetic.generalRules.rulesStrings>
+    <li>subject->飞船轨道炮塔</li>
+    <li>subject_story->迫不得已参与了与超凡智能的比赛，要从尽可能远的距离将人类飞船当靶子打</li>
+    <li>subject_story->通过将帝国海军牺牲者的骨灰以接近光速的速度发射出去来象征性地报复他们</li>
+    <li>subject_story->操控卫月采矿设施，将装有氦-3的贮存罐精准发射到了轨道上</li>
+    <li>subject_gerund->建造飞船轨道炮塔</li>
+  </ShipTurretKinetic.generalRules.rulesStrings>
+  
+  <!-- EN: capital ship armaments -->
+  <ShipTurretLarge.label>主力舰武备</ShipTurretLarge.label>
+  <!-- EN: Construct modular spinal-mount weapons, typically seen only on capital ships. -->
+  <ShipTurretLarge.description>解锁建造模块化的脊峰火炮。这种威力惊人的武器通常只在主力舰上配备。</ShipTurretLarge.description>
+  <!-- EN:
+    <li>subject->spinal weaponry</li>
+    <li>subject_story->fought in the last stand of Old Ishwalla, desperately firing asteroid-based weapons against an endless horde of mechanoid dropships</li>
+    <li>subject_story->served aboard the KSS Judgement, an archotech-built starship whose primary gun was rumored to be kilometers long</li>
+    <li>subject_story->followed an eccentric ideoligion whose tenets limited starships to only carry a single weapon</li>
+    <li>subject_gerund->constructing spinal weaponry</li>
+  -->
+  <ShipTurretLarge.generalRules.rulesStrings>
+    <li>subject->脊峰火炮</li>
+    <li>subject_story->在旧伊萨瓦拉星的最终决战中，不顾一切地向无穷无尽的机械体运输船发射用小行星改造而成的武器</li>
+    <li>subject_story->曾在由超凡智能建造的飞船KSS“审判”号上服役，据说它的主炮足有好几千米长</li>
+    <li>subject_story->信仰一种限制飞船只能配备单种武装的奇怪文化</li>
+    <li>subject_gerund->建造脊峰火炮</li>
+  </ShipTurretLarge.generalRules.rulesStrings>
+  
+  <!-- EN: laser turrets -->
+  <ShipTurretLaser.label>飞船激光炮塔</ShipTurretLaser.label>
+  <!-- EN: Construct small lasers for ship-to-ship combat. Highly damaging but only usable at short range. Can intercept torpedoes. -->
+  <ShipTurretLaser.description>解锁建造用于飞船交战的「激光炮塔」，有效射程较近，可切换至点防御模式拦截鱼雷和穿梭机。</ShipTurretLaser.description>
+  <!-- EN:
+    <li>subject->starship lasers</li>
+    <li>subject_story->sacrificed one eye to an archotech in exchange for the secrets of laser weaponry (later losing the other eye to laser backscatter)</li>
+    <li>subject_story->used a modified mining laser to breach the armor of a mechanoid assault craft</li>
+    <li>subject_story->was shocked and disgusted to learn that lasers do not actually go "pew pew"</li>
+    <li>subject_gerund->constructing starship lasers</li>
+  -->
+  <ShipTurretLaser.generalRules.rulesStrings>
+    <li>subject->飞船激光炮塔</li>
+    <li>subject_story->以向超凡智能献祭一只眼睛为代价，换来了激光武器的秘密（而另一只眼睛后来又被激光的反向散射灼伤了）</li>
+    <li>subject_story->使用改造过的激光采矿设备破开了一艘机械体突击艇的装甲</li>
+    <li>subject_story->听说激光武器开火时实际上并不会发出“biubiubiu”的声音后感到十分震惊和反感</li>
+    <li>subject_gerund->建造飞船激光炮塔</li>
+  </ShipTurretLaser.generalRules.rulesStrings>
+  
+  <!-- EN: cruiser armaments -->
+  <ShipTurretMedium.label>巡洋舰武备</ShipTurretMedium.label>
+  <!-- EN: Construct larger versions of ship turrets, suitable for a mid-sized cruiser. -->
+  <ShipTurretMedium.description>解锁建造用于飞船交战的各种巡洋舰级大型炮塔。</ShipTurretMedium.description>
+  <!-- EN:
+    <li>subject->cruiser armaments</li>
+    <li>subject_story->was taken captive during an arms race between rival planets, forced to design starship weaponry for the opposing side</li>
+    <li>subject_story->oversaw the retrofit of an interstellar passenger liner into a vessel of war</li>
+    <li>subject_story->led a slave rebellion during the fall of Sophiamunda, jury-rigging weapons large enough to threaten Imperial warships</li>
+    <li>subject_gerund->constructing cruiser armaments</li>
+  -->
+  <ShipTurretMedium.generalRules.rulesStrings>
+    <li>subject->巡洋舰武备</li>
+    <li>subject_story->在与对手星球的军备竞赛期间遭到俘获，被迫为他们设计飞船炮塔</li>
+    <li>subject_story->监管了一个将星际客船改造成战舰的项目</li>
+    <li>subject_story->曾在索菲亚蒙达星大裂变时期发动了一场奴隶叛乱，紧急筹备了大量足以威胁到帝国舰队的武器</li>
+    <li>subject_gerund->建造巡洋舰武备</li>
+  </ShipTurretMedium.generalRules.rulesStrings>
+  
+  <!-- EN: plasma turrets -->
+  <ShipTurretPlasma.label>飞船等离子炮塔</ShipTurretPlasma.label>
+  <!-- EN: Construct small plasma cannons for ship-to-ship combat. These weapons are balanced and most effective at intermediate range. -->
+  <ShipTurretPlasma.description>解锁建造用于飞船交战的「等离子炮塔」，有效射程中等。</ShipTurretPlasma.description>
+  <!-- EN:
+    <li>subject->starship plasma cannons</li>
+    <li>subject_story->destroyed an enemy boarding shuttle by venting plasma from a warship's fusion reactor</li>
+    <li>subject_story->went mad while attempting to prove why high-temperature plasma shouldn't be green</li>
+    <li>subject_story->claimed to have learned this technology from an intelligent star whose internal plasma filaments function as a crude nervous system</li>
+    <li>subject_gerund->constructing starship plasma cannons</li>
+  -->
+  <ShipTurretPlasma.generalRules.rulesStrings>
+    <li>subject->飞船等离子炮塔</li>
+    <li>subject_story->将战舰聚变反应堆内的等离子体排出以击毁敌人的跳帮穿梭机</li>
+    <li>subject_story->为试图证明高温等离子体为什么不是绿色的而走火入魔了</li>
+    <li>subject_story->声称这项科技是一颗以内部的等离子体细丝充当简易神经系统的有知性恒星教给自己的</li>
+    <li>subject_gerund->建造飞船等离子炮塔</li>
+  </ShipTurretPlasma.generalRules.rulesStrings>
+  
+  <!-- EN: Shuttle -->
+  <ShuttleCargo.label>穿梭机</ShuttleCargo.label>
+  <!-- EN: Construct modular shuttlecraft based on miniaturized ship technology. These shuttles can be upgraded once the appropriate projects have been researched. -->
+  <ShuttleCargo.description>解锁建造整体设计基于小型化飞船组件的「穿梭机」。只要完成了相应的研究项目，就能对它进行改装。</ShuttleCargo.description>
+  <!-- EN:
+    <li>subject->modular shuttlecraft</li>
+    <li>subject_story->served the Imperial navy as a shuttle mechanic, optimizing the standard chassis for specific tasks</li>
+    <li>subject_story->flew interception missions aboard a converted cargo shuttle</li>
+    <li>subject_story->escaped pirate captivity by jury-rigging a nuclear thermal rocket engine</li>
+    <li>subject_gerund->constructing modular shuttlecraft</li>
+  -->
+  <ShuttleCargo.generalRules.rulesStrings>
+    <li>subject->模块化穿梭机</li>
+    <li>subject_story->曾在帝国海军担任穿梭机技工一职，会根据穿梭机即将执行的任务来优化它的标准底盘</li>
+    <li>subject_story->乘坐经过改装的货运穿梭机执行空中拦截任务</li>
+    <li>subject_story->通过紧急启动核热火箭推进器来逃脱海盗的监禁</li>
+    <li>subject_gerund->建造模块化穿梭机</li>
+  </ShuttleCargo.generalRules.rulesStrings>
+  
+  <!-- EN: Superheavy Shuttle -->
+  <ShuttleDropship.label>超重型穿梭机</ShuttleDropship.label>
+  <!-- EN: Build the largest shuttlecraft in common use, usually outfitted as heavy fighters or marine dropships. -->
+  <ShuttleDropship.description>解锁建造最大的「超重型穿梭机」，常被当作重型战机或陆战队运输船使用。只要完成了相应的研究项目，就能对它进行改装。</ShuttleDropship.description>
+  <!-- EN:
+    <li>subject->superheavy shuttlecraft</li>
+    <li>subject_story->witnessed an AI persona seek self-determination by escaping into space</li>
+    <li>subject_story->led the boarding operation which crippled the Imperial flagship during the fall of Sophiamunda</li>
+    <li>subject_story->decided that existing shuttlecraft simply weren't large enough</li>
+    <li>subject_gerund->constructing superheavy shuttlecraft</li>
+  -->
+  <ShuttleDropship.generalRules.rulesStrings>
+    <li>subject->超重型穿梭机</li>
+    <li>subject_story->见识过一个人格AI试图通过逃向太空来寻求自主权</li>
+    <li>subject_story->曾在索菲亚蒙达星大裂变时期主导了一次跳帮行动，成功破坏了帝国的旗舰</li>
+    <li>subject_story->意识到现存的穿梭机完全不够大</li>
+    <li>subject_gerund->建造超重型穿梭机</li>
+  </ShuttleDropship.generalRules.rulesStrings>
+  
+  <!-- EN: Heavy Shuttle -->
+  <ShuttleHeavy.label>重型穿梭机</ShuttleHeavy.label>
+  <!-- EN: Design a larger shuttle chassis capable of hauling more cargo, as well as mounting a turret. -->
+  <ShuttleHeavy.description>解锁建造能够运输更多货物，以及加装更多炮塔的「重型穿梭机」。只要完成了相应的研究项目，就能对它进行改装。</ShuttleHeavy.description>
+  <!-- EN:
+    <li>subject->heavy shuttlecraft</li>
+    <li>subject_story->evacuated colonists from the caveworld Grodol IX when its crust became unstable</li>
+    <li>subject_story->flew bombing missions against enemy starships</li>
+    <li>subject_story->claimed that an archotech whispered in a dream "just make it bigger."</li>
+    <li>subject_gerund->constructing heavy shuttlecraft</li>
+  -->
+  <ShuttleHeavy.generalRules.rulesStrings>
+    <li>subject->重型穿梭机</li>
+    <li>subject_story->在洞穴世界格罗多IX的地壳变得不稳定时，撤离了那里的所有殖民者</li>
+    <li>subject_story->乘坐重型穿梭机执行对敌舰的轰炸任务</li>
+    <li>subject_story->坚称有个超凡智能在梦里悄悄对自己说“让它变得更大吧”</li>
+    <li>subject_gerund->建造重型穿梭机</li>
+  </ShuttleHeavy.generalRules.rulesStrings>
+  
+  <!-- EN: Personal Shuttle -->
+  <ShuttlePersonal.label>私人穿梭机</ShuttlePersonal.label>
+  <!-- EN: Construct simple personal shuttles capable of reaching orbit. -->
+  <ShuttlePersonal.description>解锁建造简易的「私人穿梭机」。</ShuttlePersonal.description>
+  <!-- EN:
+    <li>subject->simple personal shuttles</li>
+    <li>subject_story->operated a courier service, ferrying VIPs and precious cargo into orbit</li>
+    <li>subject_story->wrote this book while starving alone in orbit, following a miscalculated launch trajectory</li>
+    <li>subject_story->belonged to a fringe ideologion which shunned nuclear technology, preferring simpler chemical rockets</li>
+    <li>subject_gerund->constructing basic shuttlecraft</li>
+  -->
+  <ShuttlePersonal.generalRules.rulesStrings>
+    <li>subject->简易私人穿梭机</li>
+    <li>subject_story->从事着将VIP和贵重货物送达轨道的快运服务</li>
+    <li>subject_story->在独自困于轨道上挨饿时写下了这本书，而这都是因为自己误算了发射轨道</li>
+    <li>subject_story->信仰一种拒绝核能科技并偏爱简易化学火箭的小众文化</li>
+    <li>subject_gerund->正在建造私人穿梭机</li>
+  </ShuttlePersonal.generalRules.rulesStrings>
+  
+  <!-- EN: Johnson-Tanaka Drive -->
+  <SoSJTDrive.label>约翰逊-田中驱动器</SoSJTDrive.label>
+  <!-- EN: Understand the principles behind the reactionless Johnson-Tanaka drive, capable of interplanetary and interstellar travel.\nNote: Actually constructing the drive will require an Entanglement Manifold, a very rare artifact. -->
+  <SoSJTDrive.description>解锁建造「约翰逊-田中驱动器」，这种无工质推进器能够将星际飞船送入太空并且穿过广阔的星际空间。\n\n注意：建造约翰逊-田中驱动器时需要消耗纠缠流形，这种珍稀装置很难获得。</SoSJTDrive.description>
+  <!-- EN:
+    <li>subject->Johnson-Tanaka theory</li>
+    <li>subject->exotic momentum transfer</li>
+    <li>subject_story->lectured in the university on Johnson, Tanaka and quantum-scale effects</li>
+    <li>subject_story->constructed a Johnson-Tanaka drive from first principles for a thesis</li>
+    <li>subject_story->maintained a Johnson-Tanaka drive for two decades, as the ship traveled between the stars</li>
+    <li>subject_gerund->constructing starship drives</li>
+  -->
+  <SoSJTDrive.generalRules.rulesStrings>
+    <li>subject->约翰逊-田中原理</li>
+    <li>subject->奇异动量转移</li>
+    <li>subject_story->在大学里讲授约翰逊-田中和量子尺度效应</li>
+    <li>subject_story->从第一原理的论文中学到了如何建造飞船推进器</li>
+    <li>subject_story->在20年的飞船星际航行中一直在维护飞船推进器</li>
+    <li>subject_gerund->建造约翰逊-田中驱动器</li>
+  </SoSJTDrive.generalRules.rulesStrings>
+  
+</LanguageData>

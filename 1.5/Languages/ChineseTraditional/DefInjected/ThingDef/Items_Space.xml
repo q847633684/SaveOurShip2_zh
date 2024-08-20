@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hullfoam canister -->
+  <HullFoam.label>應急泡沫罐</HullFoam.label>
+  <!-- EN: A canister of compressed ceramo-metallic foam. When sprayed, it rapidly hardens into an airtight and relatively durable barrier. Its primary use involves patching destroyed sections of starship hull until proper repairs can be made. -->
+  <HullFoam.description>裝有壓縮過的陶瓷-金屬復合泡沫的罐子。泡沫噴出後可以迅速硬化成較為結實的氣密屏障，主要用於應急封閉飛船上因受損而產生的破裂與缺口部分。</HullFoam.description>
+  
+  <!-- EN: entanglement manifold -->
+  <SoSEntanglementManifold.label>糾纏流形</SoSEntanglementManifold.label>
+  <!-- EN: A small ultratech device which entangles itself with matter inside distant stars, essential to the function of the Johnson-Tanaka drive. It cannot be duplicated without glitterworld infrastructure. -->
+  <SoSEntanglementManifold.description>這種極致科技級別的小型裝置是約翰遜-田中驅動器的重要組成部分。它與遙遠恆星內部的高能物質糾纏在了一起，為星際航行提供了用之不竭的能量。如果沒有閃耀世界尖端技術與設備的幫助，我們根本就不可能複製它。</SoSEntanglementManifold.description>
+  
+  <!-- EN: weather normalization device -->
+  <WeatherCancelDevice.label>氣象重置器</WeatherCancelDevice.label>
+  <!-- EN: A control unit for an ancient network of weather-control satellites, with a single-use authorization key. This device is pre-programmed to trigger a reset protocol across nearby regions - when used, it ends all ongoing weather effects. The satellites are even capable of rapidly dispersing toxic fallout, ending heat waves and cold snaps, and providing local relief from volcanic winters. -->
+  <WeatherCancelDevice.description>一種用於氣象控制衛星的古老網絡控制裝置，可以立即終止目標地區內的所有天氣狀況、毒霧霾、熱浪和寒流，並在一定程度上抵消火山冬天造成的負面影響。</WeatherCancelDevice.description>
+  <!-- EN: Activate -->
+  <WeatherCancelDevice.comps.CompUsable.useLabel>激活氣象重置器</WeatherCancelDevice.comps.CompUsable.useLabel>
+  
+</LanguageData>

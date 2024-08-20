@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: crittersleep caskets -->
+  <Crittersleep.label>動物休眠艙</Crittersleep.label>
+  <!-- EN: Construct crittersleep caskets, which can hold multiple small animals, and cryptonests for holding eggs. -->
+  <Crittersleep.description>解鎖建造供小動物和卵蛋休眠的「動物休眠艙」和「休眠巢」。</Crittersleep.description>
+  <!-- EN:
+    <li>subject->small animal cryptosleep</li>
+    <li>subject_story->researched the psychological effects of separation from one's pets</li>
+    <li>subject_story->refused to leave the cats behind while evacuating a doomed colony</li>
+    <li>subject_story->miniaturized the biomonitors used by large-scale cryptovaults</li>
+    <li>subject_gerund->keeping many small animals alive within one device</li>
+  -->
+  <Crittersleep.generalRules.rulesStrings>
+    <li>subject->小動物休眠</li>
+    <li>subject_story->研究了使某人與其寵物分開後會產生怎樣的心理影響</li>
+    <li>subject_story->準備從已毀滅的殖民地撤離時，拒絕將可愛的貓貓們留下</li>
+    <li>subject_story->小型化了由大型休眠庫使用的生物監測儀</li>
+    <li>subject_gerund->將小動物放入某種設備內以維持它們的生命</li>
+  </Crittersleep.generalRules.rulesStrings>
+  
+  <!-- EN: sapient holodeck -->
+  <Holodeck_AI.label>極致全像模擬設備</Holodeck_AI.label>
+  <!-- EN: Coerce a machine persona into creating endlessly entertaining simulations for your colonists. -->
+  <Holodeck_AI.description>解鎖建造由人格AI操控的「極致全像模擬設備」。</Holodeck_AI.description>
+  <!-- EN:
+    <li>subject->sapient holodecks</li>
+    <li>subject_story->claimed that the highest form of art is creating a world that the user can fully inhabit</li>
+    <li>subject_story->warned that a holodeck's machine person must monitor its users for addictive tendencies</li>
+    <li>subject_story->led the so-called Tartarus Project, intended to keep criminals in an endlessly creative state of suffering</li>
+    <li>subject_gerund->coercing AI for entertainment purposes</li>
+  -->
+  <Holodeck_AI.generalRules.rulesStrings>
+    <li>subject->極致全像模擬設備</li>
+    <li>subject_story->斷言稱藝術的最高形式是創造一個能讓使用者完全沉浸其中的世界</li>
+    <li>subject_story->警告全像模擬設備的人格AI必須監測使用者是否存在成癮的可能性</li>
+    <li>subject_story->牽頭推動了被稱作「塔爾塔羅斯」的計劃，其目的是為了讓罪犯們體驗無窮無盡且絕不重樣的痛苦</li>
+    <li>subject_gerund->以娛樂為目的強迫AI</li>
+  </Holodeck_AI.generalRules.rulesStrings>
+  
+  <!-- EN: basic holodeck -->
+  <Holodeck_Basic.label>基礎全像模擬設備</Holodeck_Basic.label>
+  <!-- EN: Improvise a holodeck from simple components. -->
+  <Holodeck_Basic.description>解鎖建造簡單的「基礎全像模擬設備」。</Holodeck_Basic.description>
+  <!-- EN:
+    <li>subject->simple holodecks</li>
+    <li>subject_story->sought escape from a life of alternating boredom and dread on the post-apocalyptic world Ishwalla</li>
+    <li>subject_story->claimed that holodeck simulations are "basically a joywire with extra steps" but chose to construct them anyway</li>
+    <li>subject_story->wanted to engage in physically-impossible acts best left to the reader's imagination</li>
+    <li>subject_gerund->improvising simple holodecks</li>
+  -->
+  <Holodeck_Basic.generalRules.rulesStrings>
+    <li>subject->基礎全像模擬設備</li>
+    <li>subject_story->在後啟示錄世界伊薩瓦拉上尋找擺脫無聊且可怕的生活的方法</li>
+    <li>subject_story->斷言稱全像模擬「基本上就是多了額外操作步驟的樂絲芯片」，但還是選擇將它造了出來</li>
+    <li>subject_story->想要體驗某些從物理上來講無法實現的行為，但具體是什麼就任憑各位讀者想像了</li>
+    <li>subject_gerund->簡單地拼湊基礎全像模擬設備</li>
+  </Holodeck_Basic.generalRules.rulesStrings>
+  
+  <!-- EN: advanced holodeck -->
+  <Holodeck_Standard.label>高級全像模擬設備</Holodeck_Standard.label>
+  <!-- EN: Construct an improved holodeck with modern, high-resolution projectors. -->
+  <Holodeck_Standard.description>解鎖建造更先進的「高級全像模擬設備」。</Holodeck_Standard.description>
+  <!-- EN:
+    <li>subject->advanced holodecks</li>
+    <li>subject_story->designed training simulations for surgeons and engineers</li>
+    <li>subject_story->claimed that holodeck simulations are a plot by AI to keep humans in a docile state of derealization</li>
+    <li>subject_story->oversaw an insidious plot to reduce a planet's population by diverting sexual activity towards virtual partners</li>
+    <li>subject_gerund->constructing holodecks</li>
+  -->
+  <Holodeck_Standard.generalRules.rulesStrings>
+    <li>subject->高級全像模擬設備</li>
+    <li>subject_story->為外科醫師和工程師們設計了模擬訓練功能</li>
+    <li>subject_story->斷言稱全像模擬設備是AI為了讓人類喪失現實感並馴化他們而設下的陰謀</li>
+    <li>subject_story->監管了一個以虛擬愛人取代現實性行為的陰謀，其目的是為了控制和降低某星球的人口</li>
+    <li>subject_gerund->建造高級全像模擬設備</li>
+  </Holodeck_Standard.generalRules.rulesStrings>
+  
+  <!-- EN: hullfoam -->
+  <HullFoam.label>應急泡沫</HullFoam.label>
+  <!-- EN: Craft hullfoam, a sprayable substance that hardens into airtight barriers. Useful for quickly patching holes in starships. -->
+  <HullFoam.description>解鎖製作和建造用於快速填堵飛船上的破損缺口的「應急泡沫罐」和「應急泡沫填充器」，將其內部的物質噴出後可以迅速硬化成氣密屏障。</HullFoam.description>
+  <!-- EN:
+    <li>subject->emergency ship repair</li>
+    <li>subject_story->held off a pirate boarding party by blocking corridors with hullfoam</li>
+    <li>subject_story->saved an early generation ship by repairing structural damage suffered during its deceleration burn</li>
+    <li>subject_story->became obsessed with cocooning the ship in protective layers after suffering radiation exposure</li>
+    <li>subject_gerund->patching holes in ship hull</li>
+  -->
+  <HullFoam.generalRules.rulesStrings>
+    <li>subject->應急飛船維修</li>
+    <li>subject_story->用應急泡沫堵塞了飛船的走廊，延緩了海盜跳幫隊的突入</li>
+    <li>subject_story->修復了早期型世代殖民飛船逆向推進減速時受到的損傷，成功拯救了它</li>
+    <li>subject_story->自暴露在輻射中後，便一直執著於將飛船包裹在防護層中</li>
+    <li>subject_gerund->用應急泡沫填補飛船船體的缺口</li>
+  </HullFoam.generalRules.rulesStrings>
+  
+  <!-- EN: afterlife casket -->
+  <ShipAvatarCasket.label>“來世”構造艙</ShipAvatarCasket.label>
+  <!-- EN: Utilize mechanites to break down a deceased body and create a formgel which mimics its biological functions - allowing the dead to live again. -->
+  <ShipAvatarCasket.description>解鎖建造能使死亡的殖民者以擬形膠凝體的姿態重獲新生的「“來世”構造艙」。</ShipAvatarCasket.description>
+  <!-- EN:
+    <li>subject->biomimetic mechanite swarms</li>
+    <li>subject->neuro-psychic substrate reconstruction</li>
+    <li>subject_story->served aboard the KSS Apotheosis during Dr. Yao's initial formgel experiments</li>
+    <li>subject_story->operated a glitterworld's afterlife vault, where the dead could live again as formgels</li>
+    <li>subject_story->spent centuries as a formgel following a fatal accident, and sought to understand this new existence</li>
+    <li>subject_gerund->reviving the dead as formgels</li>
+  -->
+  <ShipAvatarCasket.generalRules.rulesStrings>
+    <li>subject->生物擬形奈米機械群</li>
+    <li>subject->“神經-心靈”基底重構</li>
+    <li>subject_story->在姚博士開展早期的擬形膠凝體實驗時，於KSS“神尊”號上服役</li>
+    <li>subject_story->在閃耀世界管理著一艘來世蒼穹，死去的人們在那裡能以擬形膠凝體的姿態重獲新生</li>
+    <li>subject_story->自某次失事後便以擬形膠凝體的姿態度過了數個世紀，在這期間一直試著去理解這種全新的存在</li>
+    <li>subject_gerund->讓死者以擬形膠凝體的姿態重獲新生</li>
+  </ShipAvatarCasket.generalRules.rulesStrings>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>星際航行基礎</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>解鎖建造星際飛船的結構和輔助單元，這是建造飛船離開恆星系的第一步。</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut before you can even consider interstellar spaceflight, you'll need to reach orbit. The minimum requirements for a spaceworthy craft are a rocket engine, a ship bridge and basic sensors. To survive in space, your colonists will also need either a life-support system or EVA suits.\n\nThe amount of chemfuel required to launch a ship into orbit depends on its size. Larger ships may need multiple engines. -->
+  <ShipBasics.discoveredLetterText>逃離這個星球——最終將獲得自由，也許終點會是家園。\n\n不過，在真正開啟星際航行之旅前，你首先要想辦法把飛船送至星球軌道上。建造一艘能夠在太空中航行的飛船至少需要一個飛船推進器、控制台和基礎傳感器。此外，為了能在太空中正常生存，你還需要為殖民者建造生命維持系統並準備艙外活動套裝。\n\n將飛船送至星球軌道需要足夠的化合燃料，消耗量取決於飛船的大小。</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>關於：發射飛船</ShipBasics.discoveredLetterTitle>
+  <!-- EN:
+    <li>subject->starship structural engineering</li>
+    <li>subject_story->recruited starship engineers for a glitterworld fleet</li>
+    <li>subject_story->was a structural designer in an urbworld skyripper district</li>
+    <li>subject_story->harvested shipwrecks in the debris belt of a deadworld</li>
+    <li>subject_gerund->constructing starship structures</li>
+  -->
+  <ShipBasics.generalRules.rulesStrings>
+    <li>subject->星際飛船結構工程</li>
+    <li>subject_story->為閃耀世界艦隊招募星艦工程師</li>
+    <li>subject_story->曾是一名結構工程師，在都市世界摩天樓區工作</li>
+    <li>subject_story->在一個死寂世界的太空垃圾帶中回收的沉船殘骸</li>
+    <li>subject_gerund->建造星際飛船結構</li>
+  </ShipBasics.generalRules.rulesStrings>
+ 
+</LanguageData>

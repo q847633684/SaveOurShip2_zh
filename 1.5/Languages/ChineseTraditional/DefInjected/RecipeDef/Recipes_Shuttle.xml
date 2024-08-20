@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make uranium fuel pods -->
+  <MakeShuttleFuelPods.label>製作鈾燃料罐</MakeShuttleFuelPods.label>
+  <!-- EN: Craft 100 uranium fuel pods. -->
+  <MakeShuttleFuelPods.description>製作100個鈾燃料罐。</MakeShuttleFuelPods.description>
+  <!-- EN: Making uranium fuel pods. -->
+  <MakeShuttleFuelPods.jobString>製作鈾燃料罐。</MakeShuttleFuelPods.jobString>
+  
+</LanguageData>

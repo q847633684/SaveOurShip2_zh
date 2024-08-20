@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Shuttle -->
+  <SoS2_Shuttle.label>太空梭</SoS2_Shuttle.label>
+  <!-- EN: A shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features one hardpoint for a turret. -->
+  <SoS2_Shuttle.description>同時具有軌道和亞軌道航行能力的太空梭。\n\n這種太空梭的設計基於小型化的飛船組件，只要完成了相應的研究項目，就能對它進行改裝。\n這種太空梭附帶有1個可用於砲塔改裝的掛載點。\n\n注意：大部分的改裝都會降低太空梭的載貨量。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;鈾燃料罐</SoS2_Shuttle.description>
+  <!-- EN: First Thruster -->
+  <SoS2_Shuttle.components.0.label>第一推進器</SoS2_Shuttle.components.0.label>
+  <!-- EN: Second Thruster -->
+  <SoS2_Shuttle.components.1.label>第二推進器</SoS2_Shuttle.components.1.label>
+  <!-- EN: Third Thruster -->
+  <SoS2_Shuttle.components.2.label>第三推進器</SoS2_Shuttle.components.2.label>
+  <!-- EN: Fourth Thruster -->
+  <SoS2_Shuttle.components.3.label>第四推進器</SoS2_Shuttle.components.3.label>
+  <SoS2_Shuttle.components.4.label>反應堆</SoS2_Shuttle.components.4.label>
+  <SoS2_Shuttle.components.5.label>駕駛艙</SoS2_Shuttle.components.5.label>
+  <!-- EN: Heatsink Compartment -->
+  <SoS2_Shuttle.components.6.label>散熱艙</SoS2_Shuttle.components.6.label>
+  <SoS2_Shuttle.components.7.label>機身</SoS2_Shuttle.components.7.label>
+  <SoS2_Shuttle.properties.roles.0.label>飛行員</SoS2_Shuttle.properties.roles.0.label>
+  <SoS2_Shuttle.properties.roles.1.label>乘客</SoS2_Shuttle.properties.roles.1.label>
+
+  <!-- EN: Heavy Shuttle -->
+  <SoS2_Shuttle_Heavy.label>重型太空梭</SoS2_Shuttle_Heavy.label>
+  <!-- EN: A large shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features two hardpoints for turrets. -->
+  <SoS2_Shuttle_Heavy.description>同時具有軌道和亞軌道航行能力的重型太空梭。\n\n這種太空梭的設計基於小型化的飛船組件，只要完成了相應的研究項目，就能對它進行改裝。\n這種太空梭附帶有2個可用於砲塔改裝的掛載點。\n\n注意：大部分的改裝都會降低太空梭的載貨量。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;鈾燃料罐</SoS2_Shuttle_Heavy.description>
+  <!-- EN: First Thruster -->
+  <SoS2_Shuttle_Heavy.components.0.label>第一推進器</SoS2_Shuttle_Heavy.components.0.label>
+  <!-- EN: Second Thruster -->
+  <SoS2_Shuttle_Heavy.components.1.label>第二推進器</SoS2_Shuttle_Heavy.components.1.label>
+  <!-- EN: Third Thruster -->
+  <SoS2_Shuttle_Heavy.components.2.label>第三推進器</SoS2_Shuttle_Heavy.components.2.label>
+  <!-- EN: Fourth Thruster -->
+  <SoS2_Shuttle_Heavy.components.3.label>第四推進器</SoS2_Shuttle_Heavy.components.3.label>
+  <SoS2_Shuttle_Heavy.components.4.label>反應堆</SoS2_Shuttle_Heavy.components.4.label>
+  <SoS2_Shuttle_Heavy.components.5.label>駕駛艙</SoS2_Shuttle_Heavy.components.5.label>
+  <!-- EN: Heatsink Compartment -->
+  <SoS2_Shuttle_Heavy.components.6.label>散熱艙</SoS2_Shuttle_Heavy.components.6.label>
+  <SoS2_Shuttle_Heavy.components.7.label>機身</SoS2_Shuttle_Heavy.components.7.label>
+  <SoS2_Shuttle_Heavy.properties.roles.0.label>飛行員</SoS2_Shuttle_Heavy.properties.roles.0.label>
+  <SoS2_Shuttle_Heavy.properties.roles.1.label>乘客</SoS2_Shuttle_Heavy.properties.roles.1.label>
+
+  <!-- EN: Personal Shuttle -->
+  <SoS2_Shuttle_Personal.label>私人太空梭</SoS2_Shuttle_Personal.label>
+  <!-- EN: A single-occupant shuttlecraft capable of both orbital and suborbital flight. Unlike larger shuttles, this model runs on chemfuel and cannot be upgraded. -->
+  <SoS2_Shuttle_Personal.description>同時具有軌道和亞軌道航行能力的私人太空梭。\n\n與更大型的太空梭不同，這種太空梭無法進行改裝。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;化合燃料</SoS2_Shuttle_Personal.description>
+  <!-- EN: First Thruster -->
+  <SoS2_Shuttle_Personal.components.0.label>第一推進器</SoS2_Shuttle_Personal.components.0.label>
+  <!-- EN: Second Thruster -->
+  <SoS2_Shuttle_Personal.components.1.label>第二推進器</SoS2_Shuttle_Personal.components.1.label>
+  <!-- EN: Third Thruster -->
+  <SoS2_Shuttle_Personal.components.2.label>第三推進器</SoS2_Shuttle_Personal.components.2.label>
+  <!-- EN: Fourth Thruster -->
+  <SoS2_Shuttle_Personal.components.3.label>第四推進器</SoS2_Shuttle_Personal.components.3.label>
+  <SoS2_Shuttle_Personal.components.4.label>燃料箱</SoS2_Shuttle_Personal.components.4.label>
+  <SoS2_Shuttle_Personal.components.5.label>機身</SoS2_Shuttle_Personal.components.5.label>
+  <SoS2_Shuttle_Personal.properties.roles.0.label>飛行員</SoS2_Shuttle_Personal.properties.roles.0.label>
+
+  <!-- EN: Superheavy Shuttle -->
+  <SoS2_Shuttle_Superheavy.label>超重型太空梭</SoS2_Shuttle_Superheavy.label>
+  <!-- EN: A very large shuttlecraft capable of both orbital and suborbital flight, powered by uranium fuel pods. Due to its size, it requires special docking facilities.\n\nBecause the design is based on miniaturized ship components, this shuttle can be upgraded once the appropriate technologies have been researched. Most upgrades cost cargo space to install. This shuttle features three hardpoints for turrets. -->
+  <SoS2_Shuttle_Superheavy.description>同時具有軌道和亞軌道航行能力的超重型太空梭。\n\n這種太空梭的設計基於小型化的飛船組件，只要完成了相應的研究項目，就能對它進行改裝。\n這種太空梭附帶有3個可用於砲塔改裝的掛載點。\n\n注意：大部分的改裝都會降低太空梭的載貨量。\n\n&lt;color=#00B9FF&gt;乘員：&lt;/color&gt;飛行員 x1\n&lt;color=#00B9FF&gt;動力：&lt;/color&gt;鈾燃料罐</SoS2_Shuttle_Superheavy.description>
+  <!-- EN: First Thruster -->
+  <SoS2_Shuttle_Superheavy.components.0.label>第一推進器</SoS2_Shuttle_Superheavy.components.0.label>
+  <!-- EN: Second Thruster -->
+  <SoS2_Shuttle_Superheavy.components.1.label>第二推進器</SoS2_Shuttle_Superheavy.components.1.label>
+  <!-- EN: Third Thruster -->
+  <SoS2_Shuttle_Superheavy.components.2.label>第三推進器</SoS2_Shuttle_Superheavy.components.2.label>
+  <!-- EN: Fourth Thruster -->
+  <SoS2_Shuttle_Superheavy.components.3.label>第四推進器</SoS2_Shuttle_Superheavy.components.3.label>
+  <SoS2_Shuttle_Superheavy.components.4.label>反應堆</SoS2_Shuttle_Superheavy.components.4.label>
+  <SoS2_Shuttle_Superheavy.components.5.label>駕駛艙</SoS2_Shuttle_Superheavy.components.5.label>
+  <!-- EN: Heatsink Compartment -->
+  <SoS2_Shuttle_Superheavy.components.6.label>散熱艙</SoS2_Shuttle_Superheavy.components.6.label>
+  <SoS2_Shuttle_Superheavy.components.7.label>機身</SoS2_Shuttle_Superheavy.components.7.label>
+  <SoS2_Shuttle_Superheavy.properties.roles.0.label>飛行員</SoS2_Shuttle_Superheavy.properties.roles.0.label>
+  <SoS2_Shuttle_Superheavy.properties.roles.1.label>乘客</SoS2_Shuttle_Superheavy.properties.roles.1.label>
+
+</LanguageData>

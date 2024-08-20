@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Insects -->
+  <Insect_SpaceNavy.label>蟲族</Insect_SpaceNavy.label>
+  
+  <!-- EN: Mechanoids -->
+  <Mechanoid_SpaceNavy.label>機械體</Mechanoid_SpaceNavy.label>
+  
+  <!-- EN: Pirates -->
+  <Pirate_SpaceNavy.label>海盜</Pirate_SpaceNavy.label>
+  
+</LanguageData>

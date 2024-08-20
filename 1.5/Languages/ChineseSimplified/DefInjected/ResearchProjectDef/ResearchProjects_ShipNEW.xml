@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: capacitor arrays -->
+  <ShipCapacitor.label>飞船电容</ShipCapacitor.label>
+  <!-- EN: Utilize the dielectric properties of plasteel for efficient, high-capacity energy storage. -->
+  <ShipCapacitor.description>利用玻璃钢优异的介电性，解锁建造高效、高容量的「飞船电容器」和「飞船电容阵列」。</ShipCapacitor.description>
+  <!-- EN:
+    <li>subject->advanced energy storage</li>
+    <li>subject_story->grew tired of watching batteries explode seemingly at random</li>
+    <li>subject_story->adapted a fuel-processing platform to run on solar power after the failure of its primary reactor</li>
+    <li>subject_story->became obsessed with safe power delivery to starship weaponry following a tragic conduit explosion</li>
+    <li>subject_gerund->powering a starship</li>
+  -->
+  <ShipCapacitor.generalRules.rulesStrings>
+    <li>subject->高级能量存储</li>
+    <li>subject_story->已经不想再见到蓄电池随机短路爆炸</li>
+    <li>subject_story->当燃料加工平台的主反应堆故障后，启动了备用的太阳能板以支持它运行</li>
+    <li>subject_story->在经历了一次惨痛的电缆爆炸事故后，便埋头钻研如何安全地为飞船武装供电</li>
+    <li>subject_gerund->驱动一艘飞船</li>
+  </ShipCapacitor.generalRules.rulesStrings>
+  
+  <!-- EN: cloaking device -->
+  <ShipCloaking.label>隐形装置</ShipCloaking.label>
+  <!-- EN: Hide your ship's heat emissions, preventing enemies from noticing you. -->
+  <ShipCloaking.description>解锁建造「隐形装置」，可通过掩盖飞船的热量散射来防止敌人进行追踪。</ShipCloaking.description>
+  <!-- EN:
+    <li>subject->stealth technology</li>
+    <li>subject_story->helped thousands of refugees slip past an Imperial blockade</li>
+    <li>subject_story->ran intelligence-gathering operations from a cloaked dropship</li>
+    <li>subject_story->grew tired of constant pirate attacks in the orbit of a rimworld</li>
+    <li>subject_gerund->hiding starships from detection</li>
+  -->
+  <ShipCloaking.generalRules.rulesStrings>
+    <li>subject->隐形科技</li>
+    <li>subject_story->帮助成百上千的难民逃过了帝国的封锁</li>
+    <li>subject_story->在一艘隐形的运兵船上执行情报收集任务</li>
+    <li>subject_story->受够了频频发生在边缘世界轨道上的海盗袭击</li>
+    <li>subject_gerund->使飞船隐形以避开侦测</li>
+  </ShipCloaking.generalRules.rulesStrings>
+  
+  <!-- EN: ship computer core -->
+  <ShipComputerCore.label>飞船电脑核心</ShipComputerCore.label>
+  <!-- EN: Allows coercing an existing AI persona into a usable ship computer core for long-range guidance. -->
+  <ShipComputerCore.description>解锁建造「飞船电脑核心」，用一个奖励信号系统来说服现有的人格核心成为飞船上的AI舰长。人格核心对复杂状况的决策能力十分优秀，它们可以使飞船在长达数十年的星际航行里经受住任何困难与挑战。</ShipComputerCore.description>
+  <!-- EN:
+    <li>subject->persona core incentivization</li>
+    <li>subject->starship AI sanity maintenance</li>
+    <li>subject_story->regained control of an aberrant ship's core with careful reconditioning</li>
+    <li>subject_story->set up colony-management simulations to occupy the ship's core during the many years of interstellar travel</li>
+    <li>subject_story->kept a ship's core company during a 'short' interstellar trip, learning much about cores in the process</li>
+    <li>subject_gerund->incentivizing persona cores</li>
+    <li>subject_gerund->maintaining starship AI sanity</li>
+    <li>subject_gerund->constructing reward-signal systems</li>
+  -->
+  <ShipComputerCore.generalRules.rulesStrings>
+    <li>subject->人格核心激励</li>
+    <li>subject->飞船AI理智维护</li>
+    <li>subject_story->通过精心修复重新控制了一艘异常飞船的核心</li>
+    <li>subject_story->设置殖民地管理模拟，在多年的星际旅行中占据了飞船的核心</li>
+    <li>subject_story->在一次“短暂”的星际旅行中，与飞船的核心人员拉近了关系，在这个过程中了解了很多关于核心的知识</li>
+    <li>subject_gerund->激励人格核心</li>
+    <li>subject_gerund->维持飞船AI理智</li>
+    <li>subject_gerund->建造奖励信号系统</li>
+  </ShipComputerCore.generalRules.rulesStrings>
+  
+</LanguageData>

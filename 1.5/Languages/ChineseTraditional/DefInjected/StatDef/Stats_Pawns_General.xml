@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: decompression resistance -->
+  <DecompressionResistance.label>失壓抗性</DecompressionResistance.label>
+  <!-- EN: How well this creature resists decompression. -->
+  <DecompressionResistance.description>這種生物對真空失壓影響的抵抗力。</DecompressionResistance.description>
+  
+  <!-- EN: hypoxia resistance -->
+  <HypoxiaResistance.label>缺氧抗性</HypoxiaResistance.label>
+  <!-- EN: How well this creature resists lack of oxygen. -->
+  <HypoxiaResistance.description>這種生物對缺氧狀態的抵抗力。</HypoxiaResistance.description>
+  
+  <!-- EN: vacuum speed multiplier -->
+  <VacuumSpeedMultiplier.label>真空移動速度乘數</VacuumSpeedMultiplier.label>
+  <!-- EN: How fast this creature moves in vacuum. -->
+  <VacuumSpeedMultiplier.description>這種生物在真空環境中的移動速度。</VacuumSpeedMultiplier.description>
+  
+</LanguageData>

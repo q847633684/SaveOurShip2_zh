@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cryptosleep cocoon -->
+  <SoS2_Cocoon.label>低温休眠茧</SoS2_Cocoon.label>
+  <!-- EN: Carriers of this gene can grow a natural cryptosleep cocoon, allowing them to enter stasis at will. However, the process is metabolically draining and the user will emerge badly malnourished. -->
+  <SoS2_Cocoon.description>这种基因的携带者能够构造一个能将自身长期维持在生理暂停状态的低温休眠茧。他们可通过大幅加快新陈代谢的方式随时醒来，但也会因此陷入严重的营养不良状态。</SoS2_Cocoon.description>
+  <!-- EN: crypto -->
+  <SoS2_Cocoon.symbolPack.prefixSymbols.0.symbol>低温休眠</SoS2_Cocoon.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: sleeper -->
+  <SoS2_Cocoon.symbolPack.suffixSymbols.0.symbol>休眠者</SoS2_Cocoon.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: cocooner -->
+  <SoS2_Cocoon.symbolPack.wholeNameSymbols.0.symbol>结茧者</SoS2_Cocoon.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <!-- EN: vacuum adapted -->
+  <SoS2_VacuumAdapted.label>真空适应</SoS2_VacuumAdapted.label>
+  <!-- EN: Carriers of this gene can survive direct vacuum exposure. Their bodies regulate blood gases to prevent decompression injuries, and can switch to anaerobic respiration when oxygen is not available. Metabolic waste gases are ejected through the skin to provide EVA thrust. However, on its own this gene does not protect against extreme temperatures. -->
+  <SoS2_VacuumAdapted.description>这种基因的携带者可以在真空中生存。他们的身体能调整血气来免受失压影响，当周围环境氧气不足时还可以切换至无氧呼吸模式。他们新陈代谢产出的废气会通过皮肤喷出体外，起到与舱外活动套装的小型推进器相似的作用。需要注意的是，这种基因本身并不能抵御极端温度。</SoS2_VacuumAdapted.description>
+  <!-- EN: space -->
+  <SoS2_VacuumAdapted.labelShortAdj>太空</SoS2_VacuumAdapted.labelShortAdj>
+  <!-- EN: space -->
+  <SoS2_VacuumAdapted.symbolPack.prefixSymbols.0.symbol>太空</SoS2_VacuumAdapted.symbolPack.prefixSymbols.0.symbol>
+  
+</LanguageData>

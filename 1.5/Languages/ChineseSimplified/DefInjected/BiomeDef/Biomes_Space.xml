@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: outer space -->
+  <OuterSpaceBiome.label>外太空</OuterSpaceBiome.label>
+  <!-- EN: It's... space. -->
+  <OuterSpaceBiome.description>这里是...外太空。</OuterSpaceBiome.description>
+  
+</LanguageData>

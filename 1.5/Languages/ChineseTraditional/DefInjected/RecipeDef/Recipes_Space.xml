@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make hullfoam canister -->
+  <MakeHullFoam.label>製作應急泡沫罐</MakeHullFoam.label>
+  <!-- EN: Craft a canister of hullfoam. -->
+  <MakeHullFoam.description>製作一個應急泡沫罐。</MakeHullFoam.description>
+  <!-- EN: Making hullfoam. -->
+  <MakeHullFoam.jobString>製作應急泡沫罐。</MakeHullFoam.jobString>
+  
+</LanguageData>

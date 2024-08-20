@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gremlin -->
+  <Gremlin.label>深空人</Gremlin.label>
+  <!-- EN: Engineered to serve as a spaceborne labor force, gremlins work tirelessly under hazardous conditions. Not only are they resistant to toxins and extreme cold, but gremlins can endure the vacuum of space without equipment - at least long enough to patch up the hull. They do not require cryptosleep caskets for interstellar journeys, as their bodies can secrete a cryptosleep cocoon. However, gremlins are painfully aware that they are a subordinate caste; their creators repurposed many of the brain's creative abilities, leaving them psychically deaf and inept at art and research. Likewise, no effort was made to build in psychological safeguards against the anxiety of prolonged spaceflight.\n\nGremlins were created during the first age of mass colonization thousands of years ago. The xenotype has fallen out of official favor on most worlds due to ethical concerns and several high-profile mutinies. Today, most gremlins receive their xenogerm as part of an indenture contract - captains who need crew can usually find someone desperate for passage offworld, no matter the strings attached. -->
+  <Gremlin.description>深空人是為在危險環境中不眠不休地工作而設計的飛船勞動力。他們不僅具有對毒素、火焰和低溫的抗性，且能在不做任何防護措施的情況下於真空中活動——至少足以應急修理好受損的船體。在星際旅行時，也不需要為深空人準備休眠艙，因為他們可以使用特殊能力構造出具有同樣功能的休眠繭。不過隨著時間的推移，有越來越多的深空人清楚地意識到他們的階級地位異常低下；他們大腦的創新能力被其創造者刻意調整並限制，因而無法在藝術和研究方面有所造詣，也不能成為靈能者或機械師。此外，長期太空旅行所產生的焦慮感很容易使他們出現心理問題。\n\n深空人誕生於數千年前的第一次太空殖民潮時期。由於存在倫理問題和多次引發大規模嘩變的先例，這類異種人已不再被大部分世界的官方機構所青睞。現如今，大多數深空人之所以植入異種胚芽成為深空人，都是合同條款使然——缺人的船長總能找到那麼幾個急著脫離星球，急到不管招聘合同有何附加條件的倒霉蛋。</Gremlin.description>
+  <!-- EN: Engineered to labor aboard starships, gremlins do not sleep and can survive vacuum and other hazards. Their bodies can form a cryptosleep cocoon. However, their minds are creatively dull and they are unaffected by psychic phenomena. -->
+  <Gremlin.descriptionShort>深空人是為在危險環境中不眠不休地工作而設計的飛船勞動力。他們不僅具有對毒素、火焰和低溫的抗性，且能在不做任何防護措施的情況下於真空中活動。在星際旅行時，也不需要為深空人準備休眠艙，因為他們可以使用特殊能力構造出具有同樣功能的休眠繭。他們大腦的創新能力被刻意調整並限制，因而無法在藝術和研究方面有所造詣，也不能成為靈能者或機械師。</Gremlin.descriptionShort>
+  
+</LanguageData>

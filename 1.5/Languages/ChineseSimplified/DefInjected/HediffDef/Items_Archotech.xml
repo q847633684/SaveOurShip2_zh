@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: repair archites -->
+  <SoSRepairGear.label>超凡微械修复</SoSRepairGear.label>
+  <!-- EN: This pawn's gear is being repaired by archites. -->
+  <SoSRepairGear.description>超凡微械正在修复此单位的装备。</SoSRepairGear.description>
+  <!-- EN: repairing gear -->
+  <SoSRepairGear.labelNoun>超凡微械修复</SoSRepairGear.labelNoun>
+  
+</LanguageData>

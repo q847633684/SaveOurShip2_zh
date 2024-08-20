@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breaching TargetA. -->
+  <BreachAirlock.reportString>正在破拆TargetA。</BreachAirlock.reportString>
+  
+  <!-- EN: carrying eggs to cryptonest. -->
+  <CarryToCryptonest.reportString>正在將動物卵運送至休眠巢。</CarryToCryptonest.reportString>
+  
+  <!-- EN: guarding TargetA. -->
+  <DefendBreacher.reportString>正在護衛TargetA。</DefendBreacher.reportString>
+  
+  <!-- EN: fleeing from vacuum. -->
+  <FleeVacuum.reportString>正在逃離真空。</FleeVacuum.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <HackAirlock.reportString>正在駭入TargetA。</HackAirlock.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <HackBlackBoxConsole.reportString>正在駭入TargetA。</HackBlackBoxConsole.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <HackEnemyShip.reportString>正在駭入TargetA。</HackEnemyShip.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <HackSatellite.reportString>正在駭入TargetA。</HackSatellite.reportString>
+  
+  <!-- EN: installing consciousness of TargetB. -->
+  <InstallConsciousness.reportString>正在安裝TargetB的意識。</InstallConsciousness.reportString>
+  
+  <!-- EN: Refueling TargetA. -->
+  <LoadShipBuilding.reportString>正在裝填TargetA。</LoadShipBuilding.reportString>
+  
+  <!-- EN: Loading torpedo tube. -->
+  <LoadTorpedoTube.reportString>正在裝填魚雷發射管。</LoadTorpedoTube.reportString>
+  
+  <!-- EN: manning bridge. -->
+  <ManShipBridge.reportString>正在駐守艦橋。</ManShipBridge.reportString>
+  
+  <!-- EN: merging with archotech spore. -->
+  <MergeWithSpore.reportString>與遠古孢子融合。</MergeWithSpore.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScannerSpace.reportString>正在掃瞄TargetA。</OperateScannerSpace.reportString>
+  
+  <!-- EN: persuading TargetA. -->
+  <PersuadeAI.reportString>正在說服TargetA。</PersuadeAI.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <RepairItemWithGel.reportString>正在維修TargetA。</RepairItemWithGel.reportString>
+  
+  <!-- EN: repairing TargetA. -->
+  <RepairSatellite.reportString>正在維修TargetA。</RepairSatellite.reportString>
+  
+  <!-- EN: resurrecting brain in TargetA. -->
+  <ResurrectHologram.reportString>正在向TargetA中注入復甦機械液。</ResurrectHologram.reportString>
+  
+  <!-- EN: sacrificing TargetA. -->
+  <SacrificeToArchotech.reportString>正在獻祭TargetA。</SacrificeToArchotech.reportString>
+  
+</LanguageData>

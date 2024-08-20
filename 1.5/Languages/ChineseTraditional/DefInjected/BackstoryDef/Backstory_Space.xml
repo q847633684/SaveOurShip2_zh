@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is a machine persona. [PAWN_pronoun] interacts with the world via a formgel, a swarm of mechanites which mimics a human body. -->
+  <SoSHologram.description>[PAWN_nameDef]是一個人格AI。[PAWN_pronoun]操控奈米機械群構造出了等同於自己化身的擬形膠凝體，以此來與這個世界進行互動。</SoSHologram.description>
+  <!-- EN: machine persona -->
+  <SoSHologram.title>人格AI</SoSHologram.title>
+  <!-- EN: persona -->
+  <SoSHologram.titleShort>AI</SoSHologram.titleShort>
+  
+</LanguageData>

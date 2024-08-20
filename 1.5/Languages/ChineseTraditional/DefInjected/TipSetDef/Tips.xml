@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Once in orbit, colonists can scan at a ship's science console to discover orbital quest sites. Send colonists in a shuttle to visit them. -->
+  <SoSGameplayTips.tips.0>飛船到達星球軌道後，殖民者們可以使用科研控制台來掃瞄有價值的任務事件點。派遣殖民者們承坐穿梭姬去勘察它們。</SoSGameplayTips.tips.0>
+  <!-- EN: Once in orbit, advanced sensors will automatically scan for orbital quest sites. Multiple cores can speed this process along. -->
+  <SoSGameplayTips.tips.1>飛船到達星球軌道後，高級傳感器將會自動掃瞄有價值的任務事件點。建造多個高級傳感器可以加速這個過程。</SoSGameplayTips.tips.1>
+  <!-- EN: Asteroids are a great source of building materials in space, but beware of what may lurk inside... -->
+  <SoSGameplayTips.tips.2>小行星是飛船建材的重要來源，但要當心裡面可能潛藏的危險...</SoSGameplayTips.tips.2>
+  <!-- EN: The skies of most rimworlds are filled with orbital debris. Some may even contain survivors of the ship's crew, now crazed and cannibalistic. -->
+  <SoSGameplayTips.tips.3>大多數邊緣世界的軌道上都佈滿了各種各樣的太空垃圾和殘骸。有些甚至可能還有一些倖存的船員，但因絕望而步入瘋狂的他們已經開始食人了。</SoSGameplayTips.tips.3>
+  <!-- EN: Clever starship captains can hijack ancient satellites to control weather or bombard their foes. This risks triggering mechanoid-based defenses, however... -->
+  <SoSGameplayTips.tips.4>智慧超群的飛船船長可以駭入遠古衛星來控制天氣或轟炸敵人。但如果操作不慎，便很可能會激活衛星的防衛協議，並召喚來大群機械體...</SoSGameplayTips.tips.4>
+  <!-- EN: Johnson-Tanaka drives are typically only found on the largest ships, such as interstellar passenger liners. -->
+  <SoSGameplayTips.tips.5>約翰遜-田中驅動器通常只能在最大型的飛船上發現，比如星際客船。</SoSGameplayTips.tips.5>
+  <!-- EN: Ages ago, genetic engineers created colonies of vacuum-adapted insects intended to mine asteroids. This was not a good idea. -->
+  <SoSGameplayTips.tips.6>很久以前，基因工程學家們創造了一群可以適應真空環境的特殊蟲族，並準備利用它們來開採小行星。顯然，這算不上什麼好主意。</SoSGameplayTips.tips.6>
+  <!-- EN: An unarmed ship is easy prey. Install weapons before launching, or bring a shuttle and a competent boarding party. -->
+  <SoSGameplayTips.tips.7>缺少武裝的飛船很容易被俘獲。在起飛前請記得建造足夠的飛船砲塔，或準備一艘太空梭和一支合格的跳幫隊。</SoSGameplayTips.tips.7>
+  <!-- EN: Heatsinks and coolant tanks are critical to a ship's performance in combat. Without sufficient heat capacity, shields can't stay up and energy weapons can't fire. -->
+  <SoSGameplayTips.tips.8>散熱器和熱量貯存罐對飛船的作戰性能至關重要。如果飛船熱量網絡系統的熱容量不足，不僅護盾會失效，砲塔也無法開火。</SoSGameplayTips.tips.8>
+  <!-- EN: A ship can't radiate heat while its cloaking device is active. Make sure to disable it once your ship becomes dangerously hot. -->
+  <SoSGameplayTips.tips.9>當隱形裝置開啟時，飛船散熱器將無法向太空中排放熱量。在你的飛船溫度達到危險狀態時，請記得及時將它關閉。</SoSGameplayTips.tips.9>
+  <!-- EN: Enemy ships will launch boarding parties once their weapons have broken your hull. You can use point-defense weapons to help repel boarders. -->
+  <SoSGameplayTips.tips.10>一旦敵艦的武器破壞了你的船體，他們就會派出跳幫隊。你可以建造能切換至點防禦模式的激光砲塔或動能砲塔來協助擊退這些入侵者。</SoSGameplayTips.tips.10>
+  <!-- EN: Shuttles can deliver boarding parties to an enemy ship, but are vulnerable to point-defense weaponry. Armor and shield upgrades go a long way to protecting your boarding shuttles. -->
+  <SoSGameplayTips.tips.11>你可以在戰鬥時派出一艘太空梭將跳幫隊送到敵艦上，但也很容易遭到點防禦砲塔的攔截。試著改裝太空梭的裝甲與護盾來提高其生存能力。</SoSGameplayTips.tips.11>
+  <!-- EN: A colonist can use the Intellectual skill to hack an enemy ship's bridge, placing it under your control. Some captains weld multiple captured ships together. -->
+  <SoSGameplayTips.tips.12>殖民者們可以利用智識技能駭入敵艦的駕駛控制台，將其置於你的掌控之下。有些船長喜歡將多艘被俘獲的飛船焊接在一起。</SoSGameplayTips.tips.12>
+  <!-- EN: Pieces of a ship separated from its bridge will detach and drift away. They are unrecoverable, so for optimal salvaging you should disable the ship by targeting its pilot console or AI core. Boarding parties are also a good option. -->
+  <SoSGameplayTips.tips.13>飛船的某一部分與艦橋分離後就會脫落漂走，且無法找回。在通過回收港打撈敵艦的殘骸前，最好先集中火力摧毀其駕駛控制台或飛船電腦核心，或直接派出跳幫隊。</SoSGameplayTips.tips.13>
+  <!-- EN: Ship railguns are best at long range. Plasma weapons can be used at medium range or closer. Lasers are only effective up close. -->
+  <SoSGameplayTips.tips.14>飛船軌道砲塔最擅長攻擊遠距離目標。飛船等離子砲塔可以在中距離或更近的距離使用。飛船激光砲塔和動能砲塔只有在近距離時才有效。</SoSGameplayTips.tips.14>
+  <!-- EN: A well-placed torpedo can overload shields and shatter hull, assuming it isn't intercepted by point-defense weaponry. -->
+  <SoSGameplayTips.tips.15>如果沒有像飛船激光砲塔或動能砲塔這樣擁有點防禦模式的武器攔截，只需一枚艦載魚雷就可以使護盾超載並直接命中船體。</SoSGameplayTips.tips.15>
+  <!-- EN: Spinal-mount cannons deal more damage, and produce larger explosions, the more amplifiers they contain. -->
+  <SoSGameplayTips.tips.16>脊峰火砲安裝的能量增幅器越多，威力就越大。</SoSGameplayTips.tips.16>
+  <!-- EN: Larger ships require more engines to move quickly in combat. Often a small, nimble ship can outrun a heavily-armed opponent. -->
+  <SoSGameplayTips.tips.17>更大的飛船需要更多的推進器才能在戰鬥中快速移動。通常來講，一艘小巧靈活的飛船完全能從全副武裝的敵艦手下溜走。</SoSGameplayTips.tips.17>
+  <!-- EN: Each salvage bay can move up to 5000 units of ship weight. Build multiple bays to efficiently move larger wrecks. -->
+  <SoSGameplayTips.tips.18>單個回收港可以打撈總計5000kg重的飛船殘骸。多建造幾個來更有效地打撈更大型的殘骸。</SoSGameplayTips.tips.18>
+  <!-- EN: When your ship is defeated in combat, any crew inside spacer cryptosleep caskets or spacer cribs will land somewhere on the planet below. There, your story can begin anew. -->
+  <SoSGameplayTips.tips.19>當你的飛船在戰鬥中被擊毀時，所有在飛船休眠艙和太空嬰兒床裡的船員都會在下方星球的某個地方著陸。在那裡，你的故事可以重新開始。</SoSGameplayTips.tips.19>
+  <!-- EN: When boarding an enemy ship, its airlocks can be breached with the Construction skill or hacked with the Intellectual skill. -->
+  <SoSGameplayTips.tips.20>當你的跳幫隊登上敵艦時，殖民者們可以依靠建造技能或智識技能攻破其氣閘。</SoSGameplayTips.tips.20>
+  <!-- EN: The more combat-capable your ship is, the more likely you are to be challenged by formidable enemies. -->
+  <SoSGameplayTips.tips.21>你的飛船戰鬥等級越高，就越有可能受到強大敵人的挑戰。</SoSGameplayTips.tips.21>
+  <!-- EN: An emergency purge port can eject molten silver into space, quickly reducing a ship's stored heat - albeit at a fantastic cost. -->
+  <SoSGameplayTips.tips.22>緊急排熱端口可以把熔融態的銀噴射到太空中，以達到快速排出熱量的目的。雖然成本不菲，但相當高效。</SoSGameplayTips.tips.22>
+  <!-- EN: Depending on its upgrades, a shuttle can be launched on various missions during ship combat. You can recall a shuttle or change its mission from any ship bridge. -->
+  <SoSGameplayTips.tips.23>根據改裝的不同，太空梭可用於在飛船交戰中執行各種任務。你可以隨時使用飛船艦橋的駕駛控制台變更太空梭的任務，或直接令其返航。</SoSGameplayTips.tips.23>
+  <!-- EN: A shuttle equipped with lasers can be launched on interception missions during ship combat. It will attempt to destroy incoming torpedoes and dogfight enemy shuttlecraft. -->
+  <SoSGameplayTips.tips.24>加裝激光砲塔的太空梭可以在飛船交戰中執行空中攔截任務。它會試著摧毀襲來的魚雷，並與敵人的太空梭進行狗鬥。</SoSGameplayTips.tips.24>
+  <!-- EN: A shuttle equipped with laser or plasma weaponry can be launched on strafing missions during ship combat. It will fire on the enemy ship but is vulnerable to point-defense. -->
+  <SoSGameplayTips.tips.25>加裝激光或等離子砲塔的太空梭可以在飛船交戰中執行空中掃射任務。它會持續攻擊敵艦，但也很容易遭到點防禦砲塔的攔截。</SoSGameplayTips.tips.25>
+  <!-- EN: A shuttle equipped with torpedo tubes can be launched on bombing missions during ship combat. The shuttle itself will be vulnerable to point-defense, but its torpedoes will not be. -->
+  <SoSGameplayTips.tips.26>加裝魚雷發射管的太空梭可以在飛船交戰中執行空中轟炸任務。雖然它本身極容易遭到點防禦砲塔的攔截，但其發射的魚雷卻不會。</SoSGameplayTips.tips.26>
+  <!-- EN: If an enemy ship's engines are intact, shuttles will take longer to reach it. This will them expose them to more fire from point-defense weapons. -->
+  <SoSGameplayTips.tips.27>如果敵艦的推進器尚在運作，太空梭想接近它就需要花費更長時間，也因此更容易被點防禦砲塔擊中。</SoSGameplayTips.tips.27>
+  <!-- EN: Shuttlecraft come in four sizes. Only the smallest among them is powered by chemfuel; larger cargo shuttles require nuclear fuel. -->
+  <SoSGameplayTips.tips.28>太空梭有四種尺寸。其中只有最小的私人太空梭是由化合燃料驅動的；更大的三種太空梭則需要消耗鈾燃料罐。</SoSGameplayTips.tips.28>
+  <!-- EN: Shuttle bays allow cargo and passengers to enter a ship without ever risking vacuum exposure. -->
+  <SoSGameplayTips.tips.29>星港可以讓太空梭內的貨物與乘客直接進入到飛船艙室內，而不需要冒著暴露在真空中的風險。</SoSGameplayTips.tips.29>
+  <!-- EN: By default, a shuttlecraft has one seat for its pilot. Your colonists can add passenger capacity, weapons, shields, and other upgrades - at some cost in cargo space. -->
+  <SoSGameplayTips.tips.30>默認情況下，太空梭只有一個飛行員位。你的殖民者們可以通過改裝來增加太空梭的乘客位、武裝、護盾，但大部分的改裝都會降低太空梭的載貨量。</SoSGameplayTips.tips.30>
+  <!-- EN: Vacuum exposure is not fun. Be sure to have EVA suits on hand in case of a hull breach. -->
+  <SoSGameplayTips.tips.31>真空失壓可不好玩。為了您的身心健康著想，請一定要準備好艙外活動套裝。</SoSGameplayTips.tips.31>
+  <!-- EN: A ship only needs one life support system, but having a backup can save your crew in an emergency. -->
+  <SoSGameplayTips.tips.32>雖然一艘飛船僅需一台生命維持系統即可，但額外多建造一台以作後備也並非壞事。在緊急情況下，它很可能會拯救你的船員於水火之中。</SoSGameplayTips.tips.32>
+  <!-- EN: To travel between planets, you'll need a Johnson-Tanaka drive, a ship computer core, and lots of stored energy. -->
+  <SoSGameplayTips.tips.33>要進行星際航行，你需要一個約翰遜-田中驅動器、一個飛船電腦核心以及存儲足夠的電力和燃料。</SoSGameplayTips.tips.33>
+  <!-- EN: Ship reactors can be overdriven, increasing their power output at the risk of fire and radiation exposure. -->
+  <SoSGameplayTips.tips.34>飛船裂變反應堆可以過載運行，但很可能會有火災和輻射洩漏的風險。</SoSGameplayTips.tips.34>
+  <!-- EN: Ship capacitors contain an integrated fuse system, preventing short-circuit events. -->
+  <SoSGameplayTips.tips.35>飛船電容器裡內置了用來防止短路事件的保險系統。</SoSGameplayTips.tips.35>
+  <!-- EN: Thanks to hydroponics and artificial soil substrates, it is possible to build a fully self-sustaining colony in orbit. -->
+  <SoSGameplayTips.tips.36>多虧了水栽培科技和人工土壤基質，即使在星球軌道上也可以建立一個自給自足的殖民地。</SoSGameplayTips.tips.36>
+  <!-- EN: Most colonists are excited to go to space, and even more so when on EVA. Wimps and undergrounders, however, will be terrified. -->
+  <SoSGameplayTips.tips.37>大多數殖民者都對登上太空感到興奮，穿著艙外活動套裝在太空中漫步更是一件無比浪漫的事。然而，擁有「懦弱」或「穴居者」特性的殖民者可並不這麼覺得。</SoSGameplayTips.tips.37>
+  <!-- EN: Ship sensors and science consoles can remotely observe some maps, allowing you to plan attacks in advance or scout landing sites. -->
+  <SoSGameplayTips.tips.38>飛船傳感器和科研控制台可以遠程觀察指定區域的地圖，讓你提前計劃攻擊或偵察著陸點。</SoSGameplayTips.tips.38>
+  <!-- EN: In order to land, ships require an area that supports heavy construction, is free of buildings, and is not under a mountain. -->
+  <SoSGameplayTips.tips.39>飛船只能在可以支持重型結構、沒有其他建築和厚巖頂的區域著陸。</SoSGameplayTips.tips.39>
+  <!-- EN: Occasionally you will encounter trade ships in orbit. You can attempt to pirate them, but expect bounty hunters to pursue you as your notoriety rises. -->
+  <SoSGameplayTips.tips.40>你偶爾會在星球軌道上遇到商船。你完全可以像海盜一樣掠奪他們，但也會因此積累惡譽。當你臭名昭著時，會有賞金獵人前來追捕你。</SoSGameplayTips.tips.40>
+  <!-- EN: Useful resources are surprisingly abundant in space. You might want to launch a small ship at first, then gradually expand it. -->
+  <SoSGameplayTips.tips.41>太空中蘊藏著大量有價值的資源。你可以先起飛一艘小型飛船，然後在星球軌道上逐漸擴建它。</SoSGameplayTips.tips.41>
+  <!-- EN: Crittersleep caskets can store many small animals, such as cats or puppies. You will need to anesthetize them first. -->
+  <SoSGameplayTips.tips.42>動物休眠艙可以儲存許多小體型動物，例如貓和狗。只有處於倒地或麻醉狀態下的動物才能被裝進動物休眠艙中。</SoSGameplayTips.tips.42>
+  <!-- EN: Floors can be built atop ship hull tile. Your gold-paneled bridge will be the envy of every lesser captain. -->
+  <SoSGameplayTips.tips.43>地板可以鋪設在船體護板上。你那座金碧輝煌的艦橋定會讓每一個船長羨慕不已。</SoSGameplayTips.tips.43>
+  <!-- EN: The holodeck can train any skill, depending on the program your colonist selects when using it. More advanced holodecks train skills faster. -->
+  <SoSGameplayTips.tips.44>全像模擬設備可以訓練任何技能，這取決於你的殖民者在使用它時選擇的程序。全像模擬設備越高級，訓練技能的速度就越快。</SoSGameplayTips.tips.44>
+  <!-- EN: The cloaking device prevents enemy ships from noticing you. It is useless once combat has already begun, however. -->
+  <SoSGameplayTips.tips.45>隱形裝置可以防止敵艦發現你。但如果戰鬥已經開始，就起不到任何作用了。</SoSGameplayTips.tips.45>
+  <!-- EN: A modern replacement for antiquated hologram technology, formgels are swarms of mechanites which mimic biological human bodies. -->
+  <SoSGameplayTips.tips.46>我們先進的擬形膠凝體已經完全超越了老舊的全息投影技術。擬形膠凝體由奈米機械群構造而成，從外形來看和人類並無差別。</SoSGameplayTips.tips.46>
+  <!-- EN: Spacer legends tell of archotech spores - ship computer cores that have begun upgrading themselves into archotechs. Usually this requires mental contact with an existing archotech... -->
+  <SoSGameplayTips.tips.47>遠古孢子最終會升級為新生的遠古智能。為了加快這一進程，你需要對遠古科技做更深入的研究。</SoSGameplayTips.tips.47>
+  <!-- EN: Archotech spores are temperamental beings, and will play "pranks" on their crew if their mood dips too low. -->
+  <SoSGameplayTips.tips.48>遠古孢子是喜怒無常的存在。如果遠古孢子心情不佳，它很可能會對殖民者們施以小小的「惡作劇」。</SoSGameplayTips.tips.48>
+  <!-- EN: You can improve an archotech spore's mood by having colonists meditate nearby, or by giving it the brain of a prisoner to examine. This kills the prisoner. -->
+  <SoSGameplayTips.tips.49>殖民者在附近冥想或獻祭囚犯都可以取悅遠古孢子。</SoSGameplayTips.tips.49>
+  <!-- EN: An archotech spore will sometimes offer its human progenitors gifts. The more technologies it has unlocked, the more gifts are available. -->
+  <SoSGameplayTips.tips.50>遠古孢子偶爾會為它的人類創造者施予恩惠。你解鎖的遠古科技研究項目越多，可獲得的恩惠種類就越多。</SoSGameplayTips.tips.50>
+  <!-- EN: In order to quickly evolve into a full archotech, an archotech spore can reverse-engineer artifacts known as Pillars. Four are known to exist on the Rim, all well-guarded. -->
+  <SoSGameplayTips.tips.51>為了快速升級為完整的遠古智能，遠古孢子可以對遠古支柱進行逆向工程。目前已知有四個支柱處於邊緣世界中，它們都被各方勢力派系嚴加守護著。</SoSGameplayTips.tips.51>
+  <!-- EN: No lesser being can stand against an archotech. Once your archotech spore completes its evolution, the world will be yours. -->
+  <SoSGameplayTips.tips.52>沒有任何生物可以忤逆遠古智能的意志。一旦你的遠古孢子完成了升級，這個世界將成為你的囊中之物。</SoSGameplayTips.tips.52>
+  <!-- EN: Once the appropriate research has been completed, an archotech spore can generate a wide range of psychic phenomena upon request. -->
+  <SoSGameplayTips.tips.53>一旦完成對應的研究項目，遠古孢子可以根據需求產生各種心靈現象。</SoSGameplayTips.tips.53>
+  <!-- EN: "Archolife" creatures were designed by an archotech spore. They resemble mundane animals but do not need to eat, are effectively immortal, and even generate a shield in combat. -->
+  <SoSGameplayTips.tips.54>「遠古生物」是由遠古孢子設計的。它們看起來很像普通的動物，但幾乎不需要進食，同樣沒有最大年齡上限。它們既可以在真空環境下正常生存，也可以在戰鬥中生成保護自身的護盾，甚至還能治癒身上的疤痕並再生失去的肢體。</SoSGameplayTips.tips.54>
+  <!-- EN: The Psychic Flayer is a dreaded weapon employed by the most advanced starships. It can stun dozens of crew at once, allowing boarding parties to do their work unopposed. -->
+  <SoSGameplayTips.tips.55>弒靈者是最可怕的脊峰火砲。它一擊就能使數十名敵艦船員失去戰鬥力，讓跳幫隊在毫無阻礙的情況下完成他們的戰鬥。</SoSGameplayTips.tips.55>
+  <!-- EN: Shipeater mechanites can consume almost any solid material, but will be disabled by firefoam or water. -->
+  <SoSGameplayTips.tips.56>噬艦者奈米機械可以快速分解掉幾乎任何種類的固體材料。當情況快要失去控制時，不妨用阻燃泡沫或水來阻止它們。</SoSGameplayTips.tips.56>
+  <!-- EN: Invented by an archotech spore, the Recyclotron is capable of taking apart nearly any object at 100% efficiency. -->
+  <SoSGameplayTips.tips.57>由遠古孢子發明的分解回收爐能夠以100%的效率分解並回收幾乎任何種類的物品。</SoSGameplayTips.tips.57>
+  <!-- EN: The archocat was designed in the image of "Eclectic" and "Hitomi" - two early 21st-century housepets universally regarded as history's most lovable cats. -->
+  <SoSGameplayTips.tips.58>遠古貓的的造型靈感源自「Eclectic」和「Hitomi」——這兩隻生活在21世紀早期的小傢伙被公認為是人類歷史上最可愛的貓貓。你可以在本mod的Textures文件夾中找到它們的照片。</SoSGameplayTips.tips.58>
+  
+</LanguageData>

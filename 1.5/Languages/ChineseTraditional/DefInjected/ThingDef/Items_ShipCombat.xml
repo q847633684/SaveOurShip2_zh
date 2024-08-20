@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: antigrain torpedo -->
+  <Bullet_Fake_Torpedo_Antimatter.label>反粒子魚雷</Bullet_Fake_Torpedo_Antimatter.label>
+  
+  <!-- EN: EMP torpedo -->
+  <Bullet_Fake_Torpedo_EMP.label>EMP魚雷</Bullet_Fake_Torpedo_EMP.label>
+  
+  <!-- EN: high-explosive torpedo -->
+  <Bullet_Fake_Torpedo_HighExplosive.label>高爆魚雷</Bullet_Fake_Torpedo_HighExplosive.label>
+  
+  <!-- EN: antigrain torpedo -->
+  <Bullet_Torpedo_Antimatter.label>反粒子魚雷</Bullet_Torpedo_Antimatter.label>
+  
+  <!-- EN: EMP torpedo -->
+  <Bullet_Torpedo_EMP.label>EMP魚雷</Bullet_Torpedo_EMP.label>
+  
+  <!-- EN: high-explosive torpedo -->
+  <Bullet_Torpedo_HighExplosive.label>高爆魚雷</Bullet_Torpedo_HighExplosive.label>
+  
+  <!-- EN: antigrain torpedo -->
+  <ShipTorpedo_Antimatter.label>反粒子魚雷</ShipTorpedo_Antimatter.label>
+  <!-- EN: A torpedo tipped with an antigrain warhead. Can be fired from torpedo tubes. Explodes when damaged. -->
+  <ShipTorpedo_Antimatter.description>裝填了反粒子彈頭的魚雷，可通過魚雷發射管來射向敵艦。受損後爆炸。</ShipTorpedo_Antimatter.description>
+  
+  <!-- EN: EMP torpedo -->
+  <ShipTorpedo_EMP.label>EMP魚雷</ShipTorpedo_EMP.label>
+  <!-- EN: A torpedo tipped with an EMP generator. Can be fired from torpedo tubes. Explodes when damaged. -->
+  <ShipTorpedo_EMP.description>裝填了EMP發生器的魚雷，可通過魚雷發射管來射向敵艦。受損後爆炸。</ShipTorpedo_EMP.description>
+  
+  <!-- EN: high-explosive torpedo -->
+  <ShipTorpedo_HighExplosive.label>高爆魚雷</ShipTorpedo_HighExplosive.label>
+  <!-- EN: A torpedo tipped with high explosives. Can be fired from torpedo tubes. Explodes when damaged. -->
+  <ShipTorpedo_HighExplosive.description>裝填了高爆炸藥的魚雷，可通過魚雷發射管來射向敵艦。受損後爆炸。</ShipTorpedo_HighExplosive.description>
+  
+</LanguageData>

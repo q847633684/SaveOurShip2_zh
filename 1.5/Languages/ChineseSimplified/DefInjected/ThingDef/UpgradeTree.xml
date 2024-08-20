@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: laser beam -->
+  <Shuttle_Laser.label>激光能量束</Shuttle_Laser.label>
+  
+  <!-- EN: laser beam -->
+  <Shuttle_Laser_Space.label>激光能量束</Shuttle_Laser_Space.label>
+  
+  <!-- EN: plasma toroid -->
+  <Shuttle_Plasma.label>等离子炮弹</Shuttle_Plasma.label>
+  
+</LanguageData>

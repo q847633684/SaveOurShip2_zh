@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: uranium fuel pod -->
+  <ShuttleFuelPods.label>鈾燃料罐</ShuttleFuelPods.label>
+  <!-- EN: A small canister of enriched uranium. -->
+  <ShuttleFuelPods.description>裝有濃縮鈾的小罐子。</ShuttleFuelPods.description>
+  
+</LanguageData>

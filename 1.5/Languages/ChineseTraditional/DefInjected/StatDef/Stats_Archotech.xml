@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech pillars connected -->
+  <ArchotechPillarsConnected.label>遠古支柱鏈接數</ArchotechPillarsConnected.label>
+  <!-- EN: The number of unique pillars connected to this archotech spore. -->
+  <ArchotechPillarsConnected.description>鏈接到遠古孢子上的遠古支柱的數量。</ArchotechPillarsConnected.description>
+  
+</LanguageData>

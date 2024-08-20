@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vacuum -->
+  <EmptySpace.label>真空</EmptySpace.label>
+  
+  <!-- EN: ship -->
+  <FakeFloorInsideShip.label>飛船</FakeFloorInsideShip.label>
+  
+  <!-- EN: archotech ship -->
+  <FakeFloorInsideShipArchotech.label>遠古飛船</FakeFloorInsideShipArchotech.label>
+  
+  <!-- EN: hullfoam -->
+  <FakeFloorInsideShipFoam.label>應急泡沫船體</FakeFloorInsideShipFoam.label>
+  
+  <!-- EN: mechanoid ship -->
+  <FakeFloorInsideShipMech.label>機械飛船</FakeFloorInsideShipMech.label>
+  
+  <!-- EN: wreckage -->
+  <ShipWreckageTerrain.label>殘骸</ShipWreckageTerrain.label>
+  
+  <!-- EN: artificial soil substrate -->
+  <SoilShip.label>人造土壤基質</SoilShip.label>
+  <!-- EN: Synthetic soil laced with catalysts and micro-organisms, theoretically self-sustaining even aboard a starship. -->
+  <SoilShip.description>摻有催化劑和微生物的合成土壤，理論上甚至在飛船上也能自我維持。</SoilShip.description>
+  <!-- EN: dirt -->
+  <SoilShip.tools.dirt.label>塵土</SoilShip.tools.dirt.label>
+  
+</LanguageData>

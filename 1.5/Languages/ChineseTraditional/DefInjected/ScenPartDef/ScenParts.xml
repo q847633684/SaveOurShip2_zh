@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: start in afterlife vault -->
+  <AfterlifeVault.label>從來世蒼穹開始</AfterlifeVault.label>
+  
+  <!-- EN: load ship -->
+  <LoadPreviousShip.label>載入飛船</LoadPreviousShip.label>
+  
+  <!-- EN: start in space -->
+  <StartInSpace.label>從太空開始</StartInSpace.label>
+  
+</LanguageData>

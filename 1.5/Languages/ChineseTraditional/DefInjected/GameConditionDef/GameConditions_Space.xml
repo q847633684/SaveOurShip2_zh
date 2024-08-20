@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: space debris -->
+  <SpaceDebris.label>太空垃圾</SpaceDebris.label>
+  <!-- EN: A space debris field. -->
+  <SpaceDebris.description>這片區域充滿了大量太空垃圾。</SpaceDebris.description>
+  <!-- EN: Ship has cleared the debris field. -->
+  <SpaceDebris.endMessage>飛船已駛離太空垃圾帶。</SpaceDebris.endMessage>
+  
+</LanguageData>

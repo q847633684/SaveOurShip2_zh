@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->"Mayday, mayday... containment failure... by pirate... not responding... impact..." The garbled radio signal is accompanied by a blazing streak across the sky. It appears that the ship will make landfall not far from [map_definite].\n\nA downed ship will attract every pirate, looter, and treasure hunter in a wide radius. Even if you arrive in time, you'll have to fight both fires and raids in order to secure the ship's valuable salvage.\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <SoSMayday.questDescriptionRules.rulesStrings>
+    <li>questDescription->“求救，求救...操控系統...失效...是該死的...海盜...已經沒有...響應...要...撞上...”一道耀眼的閃光劃過天際，我們也同時接收到了這些內容模糊不清的無線電信號。那艘飛船似乎即將墜毀在[map_definite]的附近。\n\n各路的海盜、劫掠者和寶藏獵人們自然不會放過這個好機會。即便我們及時抵達了墜毀地點，想要回收有用的飛船殘骸也相當困難。\n\n看起來[allSitePartsDescriptionsExceptFirst]</li>
+  </SoSMayday.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Ship Mayday</li>
+  -->
+  <SoSMayday.questNameRules.rulesStrings>
+    <li>questName->飛船呼救</li>
+  </SoSMayday.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任務已失效：[resolvedQuestName]</SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the ship has been stripped of all valuables. The quest [resolvedQuestName] has expired. -->
+  <SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>依據我們最新截獲的通訊信息來看，那艘墜毀的飛船已經被洗劫一空了。任務[resolvedQuestName]已經失效。</SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

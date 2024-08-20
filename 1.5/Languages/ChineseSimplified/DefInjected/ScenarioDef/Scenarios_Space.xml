@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Afterlife Vault -->
+  <SoSAfterlifeVault.label>来世苍穹</SoSAfterlifeVault.label>
+  <!-- EN: Your colonists were among the millions who died during this rimworld's apocalyptic wars. As society collapsed around them, the extremely wealthy built "Afterlife Vaults" to house the brains of their deceased loved ones. Only a few were completed, and with the collapse of the global power grid their AIs generally decided to enter hibernation.\n\nNow, centuries later, the AI has concluded that rescue will never come. Your afterlife caskets are capable of generating formgels - swarms of mechanites which mimic the original bodies of the deceased - but power supplies only suffice to run one or two at a time.\n\nCan you secure a future for the long-dead? -->
+  <SoSAfterlifeVault.description>你们几人早已在曾经席卷整个边缘世界的浩劫战争中死去。当社会秩序分崩离析时，那些巨企资本家们建造了“来世苍穹”来存放已故亲人的思维意识。由于项目受阻，真正完工的“来世苍穹”只有寥寥几艘。随着全球电网的瘫痪，其搭载的AI决定进入休眠状态。\n\n现在，几个世纪的时光已悄然流逝，AI也因此得出了“被救援几率为0%”的最终结论。你们构造舱上的拟形胶凝体装置已被重新激活，但现有的电力供应也仅能维持一到两个拟形胶凝体活动。\n\n你能带给这些死去很久的人一个崭新的未来吗？</SoSAfterlifeVault.description>
+  <!-- EN: Your colonists were among the millions who died during this rimworld's apocalyptic wars. As society collapsed around them, the extremely wealthy built "Afterlife Vaults" to house the brains of their deceased loved ones. Only a few were completed, and with the collapse of the global power grid their AIs generally decided to enter hibernation.\n\nNow, centuries later, the AI has concluded that rescue will never come. Your afterlife caskets are capable of generating formgels - swarms of mechanites which mimic the original bodies of the deceased - but power supplies only suffice to run one or two at a time.\n\nCan you secure a future for the long-dead? -->
+  <SoSAfterlifeVault.scenario.description>你们几人早已在曾经席卷整个边缘世界的浩劫战争中死去。当社会秩序分崩离析时，那些巨企资本家们建造了“来世苍穹”来存放已故亲人的思维意识。由于项目受阻，真正完工的“来世苍穹”只有寥寥几艘。随着全球电网的瘫痪，其搭载的AI决定进入休眠状态。\n\n现在，几个世纪的时光已悄然流逝，AI也因此得出了“被救援几率为0%”的最终结论。你们构造舱上的拟形胶凝体装置已被重新激活，但现有的电力供应也仅能维持一到两个拟形胶凝体活动。\n\n你能带给这些死去很久的人一个崭新的未来吗？</SoSAfterlifeVault.scenario.description>
+  <!-- EN: Afterlife Vault -->
+  <SoSAfterlifeVault.scenario.name>来世苍穹</SoSAfterlifeVault.scenario.name>
+  <!-- EN: Some of you picked up a charge rifle and died for your country; others were ignominiously crushed under rubble when the first round of orbital bombings hit. In any case, you are all well and truly dead, casualties of this rimworld's apocalyptic wars.\n\nBefore society collapsed, your wealthy loved ones secured you a spot in one of the new "Afterlife Vaults," with the promise of your revived brain being able to interact with the world as a formgel - a swarm of mechanites which perfectly imitates your original body. And wouldn't you know it, the outlandish promises all turned out to be true.\n\nOf course, that was before the collapse of the global power grid. Over the centuries, the mechanoids guarding your tomb have one by one failed or been destroyed. The AI has finally calculated the odds of rescue to be negligible, and re-enabled your consciousnes.\n\nAt the moment, there is only enough power to run one or two formgels at a time. Can you build out power infrastructure and secure a future for the dead? -->
+  <SoSAfterlifeVault.scenario.parts.GameStartDialog.text>你们几人早已在曾经席卷整个边缘世界的浩劫战争中死去。当社会秩序分崩离析时，那些巨企资本家们建造了“来世苍穹”来存放已故亲人的思维意识。由于项目受阻，真正完工的“来世苍穹”只有寥寥几艘。随着全球电网的瘫痪，其搭载的AI决定进入休眠状态。\n\n现在，几个世纪的时光已悄然流逝，AI也因此得出了“被救援几率为0%”的最终结论。你们构造舱上的拟形胶凝体装置已被重新激活，但现有的电力供应也仅能维持一到两个拟形胶凝体活动。\n\n你能带给这些死去很久的人一个崭新的未来吗？</SoSAfterlifeVault.scenario.parts.GameStartDialog.text>
+  <!-- EN: Six formgel colonists and a benevolent AI, but not enough power to run them all at once. -->
+  <SoSAfterlifeVault.scenario.summary>六名拟形胶凝体殖民者和一个友好的AI，但你缺少足够的能量来同时运行它们。</SoSAfterlifeVault.scenario.summary>
+  
+  <!-- EN: Derelict Ship -->
+  <SoSDerelict.label>废弃飞船</SoSDerelict.label>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi, stirred from slumber by an automated warning. A storm of micrometeorites has torn several breaches in your ship's hull and destroyed its Johnson-Tanaka drive. Trapped in orbit above an unknown rimworld, you must patch up your damaged ship and make long-term survival plans. -->
+  <SoSDerelict.description>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来。一场微型陨石风暴撕裂了飞船的船体，并摧毁了约翰逊-田中驱动器。飞船被困在一个未知的边缘世界的近地轨道上，你们必须想办法修理好受损的飞船，并制定一份长期的生存计划。</SoSDerelict.description>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi, stirred from slumber by an automated warning. A storm of micrometeorites has torn several breaches in your ship's hull and destroyed its Johnson-Tanaka drive. Trapped in orbit above an unknown rimworld, you must patch up your damaged ship and make long-term survival plans. -->
+  <SoSDerelict.scenario.description>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来。一场微型陨石风暴撕裂了飞船的船体，并摧毁了约翰逊-田中驱动器。飞船被困在一个未知的边缘世界的近地轨道上，你们必须想办法修理好受损的飞船，并制定一份长期的生存计划。</SoSDerelict.scenario.description>
+  <!-- EN: Derelict Ship -->
+  <SoSDerelict.scenario.name>废弃飞船</SoSDerelict.scenario.name>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi, stirred from slumber by an automated warning. A storm of micrometeorites has torn several breaches in your ship's hull and destroyed its Johnson-Tanaka drive. Trapped in orbit above an unknown rimworld, you must patch up your damaged ship and make long-term survival plans.\n\nPerhaps you can acquire resources by scanning for orbital sites. You could also turn your sensors towards the planet's surface to scout a potential landing site for your ship. -->
+  <SoSDerelict.scenario.parts.GameStartDialog.text>你们三人在刺耳的警报声与金属碎裂声中从低温休眠舱内醒来。一场微型陨石风暴撕裂了飞船的船体，并摧毁了约翰逊-田中驱动器。飞船被困在一个未知的边缘世界的近地轨道上，你们必须想办法修理好受损的飞船，并制定一份长期的生存计划。\n\n也许你可以通过扫描星球轨道来发现一些藏有资源的地点。你也可以将你的传感器转向星球表面，为你的飞船侦查潜在的着陆点。但无论如何，你都需要重新拾起所需的科技并妥善修理好飞船。</SoSDerelict.scenario.parts.GameStartDialog.text>
+  <!-- EN: Three survivors aboard a damaged starship. -->
+  <SoSDerelict.scenario.summary>三名幸存者及一艘受损的飞船。</SoSDerelict.scenario.summary>
+  
+  <!-- EN: Space Station -->
+  <SoSDungeon.label>废弃空间站</SoSDungeon.label>
+  <!-- EN: You left home to join a crew bound for the stars, signed up for a long-duration operation out on the Rim.\n\nAt least, that's what you thought you were getting into.\n\nUpon awakening in your cryptosleep casket to the sound of warning klaxons, you find yourself on a space station. Likely abandoned, the life support and artificial ecosystem have run amok, filling the habitation spheres with wild plant life. How long have you been buried in here? -->
+  <SoSDungeon.description>你们三人离开家乡加入了一支星际船队，签下了在边缘世界长期工作的合同。\n\n至少你们认为是这样的。\n\n在刺耳的警报声中从低温休眠舱内醒来后，你们发现自己正处于一颗小行星的中心。依托其建造的空间站显然早就被废弃了。人工生态和生命维持系统已经失控，站内也被疯狂生长的野生植物所占据。你们到底被埋在这儿了多久了？</SoSDungeon.description>
+  <!-- EN: You left home to join a crew bound for the stars, signed up for a long-duration operation out on the Rim.\n\nAt least, that's what you thought you were getting into.\n\nUpon awakening in your cryptosleep casket to the sound of warning klaxons, you find yourself on a space station. Likely abandoned, the life support and artificial ecosystem have run amok, filling the habitation spheres with wild plant life. How long have you been buried in here? -->
+  <SoSDungeon.scenario.description>你们三人离开家乡加入了一支星际船队，签下了在边缘世界长期工作的合同。\n\n至少你们认为是这样的。\n\n在刺耳的警报声中从低温休眠舱内醒来后，你们发现自己正处于一颗小行星的中心。依托其建造的空间站显然早就被废弃了。人工生态和生命维持系统已经失控，站内也被疯狂生长的野生植物所占据。你们到底被埋在这儿了多久了？</SoSDungeon.scenario.description>
+  <!-- EN: Space Station -->
+  <SoSDungeon.scenario.name>废弃空间站</SoSDungeon.scenario.name>
+  <!-- EN: You left home to join a crew bound for the stars, signed up for a long-duration mining operation out on the Rim.\n\nAt least, that's what you thought you were getting into.\n\nUpon awakening in your cryptosleep casket to the sound of warning klaxons, you find yourself at the center of an asteroid. The mining base is abandoned. The life support and artificial ecosystem have run amok, filling the habitation spheres with wild plant life. How long have you been buried in here?\n\nThe power must have kicked back online after a tunnel collapse. One of the two reactors are down, the other is burning through the last of its fuel. With power dwindling, you might choose to put the remaining reactor into overdrive to ensure constant power. Or maybe try the backup chemfuel generators.\n\nThis far out on the Rim, rescue is unlikely. And you have a feeling you're not alone... -->
+  <SoSDungeon.scenario.parts.GameStartDialog.text>你们三人离开家乡加入了一支星际船队，签下了在边缘世界长期工作的合同。\n\n至少你们认为是这样的。\n\n在刺耳的警报声中从低温休眠舱内醒来后，你们发现自己正处于一颗小行星的中心。依托其建造的空间站显然早就被废弃了。人工生态和生命维持系统已经失控，站内也被疯狂生长的野生植物所占据。你们到底被埋在这儿了多久了？\n\n电力一定是在隧道坍塌后重新启动的。两个反应堆中的一个已经停摆了，另一个正在消耗仅剩的燃料。随着电力的减少，你可能得让剩下的那个反应堆超速运转，以确保持续的电力。或者试试备用的化合燃料发电机。\n\n离边缘世界这么远的地方是没有救援的，而且这里似乎不止有你们三人...</SoSDungeon.scenario.parts.GameStartDialog.text>
+  <!-- EN: Three survivors aboard a space station. -->
+  <SoSDungeon.scenario.summary>三名幸存者及一个受损的小行星基地。</SoSDungeon.scenario.summary>
+  
+  <!-- EN: Load Ship -->
+  <SoSLoadShip.label>载入飞船</SoSLoadShip.label>
+  <!-- EN: Experimental feature - expect a ton of red and yellow alerts. These may or may not be harmless. If you encounter issues, give it a few second, then try loading and saving the game. If your ship didn't make it, we need your Player.log file in order to figure out what's going on!\n\nStart with a ship that has left for another planet. You can edit the scenario and select your saved ship bellow. You can also choose to discard logs and tales, lowering your save size. This will disable many other types of scenario part, such as starting pawns. -->
+  <SoSLoadShip.description>注意：此剧本属于实验性功能，预计会产生大量红黄字报错。它们可能不会造成任何影响，当然也有可能...你懂的。\n如果你遇到了问题，可以先耐心等待一会，然后再试着载入和保存游戏。如果你的飞船始终无法生成，请向SOS2的制作组反馈并提供完整的“Player.log”文件！\n\n此剧本将以前往另一个边缘世界的飞船开始。你可以点击下方的“剧本编辑器”按钮来选择先前保存的飞船。你还可以选择删掉已记录的logs和tales来缩减存档大小，但这样做会禁用包括开局殖民者在内的许多剧本功能。</SoSLoadShip.description>
+  <!-- EN: Experimental feature - expect a ton of red and yellow alerts. These may or may not be harmless. If you encounter issues, give it a few second, then try loading and saving the game. If your ship didn't make it, we need your Player.log file in order to figure out what's going on!\n\nStart with a ship that has left for another planet. You can edit the scenario and select your saved ship bellow. You can also choose to discard logs and tales, lowering your save size. This will disable many other types of scenario part, such as starting pawns. -->
+  <SoSLoadShip.scenario.description>注意：此剧本属于实验性功能，预计会产生大量红黄字报错。它们可能不会造成任何影响，当然也有可能...你懂的。\n如果你遇到了问题，可以先耐心等待一会，然后再试着载入和保存游戏。如果你的飞船始终无法生成，请向SOS2的制作组反馈并提供完整的“Player.log”文件！\n\n此剧本将以前往另一个边缘世界的飞船开始。你可以点击下方的“剧本编辑器”按钮来选择先前保存的飞船。你还可以选择删掉已记录的logs和tales来缩减存档大小，但这样做会禁用包括开局殖民者在内的许多剧本功能。</SoSLoadShip.scenario.description>
+  <!-- EN: Load Ship -->
+  <SoSLoadShip.scenario.name>载入飞船</SoSLoadShip.scenario.name>
+  <!-- EN: Select ship to load -->
+  <SoSLoadShip.scenario.parts.LoadPreviousShip.filename>选择飞船</SoSLoadShip.scenario.parts.LoadPreviousShip.filename>
+  <!-- EN: Start with a ship that has left for another planet. -->
+  <SoSLoadShip.scenario.summary>前往另一个边缘世界的飞船。</SoSLoadShip.scenario.summary>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mother hive site -->
+  <InsectPillarSite.label>蟲族母巢</InsectPillarSite.label>
+  <!-- EN: The location of this planet's largest insect hive, apparently built around an archotech pillar. -->
+  <InsectPillarSite.description>位於星球地下深處的蟲族母巢，一根遠古支柱正靜靜地矗立在那裡。</InsectPillarSite.description>
+  
+  <!-- EN: moon base site -->
+  <MoonPillarSite.label>衛月機巢</MoonPillarSite.label>
+  <!-- EN: A mechanoid base on the moon, where an archotech pillar is being studied. -->
+  <MoonPillarSite.description>位於星球衛月上的機械體巢穴，一根遠古支柱正靜靜地矗立在那裡。</MoonPillarSite.description>
+  
+  <!-- EN: Enemy Ship -->
+  <ShipEnemy.label>敵對飛船</ShipEnemy.label>
+  <!-- EN: A nearby hostile ship. -->
+  <ShipEnemy.description>附近的敵對飛船。</ShipEnemy.description>
+  
+  <!-- EN: impact site -->
+  <ShipEngineImpactSite.label>撞擊地點</ShipEngineImpactSite.label>
+  <!-- EN: The impact site of an ancient ship's engine. -->
+  <ShipEngineImpactSite.description>古代飛船推進器的撞擊地點。</ShipEngineImpactSite.description>
+  
+  <!-- EN: Orbiting Ship -->
+  <ShipOrbiting.label>軌道飛船</ShipOrbiting.label>
+  <!-- EN: A ship you have launched into orbit. -->
+  <ShipOrbiting.description>已抵達星球軌道的飛船。</ShipOrbiting.description>
+  
+  <!-- EN: star totem site -->
+  <TribalPillarSite.label>星宇圖騰所在地</TribalPillarSite.label>
+  <!-- EN: The holiest site of this planet's tribes: the impact crater of an archotech pillar. -->
+  <TribalPillarSite.description>這個星球上部落最神聖的地方：一個遠古科技立柱的撞擊坑。</TribalPillarSite.description>
+  
+  <!-- EN: Space Wreck -->
+  <WreckSpace.label>太空殘骸</WreckSpace.label>
+  <!-- EN: A nearby space wreck. -->
+  <WreckSpace.description>附近的太空殘骸。</WreckSpace.description>
+  
+</LanguageData>

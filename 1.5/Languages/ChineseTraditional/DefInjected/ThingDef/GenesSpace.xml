@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cryptosleep cocoon -->
+  <SoS2CryptosleepCocoon.label>休眠繭</SoS2CryptosleepCocoon.label>
+  <!-- EN: A cocoon containing a person deep in cryptosleep. -->
+  <SoS2CryptosleepCocoon.description>用於將人長期維持在生理暫停狀態的休眠繭。</SoS2CryptosleepCocoon.description>
+  
+</LanguageData>

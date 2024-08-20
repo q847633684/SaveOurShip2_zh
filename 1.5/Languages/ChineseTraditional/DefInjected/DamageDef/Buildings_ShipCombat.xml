@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bomb -->
+  <BombACI.label>炸傷</BombACI.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombACI.deathMessage>{0}被炸死了。</BombACI.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombACII.label>炸傷</BombACII.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombACII.deathMessage>{0}被炸死了。</BombACII.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombACIII.label>炸傷</BombACIII.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombACIII.deathMessage>{0}被炸死了。</BombACIII.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombKinetic.label>炸傷</BombKinetic.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombKinetic.deathMessage>{0}被炸死了。</BombKinetic.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombKineticLarge.label>炸傷</BombKineticLarge.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombKineticLarge.deathMessage>{0}被炸死了。</BombKineticLarge.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombShipDebris.label>炸傷</BombShipDebris.label>
+  <!-- EN: {0} has died in a collision. -->
+  <BombShipDebris.deathMessage>{0}被炸死了。</BombShipDebris.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombShipDebrisLarge.label>炸傷</BombShipDebrisLarge.label>
+  <!-- EN: {0} has died in a collision. -->
+  <BombShipDebrisLarge.deathMessage>{0}被炸死了。</BombShipDebrisLarge.deathMessage>
+  
+  <!-- EN: Shield -->
+  <ShieldExplosion.label>護盾</ShieldExplosion.label>
+  <!-- EN: {0} has glitched to death. -->
+  <ShieldExplosion.deathMessage>{0}因意外事故身亡。</ShieldExplosion.deathMessage>
+  
+  <!-- EN: laser -->
+  <ShipLaserSmall.label>激光灼傷</ShipLaserSmall.label>
+  <!-- EN: {0} has been lasered to death. -->
+  <ShipLaserSmall.deathMessage>{0}被激光束灼燒殆盡。</ShipLaserSmall.deathMessage>
+  
+  <!-- EN: laser -->
+  <ShipLaserTwo.label>激光灼傷</ShipLaserTwo.label>
+  <!-- EN: {0} has been lasered to death. -->
+  <ShipLaserTwo.deathMessage>{0}被激光束灼燒殆盡。</ShipLaserTwo.deathMessage>
+  
+  <!-- EN: plasma -->
+  <ShipPlasmaLarge.label>等離子灼傷</ShipPlasmaLarge.label>
+  <!-- EN: {0} has been vaporized by plasma. -->
+  <ShipPlasmaLarge.deathMessage>{0}被等離子體蒸發了。</ShipPlasmaLarge.deathMessage>
+  
+  <!-- EN: plasma -->
+  <ShipPlasmaSmall.label>等離子灼傷</ShipPlasmaSmall.label>
+  <!-- EN: {0} has been vaporized by plasma. -->
+  <ShipPlasmaSmall.deathMessage>{0}被等離子體蒸發了。</ShipPlasmaSmall.deathMessage>
+  
+</LanguageData>

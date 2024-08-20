@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astromite -->
+  <Astromite.label>天螨</Astromite.label>
+  <Astromite.labelPlural>天螨</Astromite.labelPlural>
+  
+  <!-- EN: cosmopillar -->
+  <Cosmopillar.label>宙柱蛆</Cosmopillar.label>
+  <Cosmopillar.labelPlural>宙柱蛆</Cosmopillar.labelPlural>
+
+  <!-- EN: machine persona -->
+  <SoSHologram.label>人格AI</SoSHologram.label>
+  
+  <!-- EN: space cannibal -->
+  <SpaceCannibal.label>太空食人魔</SpaceCannibal.label>
+  <SpaceCannibal.labelPlural>太空食人魔</SpaceCannibal.labelPlural>
+  
+  <!-- EN: crew -->
+  <SpaceCrew.label>船員</SpaceCrew.label>
+  
+  <!-- EN: space crew -->
+  <SpaceCrewEVA.label>太空船員</SpaceCrewEVA.label>
+  
+  <!-- EN: light marine -->
+  <SpaceCrewMarine.label>海軍陸戰隊</SpaceCrewMarine.label>
+  <SpaceCrewMarine.labelPlural>海軍陸戰隊</SpaceCrewMarine.labelPlural>
+  
+  <!-- EN: heavy marine -->
+  <SpaceCrewMarineHeavy.label>重裝海軍陸戰隊</SpaceCrewMarineHeavy.label>
+  <SpaceCrewMarineHeavy.labelPlural>重裝海軍陸戰隊</SpaceCrewMarineHeavy.labelPlural>
+  
+  <!-- EN: stellapede -->
+  <Stellapede.label>星際闊步蟲</Stellapede.label>
+  <Stellapede.labelPlural>星際闊步蟲</Stellapede.labelPlural>
+  
+</LanguageData>

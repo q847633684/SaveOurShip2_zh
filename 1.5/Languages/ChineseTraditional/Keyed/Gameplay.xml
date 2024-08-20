@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- All new tags should start with SoS. -->
+	
+	<!-- world/orbit -->
+	<!-- EN: Short burn west -->
+  <SoS.MoveWest>向西移動</SoS.MoveWest>
+	<!-- EN: Move the ship westward. -->
+  <SoS.MoveWestDesc>駕駛飛船向西移動一段距離。</SoS.MoveWestDesc>
+	<!-- EN: Short burn east -->
+  <SoS.MoveEast>向東移動</SoS.MoveEast>
+	<!-- EN: Move the ship eastward. -->
+  <SoS.MoveEastDesc>駕駛飛船向東移動一段距離。</SoS.MoveEastDesc>
+	<!-- EN: Stop orbital movement -->
+  <SoS.MoveStop>停止軌道移動</SoS.MoveStop>
+	<!-- EN: Reverse burn into geosynchronous orbit. -->
+  <SoS.MoveStopDesc>通過逆向推進減速，在星球同步軌道上保持相對靜止狀態。</SoS.MoveStopDesc>
+	<!-- EN: Abandon ship -->
+  <SoS.AbandonHome>遺棄飛船</SoS.AbandonHome>
+	<!-- EN: Abandon your ship - any colonists on it will be lost! -->
+  <SoS.AbandonHomeDesc>將此飛船遺棄。\n\n請注意，如果你這麼做，尚處於其中的殖民者、動物和機械體都將失蹤！</SoS.AbandonHomeDesc>
+	<!-- EN: Abandon wreck -->
+  <SoS.LeaveGraveyard>遺棄殘骸</SoS.LeaveGraveyard>
+	<!-- EN: Leave the wreck to its fate. -->
+  <SoS.LeaveGraveyardDesc>將此殘骸遺棄，讓它聽天由命。</SoS.LeaveGraveyardDesc>
+	<!-- EN: Entering atmosphere in {0}. -->
+  <SoS.ForceExitAndRemoveMapCountdown>將在{0}後墜入大氣層。</SoS.ForceExitAndRemoveMapCountdown>
+	<!-- EN: Orbit failure! -->
+  <SoS.BurnUpPlayer>維持軌道高度失敗！</SoS.BurnUpPlayer>
+	<!-- EN: With the loss of the last ship bridge this map can no longer maintain its orbit and will enter the atmosphere in {0} days! \n\nEverything on it will be destroyed! Build a new ship bridge to prevent this. -->
+  <SoS.BurnUpPlayerDesc>由於缺少操控設備，你的飛船已無法再維持軌道高度！它會在{0}後墜入大氣層，而尚處於其中的任何東西都將被燃燒殆盡！\n\n為了避免這種情況發生，請盡快建造一個駕駛控制台或飛船電腦核心！</SoS.BurnUpPlayerDesc>
+	<!-- EN: Building a ship bridge has allowed you to stabilize the orbit. -->
+  <SoS.BurnUpPlayerPrevented>為了將飛船維持在安全的軌道高度上，請建造一個駕駛控制台或飛船電腦核心。</SoS.BurnUpPlayerPrevented>
+	<!-- EN: Entering atmosphere in {0}! -->
+  <SoS.BurnUpCountdown>將在{0}後墜入大氣層！</SoS.BurnUpCountdown>
+	<!-- EN: This map will enter atmosphere in {0}. Everything on it will be destroyed. -->
+  <SoS.BurnUpCountdownTip>這片區域將在{0}後墜入大氣層。尚處於其中的任何東西都將被燃燒殆盡。</SoS.BurnUpCountdownTip>
+	<!-- combat -->
+	<!-- EN: Shows the enemy ship's distance from your ship, all projectiles and shuttles currently in flight.\n\nRED: laser/canon range\nGREEN: plasma range\nBLUE: railgun range.\nPURPLE: torpedo range\nSmall colored bars: inaccurate maximum range for large weapons -->
+  <SoS.CombatTooltip>此圖表會顯示敵我雙方飛船之間的距離，以及所有正在飛行的投射物和太空梭的位置。\n\n&lt;color=#E5E54C&gt;標線詳解：&lt;/color&gt;\n\n【長紅線】：激光/動能砲塔射程\n【短紅線】：大型激光/動能砲塔射程（存在誤差）\n【長綠線】：等離子砲塔射程\n【短綠線】：大型等離子砲塔射程（存在誤差）\n【長藍線】：軌道砲塔射程\n【短藍線】：大型軌道砲塔射程（存在誤差）\n【紫線】：魚雷射程</SoS.CombatTooltip>
+	<!-- EN: Retreat -->
+  <SoS.CombatRetreat>撤退</SoS.CombatRetreat>
+	<!-- EN: Try to move away from the enemy ship -->
+  <SoS.CombatRetreatDesc>嘗試遠離敵艦。</SoS.CombatRetreatDesc>
+	<!-- EN: Stop -->
+  <SoS.CombatStop>停止</SoS.CombatStop>
+	<!-- EN: Cut power to your ship's engines -->
+  <SoS.CombatStopDesc>切斷飛船推進器的電力供應。</SoS.CombatStopDesc>
+	<!-- EN: Maintain -->
+  <SoS.CombatMaintain>保持距離</SoS.CombatMaintain>
+	<!-- EN: Maintain distance to the enemy ship -->
+  <SoS.CombatMaintainDesc>與敵艦間保持一定距離。</SoS.CombatMaintainDesc>
+	<!-- EN: Advance -->
+  <SoS.CombatAdvance>前進</SoS.CombatAdvance>
+	<!-- EN: Try to move closer to the enemy ship -->
+  <SoS.CombatAdvanceDesc>嘗試靠近敵艦。</SoS.CombatAdvanceDesc>
+	<!-- EN: Escape combat -->
+  <SoS.CombatEscape>逃離戰鬥</SoS.CombatEscape>
+	<!-- EN: Flee from battle, leaving behind anyone aboard the enemy ship -->
+  <SoS.CombatEscapeDesc>從戰鬥狀態中逃離。\n\n請注意，如果你這麼做，尚處於敵艦中的殖民者、動物和機械體都將失蹤！</SoS.CombatEscapeDesc>
+	<!-- EN: WARNING!\n\nFleeing the enemy ship will leave behind any of your colonists still on board! -->
+  <SoS.CombatAbandonPawns>警告！\n\n從戰鬥狀態中逃離會使所有尚處於敵艦中的殖民者、動物和機械體失蹤！</SoS.CombatAbandonPawns>
+	<!-- EN: Our shield has broken due to lack of heat capacity! -->
+  <SoS.CombatShieldBroken>由於熱容量不足，你的飛船護盾已失效！</SoS.CombatShieldBroken>
+	<!-- EN: Enemy shield has broken due to lack of heat capacity! -->
+  <SoS.CombatShieldBrokenEnemy>由於熱容量不足，敵艦的飛船護盾已失效！</SoS.CombatShieldBrokenEnemy>
+	<!-- EN: Your shuttle was destroyed by enemy point defense! If any crew survived, their ejector seats will take them back to your ship. -->
+  <SoS.CombatPodDestroyedPlayer>你的太空梭被敵艦的點防禦砲塔擊毀了！如果有船員倖免於難，太空梭的彈射救生系統會他們送回你的飛船。</SoS.CombatPodDestroyedPlayer>
+	<!-- EN: Enemy shuttle was destroyed by your point defense! -->
+  <SoS.CombatPodDestroyedEnemy>敵艦的太空梭被你的點防禦砲塔擊毀了！</SoS.CombatPodDestroyedEnemy>
+	<!-- EN: Withdraw ship -->
+  <SoS.WithdrawShip>撤出飛船</SoS.WithdrawShip>
+	<!-- EN: Withdraw this ship from the battle -->
+  <SoS.WithdrawShipDesc>將此飛船從戰鬥中撤出。</SoS.WithdrawShipDesc>
+	<!-- EN: Last ship can not withdraw -->
+  <SoS.WithdrawShipLast>無法撤出僅剩的飛船</SoS.WithdrawShipLast>
+	<!-- EN: Withdraw this ship to the graveyard? If you lose or flee, the enemy ship will attack your graveyard. Please note that the withdrawal will not take effect until the game is unpaused. -->
+  <SoS.CombatConfirmWithdraw>確定要將此飛船撤出並送至墓地軌道嗎？如果你輸掉或逃離戰鬥，敵艦會轉而向墓地軌道發起攻擊。請註意，除非遊戲取消暫停狀態，否則“撤出飛船”功能將不會生效。</SoS.CombatConfirmWithdraw>
+	<!-- EN: Cannot move with wrecks on map! -->
+  <SoS.WrecksPreventMove>飛船附近有其他殘骸時無法移動！</SoS.WrecksPreventMove>
+	<!-- EN: Remove wrecks -->
+  <SoS.RemoveWrecks>遺棄殘骸</SoS.RemoveWrecks>
+	<!-- EN: Remove all wrecks from your map, they will be destroyed. -->
+  <SoS.RemoveWrecksDesc>將當前地圖上的所有殘骸遺棄。</SoS.RemoveWrecksDesc>
+	<!-- EN: Remove all wrecks from your map?\n\nThis will remove any ship or wreck that can not move on its own! They will be destroyed by the debris field. -->
+  <SoS.RemoveWrecksConfirm>確定要將當前地圖上的所有殘骸遺棄嗎？\n\n如果你這麼做，所有無法移動的殘骸或飛船都將被遺棄！它們最終會被環繞星球的太空垃圾帶摧毀。</SoS.RemoveWrecksConfirm>
+	<!-- EN: Withdraw wrecks -->
+  <SoS.WithdrawWrecks>撤出殘骸</SoS.WithdrawWrecks>
+	<!-- EN: Withdraw all wrecks from battle -->
+  <SoS.WithdrawWrecksDesc>將所有殘骸從戰鬥中撤出。</SoS.WithdrawWrecksDesc>
+	<!-- EN: Withdraw this ship to the graveyard? If you lose or flee, the enemy ship will attack your graveyard. Please note that the withdrawal will not take effect until the game is unpaused. -->
+  <SoS.CombatConfirmWithdraw>確定要將此飛船撤出並送至墓地軌道嗎？如果你輸掉或逃離戰鬥，敵艦會轉而向墓地軌道發起攻擊。請註意，除非遊戲取消暫停狀態，否則「撤出飛船」功能將不會生效。</SoS.CombatConfirmWithdraw>
+	<!-- EN: Launch all escape pods -->
+  <SoS.ScuttleShip>發射所有逃生艙</SoS.ScuttleShip>
+	<!-- EN: Launches all escape pods to selected destination on the planet. -->
+  <SoS.ScuttleShipDesc>將所有逃生艙發射至下方星球的指定地點。</SoS.ScuttleShipDesc>
+	<!-- EN: Can not abandon ship with pods in transit to/from it! -->
+  <SoS.ScuttleShipPods>有運輸艙/逃生艙正在往返途中，無法遺棄飛船！</SoS.ScuttleShipPods>
+	<!-- EN: No loaded crypto pods -->
+  <SoS.NoLoadedPods>沒有可發射的逃生艙</SoS.NoLoadedPods>
+	<!-- EN: Crypto pod not loaded -->
+  <SoS.LaunchCryptoNotLoaded>休眠艙是空的</SoS.LaunchCryptoNotLoaded>
+	<!-- EN: Select -->
+  <SoS.SelectWeapons>選擇砲塔</SoS.SelectWeapons>
+	<!-- EN: Select connected ship-to-ship weapons -->
+  <SoS.SelectWeaponsDesc>選擇指定類型的飛船砲塔。</SoS.SelectWeaponsDesc>
+	<!-- EN: Cease fire -->
+  <SoS.HoldFire>停火</SoS.HoldFire>
+	<!-- EN: Stop all connected ship-to-ship weapons from firing on enemy ship -->
+  <SoS.HoldFireDesc>停止所有正在對敵艦進行的攻擊。</SoS.HoldFireDesc>
+	<!-- EN: Stop all connected ship-to-ship weapons from firing on enemy ship -->
+	<SoS.TogglePointDefense>開關攔截魚雷</SoS.TogglePointDefense>
+	<!-- EN: Stop all connected ship-to-ship weapons from firing on enemy ship -->
+  <SoS.TogglePointDefenseDesc>開啟或關閉點防禦炮塔的攔截魚雷功能。</SoS.TogglePointDefenseDesc>
+	<!-- EN: Not at maximum range -->
+  <SoS.NotAtMaxRange>未達到最遠距離</SoS.NotAtMaxRange>
+	<!-- EN: Ship is in unstable orbit. -->
+  <SoS.OnUnstableMap>飛船正處於不穩定軌道上。</SoS.OnUnstableMap>
+	<!-- EN: Enemy ship is attempting to retreat! -->
+  <SoS.EnemyShipRetreating>敵艦正試圖撤退！</SoS.EnemyShipRetreating>
+	<!-- EN: Enemy ship has escaped! -->
+  <SoS.EnemyShipRetreated>敵艦逃走了！</SoS.EnemyShipRetreated>
+	<!-- EN: Enemy ship has started to drift and is slowly losing orbit! -->
+  <SoS.EnemyShipAdrift>敵艦已無法維持軌道高度，正逐漸飄走！</SoS.EnemyShipAdrift>
+	<!-- salvage/capture -->
+	<!-- EN: Return -->
+  <SoS.ReturnShip>返回</SoS.ReturnShip>
+	<!-- EN: Move this ship back to your stable orbit -->
+  <SoS.ReturnShipDesc>駕駛飛船移動至穩定軌道上。</SoS.ReturnShipDesc>
+	<!-- EN: Capture -->
+  <SoS.CaptureShip>俘獲</SoS.CaptureShip>
+	<!-- EN: Move this ship to your map -->
+  <SoS.CaptureShipDesc>將此飛船移動至你的飛船所在的地圖上。</SoS.CaptureShipDesc>
+	<!-- EN: Non player pawn found on ship: {0}, takeoff disabled. -->
+  <SoS.LaunchFailPawns>未在船上檢測到屬於玩家派系的單位：{0}，已禁用起飛。</SoS.LaunchFailPawns>
+	<!-- EN: Move wreck -->
+  <SoS.MoveWreckCommand>移動殘骸</SoS.MoveWreckCommand>
+	<!-- EN: Reposition a wreck on your map -->
+  <SoS.MoveWreckCommandDesc>將殘骸移動到當前地圖上的其他位置。</SoS.MoveWreckCommandDesc>
+	<!-- EN: Flip wreck -->
+  <SoS.MoveWreckFlipCommand>翻轉殘骸</SoS.MoveWreckFlipCommand>
+	<!-- EN: Reposition and flip a wreck on your map -->
+  <SoS.MoveWreckFlipCommandDesc>將殘骸水平翻轉並移動到當前地圖上的其他位置。</SoS.MoveWreckFlipCommandDesc>
+	<!-- EN: Rotate wreck -->
+  <SoS.MoveWreckRotCommand>旋轉殘骸</SoS.MoveWreckRotCommand>
+	<!-- EN: Reposition and rotate a wreck counter clockwise on your map -->
+  <SoS.MoveWreckRotCommandDesc>將殘骸逆時針旋轉90°並移動到當前地圖上的其他位置。</SoS.MoveWreckRotCommandDesc>
+	<!-- EN: Retrieve from {0} -->
+  <SoS.SalvageCommand>從{0}處打撈殘骸</SoS.SalvageCommand>
+	<!-- EN: Retrieve a wreck from target map {0} -->
+  <SoS.SalvageCommandDesc>從{0}所在的地圖處打撈殘骸。</SoS.SalvageCommandDesc>
+	<!-- EN: Retrieve debris from {0} -->
+  <SoS.SalvageBeam>從{0}處打撈物品</SoS.SalvageBeam>
+	<!-- EN: Retrieve loose, free-floating debris from target map {0} -->
+  <SoS.SalvageBeamDesc>從{0}所在的地圖處打撈散落飄蕩的物品。</SoS.SalvageBeamDesc>
+	<!-- EN: Stabilize {0} -->
+  <SoS.SalvageStablize>穩定{0}的軌道高度</SoS.SalvageStablize>
+	<!-- EN: Stabilization requires {0} fuel! -->
+  <SoS.SalvageStablizeFuel>穩定軌道高度需要消耗{0}單位的燃料！</SoS.SalvageStablizeFuel>
+	<!-- EN: Stabilize the orbit of {0}. This requires enough salvage bays and will consume fuel in your engines. -->
+  <SoS.SalvageStablizeDesc>穩定{0}的軌道高度，延緩它墜入大氣層的時間。需要數量足夠的回收港，且會消耗推進器的燃料。</SoS.SalvageStablizeDesc>
+	<!-- EN: Stabilize the orbit of {0}. This requires enough salvage bays and will consume {1} chemfuel equivalent in your engines. -->
+  <SoS.SalvageStablizeConfirm>穩定{0}的軌道高度，延緩它墜入大氣層的時間。需要數量足夠的回收港，且會消耗推進器內{1}單位的化合燃料。</SoS.SalvageStablizeConfirm>
+	<!-- EN: Cannot salvage: in ship battle, or enemy pawns are present! -->
+  <SoS.SalvageDisabled>無法打撈：飛船交戰未結束，或仍有敵方單位存在！</SoS.SalvageDisabled>
+	<!-- EN: Are you sure you want to discard the target?\nEverything connected to or on it will burn up in the atmosphere! -->
+  <SoS.SalvageAbandonConfirm>確定要將目標殘骸遺棄嗎？\n\n請注意，如果你這麼做，它會在數天後墜入大氣層，尚處於其中的任何東西都將被燃燒殆盡！</SoS.SalvageAbandonConfirm>
+	<!-- EN: Can not move intact ships with the salvage bay, capture or destroy the bridge. -->
+  <SoS.SalvageBridge>無法用回收港移動完好的飛船，請先佔領或摧毀它的駕駛控制台以及飛船電腦核心。</SoS.SalvageBridge>
+	<!-- EN: Not enough salvage bays on ships that can move. {0}/{1} -->
+  <SoS.SalvageFailMass>無法移動，飛船缺少足夠的回收港（{0}/{1}）。</SoS.SalvageFailMass>
+	<!-- EN: Not enough fuel. {0}/{1} -->
+  <SoS.SalvageFailFuel>飛船推進器缺少足夠的燃料（{0}/{1}）。</SoS.SalvageFailFuel>
+	<!-- EN: Not enough space on salvage bay. -->
+  <SoS.SalvageNoSpace>回收港缺少足夠的空間。</SoS.SalvageNoSpace>
+	<!-- EN: Use salvage bay to claim after all enemies have been defeated. -->
+  <SoS.SalvageEnemiesPresent>當擊敗所有敵人後，用回收港進行佔領。</SoS.SalvageEnemiesPresent>
+	<!-- EN: Claim wrecks -->
+  <SoS.ClaimWrecksCommand>佔領殘骸</SoS.ClaimWrecksCommand>
+	<!-- EN: Claim all wrecks on this map -->
+  <SoS.ClaimWrecksCommandDesc>佔領當前地圖上的所有殘骸。</SoS.ClaimWrecksCommandDesc>
+	<!-- EN: Claimed {0} buildings! -->
+  <SoS.ClaimWrecksSuccess>佔領了{0}個建築！</SoS.ClaimWrecksSuccess>
+	<!-- EN: Enemy forces present! -->
+  <SoS.ClaimWrecksDisabled>有敵方單位存在！</SoS.ClaimWrecksDisabled>
+	<!-- EN: Remove wreck -->
+  <SoS.RemoveWrecksCommand>遺棄殘骸</SoS.RemoveWrecksCommand>
+	<!-- EN: Remove target wreck from this map -->
+  <SoS.RemoveWrecksCommandDesc>將目標殘骸從當前地圖上遺棄。</SoS.RemoveWrecksCommandDesc>
+	<!-- placeworkers -->
+	<!-- EN: Must place on owned ship hull. -->
+  <SoS.PlaceOnShipHull>必須放置在屬於你的飛船護板或船體上。</SoS.PlaceOnShipHull>
+	<!-- EN: Engines must face the same way! -->
+  <SoS.EnginePlaceRotation>所有推進器的朝向需保持一致（姿態控制推進器除外）！</SoS.EnginePlaceRotation>
+	<!-- comms/trade -->
+	<!-- EN: Communicating with  -->
+  <SoS.TradeComms>通訊</SoS.TradeComms>
+	<!-- EN: Ask to trade with them. -->
+  <SoS.TradeTradeWith>請求和他們交易</SoS.TradeTradeWith>
+	<!-- EN: {0} does not want to trade with you due to your notoriety. -->
+  <SoS.TradeTradeDecline>{0}不想和惡譽滿貫的你進行交易。</SoS.TradeTradeDecline>
+	<!-- EN: Demand they hand over their cargo (This is an act of piracy!) -->
+  <SoS.PirateTradeDemand>要求他們交出貨物（這是海盜行為！）</SoS.PirateTradeDemand>
+	<!-- EN: {0} has closed comms and is trying to flee! -->
+  <SoS.TradeTryingToFlee>{0}關閉了通訊，並試圖逃離！</SoS.TradeTryingToFlee>
+	<!-- EN: After them! -->
+  <SoS.TradeAttack>追上他們！</SoS.TradeAttack>
+	<!-- EN: Let them go. -->
+  <SoS.TradeFlee>放他們走吧。</SoS.TradeFlee>
+	<!-- EN: Pay your bounty (cost: {0} silver) -->
+  <SoS.TradePayBounty>贖清你的賞金（費用：{0}銀）</SoS.TradePayBounty>
+	<!-- EN: need {0} silver near trade beacons -->
+  <SoS.NotEnoughForBounty>需要有{0}銀在軌道交易信標附近</SoS.NotEnoughForBounty>
+	<!-- EN: A pirate ship is attempting to hail you.\n -->
+  <SoS.PirateHail>一艘海盜船正試圖聯繫你。\n</SoS.PirateHail>
+	<!-- EN: Surely they know of your notoriety. -->
+  <SoS.PirateHailPirate>看來他們對你的惡譽早有耳聞。</SoS.PirateHailPirate>
+	<!-- EN: If you do not answer they will most likely attack. -->
+  <SoS.PirateHailNormal>如果你不做任何回應，他們很有可能會發起襲擊。</SoS.PirateHailNormal>
+	<!-- EN: Communicating with unknown pirate ship\n\n\n -->
+  <SoS.PirateTalk>與未知海盜船通訊\n\n\n</SoS.PirateTalk>
+	<!-- EN: Your notoriety is known to them and they are asking if you want to trade. -->
+  <SoS.PirateTalkPirate>他們對惡譽滿貫的你表示欣賞，並發出了交易請求。</SoS.PirateTalkPirate>
+	<!-- EN: They are willing to trade with you now. -->
+  <SoS.PirateTalkParley>他們樂意與你交易。</SoS.PirateTalkParley>
+	<!-- EN: There is no response. -->
+  <SoS.PirateTalkPaid>沒有回應。</SoS.PirateTalkPaid>
+	<!-- EN: They demand you hand over valuables in worth of {0} silver.\n\nIf you do not meet their demands quickly, they will eventually attack.\n\nYou can try to use the ancient pirate code of parley but that might anger them and they will attack immediately. -->
+  <SoS.PirateTalkNormal>海盜們要求你支付{0}銀作為買路費。\n\n如果你不能盡快滿足他們的要求，他們最終會發起襲擊。\n\n你也可以嘗試用遠古海盜們的方式進行談判。但請注意，失敗的談判會觸怒他們，並立即對你發起襲擊。</SoS.PirateTalkNormal>
+	<!-- EN: Trade with them -->
+  <SoS.PirateTrade>和他們交易</SoS.PirateTrade>
+	<!-- EN: Pay them off -->
+  <SoS.PirateDemand>花錢買路</SoS.PirateDemand>
+	<!-- EN: Not enough silver: {0} -->
+  <SoS.PirateDemandFail>白銀不足：{0}</SoS.PirateDemandFail>
+	<!-- EN: Parley? -->
+  <SoS.PirateParley>談判？</SoS.PirateParley>
+	<!-- EN: Parley failed -->
+  <SoS.PirateParleyFail>談判失敗</SoS.PirateParleyFail>
+	<!-- EN: Your attempt to parley with the pirates failed. They are beginning their attack. -->
+  <SoS.PirateParleyFailDesc>你試圖和海盜們談判，但最終失敗了，被觸怒的他們決定立即發起襲擊。</SoS.PirateParleyFailDesc>
+	<!-- EN: Parley succeeded -->
+  <SoS.PirateParleyWin>談判成功</SoS.PirateParleyWin>
+	<!-- EN: Somehow you managed to persuade the pirates not to attack your ship. -->
+  <SoS.PirateParleyWinDesc>你用三寸不爛之舌說服了海盜們，他們承諾不會襲擊你的飛船。</SoS.PirateParleyWinDesc>
+	<!-- EN: Pirate code betrayal -->
+  <SoS.PirateAttacksBetray>海盜食言</SoS.PirateAttacksBetray>
+	<!-- EN: Seems there is no honor among thieves. -->
+  <SoS.PirateAttacksBetrayDesc>看起來這些混蛋毫無榮耀可言。</SoS.PirateAttacksBetrayDesc>
+	<!-- EN: Pirates attack -->
+  <SoS.PirateAttacksPay>海盜襲擊</SoS.PirateAttacksPay>
+	<!-- EN: The pirates have decided that your payment was not good enough and are beginning their attack. -->
+  <SoS.PirateAttacksPayDesc>貪婪的海盜們並不滿足於你支付的這些，並決定立即發起襲擊。</SoS.PirateAttacksPayDesc>
+	<!-- EN: Pirates attack -->
+  <SoS.PirateAttacksWait>海盜襲擊</SoS.PirateAttacksWait>
+	<!-- EN: The pirates have decided they will wait no longer and are beginning their attack. -->
+  <SoS.PirateAttacksWaitDesc>海盜們已經等得不耐煩了，他們決定立即發起襲擊。</SoS.PirateAttacksWaitDesc>
+	<!-- EN: Select Everything -->
+  <SelectEverything>選取所有物品</SelectEverything>
+	<!-- EN: Select everything. -->
+  <SelectEverythingDesc>選取所有物品。</SelectEverythingDesc>
+	<!-- bridge -->
+	<!-- EN: Ship name: {0} -->
+  <SoS.StatsShipName>飛船名字：{0}</SoS.StatsShipName>
+	<!-- EN: Notoriety: {0} -->
+  <SoS.StatsNotoriety>惡譽：{0}</SoS.StatsNotoriety>
+	<!-- EN: Weight: {0} -->
+  <SoS.StatsShipMass>重量：{0}</SoS.StatsShipMass>
+	<!-- EN: Maximum takeoff weight: {0} -->
+  <SoS.StatsShipMaxTakeoff>起飛重量上限：{0}</SoS.StatsShipMaxTakeoff>
+	<!-- EN: Stored power: {0} / {1} Wd -->
+  <SoS.StatsShipEnergy>蓄電量：{0}/{1} Wd</SoS.StatsShipEnergy>
+	<!-- EN: Stored heat: {0} / {1} HU{2} -->
+  <SoS.StatsShipHeat>蓄熱量：{0}/{1} HU {2}</SoS.StatsShipHeat>
+	<!-- EN: maximum -->
+  <SoS.StatsShipHeatMaximumShort>上限</SoS.StatsShipHeatMaximumShort>
+	<!-- EN: Heat maximum: {0} -->
+  <SoS.StatsShipHeatMaximum>熱量上限：{0}</SoS.StatsShipHeatMaximum>
+	<!-- EN: Combat rating: {0} -->
+  <SoS.StatsShipCombatRating>戰鬥等級：{0}</SoS.StatsShipCombatRating>
+	<!-- EN: Thrust/Weight ratio: {0} -->
+  <SoS.StatsShipCombatThrust>推力/重量比：{0}</SoS.StatsShipCombatThrust>
+	<!-- EN: Ready for interstellar travel. -->
+  <SoS.ReportInterReady>已準備好進行星際航行了。</SoS.ReportInterReady>
+	<!-- EN: Not ready for interstellar travel: -->
+  <SoS.ReportInterNotReady>還未做好星際航行的準備：</SoS.ReportInterNotReady>
+	<!-- EN: Ship requires either a pilot or an AI core. -->
+  <SoS.ReportNeedPilot>飛船需要一名駕駛員或者人格AI。</SoS.ReportNeedPilot>
+	<!-- EN: Ship has {0} units of fuel, but requires {1} in engine fuel tanks. -->
+  <SoS.NeedsMoreFuel>飛船僅存有{0}單位的燃料, 但它總共需要{1}單位。</SoS.NeedsMoreFuel>
+	<!-- EN: Ship requires {0} Wd of stored power. -->
+  <SoS.NeedsMorePower>飛船需要{0}Wd的電力。</SoS.NeedsMorePower>
+	<!-- EN: Ship requires more JT engines due to its size. -->
+  <SoS.NeedsMoreJTEngines>飛船過大，需要建造更多約翰遜-田中驅動器。</SoS.NeedsMoreJTEngines>
+	<!-- EN: Go to new planet -->
+  <SoS.PlanetLeave>前往新星球</SoS.PlanetLeave>
+	<!-- EN: Leave this planet behind and find a new rimworld to settle -->
+  <SoS.PlanetLeaveDesc>離開這顆星球，尋找並前往新的邊緣世界定居。</SoS.PlanetLeaveDesc>
+	<!-- EN: Scan for ships -->
+  <SoS.ToggleScanShips>掃瞄飛船</SoS.ToggleScanShips>
+	<!-- EN: Toggle scanning for other ships -->
+  <SoS.ToggleScanShipsDesc>切換是否掃瞄其他飛船。</SoS.ToggleScanShipsDesc>
+	<!-- EN: Scan for sites -->
+  <SoS.ToggleScanSites>掃瞄事件點</SoS.ToggleScanSites>
+	<!-- EN: Toggle scanning for orbital sites -->
+  <SoS.ToggleScanSitesDesc>切換是否掃瞄軌道上的任務事件點。</SoS.ToggleScanSitesDesc>
+	<!-- EN: Toggle shields -->
+  <SoS.ToggleShields>開關護盾</SoS.ToggleShields>
+	<!-- EN: Activate or deactivate your ship's shields -->
+  <SoS.ToggleShieldsDesc>開啟或關閉飛船上的護盾發生器。</SoS.ToggleShieldsDesc>
+	<!-- EN: Toggle cloaking device -->
+  <SoS.ToggleCloak>開關隱形裝置</SoS.ToggleCloak>
+	<!-- EN: Activate or deactivate your ship's cloaking device -->
+  <SoS.ToggleCloakDesc>開啟或關閉飛船上的隱形裝置。</SoS.ToggleCloakDesc>
+	<!-- EN: Ship info -->
+  <SoS.ShipInfo>顯示飛船信息</SoS.ShipInfo>
+	<!-- EN: Shows ship statistics and readiness for interstellar travel. -->
+  <SoS.ShipInfoDesc>顯示飛船屬性和星際航行的準備情況。</SoS.ShipInfoDesc>
+	<!-- EN: Rename ship -->
+  <SoS.Rename>飛船重命名</SoS.Rename>
+	<!-- EN: Give this ship a new name -->
+  <SoS.RenameDesc>給這艘飛船起個響亮的新名字。</SoS.RenameDesc>
+	<!-- EN: Move ship -->
+  <SoS.Move>移動飛船</SoS.Move>
+	<!-- EN: Move the ship elsewhere on this map -->
+  <SoS.MoveDesc>將飛船移動到地圖上的其他位置。</SoS.MoveDesc>
+	<!-- EN: Flip ship -->
+  <SoS.MoveFlip>翻轉艦船</SoS.MoveFlip>
+	<!-- EN: Flip the ship horizontally -->
+  <SoS.MoveFlipDesc>將飛船水平翻轉並移動到當前地圖上的其他位置。</SoS.MoveFlipDesc>
+	<!-- EN: Rotate ship -->
+  <SoS.MoveRot>旋轉飛船</SoS.MoveRot>
+	<!-- EN: Ship has non-rotatable, non-even sided buildings! -->
+  <SoS.MoveRotNo>飛船上存在無法旋轉或不對稱的建築！</SoS.MoveRotNo>
+	<!-- EN: Rotate the ship counter clockwise -->
+  <SoS.MoveRotDesc>將飛船逆時針旋轉90°並移動到當前地圖上的其他位置。</SoS.MoveRotDesc>
+	<!-- EN: Move failed! -->
+  <SoS.MoveFail>移動失敗！</SoS.MoveFail>
+	<!-- EN: Ship move failed! Recheck your ship and reload if things are out of place or broken. This is most often caused by modded buildings that do not despawn properly.\nFailed by moving: {0} -->
+  <SoS.MoveFailDesc>飛船移動失敗！請將你的飛船重新檢查一遍，看看是否存在什麼損壞或狀態奇怪的物品。這種情況通常是由某些Mod添加的建築未能正常消失引起的。\n移動失敗：{0}</SoS.MoveFailDesc>
+	<!-- EN: Ship requires a pilot to move. -->
+  <SoS.MoveFailPilot>飛船需要一名駕駛員或者人格AI才能移動。</SoS.MoveFailPilot>
+	<!-- EN: Not enough RCS thrusters to move ship, required {0} -->
+  <SoS.MoveFailRCS>無法移動，飛船缺少足夠的姿態控制推進器（需要{0}台）</SoS.MoveFailRCS>
+	<!-- EN: Not enough fuel to move ship, required {0} fuel -->
+  <SoS.MoveFailFuel>無法移動，飛船缺少足夠的燃料（需要{0}單位）</SoS.MoveFailFuel>
+	<!-- EN: Ship from another faction next to target area. Move aborted. -->
+  <SoS.MoveFailFaction>目標區域附近存在其他派系的飛船。已停止移動。</SoS.MoveFailFaction>
+	<!-- EN: Main ship map is in battle. -->
+  <SoS.MoveFailCombat>主飛船所在的地圖處於戰鬥中。</SoS.MoveFailCombat>
+	<!-- EN: Land ship -->
+  <SoS.Land>著陸飛船</SoS.Land>
+	<!-- EN: Land this ship near  -->
+  <SoS.LandDesc>將飛船著陸至</SoS.LandDesc>
+	<!-- EN: Rebuild ship parts -->
+  <SoS.Rebuild>重建飛船部件</SoS.Rebuild>
+	<!-- EN: Places blueprints for destroyed buildings on this ship. -->
+  <SoS.RebuildDesc>在飛船上放置被毀建築的藍圖。</SoS.RebuildDesc>
+	<!-- story -->
+	<!-- EN: Attack KSS Horizon -->
+  <SoS.QuestPillarA>進攻KSS“地平線”號</SoS.QuestPillarA>
+	<!-- EN: Attempt to engage the ancient terraforming station and recover an archotech pillar -->
+  <SoS.QuestPillarADesc>進攻遠古地形改造空間站，從那裡回收一根遠古支柱。</SoS.QuestPillarADesc>
+	<!-- EN: Raid moon base -->
+  <SoS.QuestPillarB>突襲衛月機巢</SoS.QuestPillarB>
+	<!-- EN: Attack the mechanoid moon base and attempt to recover an archotech pillar.\n\nThis will also provoke a mechanoid warship! -->
+  <SoS.QuestPillarBDesc>進攻衛月機巢，從那裡回收一根遠古支柱。\n\n不過在此之前，你需要先擊敗一艘駐守在附近的機械體戰艦！</SoS.QuestPillarBDesc>
+	<!-- scan -->
+	<!-- EN: Scan -->
+  <SoS.scanRegion>掃瞄</SoS.scanRegion>
+	<!-- EN: Reveal an area on the planet's surface. -->
+  <SoS.scanRegionDesc>揭示星球表面的一個區域。</SoS.scanRegionDesc>
+	<!-- EN: Observe area -->
+  <SoS.ScanMap>觀察區域</SoS.ScanMap>
+	<!-- EN: View a single map from orbit -->
+  <SoS.ScanMapDesc>從軌道上觀察指定區域的地圖。</SoS.ScanMapDesc>
+	<!-- EN: End observation -->
+  <SoS.ScanMapStop>停止觀察</SoS.ScanMapStop>
+	<!-- EN: Stop observing {0}. This will cause the map to de-spawn unless colonists are present. -->
+  <SoS.ScanMapStopDesc>停止觀察{0}。除非有殖民者滯留於此，否則該地圖會消失。</SoS.ScanMapStopDesc>
+	<!-- engines -->
+	<!-- EN: Engage ship engines -->
+  <SoS.ToggleEngines>啟動推進器</SoS.ToggleEngines>
+	<!-- EN: Engage ship engines to clear hazards. -->
+  <SoS.ToggleEnginesDesc>啟動飛船推進器以清除威脅。</SoS.ToggleEnginesDesc>
+	<!-- airlock -->
+	<!-- EN: Toggle extender -->
+  <SoS.ToggleDock>開關對接通道</SoS.ToggleDock>
+	<!-- EN: Extend or retract the airlock extender up to 3 tiles away -->
+  <SoS.ToggleDockDesc>伸出或收回3格長的對接通道。</SoS.ToggleDockDesc>
+	<!-- EN: Airlock hack successful! -->
+  <SoS.AirlockHacked>飛船氣閘駭入成功！</SoS.AirlockHacked>
+	<!-- EN: Airlock hacking failed! -->
+  <SoS.AirlockHackFailed>飛船氣閘駭入失敗！</SoS.AirlockHackFailed>
+	<!-- EN: Airlock breached! -->
+  <SoS.AirlockBreached>飛船氣閘被破壞了！</SoS.AirlockBreached>
+	<!-- unfold -->
+	<!-- EN: Status:  -->
+  <SoS.UnfoldStatus>狀態：</SoS.UnfoldStatus>
+	<!-- EN: Retracted -->
+  <SoS.UnfoldRetracted>已收回</SoS.UnfoldRetracted>
+	<!-- EN: Extended -->
+  <SoS.UnfoldExtended>已伸出</SoS.UnfoldExtended>
+	<!-- EN: Extending -->
+  <SoS.UnfoldExtending>正在伸出</SoS.UnfoldExtending>
+	<!-- EN: Retracting -->
+  <SoS.UnfoldRetracting>正在收回</SoS.UnfoldRetracting>
+	<!-- EN: Must place free of obstructions or other extendables. -->
+  <SoS.UnfoldBlocked>只能放置在未被阻擋或沒有其他可伸縮裝置的地方。</SoS.UnfoldBlocked>
+	<!-- heat -->
+    <!-- EN: Grid heat stored/capacity: {0} HU / {1} HU ({2}) -->
+  <SoS.HeatStored>熱量網絡系統蓄熱量/熱容量：{0}HU / {1}HU（{2}）</SoS.HeatStored>
+	<!-- EN: Use power for heating -->
+  <SoS.HeatWithPower>消耗電力加熱</SoS.HeatWithPower>
+	<!-- EN: Use power for heating when not enough heat is present in the network. -->
+  <SoS.HeatWithPowerDesc>當熱量網絡系統中缺少足夠的熱量時，消耗電力進行加熱。</SoS.HeatWithPowerDesc>
+	<!-- EN: Emergency heat purge -->
+  <SoS.PurgeHeat>緊急排熱</SoS.PurgeHeat>
+	<!-- EN: Eject molten silver into space to rapidly lower your ship's stored heat.\n\nThis will cause your shields to drop! -->
+  <SoS.PurgeHeatDesc>將熔融態的銀噴射到太空中，以達到緊急排出熱量的目的。\n\n啟用緊急排熱時，飛船的護盾發生器將暫時關閉！</SoS.PurgeHeatDesc>
+	<!-- EN: Vent coolant -->
+  <SoS.HeatPurge>快速散熱</SoS.HeatPurge>
+	<!-- EN: Begin venting coolant from heatsinks. All shields, weapons, and cloaks on this heat network will shut down, and heatsinks will vent heat five times as quickly.\n\nThis process depletes coolant and reduces the overall capacity of the heat network, and cannot be canceled once it has begun. Outside of combat, depleted capacity will slowly recover. -->
+  <SoS.HeatPurgeDesc>讓飛船散熱器進行快速散熱，其速度是原本的5倍。\n\n啟用快速散熱時，飛船的護盾發生器、砲塔和隱形裝置都將暫時關閉！此過程會削減飛船熱量網絡系統的熱容量上限，且無法中途取消。非戰鬥狀態下，被削減的熱容量上限會緩慢恢復。</SoS.HeatPurgeDesc>
+	<!-- EN: Already venting -->
+  <SoS.HeatPurgeVenting>快速散熱中</SoS.HeatPurgeVenting>
+	<!-- EN: Not enough heat in network for purge -->
+  <SoS.HeatPurgeNotEnough>缺少足夠的熱量</SoS.HeatPurgeNotEnough>
+	<!-- EN: Cloak disengaged due to heat depletion -->
+  <SoS.CloakBroken>由於熱容量不足，隱形裝置已關閉</SoS.CloakBroken>
+	<!-- EN: DANGER! Heat level critical! -->
+  <SoS.HeatCritical>✖警告！蓄熱量臨近上限！✖</SoS.HeatCritical>
+	<!-- EN: Not connected to a thermal network -->
+  <SoS.HeatNotConnected>未連接至熱量網絡系統</SoS.HeatNotConnected>
+	<!-- EN: Energy to fire: -->
+  <SoS.HeatTurretEnergy>開火耗電量：</SoS.HeatTurretEnergy>
+	<!-- turret -->
+	<!-- EN: Warning: Turret will not fire because you are not in ship combat. -->
+  <SoS.TurretNotInShipCombat>警告：非飛船交戰狀態下，砲塔將不會開火。</SoS.TurretNotInShipCombat>
+	<!-- EN: Warning: Turret will not target the enemy ship because it is set to Point Defense mode -->
+  <SoS.TurretInPointDefense>警告：由於切換至點防禦模式，砲塔將無法瞄準敵艦。</SoS.TurretInPointDefense>
+	<!-- EN: Extract torpedoes -->
+  <SoS.TurretExtractTorpedo>卸出魚雷</SoS.TurretExtractTorpedo>
+	<!-- EN: Unloads the current torpedoes so they can be replaced with different ammunition. -->
+  <SoS.TurretExtractTorpedoDesc>卸出當前裝載的魚雷，以便更換成其他類型的彈藥。</SoS.TurretExtractTorpedoDesc>
+	<!-- EN: Extract one torpedo -->
+  <SoS.TurretExtractOneTorpedo>卸出魚雷（1枚）</SoS.TurretExtractOneTorpedo>
+	<!-- EN: Unloads just one torpedo so it can be replaced with different ammunition. -->
+  <SoS.TurretExtractOneTorpedoDesc>卸出1枚當前裝載的魚雷，以便更換成其他類型的彈藥。</SoS.TurretExtractOneTorpedoDesc>
+	<!-- EN: Extract -->
+  <SoS.TurretExtract>卸出</SoS.TurretExtract>
+	<!-- EN: Use optimal range -->
+  <SoS.TurretOptimalRange>最優射程</SoS.TurretOptimalRange>
+	<!-- EN: Enable to only fire on targets within optimal range -->
+  <SoS.TurretOptimalRangeDesc>僅對處於砲塔最優射程內的目標開火。</SoS.TurretOptimalRangeDesc>
+	<!-- EN: Point Defense mode -->
+  <SoS.TurretPointDefense>點防禦模式</SoS.TurretPointDefense>
+	<!-- EN: Use this turret to intercept incoming torpedoes and shuttles -->
+  <SoS.TurretPointDefenseDesc>切換至可以攔截魚雷和太空梭的點防禦模式。</SoS.TurretPointDefenseDesc>
+	<!-- EN: Toggle to prevent or allow firing of this type of torpedo. -->
+  <SoS.TorpedoAllowedDesc>是否允許發射這種類型的魚雷。</SoS.TorpedoAllowedDesc>
+	<!-- EN: Not loaded -->
+  <SoS.TorpedoNotLoaded>空載</SoS.TorpedoNotLoaded>
+	<!-- EN: Fully loaded -->
+  <SoS.TorpedoFullyLoaded>滿載</SoS.TorpedoFullyLoaded>
+	<!-- EN: No torpedoes -->
+  <SoS.TorpedoNone>沒有魚雷</SoS.TorpedoNone>
+	<!-- EN: Amplifiers: {0} -->
+  <SoS.AmplifierCount>能量增幅器：{0}</SoS.AmplifierCount>
+	<!-- EN: Spinal capacitor not found. -->
+  <SoS.SpinalCapNotFound>未找到脊峰火砲：電容器。</SoS.SpinalCapNotFound>
+	<!-- EN: {0} cannot fire: not enough heatsink capacity -->
+  <SoS.CannotFireDueToHeat>{0}無法開火：熱容量不足</SoS.CannotFireDueToHeat>
+	<!-- EN: {0} cannot fire: not enough power -->
+  <SoS.CannotFireDueToPower>{0}無法開火：電力不足</SoS.CannotFireDueToPower>
+	<!-- EN: {0} cannot fire: not enough ammo -->
+  <SoS.CannotFireDueToAmmo>{0}無法開火：彈藥不足</SoS.CannotFireDueToAmmo>
+	<!-- shield -->
+	<!-- EN: Radius current/set: {0}/{1} -->
+  <SoS.ShieldRadius>當前半徑/目標半徑：{0}/{1}</SoS.ShieldRadius>
+	<!-- EN: Reset shield radius -->
+  <SoS.ResetShieldRadius>重設護盾半徑</SoS.ResetShieldRadius>
+	<!-- EN: Reset shield radius to 40. -->
+  <SoS.ResetShieldRadiusDesc>將護盾半徑重置為默認的40格。</SoS.ResetShieldRadiusDesc>
+	<!-- EN: Decrease shield radius -->
+  <SoS.DecShieldRadius>降低護盾半徑。</SoS.DecShieldRadius>
+	<!-- EN: Increase shield radius -->
+  <SoS.IncShieldRadius>提高護盾半徑。</SoS.IncShieldRadius>
+	<!-- EN: Fill destroyed -->
+  <SoS.FoamFill>填充缺口</SoS.FoamFill>
+	<!-- EN: Fill destroyed areas of your ship with hullfoam from its distributors. -->
+  <SoS.FoamFillDesc>用應急泡沫填充器填充飛船上的破損缺口。</SoS.FoamFillDesc>
+	<!-- EN: Nothing to fill or no fuel in distributors. -->
+  <SoS.FoamFillDisabled>飛船沒有需要填充的破損缺口，或應急泡沫填充器的燃料不足。</SoS.FoamFillDisabled>
+	<!-- reactor -->
+	<!-- EN: Instability: {0} -->
+  <SoS.ReactorInstability>穩定度：{0}</SoS.ReactorInstability>
+	<!-- EN: Overdrive I -->
+  <SoS.ReactorOverdrive>過載模式\n（I檔）</SoS.ReactorOverdrive>
+	<!-- EN: Increase reactor output, at the cost of increased heat production and fuel consumption. -->
+  <SoS.ReactorOverdriveDesc>以增加排熱量和燃料消耗量為代價，提高反應堆的運轉功率。</SoS.ReactorOverdriveDesc>
+	<!-- EN: Overdrive II -->
+  <SoS.ReactorOverdrive2>過載模式\n（II檔）</SoS.ReactorOverdrive2>
+	<!-- EN: Greatly increase reactor output, at the cost of increased heat production and fuel consumption. Increases instability, risking fire and radiation leaks. -->
+  <SoS.ReactorOverdrive2Desc>以增加排熱量和燃料消耗量為代價，大幅提高提升反應堆功率。反應堆會因此變得較為不穩定，且可能會引發火災和輻射洩漏。</SoS.ReactorOverdrive2Desc>
+	<!-- EN: Overdrive III -->
+  <SoS.ReactorOverdrive3>過載模式\n（III檔）</SoS.ReactorOverdrive3>
+	<!-- EN: Vastly increase reactor output, at the cost of increased heat production and fuel consumption. Increases instability, risking fire and radiation leaks. -->
+  <SoS.ReactorOverdrive3Desc>以增加排熱量和燃料消耗量為代價，極大幅提高反應堆功率。反應堆會因此變得十分不穩定，且非常可能會引發火災和輻射洩漏。</SoS.ReactorOverdrive3Desc>
+	<!-- blueprints -->
+	<!-- EN: Requires starflight basics research -->
+  <SoS.BlueprintDisabled>需要完成「星際航行基礎」研究項目</SoS.BlueprintDisabled>
+	<!-- EN: Blueprint placement failed! Area must support heavy construction and be clear of non-owned objects and mountain roof. -->
+  <SoS.BlueprintFailed>藍圖部署失敗！目標區域必須可以支持重型結構、沒有其他建築和厚巖頂。</SoS.BlueprintFailed>
+	<!-- EN: Ship frame blueprints -->
+  <SoS.BlueprintPlace1>放置藍圖\n（一階段）</SoS.BlueprintPlace1>
+	<!-- EN: Place ship plating and outer hull blueprints. Construct this before placing ship hull! -->
+  <SoS.BlueprintPlace1Desc>放置一階段的藍圖，如飛船護板、外部船體等。此階段的建造工程全部完成後，才能開始下一階段的建造工程。</SoS.BlueprintPlace1Desc>
+	<!-- EN: Ship hull blueprints -->
+  <SoS.BlueprintPlace2>放置藍圖\n（二階段）</SoS.BlueprintPlace2>
+	<!-- EN: Place ship hull blueprints. Construct this before placing interior blueprints! -->
+  <SoS.BlueprintPlace2Desc>放置二階段的藍圖，如內部船體、船體斜角等。此階段的建造工程全部完成後，才能開始下一階段的建造工程。</SoS.BlueprintPlace2Desc>
+	<!-- EN: Ship interior blueprints -->
+  <SoS.BlueprintPlace3>放置藍圖\n（三階段）</SoS.BlueprintPlace3>
+	<!-- EN: Place ship interior blueprints. Construct frame and hull blueprints before placing these! -->
+  <SoS.BlueprintPlace3Desc>放置三階段的藍圖，如控制台、傳感器、砲塔、反應堆等各種裝置設備。</SoS.BlueprintPlace3Desc>
+	<!-- pawns/eva -->
+	<!-- EN: {0} is suffering radiation burns from a damaged reactor! -->
+  <SoS.DamagedReactorHurtsPawn>由於飛船裂變反應堆受損，{0}正暴露於輻射中！</SoS.DamagedReactorHurtsPawn>
+	<!-- EN: EVA capable. -->
+  <SoS.EVACapable>【SOS2兼容】：具備艙外活動能力</SoS.EVACapable>
+	<!-- EN: Vacuum -->
+  <SoS.AtmosphereVacuum>真空環境</SoS.AtmosphereVacuum>
+	<!-- EN: Breathable Atmosphere -->
+  <SoS.Atmosphere>有氧環境</SoS.Atmosphere>
+	<!-- EN: Non-Breathable Atmosphere -->
+  <SoS.AtmosphereNonBreathable>缺氧環境</SoS.AtmosphereNonBreathable>
+	<!-- EN: Breach detected! -->
+  <SoS.AtmosphereBreach>存在破損缺口！</SoS.AtmosphereBreach>
+	<!-- holo/spore -->
+	<!-- EN: Spawn formgel -->
+  <SoS.SpawnHologram>構造\n擬形膠凝體</SoS.SpawnHologram>
+	<!-- EN: Assemble a formgel through which this consciousness can affect the world -->
+  <SoS.SpawnHologramDesc>構造一個擬形膠凝體，便於此設備內的意識與這個世界進行互動。</SoS.SpawnHologramDesc>
+	<!-- EN: Decohere formgel -->
+  <SoS.DespawnHologram>解構\n擬形膠凝體</SoS.DespawnHologram>
+	<!-- EN: Destroy the formgel controlled by this device. Breeding a new mechanite swarm to replace it will take one day -->
+  <SoS.DespawnHologramDesc>解構並摧毀由此設備控制的擬形膠凝體。由於奈米機械需要時間來再生，因此1天後才能再次構造出新的擬形膠凝體。</SoS.DespawnHologramDesc>
+	<!-- EN: Rename AI -->
+  <SoS.RenameAI>AI重命名</SoS.RenameAI>
+	<!-- EN: Give this AI a new name -->
+  <SoS.RenameAIDesc>給這個AI起個響亮的新名字。</SoS.RenameAIDesc>
+	<!-- EN: Install consciousness -->
+  <SoS.InstallConsciousness>安裝意識</SoS.InstallConsciousness>
+	<!-- EN: Install consciousness: {0} -->
+  <SoS.InstallConsciousnessThisOne>安裝意識：{0}</SoS.InstallConsciousnessThisOne>
+	<!-- EN: Install a consciousness into this device -->
+  <SoS.InstallConsciousnessDesc>將一個意識安裝進此設備內。</SoS.InstallConsciousnessDesc>
+	<!-- EN: Install AI core -->
+  <SoS.InstallCore>安裝人格核心</SoS.InstallCore>
+	<!-- EN: Order your colonists to install an AI core in this device -->
+  <SoS.InstallCoreDesc>將一個人格核心安裝進此設備內。</SoS.InstallCoreDesc>
+	<!-- EN: No consciousness available -->
+  <SoS.NoBrains>缺少可用的意識</SoS.NoBrains>
+	<!-- EN: No persona cores available -->
+  <SoS.NoCores>缺少可用的人格核心</SoS.NoCores>
+	<!-- EN: Formgel swarm regenerating: available in {0} -->
+  <SoS.SpawnHologramDelay>奈米機械再生中：{0}後可用</SoS.SpawnHologramDelay>
+	<!-- EN: Formgel Color -->
+  <SoS.HologramColor>擬形膠凝體顏色</SoS.HologramColor>
+	<!-- EN: Choose the color for this mind's formgel -->
+  <SoS.HologramColorDesc>改變此設備控制的擬形膠凝體的顏色。</SoS.HologramColorDesc>
+	<!-- EN: Ranged mode -->
+  <SoS.EquipRanged>遠程模式</SoS.EquipRanged>
+	<!-- EN: Equip this hologram with a ranged laser attack -->
+  <SoS.EquipRangedDesc>切換至使用全息激光攻擊的遠程模式。</SoS.EquipRangedDesc>
+	<!-- EN: Melee mode -->
+  <SoS.EquipMelee>近戰模式</SoS.EquipMelee>
+	<!-- EN: Equip this hologram with a blade and an energy shield -->
+  <SoS.EquipMeleeDesc>切換至使用能量護盾和全息劍攻擊的近戰模式。</SoS.EquipMeleeDesc>
+	<!-- EN: Resurrect -->
+  <SoS.ResurrectBrain>復活</SoS.ResurrectBrain>
+	<!-- EN: Use a resurrector mech serum to construct a new body for this consciousness -->
+  <SoS.ResurrectBrainDesc>使用復甦機械液為此設備內的意識重塑身體。</SoS.ResurrectBrainDesc>
+	<!-- EN: Unlocks archotech gifts -->
+  <SoS.ArchoGift>解鎖遠古恩惠</SoS.ArchoGift>
+	<!-- EN: Psychically increase goodwill (+10, costs {0} field strength) -->
+  <SoS.ArchotechGoodwillPlus>通過心靈操控來提升好感度（+10，消耗{0}點心靈場強度）</SoS.ArchotechGoodwillPlus>
+	<!-- EN: Psychically decrease goodwill (-10, costs {0} field strength) -->
+  <SoS.ArchotechGoodwillMinus>通過心靈操控來降低好感度（-10，消耗{0}點心靈場強度）</SoS.ArchotechGoodwillMinus>
+	<!-- EN: Insufficient field strength -->
+  <SoS.ArchotechFieldStrengthLow>心靈場強度不足</SoS.ArchotechFieldStrengthLow>
+	<!-- EN: Psychic soothe -->
+  <SoS.ArchotechSoothe>心靈撫慰</SoS.ArchotechSoothe>
+	<!-- EN: Perform a psychic soothe on one map (costs {0} field strength) -->
+  <SoS.ArchotechSootheDesc>對指定地圖釋放心靈撫慰波。（消耗{0}點心靈場強度）</SoS.ArchotechSootheDesc>
+	<!-- EN: Psychic shock -->
+  <SoS.ArchotechShock>心靈衝擊</SoS.ArchotechShock>
+	<!-- EN: Inflict psychic shock on one pawn (costs {0} field strength) -->
+  <SoS.ArchotechShockDesc>對指定地圖的某個單位釋放心靈衝擊。（消耗{0}點心靈場強度）</SoS.ArchotechShockDesc>
+	<!-- EN: Psychic insanity -->
+  <SoS.ArchotechInsanity>心靈錯亂</SoS.ArchotechInsanity>
+	<!-- EN: Inflict psychic insanity on one pawn (costs {0} field strength) -->
+  <SoS.ArchotechInsanityDesc>對指定地圖的某個單位釋放心靈錯亂。（消耗{0}點心靈場強度）</SoS.ArchotechInsanityDesc>
+	<!-- EN: Psylink -->
+  <SoS.ArchotechPsylink>啟靈神經</SoS.ArchotechPsylink>
+	<!-- EN: Grant a level of psylink to one pawn (costs {0} field strength) -->
+  <SoS.ArchotechPsylinkDesc>提升指定地圖的某個單位的啟靈等級。（消耗{0}點心靈場強度）</SoS.ArchotechPsylinkDesc>
+	<!-- EN: Link psychic presence -->
+  <SoS.ArchotechSoulLink>鏈接心靈源力</SoS.ArchotechSoulLink>
+	<!-- EN: Connect one pawn to this archotech spore. If the subject's body is destroyed, the psychic pattern can be directly downloaded into an afterlife casket, exactly as it was before death. (costs {0} field strength) -->
+  <SoS.ArchotechSoulLinkDesc>將一個人的心靈源力鏈接至遠古孢子。這樣一來，即使他的肉身被徹底摧毀，其心靈源力也能被下載至“來世”構造艙中等待復活。（消耗{0}點心靈場強度）</SoS.ArchotechSoulLinkDesc>
+	<!-- EN: Download psychic presence ({0}) -->
+  <SoS.ArchotechSoulDownload>下載心靈源力（{0}）</SoS.ArchotechSoulDownload>
+	<!-- EN: Download {0}'s consciousness into an empty afterlife casket. -->
+  <SoS.ArchotechSoulDownloadDesc>將裹雜著{0}意識的心靈源力下載至一個空的“來世”構造艙中。</SoS.ArchotechSoulDownloadDesc>
+	<!-- EN: Optimize matter -->
+  <SoS.ArchotechOptimizeMatter>飛船結構升級</SoS.ArchotechOptimizeMatter>
+	<!-- EN: Automatically convert standard hull to archotech hull in a slowly widening radius. This will not affect large structures such as heatsinks or shield generators. -->
+  <SoS.ArchotechOptimizeMatterDesc>將作用範圍內的船體和船體護板逐漸升級至遠古版本。作用範圍會隨著時間的流逝而不斷擴大。對飛船散熱器、護盾發生器等大型結構無效。</SoS.ArchotechOptimizeMatterDesc>
+	<!-- EN: Auto gift particles -->
+  <SoS.ArchotechGiftParticles>自動接受恩惠（異形粒子）</SoS.ArchotechGiftParticles>
+	<!-- EN: Automatically accept and convert spore rewards to exotic particles -->
+  <SoS.ArchotechGiftParticlesDesc>自動接受遠古孢子給予的恩惠，並將其轉換為異形粒子。</SoS.ArchotechGiftParticlesDesc>
+	<!-- EN: Demand gift -->
+  <SoS.ArchotechDemandGift>索求恩惠</SoS.ArchotechDemandGift>
+	<!-- EN: Demand an immediate gift from your archotech spore. This will result in a stacking -40 mood penalty! -->
+  <SoS.ArchotechDemandGiftDesc>立即向遠古孢子索求一份恩惠。此舉將會為所有殖民者疊加-40的心情減益。</SoS.ArchotechDemandGiftDesc>
+	<!-- EN: No gifts unlocked by research -->
+  <SoS.ArchotechNoGiftsUnlocked>缺少通過研究項目解鎖的恩惠</SoS.ArchotechNoGiftsUnlocked>
+	<!-- EN: Initiate archotech evolution -->
+  <SoS.ArchotechEvolve>開始遠古智能進化</SoS.ArchotechEvolve>
+	<!-- EN: Evolve your archotech spore into a true archotech, and usher in a new age for this world.\n\nThis will end the game! -->
+  <SoS.ArchotechEvolveDesc>將遠古孢子進化為真正的遠古智能，為這個世界開啟嶄新的時代。\n\n此舉將會使遊戲迎來結局！</SoS.ArchotechEvolveDesc>
+	<!-- EN: Archotech spore unhappy -->
+  <SoS.ArchotechMoodLow>遠古孢子不高興</SoS.ArchotechMoodLow>
+	<!-- EN: Your archotech spore's mood is low, and it may decide to start playing "pranks" on your crew.\n\nThe spore's mood can be improved slowly by having colonists meditate nearby, or quickly by sacrificing prisoners to it. -->
+  <SoS.ArchotechMoodLowDesc>遠古孢子心情不佳，它可能會對殖民者們玩些小小的「惡作劇」。\n\n孢子的心情可以通過讓殖民者在附近冥想來慢慢改善，也可以通過獻祭囚犯來快速改善。</SoS.ArchotechMoodLowDesc>
+	<!-- EN: Your archotech spore's mood is low, and it may decide to start playing "pranks" on your crew.\n\nThe spore's mood can be improved by sacrificing prisoners' brains to it. -->
+  <SoS.ArchotechMoodLowNoRoyDesc>遠古孢子心情不佳，它可能會對殖民者們玩些小小的「惡作劇」。\n\n孢子的心情可以通過獻祭囚犯來快速改善。</SoS.ArchotechMoodLowNoRoyDesc>
+	<!-- archoanimals -->
+	<!-- EN: By some cosmic event an archoanimal appeared for a brief moment only to vanish soon after. Maybe it is a sign of things to come. -->
+  <SoS.ArchoAnimalSuddenDeath>似乎是受到了某種宇宙事件的影響，有只遠古生物的身影出現在了附近，但很快就消失不見了。也許這預示著什麼？</SoS.ArchoAnimalSuddenDeath>
+	<!-- EN: Without an archotech spore to guide it, {0} has perished. -->
+  <SoS.ArchoAnimalSporeDeath>由於缺少遠古孢子的引導，{0}已死亡。</SoS.ArchoAnimalSporeDeath>
+	<!-- EN: Spawn archocat -->
+  <SoS.CraftArchocat>孵化遠古貓</SoS.CraftArchocat>
+	<!-- EN: Spawn archomutt -->
+  <SoS.CraftArchomutt>孵化遠古狗</SoS.CraftArchomutt>
+	<!-- EN: Spawn archostrich -->
+  <SoS.CraftArchostrich>孵化遠古鳥</SoS.CraftArchostrich>
+	<!-- EN: Spawn archoffalo -->
+  <SoS.CraftArchoffalo>孵化遠古毛牛</SoS.CraftArchoffalo>
+	<!-- EN: Spawn archospider -->
+  <SoS.CraftArchospider>孵化遠古巨蛛</SoS.CraftArchospider>
+	<!-- EN: Spawn archolope -->
+  <SoS.CraftArcholope>孵化遠古爆炸艾洛普</SoS.CraftArcholope>
+	<!-- EN: Spawn archotortoise -->
+  <SoS.CraftArchotortoise>孵化遠古龜</SoS.CraftArchotortoise>
+	<!-- EN: Spawn archopanda -->
+  <SoS.CraftArchopanda>孵化遠古熊貓</SoS.CraftArchopanda>
+	<!-- EN: Spawn archojerboa -->
+  <SoS.CraftArchojerboa>孵化遠古跳鼠</SoS.CraftArchojerboa>
+	<!-- EN: Spawn archothrumbo -->
+  <SoS.CraftArchothrumbo>孵化遠古獨角獸</SoS.CraftArchothrumbo>
+	<!-- EN: Change animal appearance -->
+  <SoS.ArcholifeChangeSkin>改變外觀</SoS.ArcholifeChangeSkin>
+	<!-- EN: This creature seems able to change shape at will, but only between a few discrete forms. -->
+  <SoS.ArcholifeChangeSkinDesc>此生物似乎可以將自己的外觀改變為特定的樣子。</SoS.ArcholifeChangeSkinDesc>
+	<!-- mechanites -->
+	<!-- EN: Mechanites! -->
+  <SoS.MechanitesInHomeArea>噬艦者奈米機械！！</SoS.MechanitesInHomeArea>
+    <!-- EN: Disassembler mechanites have infested the home area. -->
+  <SoS.MechanitesInHomeAreaDesc>噬艦者奈米機械正在侵蝕居住區。</SoS.MechanitesInHomeAreaDesc>
+	<!-- shuttles -->
+	<!-- EN: Mission: Boarding Party -->
+  <SoS.ShuttleMissionFloatBoard>任務：跳幫作戰</SoS.ShuttleMissionFloatBoard>
+	<!-- EN: Mission: Boarding Party (WARNING!) -->
+  <SoS.ShuttleMissionFloatBoardWarn>任務：跳幫作戰（警告！）</SoS.ShuttleMissionFloatBoardWarn>
+	<!-- EN: Mission: Intercept Torpedoes/Fighters -->
+  <SoS.ShuttleMissionFloatIntercept>任務：攔截魚雷/太空梭</SoS.ShuttleMissionFloatIntercept>
+	<!-- EN: Mission: Strafe Enemy Ship -->
+  <SoS.ShuttleMissionFloatStrafe>任務：掃射敵艦</SoS.ShuttleMissionFloatStrafe>
+	<!-- EN: Mission: Torpedo Enemy Ship -->
+  <SoS.ShuttleMissionFloatTorpedo>任務：轟炸敵艦</SoS.ShuttleMissionFloatTorpedo>
+	<!-- EN: Return to Ship -->
+  <SoS.ShuttleMissionFloatReturn>返回飛船</SoS.ShuttleMissionFloatReturn>
+	<!-- EN: Your shuttle is retreating due to damaged hull! -->
+  <SoS.ShuttleRetreat>由於機身受損，你的太空梭正在撤退！</SoS.ShuttleRetreat>
+	<!-- EN: Enemy shuttle is retreating due to damaged hull! -->
+  <SoS.EnemyShuttleRetreat>由於機身受損，敵艦的太空梭正在撤退！</SoS.EnemyShuttleRetreat>
+	<!-- EN: Your shuttle is retreating due to low fuel! -->
+  <SoS.ShuttleRetreatFuel>由於燃料不足，你的太空梭正在撤退！</SoS.ShuttleRetreatFuel>
+	<!-- EN: Enemy shuttle is retreating due to low fuel! -->
+  <SoS.EnemyShuttleRetreatFuel>由於燃料不足，敵艦的太空梭正在撤退！</SoS.EnemyShuttleRetreatFuel>
+	<!-- EN: Your shuttle is out of torpedoes and has begun retreating! -->
+  <SoS.ShuttleOutOfTorps>由於魚雷不足，你的太空梭正在撤退！</SoS.ShuttleOutOfTorps>
+	<!-- EN: Enemy shuttle is out of torpedoes and has begun retreating! -->
+  <SoS.EnemyShuttleOutOfTorps>由於魚雷不足，敵艦的太空梭正在撤退！</SoS.EnemyShuttleOutOfTorps>
+	<!-- EN: Your boarding shuttle has arrived! -->
+  <SoS.BoardingShuttleArrived>你的跳幫太空梭已抵達！</SoS.BoardingShuttleArrived>
+	<!-- EN: Enemy boarding shuttle has arrived! -->
+  <SoS.EnemyBoardingShuttleArrived>敵艦的跳幫太空梭已抵達！</SoS.EnemyBoardingShuttleArrived>
+	<!-- EN: Enemy boarding shuttle is retreating! -->
+  <SoS.EnemyBoardingShuttleAborted>敵艦的跳幫太空梭正在撤退！</SoS.EnemyBoardingShuttleAborted>
+	<!-- EN: Board enemy ship -->
+  <SoS.ShuttleMissionBoarding>跳幫作戰</SoS.ShuttleMissionBoarding>
+	<!-- EN: Send this shuttle to board the enemy ship. It will be vulnerable to point-defense weaponry. If the enemy has active engines, the shuttle will take longer to arrive. -->
+  <SoS.ShuttleMissionBoardingDesc>命令這艘太空梭前往敵艦，執行跳幫作戰任務。太空梭很容易遭到敵艦點防禦砲塔的攔截。如果敵艦的推進器尚在運作，太空梭想接近它就需要花費更長時間。</SoS.ShuttleMissionBoardingDesc>
+	<!-- EN: Shuttle under roof and not on suitable bay! -->
+  <SoS.ShuttleMissionBoardingDisabled>太空梭未處於星港或無屋頂阻擋的空曠地帶！</SoS.ShuttleMissionBoardingDisabled>
+	<!-- EN: Board enemy ship (WARNING!) -->
+  <SoS.ShuttleMissionBoardingWarn>跳幫作戰（警告！）</SoS.ShuttleMissionBoardingWarn>
+	<!-- EN: WARNING: Enemy ship has active engines and might not have room to land on!\nSend this shuttle to board the enemy ship. It will be vulnerable to point-defense weaponry. If the enemy has active engines, the shuttle will take longer to arrive. -->
+  <SoS.ShuttleMissionBoardingWarnDesc>警告：敵艦的推進器尚在運作，太空梭可能會找不到合適的地方著陸！\n\n命令這艘太空梭前往敵艦，執行跳幫作戰任務。太空梭很容易遭到敵艦點防禦砲塔的攔截。如果敵艦的推進器尚在運作，太空梭想接近它就需要花費更長時間。</SoS.ShuttleMissionBoardingWarnDesc>
+	<!-- EN: Return to ship -->
+  <SoS.ShuttleMissionBoardingReturn>返回飛船</SoS.ShuttleMissionBoardingReturn>
+	<!-- EN: Send this shuttle back to your ship. If enemy point-defense weapons remain online, it will be vulnerable to attack. -->
+  <SoS.ShuttleMissionBoardingReturnDesc>命令這艘太空梭返回你的飛船。如果敵艦的點防禦砲塔仍在運作，太空梭將很容易遭到攔截。</SoS.ShuttleMissionBoardingReturnDesc>
+	<!-- EN: Intercept -->
+  <SoS.ShuttleMissionIntercept>攔截魚雷/太空梭</SoS.ShuttleMissionIntercept>
+	<!-- EN: Send this shuttle to intercept incoming torpedoes and enemy shuttlecraft.\n\nIt will continue its mission until it runs low on fuel or is sufficiently damaged, or you recall it manually. -->
+  <SoS.ShuttleMissionInterceptDesc>命令這艘太空梭攔截敵艦的魚雷和太空梭。\n\n除非燃料不足、受損嚴重或被你主動召回，否則太空梭會一直執行此任務。</SoS.ShuttleMissionInterceptDesc>
+	<!-- EN: Strafe enemy ship -->
+  <SoS.ShuttleMissionStrafe>掃射敵艦</SoS.ShuttleMissionStrafe>
+	<!-- EN: Send this shuttle to strafe the enemy ship with its turrets. It will be vulnerable to point-defense weaponry. If the enemy has active engines, the shuttle will take longer to arrive.\n\nIt will continue its mission until it runs low on fuel or is sufficiently damaged, or you recall it manually. -->
+  <SoS.ShuttleMissionStrafeDesc>命令這艘太空梭用砲塔掃射敵艦。太空梭很容易遭到敵艦點防禦砲塔的攔截。如果敵艦的推進器尚在運作，太空梭想接近它就需要花費更長時間。\n\n除非燃料不足、受損嚴重或被你主動召回，否則太空梭會一直執行此任務。</SoS.ShuttleMissionStrafeDesc>
+	<!-- EN: Torpedo enemy ship -->
+  <SoS.ShuttleMissionBomb>轟炸敵艦</SoS.ShuttleMissionBomb>
+	<!-- EN: Send this shuttle to fire torpedoes from close range. It will be extremely vulnerable to point-defense weaponry, but its torpedoes will not be. If the enemy has active engines, the shuttle will take longer to arrive.\n\nIt will continue its mission until it runs low on fuel runs out of torpedoes, is sufficiently damaged, or you recall it manually. -->
+  <SoS.ShuttleMissionBombDesc>命令這艘太空梭用魚雷近距離轟炸敵艦。太空梭極容易遭到敵艦點防禦砲塔的攔截，但其發射的魚雷卻不會。如果敵艦的推進器尚在運作，太空梭想接近它就需要花費更長時間。\n\n除非燃料不足、魚雷不足、受損嚴重或被你主動召回，否則太空梭會一直執行此任務。</SoS.ShuttleMissionBombDesc>
+	<!-- EN: {0} (mission: {1}) -->
+  <SoS.RecallShuttle>{0}\n（任務：{1}）</SoS.RecallShuttle>
+	<!-- EN: Change this shuttle's mission. -->
+  <SoS.RecallShuttleDesc>變更這艘太空梭所執行的任務。</SoS.RecallShuttleDesc>
+	<!-- EN: Retreat at shuttle health -->
+  <SoS.RetreatAtHealth>耐久低於此閾值時撤退</SoS.RetreatAtHealth>
+	<!-- EN: This shuttle will automatically retreat when its health drops below this percentage. -->
+  <SoS.RetreatAtHealthDesc>當太空梭的耐久低於此閾值時，將會自動撤退。</SoS.RetreatAtHealthDesc>
+	<!-- EN: Cancel boarding action? Your shuttle will return to your ship. -->
+  <SoS.CancelBoarding>確定要取消執行跳幫作戰任務嗎？太空梭將會返回你的飛船。</SoS.CancelBoarding>
+	<!-- EN: Shuttle does not have enough hardpoints for this turret. -->
+  <SoS.NoHardpoints>太空梭掛載點不足，無法改裝此砲塔。</SoS.NoHardpoints>
+	<!-- EN: This upgrade would reduce cargo capacity below zero. -->
+  <SoS.NotEnoughCargoSpace>這項改裝會將太空梭的貨運量降至0以下。</SoS.NotEnoughCargoSpace>
+	<!-- EN: Local flight -->
+  <SoS.HoverJump>本地飛行</SoS.HoverJump>
+	<!-- EN: Launch and land in the same tile, at the cost of 5 fuel -->
+  <SoS.HoverJump.Desc>發射太空梭，並在當前地圖上的指定位置著陸。需要消耗5單位的燃料。</SoS.HoverJump.Desc>
+	<!-- EN: Set shuttle target -->
+  <SoS.TargetShuttles>設定太空梭的攻擊目標</SoS.TargetShuttles>
+	<!-- EN: Choose where shuttles on strafing and bombing missions should aim -->
+  <SoS.TargetShuttlesDesc>為正在執行掃射和轟炸敵艦任務的太空梭設定攻擊目標。</SoS.TargetShuttlesDesc>
+	<!-- EN: Toggle hull access -->
+  <SoS.ToggleField>開關船體通行</SoS.ToggleField>
+	<!-- EN: Allow pawns and vehicles to pass through this region of permeable hull. -->
+  <SoS.ToggleFieldDesc>允許/禁止殖民者、動物、機械體和載具從這片區域的船體進出通行。</SoS.ToggleFieldDesc>
+	<!-- Temporary fix for VehFW to show fule cost. This key wa missing, also resulting strin is crooped, so got to have the number at the start so it is not lost -->
+	<!-- EN: {0} Fuel cost -->
+  <VF_VehicleFuelCost>燃料消耗：{0}單位</VF_VehicleFuelCost>
+	<!-- EN: Restore hull -->
+  <SoSRestoreHull>重建船體</SoSRestoreHull>
+	<!-- EN: Construct new hull in place of wreckage -->
+  <SoSRestoreHullDesc>重建已變為殘骸狀態的飛船護板和船體。</SoSRestoreHullDesc>
+	<!-- EN: Already restoring this area! -->
+  <SoSAlreadyRestoring>此區域已經在重建了！</SoSAlreadyRestoring>
+	<!-- EN: Must designate wrecked starship hull -->
+  <SoSMustDesignateWreckage>必須指定已變為殘骸狀態的飛船護板和船體。</SoSMustDesignateWreckage>
+	<!-- EN: Warning: Moving a ship while docked will release all docking clamps. -->
+  <SoS.UnDockWarning>警告：移動飛船會使所有對接裝置收回對接通道。</SoS.UnDockWarning>
+	<!-- EN: Expel superheated air -->
+  <SoS.ExpelSuperheatedAir>排出過熱空氣</SoS.ExpelSuperheatedAir>
+	<!-- EN: Use this vent to expel superheated air from the room. The process will damage your ship's life-support system(s) for one point per tile in the room, split evenly.\n\nAny non-EVA-capable pawns in the room will suffer explosive decompression! -->
+  <SoS.ExpelSuperheatedAirDesc>將這個通風裝置所在飛船艙室內的過熱空氣排出。\n\n請註意，此過程會使飛船的生命維持系統受損。飛船艙室越大，受損就越嚴重，存在多個生命維持系統時，傷害將會均攤（當前將對每個生命維持系統造成13點傷害）。如果仍有不具備艙外活動能力的殖民者或動物滯留於目標飛船艙室內，他們將會因突然失壓而受傷！</SoS.ExpelSuperheatedAirDesc>
+	<!-- EN: Air is not superheated -->
+  <SoS.AirNotSuperheated>艙室內空氣未過熱。</SoS.AirNotSuperheated>
+	<!-- EN: No active life support -->
+  <SoS.NoLifeSupport>沒有正在運作的生命維持系統</SoS.NoLifeSupport>
+	<!-- EN: Break cloak at depletion level -->
+  <SoS.BreakCloakAtHeat>熱容量上限削減高於此閾值時關閉</SoS.BreakCloakAtHeat>
+	<!-- EN: When the ship's coolant depletion reaches this percentage, disable cloaking device(s) so that it can recover. -->
+  <SoS.BreakCloakAtHeatDesc>當隱形裝置開啟時，飛船的散熱器將無法工作，且熱容量上限會逐漸被削減。\n\n當被削減的熱容量高於此閾值時，隱形裝置將會自動關閉。</SoS.BreakCloakAtHeatDesc>
+	<!-- EN: Cloaking devices deactivated due to coolant depletion! -->
+  <SoS.CloakBrokenAtHeat>由於熱容量不足，隱形裝置已關閉！</SoS.CloakBrokenAtHeat>
+	<!-- EN: Not enough fuel to launch shuttle -->
+  <SoS.NotEnoughFuelToLaunchShuttle>燃料不足，無法發射太空梭</SoS.NotEnoughFuelToLaunchShuttle>
+	<!-- EN: Shuttle is under a roof and is not on a shuttle bay -->
+  <SoS.CannotLaunchUnderRoof>太空梭未處於星港或無屋頂阻擋的空曠地帶</SoS.CannotLaunchUnderRoof>
+	<!-- EN: Breach airlock -->
+	<SoSBreachAirlock>破拆飛船氣閘</SoSBreachAirlock>
+	<!-- EN: Hack airlock -->
+  <SoSHackAirlock>駭入飛船氣閘</SoSHackAirlock>
+	<!-- EN: Attack {0} -->
+  <SoSAttackShip>攻擊{0}</SoSAttackShip>
+	<!-- EN: Begin ship combat against the {0}. -->
+  <SoSAttackShipDesc>開始與{0}間的飛船交戰。</SoSAttackShipDesc>
+	<!-- EN: Pirate {0} -->
+  <SoSPirateShip>劫掠{0}</SoSPirateShip>
+	<!-- EN: Attempt an act of space piracy against {0}. This will begin ship combat and raise your ship's notoriety! -->
+  <SoSPirateShipDesc>嘗試對{0}進行劫掠。這會開始與{0}間的飛船交戰，並提高你飛船的惡譽！</SoSPirateShipDesc>
+	<!-- EN: Investigate {0} -->
+  <SoSInvestigateDerelict>調查{0}</SoSInvestigateDerelict>
+	<!-- EN: Move in to investigate the {0}. You will be able to launch shuttles to the derelict, and once it has been cleared of hostiles (if any) you may salvage it. -->
+  <SoSInvestigateDerelictDesc>前往調查{0}。\n\n你可以向這艘廢棄飛船發射太空梭。一旦盤踞於此的敵人被盡數消滅（如果有的話），就能使用回收港打撈它。</SoSInvestigateDerelictDesc>
+	<!-- EN: Failed to hack the enemy bridge! -->
+  <SoSHackFailed>敵艦控製系統駭入失敗！</SoSHackFailed>
+	<!-- EN: Hack bridge -->
+  <SoSHackBridge>駭入控製系統</SoSHackBridge>
+	<!-- EN: Unable to place cryptosleep cocoon! -->
+  <SoSCantPlaceCocoon>無法放置低溫休眠繭！</SoSCantPlaceCocoon>
+	<!-- EN: User is already malnourished -->
+  <SoSAlreadyMalnourished>無法在營養不良時使用。</SoSAlreadyMalnourished>
+	<!-- EN: Toggle shield -->
+  <SoSToggleShield>開關護盾</SoSToggleShield>
+	<!-- EN: Toggle this shield on or off -->
+  <SoSToggleShieldDesc>開啟或關閉太空梭上的護盾發生器。</SoSToggleShieldDesc>
+	<!-- EN: Cannot vent: Cloaked -->
+  <SoSCantVentCloaked>無法排熱：隱形裝置已開啟</SoSCantVentCloaked>
+	<!-- EN:  more shuttles -->
+  <SoSMoreShuttles>更多太空梭</SoSMoreShuttles>
+	<!-- EN: Energy:  -->
+  <SoSCombatEnergy>蓄電量：</SoSCombatEnergy>
+	<!-- EN: Energy: N/A -->
+  <SoSCombatNoEnergy>蓄電量：N/A</SoSCombatNoEnergy>
+	<!-- EN: Heat:  -->
+  <SoSCombatHeat>蓄熱量：</SoSCombatHeat>
+	<!-- EN: Heat: N/A -->
+  <SoSCombatNoHeat>蓄熱量：N/A</SoSCombatNoHeat>
+	<!-- EN: Hull:  -->
+  <SoSCombatHull>耐久：</SoSCombatHull>
+	<!-- EN: Shields:  -->
+  <SoSCombatShields>護盾：</SoSCombatShields>
+	<!-- EN: N/A -->
+  <SoSCombatNone>N/A</SoSCombatNone>
+	<!-- EN: Cannot settle space sites -->
+  <SoSCantSettleSpaceSites>無法在太空任務事件點定居。</SoSCantSettleSpaceSites>
+	<!-- EN: Ship has no internal power supply -->
+  <SoSNoPowerSupply>飛船缺少內部電力供應。</SoSNoPowerSupply>
+	<!-- EN: Carry to cryptonest -->
+  <SoSCarryToCryptonest>裝入休眠巢</SoSCarryToCryptonest>
+	<!-- EN: Consciousness: {0} -->
+  <SoSConsciousness>意識：{0}</SoSConsciousness>
+	<!-- EN: AI name: {0} -->
+  <SoSAIName>AI名字：{0}</SoSAIName>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: outer space -->
+  <OuterSpaceWeather.label>外太空</OuterSpaceWeather.label>
+  <!-- EN: It's... space. Try not to go outside. -->
+  <OuterSpaceWeather.description>这里是...外太空。最好还是不要出去为妙。</OuterSpaceWeather.description>
+  
+</LanguageData>

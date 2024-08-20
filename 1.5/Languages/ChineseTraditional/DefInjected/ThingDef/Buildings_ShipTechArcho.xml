@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recyclotron -->
+  <ArchoRecycler.label>分解回收爐</ArchoRecycler.label>
+  <!-- EN: Uses mechanites to break down any object into its base materials, with near perfect efficiency. -->
+  <ArchoRecycler.description>利用奈米機械來高效分解和回收物品的設備，其效率接近完美。</ArchoRecycler.description>
+  
+  <!-- EN: antimatter reactor -->
+  <ArchotechAntimatterReactor.label>反物質反應堆</ArchotechAntimatterReactor.label>
+  <!-- EN: Annihilates exotic particles to produce tremendous electrical power. It would not be a good idea to let this be damaged. -->
+  <ArchotechAntimatterReactor.description>通過湮滅異形粒子進行高效發電的反應堆。受損嚴重時很可能會引發災難性的後果。</ArchotechAntimatterReactor.description>
+  
+  <!-- EN: archotech shield generator -->
+  <ArchotechShieldGenerator.label>遠古護盾發生器</ArchotechShieldGenerator.label>
+  <!-- EN: An advanced shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nGenerates 75% of a standard shield's heat when it blocks attacks. If no heatsink capacity is available, the shield will be damaged and require repairs.\n\nCaptains are advised to drop shields once coolant reaches very high temperature, or risk heatsink damage. -->
+  <ArchotechShieldGenerator.description>一種能產生動能排斥場的遠古設備。能夠向外射擊，但無法射入。\n\n遠古護盾攔截攻擊時產生的熱量只有普通護盾的75%。如果飛船熱量網絡系統的熱容量不足，不僅會使護盾失效，發生器本身也將損壞。為了避免這種情況發生，建議在蓄熱量臨近上限時手動關閉護盾發生器。</ArchotechShieldGenerator.description>
+  
+  <!-- EN: archotech uplink -->
+  <ArchotechUplink.label>遠古上行鏈路</ArchotechUplink.label>
+  <!-- EN: Allows human researchers to collaborate with a fraction of your archotech spore's mind. Place near a high-tech research bench to unlock archotech projects. Each research bench can only use one uplink. -->
+  <ArchotechUplink.description>藉由這台裝置，你可以讓殖民地中的研究員與遠古孢子的部分思想達成合作。能提高研究速度，並解鎖遠古科技的研究權限。需要放置在高級研究台附近。一個研究台只能連接一個遠古上行鏈路。</ArchotechUplink.description>
+  
+  <!-- EN: mechanite glob -->
+  <Bullet_Fake_Mechanite.label>奈米機械珠彈</Bullet_Fake_Mechanite.label>
+  
+  <!-- EN: psychic blast -->
+  <Bullet_Fake_Psychic.label>心靈爆破</Bullet_Fake_Psychic.label>
+  
+  <!-- EN: disassembler mechanites -->
+  <MechaniteFire.label>噬艦者奈米機械</MechaniteFire.label>
+  
+  <!-- EN: disassembler mechanites -->
+  <MechaniteSpark.label>噬艦者奈米機械</MechaniteSpark.label>
+  
+  <!-- EN: Mote -->
+  <Mote_BlastMechanite.label>特效</Mote_BlastMechanite.label>
+  
+  <!-- EN: mechanite cocktail -->
+  <Proj_GrenadeMechanite.label>奈米機械燃燒瓶</Proj_GrenadeMechanite.label>
+  
+  <!-- EN: mechanite glob -->
+  <Proj_ShipTurretMechanite.label>奈米機械珠彈</Proj_ShipTurretMechanite.label>
+  
+  <!-- EN: psychic blast -->
+  <Proj_ShipTurretPsychic.label>心靈爆破</Proj_ShipTurretPsychic.label>
+  
+  <!-- EN: archotech ship hull -->
+  <Ship_BeamArchotech.label>遠古船體</Ship_BeamArchotech.label>
+  <!-- EN: The outer structural elements of an archotech-designed ship's hull. Includes conduits for power and coolant. -->
+  <Ship_BeamArchotech.description>用於組成遠古飛船的重要外部結構，內部嵌有電纜、氧氣管道和熱量管道。</Ship_BeamArchotech.description>
+  
+  <!-- EN: archotech ship hull (unpowered) -->
+  <Ship_BeamArchotech_Unpowered.label>遠古船體（無動力）</Ship_BeamArchotech_Unpowered.label>
+  <!-- EN: The outer structural elements of an archotech-designed ship's hull. Does not include conduits for power or coolant. -->
+  <Ship_BeamArchotech_Unpowered.description>用於組成遠古飛船的重要外部結構，內部並未嵌有電纜和熱量管道。</Ship_BeamArchotech_Unpowered.description>
+  
+  <!-- EN: archotech hull corner (1x1) -->
+  <Ship_Corner_Archo_OneOne.label>遠古船體斜角 (1x1)</Ship_Corner_Archo_OneOne.label>
+  <!-- EN: Angled armor for a ship's outer hull, designed by an archotech. -->
+  <Ship_Corner_Archo_OneOne.description>遠古船體的斜角部位。</Ship_Corner_Archo_OneOne.description>
+  
+  <!-- EN: archotech hull corner (1x1) flip -->
+  <Ship_Corner_Archo_OneOneFlip.label>遠古船體斜角 (1x1) </Ship_Corner_Archo_OneOneFlip.label>
+  <!-- EN: Angled armor for a ship's outer hull, designed by an archotech. -->
+  <Ship_Corner_Archo_OneOneFlip.description>遠古船體的斜角部位。</Ship_Corner_Archo_OneOneFlip.description>
+  
+  <!-- EN: archotech hull corner (1x3) -->
+  <Ship_Corner_Archo_OneThree.label>遠古船體斜角 (1x3)</Ship_Corner_Archo_OneThree.label>
+  <!-- EN: Angled armor for a ship's outer hull, designed by an archotech. -->
+  <Ship_Corner_Archo_OneThree.description>遠古船體的斜角部位。</Ship_Corner_Archo_OneThree.description>
+  
+  <!-- EN: archotech hull corner (1x3) flip -->
+  <Ship_Corner_Archo_OneThreeFlip.label>遠古船體斜角 (1x3)</Ship_Corner_Archo_OneThreeFlip.label>
+  <!-- EN: Angled armor for a ship's outer hull, designed by an archotech. -->
+  <Ship_Corner_Archo_OneThreeFlip.description>遠古船體的斜角部位。</Ship_Corner_Archo_OneThreeFlip.description>
+  
+  <!-- EN: archotech hull corner (1x2) -->
+  <Ship_Corner_Archo_OneTwo.label>遠古船體斜角 (1x2)</Ship_Corner_Archo_OneTwo.label>
+  <!-- EN: Angled armor for a ship's outer hull, designed by an archotech. -->
+  <Ship_Corner_Archo_OneTwo.description>遠古船體的斜角部位。</Ship_Corner_Archo_OneTwo.description>
+  
+  <!-- EN: archotech hull corner (1x2) flip -->
+  <Ship_Corner_Archo_OneTwoFlip.label>遠古船體斜角 (1x2) </Ship_Corner_Archo_OneTwoFlip.label>
+  <!-- EN: Angled armor for a ship's outer hull, designed by an archotech. -->
+  <Ship_Corner_Archo_OneTwoFlip.description>遠古船體的斜角部位。</Ship_Corner_Archo_OneTwoFlip.description>
+  
+  <!-- EN: antimatter thruster -->
+  <Ship_Engine_Archotech.label>反物質推進器</Ship_Engine_Archotech.label>
+  <!-- EN: An advanced combat thruster capable of tremendous bursts of speed. Consumes exotic particles as fuel. Not suitable for atmospheric use.\n\nThrust: 6000\nFuel use: 1 exotic particle/s -->
+  <Ship_Engine_Archotech.description>可以在短時間內大幅提速的高級戰鬥型推進器，需要消耗異形粒子作為燃料。並不適合在星球大氣層內使用。\n\n【飛船推力】：6000\n【燃料消耗】：1異形粒子/秒</Ship_Engine_Archotech.description>
+  
+  <!-- EN: archotech ship airlock -->
+  <ShipAirlockArchotech.label>遠古飛船氣閘</ShipAirlockArchotech.label>
+  <!-- EN: Allows access to a ship or divides rooms inside it. Low-energy plasma barriers prevent gases from escaping. -->
+  <ShipAirlockArchotech.description>用於飛船入口或分隔艙室。電力運轉，人穿過氣閘不會減速。產生的低能等離子體屏障可以防止氧氣逸出。</ShipAirlockArchotech.description>
+  
+  <!-- EN: archotech pillar alpha -->
+  <ShipArchotechPillarA.label>遠古支柱-阿爾法</ShipArchotechPillarA.label>
+  <!-- EN: A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar. -->
+  <ShipArchotechPillarA.description>散發著古怪氣息的超精密裝置。雖然它的內部構造對於所有人來說都是個謎，但顯然對我們的「遠古孢子」項目有所幫助。\n\n同種類型的支柱只需一根即可。</ShipArchotechPillarA.description>
+  
+  <!-- EN: archotech pillar beta -->
+  <ShipArchotechPillarB.label>遠古支柱-貝塔</ShipArchotechPillarB.label>
+  <!-- EN: A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar. -->
+  <ShipArchotechPillarB.description>散發著古怪氣息的超精密裝置。雖然它的內部構造對於所有人來說都是個謎，但顯然對我們的「遠古孢子」項目有所幫助。\n\n同種類型的支柱只需一根即可。</ShipArchotechPillarB.description>
+  
+  <!-- EN: archotech pillar gamma -->
+  <ShipArchotechPillarC.label>遠古支柱-伽馬</ShipArchotechPillarC.label>
+  <!-- EN: A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar. -->
+  <ShipArchotechPillarC.description>散發著古怪氣息的超精密裝置。雖然它的內部構造對於所有人來說都是個謎，但顯然對我們的「遠古孢子」項目有所幫助。\n\n同種類型的支柱只需一根即可。</ShipArchotechPillarC.description>
+  
+  <!-- EN: archotech pillar delta -->
+  <ShipArchotechPillarD.label>遠古支柱-德爾塔</ShipArchotechPillarD.label>
+  <!-- EN: A complex and bizarre apparatus which serves no human-comprehensible purpose, but which will apparently advance the plans of your archotech spore in some way.\n\nThere is no benefit to building more than one copy of the same pillar. -->
+  <ShipArchotechPillarD.description>散發著古怪氣息的超精密裝置。雖然它的內部構造對於所有人來說都是個謎，但顯然對我們的「遠古孢子」項目有所幫助。\n\n同種類型的支柱只需一根即可。</ShipArchotechPillarD.description>
+  
+  <!-- EN: archotech spore -->
+  <ShipArchotechSpore.label>遠古孢子</ShipArchotechSpore.label>
+  <!-- EN: An incubator for a mortal mind, either humanlike or machine, that has begun upgrading itself into an archotech.\n\nThe vast majority of its computational power is focused inward, contemplating its own structure and other unknowable mysteries, but enough is left over to serve as a ship's computer core.\n\nIts mood can be improved by having colonists meditate nearby, or by sacrificing prisoners to it. Should its mood dip too low, it might decide to play "pranks."\n\nBuilding more than one archotech spore will not produce gifts more frequently, but they will develop psychic field strength independently. -->
+  <ShipArchotechSpore.description>內部載有未知心智的遠古培養裝置。雖然我們尚不清楚這個集群型心智是如何誕生的，但它們似乎已經在逐漸進化成新生的遠古智能了。\n\n遠古孢子的計算能力遠遠超出了人類的想像。雖然它的內部構造對於所有人來說都是個謎，但用來取代飛船電腦核心顯然是小菜一碟的。\n\n殖民者在附近冥想或獻祭囚犯都可以取悅遠古孢子。如果遠古孢子心情不佳，它很可能會對殖民者們施以小小的「惡作劇」。\n\n建造多個遠古孢子並不會使恩惠的給予速度變快，它們產生的心靈場強度也是獨立計算的。</ShipArchotechSpore.description>
+  
+  <!-- EN: anti-entropic heatbank -->
+  <ShipHeatsinkAntiEntropy.label>反熵熱量轉換器</ShipHeatsinkAntiEntropy.label>
+  <!-- EN: An advanced heatbank designed by an archotech. Uses exotic physics to convert excess heat back into usable energy. Slowly replenishes capacity from depletion even when cloaked.\n\nHeat capacity: 200Hu\nHeat conversion: 5Hu/s to 1kW/s -->
+  <ShipHeatsinkAntiEntropy.description>由遠古智能設計的高級裝置，可通過人類無法理解的原理來將熱量轉化成電力。即使在隱形裝置開啟時也能緩慢恢復被削減的熱容量上限。\n\n【熱容量】：200Hu\n【轉化效率】： 5Hu/秒→1000W/秒</ShipHeatsinkAntiEntropy.description>
+  
+  <!-- EN: archotech hull plating -->
+  <ShipHullTileArchotech.label>遠古船體護板</ShipHullTileArchotech.label>
+  <!-- EN: Spaceworthy hull plating designed by an archotech. -->
+  <ShipHullTileArchotech.description>用於組成遠古飛船的重要內部結構，可將其所在的地格（以及任何建造在上面的東西）視作為飛船的一部分。\n\n只能在由船體組成的封閉空間內進行鋪設。</ShipHullTileArchotech.description>
+  
+  <!-- EN: archotech ship vent -->
+  <ShipInside_PassiveVentArchotech.label>遠古飛船通風裝置</ShipInside_PassiveVentArchotech.label>
+  <!-- EN: Exchanges heat with the coolant network, cooling or heating a ship's interior to the desired temperature.\n\nCan also heat rooms with electricity. -->
+  <ShipInside_PassiveVentArchotech.description>與飛船熱量網絡系統相連的遠古通風裝置，可通過熱交換原理來提高或降低飛船艙室內的溫度。\n\n也能消耗電力為飛船艙室供暖。</ShipInside_PassiveVentArchotech.description>
+  
+  <!-- EN: archotech solar generator -->
+  <ShipInside_SolarGeneratorArchotech.label>遠古飛船太陽能板</ShipInside_SolarGeneratorArchotech.label>
+  <!-- EN: Uses photons to entangle itself with the star's photosphere, absorbing more energy than the sunlight alone would provide. Produces up to 1200W in space and 600W on planet surface. Does not work in the dark or under artificial light. -->
+  <ShipInside_SolarGeneratorArchotech.description>通過光量子與恆星光球層間的糾纏作用來發電，效率遠超普通的飛船太陽能板。在陽光不足時停止工作，人工光源無法用作發電。\n\n【電力輸出（地面）】：600W\n【電力輸出（太空）】：1200W</ShipInside_SolarGeneratorArchotech.description>
+  
+  <!-- EN: spinal barrel: disassembler -->
+  <ShipSpinalBarrelMechanite.label>脊峰火砲：噬艦者砲管</ShipSpinalBarrelMechanite.label>
+  <!-- EN: The final segment of a spinal-mount cannon. A modified railgun which launches globs of disassembler mechanites.\n\nShould be placed outside the ship, unless you want a new hole in your hull.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipSpinalBarrelMechanite.description>用於組成脊峰火砲的最後部件，可以向敵艦發射噬艦者奈米機械。如果你不想給船體上多開幾個大洞的話，那就把它建造在飛船的外部。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipSpinalBarrelMechanite.description>
+  
+  <!-- EN: spinal barrel: psychic flayer -->
+  <ShipSpinalBarrelPsychic.label>脊峰火砲：弒靈者砲管</ShipSpinalBarrelPsychic.label>
+  <!-- EN: The final segment of a spinal-mount cannon. Fires a beam of directed psychic trauma that stuns crew and will likely cause brain damage. Ignores hull (but not shields).\n\nUnlike other spinal weapons, the psychic flayer cannot damage your own ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipSpinalBarrelPsychic.description>用於組成脊峰火砲的最後部件，可以向敵艦發射能夠穿透船體（無法穿透護盾）的定向心靈衝擊波，攻擊船員的精神心智，並有概率造成大腦損傷。如果你不想給船體上多開幾個...咳咳，實際上弒靈者並不會對船體造成破壞。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipSpinalBarrelPsychic.description>
+  
+  <!-- EN: spinal-mount cannon -->
+  <ShipTurret_SpinalMountTopMechanite.label>脊峰火砲</ShipTurret_SpinalMountTopMechanite.label>
+  <!-- EN: Capital ship weaponry. -->
+  <ShipTurret_SpinalMountTopMechanite.description>主力艦使用的脊峰火砲。</ShipTurret_SpinalMountTopMechanite.description>
+  <!-- EN: shoot -->
+  <ShipTurret_SpinalMountTopMechanite.verbs.shoot.label>脊峰火砲</ShipTurret_SpinalMountTopMechanite.verbs.shoot.label>
+  
+  <!-- EN: spinal-mount cannon -->
+  <ShipTurret_SpinalMountTopPsychic.label>脊峰火砲</ShipTurret_SpinalMountTopPsychic.label>
+  <!-- EN: Capital ship weaponry. -->
+  <ShipTurret_SpinalMountTopPsychic.description>主力艦使用的脊峰火砲。</ShipTurret_SpinalMountTopPsychic.description>
+  <!-- EN: shoot -->
+  <ShipTurret_SpinalMountTopPsychic.verbs.shoot.label>脊峰火砲</ShipTurret_SpinalMountTopPsychic.verbs.shoot.label>
+  
+  <!-- EN: pink goo -->
+  <Weapon_GrenadeMechanite.label>噬艦者燃燒瓶</Weapon_GrenadeMechanite.label>
+  <!-- EN: Glass bottles filled with a strange pink substance. The spore suggested that you throw these at your enemies. -->
+  <Weapon_GrenadeMechanite.description>裝有噬艦者奈米機械的玻璃瓶。遠古孢子建議你將它扔向敵人的飛船。</Weapon_GrenadeMechanite.description>
+  <!-- EN: throw -->
+  <Weapon_GrenadeMechanite.verbs.throw.label>投擲噬艦者燃燒瓶</Weapon_GrenadeMechanite.verbs.throw.label>
+  
+</LanguageData>

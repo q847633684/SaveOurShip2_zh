@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: formgel slime -->
+  <FormgelSlime.label>擬形膠凝體崩解</FormgelSlime.label>
+  <!-- EN: {0} has been killed. -->
+  <FormgelSlime.deathMessage>{0}被殺死了。</FormgelSlime.deathMessage>
+  
+  <!-- EN: decompression -->
+  <VacuumDamage.label>失壓傷</VacuumDamage.label>
+  <!-- EN: {0} has ruptured. -->
+  <VacuumDamage.deathMessage>{0}的身體四分五裂了。</VacuumDamage.deathMessage>
+  
+</LanguageData>

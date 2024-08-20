@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bomb -->
+  <ShipTorpedoBomb.label>炸伤</ShipTorpedoBomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <ShipTorpedoBomb.deathMessage>{0}被炸死了。</ShipTorpedoBomb.deathMessage>
+  
+  <!-- EN: bomb -->
+  <ShipTorpedoBombSuper.label>炸伤</ShipTorpedoBombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <ShipTorpedoBombSuper.deathMessage>{0}被炸死了。</ShipTorpedoBombSuper.deathMessage>
+  
+</LanguageData>

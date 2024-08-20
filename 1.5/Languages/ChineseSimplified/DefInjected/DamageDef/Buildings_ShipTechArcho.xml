@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bomb -->
+  <BombMechanite.label>炸伤</BombMechanite.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombMechanite.deathMessage>{0}被炸死了。</BombMechanite.deathMessage>
+  
+  <!-- EN: psychic trauma -->
+  <PsychicFlayer.label>心灵崩毁</PsychicFlayer.label>
+  <!-- EN: {0} has been psychically obliterated. -->
+  <PsychicFlayer.deathMessage>{0}的心智被磨灭了。</PsychicFlayer.deathMessage>
+  
+</LanguageData>

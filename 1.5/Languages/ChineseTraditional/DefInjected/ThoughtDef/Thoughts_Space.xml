@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body modder immortal -->
+  <ProsthophileImmortal.stages.body_modder_immortal.label>永垂不朽</ProsthophileImmortal.stages.body_modder_immortal.label>
+  <!-- EN: I have transcended mere humanity! -->
+  <ProsthophileImmortal.stages.body_modder_immortal.description>我已經超越人類了！</ProsthophileImmortal.stages.body_modder_immortal.description>
+  
+  <!-- EN: body gone -->
+  <ProsthophobeImmortal.stages.body_gone.label>升格智械</ProsthophobeImmortal.stages.body_gone.label>
+  <!-- EN: I am a machine desperately trying to convince itself that it is human. -->
+  <ProsthophobeImmortal.stages.body_gone.description>我到底是AI，還是人類？</ProsthophobeImmortal.stages.body_gone.description>
+  
+  <!-- EN: space! -->
+  <SpaceThoughts.stages.space-0.label>登上太空！</SpaceThoughts.stages.space-0.label>
+  <!-- EN: It's so cooool! -->
+  <SpaceThoughts.stages.space-0.description>哇哦，太酷了！</SpaceThoughts.stages.space-0.description>
+  <!-- EN: space... -->
+  <SpaceThoughts.stages.space-1.label>登上太空...</SpaceThoughts.stages.space-1.label>
+  <!-- EN: So empty...So big! *shudder* -->
+  <SpaceThoughts.stages.space-1.description>嘶...這裡...竟是如此空虛與廣闊...</SpaceThoughts.stages.space-1.description>
+  <!-- EN: EVA -->
+  <SpaceThoughts.stages.EVA-0.label>艙外活動</SpaceThoughts.stages.EVA-0.label>
+  <!-- EN: Holy crap! I'm actually doing this! -->
+  <SpaceThoughts.stages.EVA-0.description>啊哈！我曾經和爺爺奶奶說過想當一名太空人，如今這個夢想也終於實現了！</SpaceThoughts.stages.EVA-0.description>
+  <!-- EN: EVA -->
+  <SpaceThoughts.stages.EVA-1.label>艙外活動</SpaceThoughts.stages.EVA-1.label>
+  <!-- EN: Why am I doing this?!? -->
+  <SpaceThoughts.stages.EVA-1.description>不！快放我回去！我討厭這裡！</SpaceThoughts.stages.EVA-1.description>
+  
+</LanguageData>

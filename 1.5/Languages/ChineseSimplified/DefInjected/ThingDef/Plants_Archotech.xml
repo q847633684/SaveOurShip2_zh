@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia bush -->
+  <Plant_AmbrosiaArchotech.label>仙馐树</Plant_AmbrosiaArchotech.label>
+  <!-- EN: A bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed without the help of an archotech spore.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
+  <Plant_AmbrosiaArchotech.description>一种稀有的灌木，可以收获仙馐果。食用仙馐果会产生一种弱性的化学亢奋作用，从而让人感到心情愉悦。仙馐树的种植离不开超凡孢子的帮助。\n\n稀有、美丽、诱人..种种特点使仙馐果被冠上了“众神美馔”的称号。</Plant_AmbrosiaArchotech.description>
+  
+  <!-- EN: fireflower -->
+  <Plant_Fireflower.label>火焰花</Plant_Fireflower.label>
+  <!-- EN: A beautiful flower which vanometrically produces heat and light. Increases a room's temperature up to 21C. Produces a small explosion if set aflame. -->
+  <Plant_Fireflower.description>这种美丽的花朵可以从虚空中抽取能量并转化为光和热。它能将室内温度加热至21℃。被点燃后会发生小爆炸。</Plant_Fireflower.description>
+  
+  <!-- EN: hypnobloom -->
+  <Plant_Hypnobloom.label>催眠花</Plant_Hypnobloom.label>
+  <!-- EN: An iridescent rose-like flower, the hypnobloom emits calming pheromones and a subtle psychic signal that enhances perceptions of beauty. -->
+  <Plant_Hypnobloom.description>一种如彩虹般绚烂的玫瑰类花朵，它能散发出镇定信息素和微弱的心灵信号，增强人们对美的感知。</Plant_Hypnobloom.description>
+  
+  <!-- EN: meatbush -->
+  <Plant_Meatbush.label>肉丛</Plant_Meatbush.label>
+  <!-- EN: A slimy plant whose leaves are indistinguishable, in both taste and nutrition, from high-quality beef. The strange cooing noises it makes while being harvested have been described as "disturbing" and "proof that archotechs have a sense of humor." -->
+  <Plant_Meatbush.description>一种黏糊糊的植物，其叶子无论在味道还是营养上都与优质牛肉无法区分。它被收割时会发出奇怪的咕咕声，有些人觉得“这听起来令人不安”，而有些人则认为“这证明了超凡智能同样也有幽默感”。</Plant_Meatbush.description>
+  
+  <!-- EN: pharmatree -->
+  <Plant_Pharmatree.label>药树</Plant_Pharmatree.label>
+  <!-- EN: A slow-growing bush whose sap can be rendered into pure liquid neutroamine. Its leaves also make the galaxy's least enjoyable tea. -->
+  <Plant_Pharmatree.description>一种生长缓慢的灌木。它的汁液可以转化为纯液态的中性胺，叶子也可以泡制成银河系中最令人不爽的茶。</Plant_Pharmatree.description>
+  
+  <!-- EN: slaughtermelon -->
+  <Plant_Slaughtermelon.label>屠戮瓜</Plant_Slaughtermelon.label>
+  <!-- EN: A spiky, hard-shelled melon whose fruit is soaked in chemfuel. Highly explosive. Inedible, but can be harvested for chemfuel or used (along with IED triggers) as part of perimeter defenses. -->
+  <Plant_Slaughtermelon.description>一种带刺的硬壳瓜，其果实浸泡在化合燃料中。非常易爆。虽然不能食用，但可用于制造化合燃料，或像简易炸弹陷阱一样作为防卫殖民地的手段使用。</Plant_Slaughtermelon.description>
+  
+  <!-- EN: vanoroot -->
+  <Plant_Vanoroot.label>虚空根</Plant_Vanoroot.label>
+  <!-- EN: A starchy tuber with a sweet fluid-filled center, vanoroot is a fast-growing and nutritious food crop. Vanometric processes in its cells provide all the energy it needs to grow, so it requires no sunlight. -->
+  <Plant_Vanoroot.description>虚空根是一种淀粉质块茎，内部充满甜味的液体，生长迅速、营养丰富。它的细胞中的虚空元素提供了它生长所需的所有能量，所以它不需要阳光。</Plant_Vanoroot.description>
+  
+  <!-- EN: vanoroot -->
+  <RawVanoroot.label>虚空根</RawVanoroot.label>
+  <!-- EN: Raw vanoroot. -->
+  <RawVanoroot.description>新鲜采摘的虚空根。</RawVanoroot.description>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: rocket propulsion -->
+  <ShipEngine.label>火箭推進器</ShipEngine.label>
+  <!-- EN: Construct chemical engines for a ship. These can reach orbit, but not much further. -->
+  <ShipEngine.description>解鎖建造用於將飛船送至星球軌道上的火箭推進器。注意，它們並不適合星際航行。</ShipEngine.description>
+  <!-- EN:
+    <li>subject->rocket propulsion</li>
+    <li>subject_story->escaped a rimworld by teaching a local tribe to refine chemfuel</li>
+    <li>subject_story->designed missile engines for a midworld government</li>
+    <li>subject_story->pioneered the post-apocalyptic planet Ishwalla's return to spaceflight</li>
+    <li>subject_gerund->maintaining optimal fuel/oxidizer ratios</li>
+    <li>subject_gerund->optimizing nozzle geometry</li>
+  -->
+  <ShipEngine.generalRules.rulesStrings>
+    <li>subject->火箭推進器</li>
+    <li>subject_story->通過教導當地部落如何精煉化合燃料以逃離邊緣世界</li>
+    <li>subject_story->為某個中寰世界政權設計了導彈推進器</li>
+    <li>subject_story->引領後啟示錄星球伊薩瓦拉重獲航天能力</li>
+    <li>subject_gerund->維持最優的燃料/氧化劑比例</li>
+    <li>subject_gerund->優化推進器噴口的形狀</li>
+  </ShipEngine.generalRules.rulesStrings>
+  
+</LanguageData>

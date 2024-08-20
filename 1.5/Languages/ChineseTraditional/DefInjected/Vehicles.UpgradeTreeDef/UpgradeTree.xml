@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Minimal Armor -->
+  <SoS2ShuttleUpgradeTree.nodes.0.label>輕型裝甲</SoS2ShuttleUpgradeTree.nodes.0.label>
+  <!-- EN: Retrofit the shuttle's hull to minimize weight, trading armor for speed and fuel efficiency.\n<color=#bb8f04>-10% blunt armor, -20% sharp armor, +6 flight speed, +100 cargo capacity, -10 fuel consumption rate</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.0.description>為太空梭的機身換上更輕型的裝甲，以犧牲防護能力為代價，換來更出色的空速和燃料效能。\n\n&lt;color=#bb8f04&gt;利器護甲-20%，鈍器護甲-10%，空速+6，載貨量+100，燃料消耗速率-10&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.0.description>
+  <!-- EN: Heavy Armor -->
+  <SoS2ShuttleUpgradeTree.nodes.1.label>重型裝甲</SoS2ShuttleUpgradeTree.nodes.1.label>
+  <!-- EN: Retrofit the shuttle's hull with additional armor plating.\n<color=#bb8f04>+40% blunt armor, +40% sharp armor, -6 flight speed, -250 cargo capacity, +10 fuel consumption rate</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.1.description>為太空梭的機身換上更重型的裝甲，以犧牲空速和燃料效能為代價，換來更出色的防護能力。\n\n&lt;color=#bb8f04&gt;利器護甲+40%，鈍器護甲+40%，空速-6，載貨量-250，燃料消耗速率+10&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.1.description>
+  <!-- EN: Reactive Nano-Armor -->
+  <SoS2ShuttleUpgradeTree.nodes.2.label>奈米反應裝甲</SoS2ShuttleUpgradeTree.nodes.2.label>
+  <!-- EN: Apply a layer of vibrating mechanite chains which helps to diffuse blunt impacts.\n<color=#bb8f04>+30% blunt armor, +10% sharp armor, -50 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.2.description>為太空梭的機身覆上一層奈米機械振動鏈，能夠有效分散鈍器傷害的衝擊。\n\n&lt;color=#bb8f04&gt;利器護甲+10%，鈍器護甲+30%，載貨量-50&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
+  <!-- EN: Archotech Armor -->
+  <SoS2ShuttleUpgradeTree.nodes.3.label>遠古裝甲</SoS2ShuttleUpgradeTree.nodes.3.label>
+  <!-- EN: [HUMAN CARAPACE\nFROM THIS COCOON I EMERGE\nTO WEAVE ONE STRONGER]\n<color=#bb8f04>+50% blunt armor, +50% sharp armor</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.3.description>「人 類 之 軀\n吾 等 誕 生 於 這 繭 殼 之 中\n織 構 更 強 大 的 為 汝 等 所 用」\n\n&lt;color=#bb8f04&gt;利器護甲+50%，鈍器護甲+50%&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
+  <!-- EN: Overdriven Engine -->
+  <SoS2ShuttleUpgradeTree.nodes.4.label>過載推進器</SoS2ShuttleUpgradeTree.nodes.4.label>
+  <!-- EN: Boost reactor output and overdrive the primary engines.\n<color=#bb8f04>+12 flight speed, +20 fuel consumption rate</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.4.description>進一步增幅太空梭反應堆的輸出能力，使主推進器過載運轉。\n\n&lt;color=#bb8f04&gt;空速+12，燃料消耗速率+20&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.4.description>
+  <!-- EN: Auxiliary Thrusters -->
+  <SoS2ShuttleUpgradeTree.nodes.5.label>輔助推進器</SoS2ShuttleUpgradeTree.nodes.5.label>
+  <!-- EN: Installing additional thrusters improves the shuttle's chance of dodging enemy point-defense systems.\n<color=#bb8f04>+15% ship combat dodge chance, +5 fuel consumption rate</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.5.description>為太空梭額外加裝輔助推進器，提高閃避敵人點防禦系統攻擊的幾率。\n\n&lt;color=#bb8f04&gt;太空戰閃避幾率+15%，燃料消耗速率+5&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.5.description>
+  <!-- EN: M.U.L.E. Module -->
+  <SoS2ShuttleUpgradeTree.nodes.6.label>“貨騾”模塊</SoS2ShuttleUpgradeTree.nodes.6.label>
+  <!-- EN: Utilize momentum-redirection technology to increase the mass of cargo this shuttle can carry, at the cost of greatly reduced flight speed.\n<color=#bb8f04>-8 flight speed, +250 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.6.description>為太空梭額外加裝應用了動能重定向技術的模塊，以犧牲空速為代價，換來更高的載貨量。\n\n&lt;color=#bb8f04&gt;空速-8，載貨量+250&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.6.description>
+  <!-- EN: Archotech Engine -->
+  <SoS2ShuttleUpgradeTree.nodes.7.label>遠古推進器</SoS2ShuttleUpgradeTree.nodes.7.label>
+  <!-- EN: [WHAT SAIL CARRIES YOU?\nPUSH AGAINST WHICH FIRMAMENT?\nTHE ANSWER IS: YES]\n<color=#bb8f04>+12 flight speed, +15% ship combat dodge chance, +100 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.7.description>「汝 等 搭 乘 何 物 而 來\n又 將 行 向 何 處\n答 曰 然 也」\n\n&lt;color=#bb8f04&gt;空速+12，太空戰閃避幾率+15%，載貨量+100&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
+  <!-- EN: Shield Generator -->
+  <SoS2ShuttleUpgradeTree.nodes.8.label>護盾發生器</SoS2ShuttleUpgradeTree.nodes.8.label>
+  <!-- EN: Install a miniaturized shield generator and its dedicated heatsinks.\n<color=#bb8f04>+200 heatsink, -250 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.8.description>為太空梭額外加裝小型化的護盾發生器以及配套的散熱器。\n\n&lt;color=#bb8f04&gt;熱容量+200，載貨量-250&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
+  <!-- EN: Heavy Shield Generator -->
+  <SoS2ShuttleUpgradeTree.nodes.9.label>重型護盾發生器</SoS2ShuttleUpgradeTree.nodes.9.label>
+  <!-- EN: Install an efficient shield generator and its dedicated heatsinks.\n<color=#bb8f04>+400 heatsink, -500 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.9.description>為太空梭額外加裝更高效的護盾發生器以及配套的散熱器。\n\n&lt;color=#bb8f04&gt;熱容量+400，載貨量-500&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.9.description>
+  <!-- EN: Archotech Shield Generator -->
+  <SoS2ShuttleUpgradeTree.nodes.10.label>遠古護盾發生器</SoS2ShuttleUpgradeTree.nodes.10.label>
+  <!-- EN: [LESS THAN GRAINS OF SAND\nMEASURED AGAINST THE COSMOS\nHIT SOMETHING ELSE, PLEASE]\n<color=#bb8f04>+500 heatsink, -100 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.10.description>「此 等 攻 擊 軟 弱 無 力\n如 同 沙 粒 投 入 浩 渺 宇 宙\n煩 請 尋 他 物 以 擊 之」\n\n&lt;color=#bb8f04&gt;熱容量+500，載貨量-100&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
+  <!-- EN: Onboard Auto-Doc -->
+  <SoS2ShuttleUpgradeTree.nodes.11.label>自動醫療系統</SoS2ShuttleUpgradeTree.nodes.11.label>
+  <!-- EN: Install automated paramedic arms aboard the shuttle. These systems will quickly patch any bleeding wounds passengers may have suffered, but their tend quality is minimal.\n\n<color=#bb8f04>-250 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.11.description>為太空梭額外加裝自動醫療系統，能夠迅速包紮乘客身上的流血傷口，但治療質量無法得到保障。\n\n&lt;color=#bb8f04&gt;載貨量-250&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
+  <!-- EN: Cloaking Device -->
+  <SoS2ShuttleUpgradeTree.nodes.12.label>隱形裝置</SoS2ShuttleUpgradeTree.nodes.12.label>
+  <!-- EN: Install a miniaturized cloaking device to improve dodge chance in combat. Its heatsinks also slightly boost shield capacity.\n<color=#bb8f04>+25% ship combat dodge chance, +50 heatsink, -500 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.12.description>為太空梭額外加裝小型化的隱形裝置，提高在太空戰中閃避敵人攻擊的幾率。和它配套的散熱器也略微提高了護盾的承傷能力。\n\n&lt;color=#bb8f04&gt;太空戰閃避幾率+25%，熱容量+50，載貨量-500&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
+  <!-- EN: Auxiliary Heatsink -->
+  <SoS2ShuttleUpgradeTree.nodes.13.label>輔助散熱器</SoS2ShuttleUpgradeTree.nodes.13.label>
+  <!-- EN: Install an auxiliary heatsink to support shields.\n<color=#bb8f04>+200 heatsink, -100 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.13.description>為太空梭額外加裝輔助散熱器，提高護盾的承傷能力。\n\n&lt;color=#bb8f04&gt;熱容量+200，載貨量-100&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
+  <!-- EN: Archotech Slipspace -->
+  <SoS2ShuttleUpgradeTree.nodes.14.label>遠古滑流空間</SoS2ShuttleUpgradeTree.nodes.14.label>
+  <!-- EN: [BOX INSIDE A BOX\nREPEAT AD INFINITUM\nSERIES CONVERGES]\n<color=#bb8f04>+500 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.14.description>「盒 中 之 盒\n無 限 循 環\n級 數 收 斂」\n\n&lt;color=#bb8f04&gt;載貨量+500&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
+  <!-- EN: Passenger Module (2) -->
+  <SoS2ShuttleUpgradeTree.nodes.15.label>乘客模塊（2人）</SoS2ShuttleUpgradeTree.nodes.15.label>
+  <!-- EN: Convert a small area of the cargo bay to seating and life support, allowing the shuttle to carry two passengers.\n<color=#bb8f04>+2 passenger capacity, -200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.15.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載2名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+2，載貨量-200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.15.description>
+  <!-- EN: Passenger Module (4) -->
+  <SoS2ShuttleUpgradeTree.nodes.16.label>乘客模塊（4人）</SoS2ShuttleUpgradeTree.nodes.16.label>
+  <!-- EN: Convert a small area of the cargo bay to seating and life support, allowing the shuttle to carry four passengers.\n<color=#bb8f04>+4 passenger capacity, -400 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.16.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載4名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+4，載貨量-400&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.16.description>
+  <!-- EN: Passenger Module (6) -->
+  <SoS2ShuttleUpgradeTree.nodes.17.label>乘客模塊（6人）</SoS2ShuttleUpgradeTree.nodes.17.label>
+  <!-- EN: Convert a moderate area of the cargo bay to seating and life support, allowing the shuttle to carry six passengers.\n<color=#bb8f04>+6 passenger capacity, -600 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.17.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載4名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+4，載貨量-400&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.17.description>
+  <!-- EN: Passenger Module (8) -->
+  <SoS2ShuttleUpgradeTree.nodes.18.label>乘客模塊（8人）</SoS2ShuttleUpgradeTree.nodes.18.label>
+  <!-- EN: Convert a moderate area of the cargo bay to seating and life support, allowing the shuttle to carry eight passengers.\n<color=#bb8f04>+8 passenger capacity, -800 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.18.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載8名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+8，載貨量-800&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.18.description>
+  <!-- EN: Passenger Module (10) -->
+  <SoS2ShuttleUpgradeTree.nodes.19.label>乘客模塊（10人）</SoS2ShuttleUpgradeTree.nodes.19.label>
+  <!-- EN: Convert a significant area of the cargo bay to seating and life support, allowing the shuttle to carry ten passengers.\n<color=#bb8f04>+10 passenger capacity, -1000 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.19.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載10名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+10，載貨量-1000&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
+  <!-- EN: Passenger Module (12) -->
+  <SoS2ShuttleUpgradeTree.nodes.20.label>乘客模塊（12人）</SoS2ShuttleUpgradeTree.nodes.20.label>
+  <!-- EN: Convert a significant area of the cargo bay to seating and life support, allowing the shuttle to carry twelve passengers.\n<color=#bb8f04>+12 passenger capacity, -1200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.20.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載12名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+12，載貨量-1200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
+  <!-- EN: Passenger Module (14) -->
+  <SoS2ShuttleUpgradeTree.nodes.21.label>乘客模塊（14人）</SoS2ShuttleUpgradeTree.nodes.21.label>
+  <!-- EN: Convert an enormous area of the cargo bay to seating and life support, allowing the shuttle to carry fourteen passengers.\n<color=#bb8f04>+14 passenger capacity, -1400 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.21.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載14名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+14，載貨量-1400&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
+  <!-- EN: Passenger Module (16) -->
+  <SoS2ShuttleUpgradeTree.nodes.22.label>乘客模塊（16人）</SoS2ShuttleUpgradeTree.nodes.22.label>
+  <!-- EN: Convert an enormous area of the cargo bay to seating and life support, allowing the shuttle to carry sixteen passengers.\n<color=#bb8f04>+16 passenger capacity, -1600 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.22.description>將太空梭的部分貨艙改造成座椅和生命維持系統，允許搭載16名乘客。\n\n&lt;color=#bb8f04&gt;乘客位+16，載貨量-1600&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>
+  <!-- EN: Laser Turret (hardpoint A) -->
+  <SoS2ShuttleUpgradeTree.nodes.23.label>激光砲塔（掛載點A）</SoS2ShuttleUpgradeTree.nodes.23.label>
+  <!-- EN: Install a laser turret atop the first hardpoint. A shuttle equipped with laser weaponry can fly interception and strafing missions in combat.\n<color=#bb8f04>-200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.23.description>為太空梭的掛載點A加裝激光砲塔，使其可以在戰鬥中執行空中攔截和掃射任務。\n\n&lt;color=#bb8f04&gt;載貨量-200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.23.description>
+  <!-- EN: Laser Turret A -->
+  <SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>激光砲塔A</SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Plasma Turret (hardpoint A) -->
+  <SoS2ShuttleUpgradeTree.nodes.24.label>等離子砲塔（掛載點A）</SoS2ShuttleUpgradeTree.nodes.24.label>
+  <!-- EN: Install a plasma turret atop the first hardpoint. A shuttle equipped with plasma weaponry can fly strafing missions in combat.\n<color=#bb8f04>-200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.24.description>為太空梭的掛載點A加裝等離子砲塔，使其可以在戰鬥中執行空中掃射任務。\n\n&lt;color=#bb8f04&gt;載貨量-200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.24.description>
+  <!-- EN: Plasma Turret A -->
+  <SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>等離子砲塔A</SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Torpedo Tube (hardpoint A) -->
+  <SoS2ShuttleUpgradeTree.nodes.25.label>魚雷發射管（掛載點A）</SoS2ShuttleUpgradeTree.nodes.25.label>
+  <!-- EN: Install a torpedo tube atop the first hardpoint. A shuttle equipped with torpedoes can fly bombing missions in combat.\n<color=#bb8f04>-400 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.25.description>為太空梭的掛載點A加裝魚雷發射管，使其可以在戰鬥中執行空中轟炸任務。\n\n&lt;color=#bb8f04&gt;載貨量-400&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.25.description>
+  <!-- EN: Torpedo Turret A -->
+  <SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>魚雷發射管A</SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Laser Turret (hardpoint B) -->
+  <SoS2ShuttleUpgradeTree.nodes.26.label>激光砲塔（掛載點B）</SoS2ShuttleUpgradeTree.nodes.26.label>
+  <!-- EN: Install a laser turret atop the second hardpoint. A shuttle equipped with laser weaponry can fly interception and strafing missions in combat.\n<color=#bb8f04>-200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.26.description>為太空梭的掛載點B加裝激光砲塔，使其可以在戰鬥中執行空中攔截和掃射任務。\n\n&lt;color=#bb8f04&gt;載貨量-200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.26.description>
+  <!-- EN: Laser Turret B -->
+  <SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>激光砲塔B</SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Plasma Turret (hardpoint B) -->
+  <SoS2ShuttleUpgradeTree.nodes.27.label>等離子砲塔（掛載點B）</SoS2ShuttleUpgradeTree.nodes.27.label>
+  <!-- EN: Install a plasma turret atop the second hardpoint. A shuttle equipped with plasma weaponry can fly strafing missions in combat.\n<color=#bb8f04>-200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.27.description>為太空梭的掛載點B加裝等離子砲塔，使其可以在戰鬥中執行空中掃射任務。\n\n&lt;color=#bb8f04&gt;載貨量-200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.27.description>
+  <!-- EN: Plasma Turret B -->
+  <SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>等離子砲塔B</SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Torpedo Tube (hardpoint B) -->
+  <SoS2ShuttleUpgradeTree.nodes.28.label>魚雷發射管（掛載點B）</SoS2ShuttleUpgradeTree.nodes.28.label>
+  <!-- EN: Install a torpedo tube atop the second hardpoint. A shuttle equipped with torpedoes can fly bombing missions in combat.\n<color=#bb8f04>-400 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.28.description>為太空梭的掛載點B加裝魚雷發射管，使其可以在戰鬥中執行空中轟炸任務。\n\n&lt;color=#bb8f04&gt;載貨量-400&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.28.description>
+  <!-- EN: Torpedo Turret B -->
+  <SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>魚雷發射管B</SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Laser Turret (hardpoint C) -->
+  <SoS2ShuttleUpgradeTree.nodes.29.label>激光砲塔（掛載點C）</SoS2ShuttleUpgradeTree.nodes.29.label>
+  <!-- EN: Install a laser turret atop the third hardpoint. A shuttle equipped with laser weaponry can fly interception and strafing missions in combat.\n<color=#bb8f04>-200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.29.description>為太空梭的掛載點C加裝激光砲塔，使其可以在戰鬥中執行空中攔截和掃射任務。\n\n&lt;color=#bb8f04&gt;載貨量-200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.29.description>
+  <!-- EN: Laser Turret C -->
+  <SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>激光砲塔C</SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Plasma Turret (hardpoint C) -->
+  <SoS2ShuttleUpgradeTree.nodes.30.label>等離子砲塔（掛載點C）</SoS2ShuttleUpgradeTree.nodes.30.label>
+  <!-- EN: Install a plasma turret atop the third hardpoint. A shuttle equipped with plasma weaponry can fly strafing missions in combat.\n<color=#bb8f04>-200 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.30.description>為太空梭的掛載點C加裝等離子砲塔，使其可以在戰鬥中執行空中掃射任務。\n\n&lt;color=#bb8f04&gt;載貨量-200&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.30.description>
+  <!-- EN: Plasma Turret C -->
+  <SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>等離子砲塔C</SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>
+  <!-- EN: Torpedo Tube (hardpoint C) -->
+  <SoS2ShuttleUpgradeTree.nodes.31.label>魚雷發射管（掛載點C）</SoS2ShuttleUpgradeTree.nodes.31.label>
+  <!-- EN: Install a torpedo tube atop the third hardpoint. A shuttle equipped with torpedoes can fly bombing missions in combat.\n<color=#bb8f04>-400 cargo capacity</color> -->
+  <SoS2ShuttleUpgradeTree.nodes.31.description>為太空梭的掛載點C加裝魚雷發射管，使其可以在戰鬥中執行空中轟炸任務。\n\n&lt;color=#bb8f04&gt;載貨量-400&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.31.description>
+  <!-- EN: Torpedo Turret C -->
+  <SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>魚雷發射管C</SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>
+  
+</LanguageData>

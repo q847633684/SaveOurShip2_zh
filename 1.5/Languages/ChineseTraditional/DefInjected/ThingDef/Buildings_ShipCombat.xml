@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: torpedo tubes (6) -->
+  <Artillery_ShipTorpedo.label>六聯魚雷發射管</Artillery_ShipTorpedo.label>
+  <!-- EN: Torpedo launcher. Accurate and devastating against shields, but vulnerable to point-defense lasers. -->
+  <Artillery_ShipTorpedo.description>用於發射魚雷的裝置。魚雷可以有效穿透敵艦上配備的護盾，但也很容易被切換至點防禦模式的激光砲塔和動能砲塔攔截下來。</Artillery_ShipTorpedo.description>
+  <!-- EN: torpedo tubes (6) -->
+  <Artillery_ShipTorpedo.verbs.Verb_LaunchProjectileShip.label>六聯魚雷發射管</Artillery_ShipTorpedo.verbs.Verb_LaunchProjectileShip.label>
+  
+  <!-- EN: torpedo tube -->
+  <Artillery_ShipTorpedo_One.label>魚雷發射管</Artillery_ShipTorpedo_One.label>
+  <!-- EN: Torpedo launcher. Accurate and devastating against shields, but vulnerable to point-defense lasers. -->
+  <Artillery_ShipTorpedo_One.description>用於發射魚雷的裝置。魚雷可以有效穿透敵艦上配備的護盾，但也很容易被切換至點防禦模式的激光砲塔和動能砲塔攔截下來。</Artillery_ShipTorpedo_One.description>
+  <!-- EN: torpedo tube -->
+  <Artillery_ShipTorpedo_One.verbs.Verb_LaunchProjectileShip.label>魚雷發射管</Artillery_ShipTorpedo_One.verbs.Verb_LaunchProjectileShip.label>
+  
+  <!-- EN: torpedo tubes (2) -->
+  <Artillery_ShipTorpedo_Two.label>雙聯魚雷發射管</Artillery_ShipTorpedo_Two.label>
+  <!-- EN: Torpedo launcher. Accurate and devastating against shields, but vulnerable to point-defense lasers. -->
+  <Artillery_ShipTorpedo_Two.description>用於發射魚雷的裝置。魚雷可以有效穿透敵艦上配備的護盾，但也很容易被切換至點防禦模式的激光砲塔和動能砲塔攔截下來。</Artillery_ShipTorpedo_Two.description>
+  <!-- EN: torpedo tubes (2) -->
+  <Artillery_ShipTorpedo_Two.verbs.Verb_LaunchProjectileShip.label>雙聯魚雷發射管</Artillery_ShipTorpedo_Two.verbs.Verb_LaunchProjectileShip.label>
+  
+  <!-- EN: Autocannon slug -->
+  <Bullet_Fake_ACI.label>動能砲彈</Bullet_Fake_ACI.label>
+  
+  <!-- EN: Autocannon slug -->
+  <Bullet_Fake_ACII.label>動能砲彈</Bullet_Fake_ACII.label>
+  
+  <!-- EN: Autocannon slug -->
+  <Bullet_Fake_ACIII.label>動能砲彈</Bullet_Fake_ACIII.label>
+  
+  <!-- EN: railgun slug -->
+  <Bullet_Fake_Kinetic.label>軌道砲彈</Bullet_Fake_Kinetic.label>
+  
+  <!-- EN: railgun slug -->
+  <Bullet_Fake_Kinetic_Large.label>軌道砲彈</Bullet_Fake_Kinetic_Large.label>
+  
+  <!-- EN: laser beam -->
+  <Bullet_Fake_Laser.label>激光能量束</Bullet_Fake_Laser.label>
+  
+  <!-- EN: plasma toroid -->
+  <Bullet_Fake_Plasma.label>等離子砲彈</Bullet_Fake_Plasma.label>
+  
+  <!-- EN: plasma toroid -->
+  <Bullet_Fake_Plasma_Large.label>等離子砲彈</Bullet_Fake_Plasma_Large.label>
+  
+  <!-- EN: plasma toroid -->
+  <Bullet_Fake_Plasma_XL.label>等離子砲彈</Bullet_Fake_Plasma_XL.label>
+  
+  <!-- EN: Autocannon slug -->
+  <Bullet_Ground_ACI.label>動能砲彈</Bullet_Ground_ACI.label>
+  
+  <!-- EN: railgun slug -->
+  <Bullet_Ground_Kinetic.label>軌道砲彈</Bullet_Ground_Kinetic.label>
+  
+  <!-- EN: laser beam -->
+  <Bullet_Ground_Laser.label>激光能量束</Bullet_Ground_Laser.label>
+  
+  <!-- EN: plasma toroid -->
+  <Bullet_Ground_Plasma.label>等離子砲彈</Bullet_Ground_Plasma.label>
+  
+  <!-- EN: Mote -->
+  <Mote_HeatsinkPurge.label>特效</Mote_HeatsinkPurge.label>
+  
+  <!-- EN: ship debris -->
+  <Proj_ShipDebrisA.label>飛船殘骸</Proj_ShipDebrisA.label>
+  
+  <!-- EN: ship debris -->
+  <Proj_ShipDebrisB.label>飛船殘骸</Proj_ShipDebrisB.label>
+  
+  <!-- EN: ship debris -->
+  <Proj_ShipDebrisC.label>飛船殘骸</Proj_ShipDebrisC.label>
+  
+  <!-- EN: ship debris -->
+  <Proj_ShipDebrisD.label>飛船殘骸</Proj_ShipDebrisD.label>
+  
+  <!-- EN: ship debris -->
+  <Proj_ShipRockA.label>飛船殘骸</Proj_ShipRockA.label>
+  
+  <!-- EN: ship debris -->
+  <Proj_ShipRockB.label>飛船殘骸</Proj_ShipRockB.label>
+  
+  <!-- EN: ship debris -->
+  <Proj_ShipRockC.label>飛船殘骸</Proj_ShipRockC.label>
+  
+  <!-- EN: death ray -->
+  <Proj_ShipSpinalBeamLaser.label>湮滅能量束</Proj_ShipSpinalBeamLaser.label>
+  
+  <!-- EN: death ray -->
+  <Proj_ShipSpinalBeamPlasma.label>湮滅能量束</Proj_ShipSpinalBeamPlasma.label>
+  
+  <!-- EN: Autocannon Slug -->
+  <Proj_ShipTurretACI.label>動能砲彈</Proj_ShipTurretACI.label>
+  
+  <!-- EN: Autocannon Slug -->
+  <Proj_ShipTurretACII.label>動能砲彈</Proj_ShipTurretACII.label>
+  
+  <!-- EN: Autocannon Slug -->
+  <Proj_ShipTurretACIII.label>動能砲彈</Proj_ShipTurretACIII.label>
+  
+  <!-- EN: railgun slug -->
+  <Proj_ShipTurretKinetic.label>軌道砲彈</Proj_ShipTurretKinetic.label>
+  
+  <!-- EN: railgun slug -->
+  <Proj_ShipTurretKinetic_Large.label>軌道砲彈</Proj_ShipTurretKinetic_Large.label>
+  
+  <!-- EN: laser beam -->
+  <Proj_ShipTurretLaser.label>激光能量束</Proj_ShipTurretLaser.label>
+  
+  <!-- EN: laser beam -->
+  <Proj_ShipTurretLaserTwo.label>激光能量束</Proj_ShipTurretLaserTwo.label>
+  
+  <!-- EN: plasma toroid -->
+  <Proj_ShipTurretPlasma.label>等離子砲彈</Proj_ShipTurretPlasma.label>
+  
+  <!-- EN: plasma toroid -->
+  <Proj_ShipTurretPlasma_Large.label>等離子砲彈</Proj_ShipTurretPlasma_Large.label>
+  
+  <!-- EN: Mote -->
+  <ShipCombatLaserMote.label>特效</ShipCombatLaserMote.label>
+  
+  <!-- EN: shield generator -->
+  <ShipCombatShieldGenerator.label>護盾發生器</ShipCombatShieldGenerator.label>
+  <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nGenerates heat when it blocks attacks. If no heatsink capacity is available, the shield will be damaged and require repairs.\n\nCaptains are advised to drop shields once coolant reaches very high temperature, or risk heatsink damage. -->
+  <ShipCombatShieldGenerator.description>一種能產生動能排斥場的設備。能夠向外射擊，但無法射入。\n\n護盾攔截攻擊時會產生熱量。如果飛船熱量網絡系統的熱容量不足，不僅會使護盾失效，發生器本身也將損壞。為了避免這種情況發生，建議在蓄熱量臨近上限時手動關閉護盾發生器。</ShipCombatShieldGenerator.description>
+  
+  <!-- EN: miniaturized shield generator -->
+  <ShipCombatShieldGeneratorMini.label>小型護盾發生器</ShipCombatShieldGeneratorMini.label>
+  <!-- EN: A small shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nDue to its small size, generates 125% of a standard shield generator's heat when it blocks attacks. If no heatsink capacity is available, the shield will be damaged and require repairs.\n\nCaptains are advised to drop shields once coolant reaches very high temperature, or risk heatsink damage. -->
+  <ShipCombatShieldGeneratorMini.description>一種能產生動能排斥場的小型化設備。能夠向外射擊，但無法射入。\n\n小型護盾攔截攻擊時產生的熱量為普通護盾的125%。如果飛船熱量網絡系統的熱容量不足，不僅會使護盾失效，發生器本身也將損壞。為了避免這種情況發生，建議在蓄熱量臨近上限時手動關閉護盾發生器。</ShipCombatShieldGeneratorMini.description>
+  
+  <!-- EN: large coolant tank -->
+  <ShipHeatBankLarge.label>大型熱量貯存罐</ShipHeatBankLarge.label>
+  <!-- EN: A large tank of coolant that stores excess heat produced by a ship. Slowly bleeds heat into the surrounding room if not in vacuum. Will take damage if coolant gets near maximum heat capacity and release all heat stored if destroyed.\n\nHeat capacity: 4000Hu\nHeat loss: 6Hu/s -->
+  <ShipHeatBankLarge.description>用於儲存飛船上各種設備裝置所產生熱量的大型貯存罐。如果未放置在真空中，則會將熱量緩慢排放至飛船艙室內。\n\n當蓄熱量臨近上限時，貯存罐會逐漸受損。一旦它徹底損壞，儲存在內的所有熱量將會瞬間釋放出來。\n\n【熱容量】：4000Hu\n【熱流失速度】：6Hu/秒</ShipHeatBankLarge.description>
+  
+  <!-- EN: thermal conduit -->
+  <ShipHeatConduit.label>熱量管道</ShipHeatConduit.label>
+  <!-- EN: A liquid conduit for moving heat around a starship. -->
+  <ShipHeatConduit.description>用於傳導熱量的管道，也是飛船熱量網絡系統的重要組成部分之一。</ShipHeatConduit.description>
+  
+  <!-- EN: coolant tank -->
+  <ShipHeatManifold.label>熱量貯存罐</ShipHeatManifold.label>
+  <!-- EN: A tank of coolant that stores excess heat produced by a ship. Slowly bleeds heat into the surrounding room if not in vacuum. Will take damage if coolant gets near maximum heat capacity and release all heat stored if destroyed.\n\nHeat capacity: 800Hu\nHeat loss: 2Hu/s -->
+  <ShipHeatManifold.description>用於儲存飛船上各種設備裝置所產生熱量的大型貯存罐。如果未放置在真空中，則會將熱量緩慢排放至飛船艙室內。\n\n當蓄熱量臨近上限時，貯存罐會逐漸受損。一旦它徹底損壞，儲存在內的所有熱量將會瞬間釋放出來。\n\n【熱容量】：800Hu\n【熱流失速度】：2Hu/秒</ShipHeatManifold.description>
+  
+  <!-- EN: heatsink -->
+  <ShipHeatsink.label>飛船散熱器</ShipHeatsink.label>
+  <!-- EN: A heatsink that slowly removes heat from the heat network. Will take damage if coolant gets near maximum heat capacity and release all heat stored if destroyed. Will slowly replenish capacity from depletion when not in battle. Does not function if the ship is cloaked.\n\nHeat capacity: 200Hu\nHeat vented to space: 4Hu/s\nHeat loss: 1Hu/s -->
+  <ShipHeatsink.description>用於為飛船的熱量網絡系統緩慢散熱的裝置，其本身也可以儲存少量熱量。非戰鬥狀態下會緩慢恢復被削減的熱容量上限。隱形裝置開啟時無法工作。\n\n當蓄熱量臨近上限時，散熱器會逐漸受損。一旦它徹底損壞，儲存在內的所有熱量將會瞬間釋放出來。\n\n【熱容量】：200Hu\n【散熱速度】：4Hu/秒\n【熱流失速度】：1Hu/秒</ShipHeatsink.description>
+  
+  <!-- EN: large heatsink -->
+  <ShipHeatsinkLarge.label>大型飛船散熱器</ShipHeatsinkLarge.label>
+  <!-- EN: A large heatsink that slowly removes heat from the heat network. Will take damage if coolant gets near maximum heat capacity and release all heat stored if destroyed. Will slowly replenish capacity from depletion when not in battle. Does not function if the ship is cloaked.\n\nHeat capacity: 1000Hu\nHeat vented to space: 16Hu/s\nHeat loss: 3Hu/s -->
+  <ShipHeatsinkLarge.description>用於為飛船的熱量網絡系統緩慢散熱的大型裝置，其本身也可以儲存少量熱量。非戰鬥狀態下會緩慢恢復被削減的熱容量上限。隱形裝置開啟時無法工作。\n\n當蓄熱量臨近上限時，散熱器會逐漸受損。一旦它徹底損壞，儲存在內的所有熱量將會瞬間釋放出來。\n\n【熱容量】：1000Hu\n【散熱速度】：16Hu/秒\n【熱流失速度】：3Hu/秒</ShipHeatsinkLarge.description>
+  
+  <!-- EN: emergency purge port -->
+  <ShipPurgePort.label>緊急排熱端口</ShipPurgePort.label>
+  <!-- EN: A system for channeling heat into low-melting-point metals like silver. Ejecting molten silver into space is a costly way to quickly purge stored heat. Shields will be dropped during a purge. -->
+  <ShipPurgePort.description>工作原理十分特別的散熱裝置。通過將熱量導入銀等低熔點金屬內，然後再把熔融態的銀噴射到太空中，以達到快速排出熱量的目的。雖然成本不菲，但相當高效。\n\n啟用緊急排熱時，飛船的護盾發生器將會暫時關閉。</ShipPurgePort.description>
+  
+  <!-- EN: large emergency purge port -->
+  <ShipPurgePortLarge.label>大型緊急排熱端口</ShipPurgePortLarge.label>
+  <!-- EN: A system for rapidly channeling heat into low-melting-point metals like silver. Ejecting molten silver into space is a costly way to quickly purge stored heat. Shields will be dropped during a purge. -->
+  <ShipPurgePortLarge.description>工作原理十分特別的散熱裝置。通過將熱量導入銀等低熔點金屬內，然後再把熔融態的銀噴射到太空中，以達到快速排出熱量的目的。雖然成本不菲，但相當高效。\n\n啟用緊急排熱時，飛船的護盾發生器將會暫時關閉。</ShipPurgePortLarge.description>
+  
+  <!-- EN: spinal amplifier -->
+  <ShipSpinalAmplifier.label>脊峰火砲：能量增幅器</ShipSpinalAmplifier.label>
+  <!-- EN: A middle segment of a spinal-mount weapon. Attach one or more of these to an emitter, then add a barrel to complete the gun.\n\nIncreases base damage by 25%, but also increases power consumption and heat generated by the same percentage. -->
+  <ShipSpinalAmplifier.description>用於組成脊峰火砲的中間部件。每建造一個能量增幅器，脊峰火砲的傷害就能提高25%，但其開火時產生的熱量和耗電量也會一併增加。</ShipSpinalAmplifier.description>
+  
+  <!-- EN: spinal barrel: railgun -->
+  <ShipSpinalBarrelKinetic.label>脊峰火砲：軌道砲管</ShipSpinalBarrelKinetic.label>
+  <!-- EN: The final segment of a spinal-mount cannon.\n\nShould be placed outside the ship, unless you want a new hole in your hull.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipSpinalBarrelKinetic.description>用於組成脊峰火砲的最後部件。如果你不想給船體上多開幾個大洞的話，那就把它建造在飛船的外部。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipSpinalBarrelKinetic.description>
+  
+  <!-- EN: spinal barrel: laser -->
+  <ShipSpinalBarrelLaser.label>脊峰火砲：激光砲管</ShipSpinalBarrelLaser.label>
+  <!-- EN: The final segment of a spinal-mount cannon.\n\nShould be placed outside the ship, unless you want a new hole in your hull.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipSpinalBarrelLaser.description>用於組成脊峰火砲的最後部件。如果你不想給船體上多開幾個大洞的話，那就把它建造在飛船的外部。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipSpinalBarrelLaser.description>
+  
+  <!-- EN: spinal barrel: plasma -->
+  <ShipSpinalBarrelPlasma.label>脊峰火砲：等離子砲管</ShipSpinalBarrelPlasma.label>
+  <!-- EN: The final segment of a spinal-mount cannon.\n\nShould be placed outside the ship, unless you want a new hole in your hull.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipSpinalBarrelPlasma.description>用於組成脊峰火砲的最後部件。如果你不想給船體上多開幾個大洞的話，那就把它建造在飛船的外部。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipSpinalBarrelPlasma.description>
+  
+  <!-- EN: spinal capacitor -->
+  <ShipSpinalEmitter.label>脊峰火砲：電容器</ShipSpinalEmitter.label>
+  <!-- EN: The first segment of a spinal-mount weapon. Connects to one or more amplifiers, then a barrel. -->
+  <ShipSpinalEmitter.description>用於組成脊峰火砲的首要部件。如果少了它，你將無法繼續建造能量增幅器和砲管。</ShipSpinalEmitter.description>
+  
+  <!-- EN: torpedo launcher -->
+  <ShipTorpedoOne.label>魚雷發射管</ShipTorpedoOne.label>
+  <!-- EN: Stores and launches torpedoes that are accurate and devastating, but slow to reach targets and vulnerable to point-defense lasers.\nTorpedo capacity: 7\nFire rate: 5/min -->
+  <ShipTorpedoOne.description>用於發射魚雷的裝置。魚雷可以有效穿透敵艦上配備的護盾，但也很容易被切換至點防禦模式的激光砲塔和動能砲塔攔截下來。\n\n【魚雷容量】：7\n【發射速率】：5/分鐘</ShipTorpedoOne.description>
+  
+  <!-- EN: torpedo launcher (6) -->
+  <ShipTorpedoSix.label>六聯魚雷發射管</ShipTorpedoSix.label>
+  <!-- EN: Stores and launches torpedoes that are accurate and devastating, but slow to reach targets and vulnerable to point-defense lasers.\nTorpedo capacity: 28\nFire rate: 30/min -->
+  <ShipTorpedoSix.description>用於發射魚雷的裝置。魚雷可以有效穿透敵艦上配備的護盾，但也很容易被切換至點防禦模式的激光砲塔和動能砲塔攔截下來。\n\n【魚雷容量】：28\n【發射速率】：30/分鐘</ShipTorpedoSix.description>
+  
+  <!-- EN: torpedo launcher (2) -->
+  <ShipTorpedoTwo.label>雙聯魚雷發射管</ShipTorpedoTwo.label>
+  <!-- EN: Stores and launches torpedoes that are accurate and devastating, but slow to reach targets and vulnerable to point-defense lasers.\nTorpedo capacity: 14\nFire rate: 10/min -->
+  <ShipTorpedoTwo.description>用於發射魚雷的裝置。魚雷可以有效穿透敵艦上配備的護盾，但也很容易被切換至點防禦模式的激光砲塔和動能砲塔攔截下來。\n\n【魚雷容量】：14\n【發射速率】：10/分鐘</ShipTorpedoTwo.description>
+  
+  <!-- EN: cannon turret -->
+  <ShipTurret_ACI.label>動能砲塔</ShipTurret_ACI.label>
+  <!-- EN: A starship turret that rapidly accelerates uranium slugs. Requires ammunition, but costs zero energy and very little heat to fire. Only useful at close range. Can be set to intercept torpedoes rather than firing at the enemy ship.\n\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_ACI.description>發射超高速鈾彈的飛船砲塔。與其他能量砲塔不同，動能砲塔只消耗實體彈藥，產生的熱量也非常少。有效射程較近。切換至點防禦模式後能夠攔截敵艦發射的魚雷。當飛船在星球上著陸時，這種砲塔也可以攻擊地面目標。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_ACI.description>
+  <!-- EN: Uranium slugs -->
+  <ShipTurret_ACI.comps.CompRefuelable.fuelGizmoLabel>鈾彈</ShipTurret_ACI.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <ShipTurret_ACI.comps.CompRefuelable.fuelLabel>重新裝填前剩餘射擊次數</ShipTurret_ACI.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: No slugs -->
+  <ShipTurret_ACI.comps.CompRefuelable.outOfFuelMessage>彈藥耗盡</ShipTurret_ACI.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: large cannon turret -->
+  <ShipTurret_ACII.label>大型動能砲塔</ShipTurret_ACII.label>
+  <!-- EN: A large turret that rapidly accelerates uranium slugs. Requires ammunition, but costs zero energy and very little heat to fire. Only useful at close range. Capable of ship ground defense.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_ACII.description>發射超高速鈾彈的巡洋艦砲塔。與其他能量砲塔不同，動能砲塔只消耗實體彈藥，產生的熱量也非常少。有效射程較近。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_ACII.description>
+  <!-- EN: Uranium slugs -->
+  <ShipTurret_ACII.comps.CompRefuelable.fuelGizmoLabel>鈾彈</ShipTurret_ACII.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <ShipTurret_ACII.comps.CompRefuelable.fuelLabel>重新裝填前剩餘射擊次數</ShipTurret_ACII.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: No slugs -->
+  <ShipTurret_ACII.comps.CompRefuelable.outOfFuelMessage>彈藥耗盡</ShipTurret_ACII.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: artillery turret -->
+  <ShipTurret_ACIII.label>巨型動能砲塔</ShipTurret_ACIII.label>
+  <!-- EN: A capital-class turret that rapidly accelerates a stream of massive uranium slugs. Requires ammunition, but costs zero energy and very little heat to fire. Only useful at close range.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_ACIII.description>發射超高速重型鈾彈的主力艦砲塔。與其他能量砲塔不同，動能砲塔只消耗彈藥，產生的熱量也非常少。有效射程較近。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_ACIII.description>
+  <!-- EN: Uranium slugs -->
+  <ShipTurret_ACIII.comps.CompRefuelable.fuelGizmoLabel>鈾彈</ShipTurret_ACIII.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <ShipTurret_ACIII.comps.CompRefuelable.fuelLabel>重新裝填前剩餘射擊次數</ShipTurret_ACIII.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: No slugs -->
+  <ShipTurret_ACIII.comps.CompRefuelable.outOfFuelMessage>彈藥耗盡</ShipTurret_ACIII.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: autocannon -->
+  <ShipTurret_ACIIITop.label>動能火砲</ShipTurret_ACIIITop.label>
+  <!-- EN: Autocannon. Best used at short range. -->
+  <ShipTurret_ACIIITop.description>飛船使用的動能火砲。有效射程較近。</ShipTurret_ACIIITop.description>
+  <!-- EN: shoot slug -->
+  <ShipTurret_ACIIITop.verbs.shoot_slug.label>動能火砲</ShipTurret_ACIIITop.verbs.shoot_slug.label>
+  
+  <!-- EN: autocannon -->
+  <ShipTurret_ACIITop.label>動能火砲</ShipTurret_ACIITop.label>
+  <!-- EN: Autocannon. Best used at short range. -->
+  <ShipTurret_ACIITop.description>飛船使用的動能火砲。有效射程較近。</ShipTurret_ACIITop.description>
+  <!-- EN: shoot slug -->
+  <ShipTurret_ACIITop.verbs.shoot_slug.label>動能火砲</ShipTurret_ACIITop.verbs.shoot_slug.label>
+  
+  <!-- EN: autocannon -->
+  <ShipTurret_ACITop.label>動能火砲</ShipTurret_ACITop.label>
+  <!-- EN: Ship cannon. Best used at short range. -->
+  <ShipTurret_ACITop.description>飛船使用的動能火砲。有效射程較近。</ShipTurret_ACITop.description>
+  <!-- EN: shoot slug -->
+  <ShipTurret_ACITop.verbs.shoot_slug.label>動能火砲</ShipTurret_ACITop.verbs.shoot_slug.label>
+  
+  <!-- EN: railgun turret -->
+  <ShipTurret_Kinetic.label>軌道砲塔</ShipTurret_Kinetic.label>
+  <!-- EN: A starship turret that accelerates metal slugs to relativistic speeds. Can hit targets at long range. Capable of ship ground defense.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_Kinetic.description>能將金屬砲彈以接近光速的速度射出的飛船砲塔。有效射程較遠，但不適合打擊近距離目標。當飛船在星球上著陸時，這種砲塔也可以攻擊地面目標。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_Kinetic.description>
+  
+  <!-- EN: large railgun turret -->
+  <ShipTurret_Kinetic_Large.label>大型軌道砲塔</ShipTurret_Kinetic_Large.label>
+  <!-- EN: A large turret that accelerates metal slugs to relativistic speeds. Capable of inaccurate fire at very long range.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_Kinetic_Large.description>能將金屬砲彈以接近光速的速度射出的巡洋艦砲塔。有效射程較遠，但不適合打擊近距離目標。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_Kinetic_Large.description>
+  
+  <!-- EN: railgun -->
+  <ShipTurret_KineticTop.label>軌道砲</ShipTurret_KineticTop.label>
+  <!-- EN: Railgun. Best used at long range. -->
+  <ShipTurret_KineticTop.description>飛船使用的軌道砲。有效射程較遠。</ShipTurret_KineticTop.description>
+  <!-- EN: shoot slug -->
+  <ShipTurret_KineticTop.verbs.shoot_slug.label>軌道砲</ShipTurret_KineticTop.verbs.shoot_slug.label>
+  
+  <!-- EN: railgun -->
+  <ShipTurret_KineticTop_Large.label>軌道砲</ShipTurret_KineticTop_Large.label>
+  <!-- EN: Railgun. Best used at long range. -->
+  <ShipTurret_KineticTop_Large.description>飛船使用的軌道砲。有效射程較遠。</ShipTurret_KineticTop_Large.description>
+  <!-- EN: shoot slug -->
+  <ShipTurret_KineticTop_Large.verbs.shoot_slug.label>軌道砲</ShipTurret_KineticTop_Large.verbs.shoot_slug.label>
+  
+  <!-- EN: laser turret -->
+  <ShipTurret_Laser.label>激光砲塔</ShipTurret_Laser.label>
+  <!-- EN: A starship turret that fires a powerful laser. While it can inflict devastating damage, it is only usable at short range. Can be set to intercept torpedoes rather than firing on the enemy ship. Capable of ship ground defense.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_Laser.description>發射高能激光束的飛船砲塔。雖然威力極其恐怖，但有效射程較近。切換至點防禦模式後能夠攔截敵艦發射的魚雷。當飛船在星球上著陸時，這種砲塔也可以攻擊地面目標。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_Laser.description>
+  
+  <!-- EN: large laser turret -->
+  <ShipTurret_Laser_Large.label>大型激光砲塔</ShipTurret_Laser_Large.label>
+  <!-- EN: A large turret that fires a powerful laser. While it can inflict devastating damage, it is only usable at short range.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_Laser_Large.description>發射高能激光束的巡洋艦砲塔。雖然威力極其恐怖，但有效射程較近。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_Laser_Large.description>
+  
+  <!-- EN: laser -->
+  <ShipTurret_LaserTop.label>激光砲</ShipTurret_LaserTop.label>
+  <!-- EN: Laser cannon. Short-ranged but devastating. -->
+  <ShipTurret_LaserTop.description>飛船使用的激光砲。有效射程較近。</ShipTurret_LaserTop.description>
+  <!-- EN: shoot laser -->
+  <ShipTurret_LaserTop.verbs.shoot_laser.label>激光砲</ShipTurret_LaserTop.verbs.shoot_laser.label>
+  
+  <!-- EN: laser -->
+  <ShipTurret_LaserTop_Large.label>激光砲</ShipTurret_LaserTop_Large.label>
+  <!-- EN: Laser cannon. Short-ranged but devastating. -->
+  <ShipTurret_LaserTop_Large.description>飛船使用的激光砲。有效射程較近。</ShipTurret_LaserTop_Large.description>
+  <!-- EN: shoot laser -->
+  <ShipTurret_LaserTop_Large.verbs.shoot_laser.label>激光砲</ShipTurret_LaserTop_Large.verbs.shoot_laser.label>
+  
+  <!-- EN: plasma turret -->
+  <ShipTurret_Plasma.label>等離子砲塔</ShipTurret_Plasma.label>
+  <!-- EN: A starship turret that fires a burst of superheated plasma. This balanced weapon can be used at up to medium range. Capable of ship ground defense.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_Plasma.description>發射超高溫等離子體的飛船砲塔。威力均衡，有效射程中等。當飛船在星球上著陸時，這種砲塔也可以攻擊地面目標。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_Plasma.description>
+  
+  <!-- EN: large plasma turret -->
+  <ShipTurret_Plasma_Large.label>大型等離子砲塔</ShipTurret_Plasma_Large.label>
+  <!-- EN: A large turret that fires a burst of superheated plasma. This balanced weapon can be used at up to medium range.\n\nCan be safely placed in rooms as it sticks out on top of the ship.\nMust be connected to a pilot/tactical console or AI core via the heat network.\nRequires sufficient stored power and heat capacity to function. -->
+  <ShipTurret_Plasma_Large.description>發射超高溫等離子體的巡洋艦砲塔。威力均衡，有效射程中等。\n\n這種砲塔在戰鬥狀態下會伸出飛船艙頂，因此可以安全地放置於飛船艙室內。\n\n必須通過熱量網絡系統與駕駛/戰術控制台或飛船電腦核心相連接。\n電力儲備和熱容量不足時無法開火。</ShipTurret_Plasma_Large.description>
+  
+  <!-- EN: plasma -->
+  <ShipTurret_PlasmaTop.label>等離子砲</ShipTurret_PlasmaTop.label>
+  <!-- EN: Plasma cannon. Medium-range and balanced. -->
+  <ShipTurret_PlasmaTop.description>飛船使用的等離子砲。有效射程中等。</ShipTurret_PlasmaTop.description>
+  <!-- EN: fire plasma -->
+  <ShipTurret_PlasmaTop.verbs.fire_plasma.label>等離子砲</ShipTurret_PlasmaTop.verbs.fire_plasma.label>
+  
+  <!-- EN: plasma -->
+  <ShipTurret_PlasmaTop_Large.label>等離子砲</ShipTurret_PlasmaTop_Large.label>
+  <!-- EN: Plasma cannon. Medium-range and balanced. -->
+  <ShipTurret_PlasmaTop_Large.description>飛船使用的等離子砲。有效射程中等。</ShipTurret_PlasmaTop_Large.description>
+  <!-- EN: fire plasma -->
+  <ShipTurret_PlasmaTop_Large.verbs.fire_plasma.label>等離子砲</ShipTurret_PlasmaTop_Large.verbs.fire_plasma.label>
+  
+  <!-- EN: spinal-mount cannon -->
+  <ShipTurret_SpinalMountTopKinetic.label>脊峰火砲</ShipTurret_SpinalMountTopKinetic.label>
+  <!-- EN: Capital ship weaponry. -->
+  <ShipTurret_SpinalMountTopKinetic.description>主力艦使用的脊峰火砲。</ShipTurret_SpinalMountTopKinetic.description>
+  <!-- EN: shoot -->
+  <ShipTurret_SpinalMountTopKinetic.verbs.shoot.label>脊峰火砲</ShipTurret_SpinalMountTopKinetic.verbs.shoot.label>
+  
+  <!-- EN: spinal-mount cannon -->
+  <ShipTurret_SpinalMountTopLaser.label>脊峰火砲</ShipTurret_SpinalMountTopLaser.label>
+  <!-- EN: Capital ship weaponry. -->
+  <ShipTurret_SpinalMountTopLaser.description>主力艦使用的脊峰火砲。</ShipTurret_SpinalMountTopLaser.description>
+  <!-- EN: shoot -->
+  <ShipTurret_SpinalMountTopLaser.verbs.shoot.label>脊峰火砲</ShipTurret_SpinalMountTopLaser.verbs.shoot.label>
+  
+  <!-- EN: spinal-mount cannon -->
+  <ShipTurret_SpinalMountTopPlasma.label>脊峰火砲</ShipTurret_SpinalMountTopPlasma.label>
+  <!-- EN: Capital ship weaponry. -->
+  <ShipTurret_SpinalMountTopPlasma.description>主力艦使用的脊峰火砲。</ShipTurret_SpinalMountTopPlasma.description>
+  <!-- EN: shoot -->
+  <ShipTurret_SpinalMountTopPlasma.verbs.shoot.label>脊峰火砲</ShipTurret_SpinalMountTopPlasma.verbs.shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: space combat -->
+  <ShipCombat.label>太空战</ShipCombat.label>
+  <!-- EN: tale_noun->an attack on [PAWN_nameDef]'s [Community] -->
+  <ShipCombat.rulePack.rulesStrings.0>tale_noun->对[PAWN_nameDef]所属[Community]的攻击</ShipCombat.rulePack.rulesStrings.0>
+  <!-- EN: tale_noun->an assault on [PAWN_nameDef]'s [Community] -->
+  <ShipCombat.rulePack.rulesStrings.1>tale_noun->对[PAWN_nameDef]所属[Community]的袭击</ShipCombat.rulePack.rulesStrings.1>
+  <!-- EN: tale_noun->[PAWN_nameDef]'s [Community] being attacked by [Enemy]s -->
+  <ShipCombat.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef]所属[Community]受到来自[Enemy]的攻击</ShipCombat.rulePack.rulesStrings.2>
+  <!-- EN: image->[Quantity_adjphrase] [Enemy]s [circumstance_phrase] -->
+  <ShipCombat.rulePack.rulesStrings.3>image->[Quantity_adjphrase][Enemy][circumstance_phrase]</ShipCombat.rulePack.rulesStrings.3>
+  <!-- EN: image->an army [circumstance_phrase] -->
+  <ShipCombat.rulePack.rulesStrings.4>image->一支部队[circumstance_phrase]</ShipCombat.rulePack.rulesStrings.4>
+  <!-- EN: image->an overwhelming force [circumstance_phrase] -->
+  <ShipCombat.rulePack.rulesStrings.5>image->势不可挡的力量[circumstance_phrase]</ShipCombat.rulePack.rulesStrings.5>
+  <!-- EN: image->an invading force [circumstance_phrase] -->
+  <ShipCombat.rulePack.rulesStrings.6>image->侵略军[circumstance_phrase]</ShipCombat.rulePack.rulesStrings.6>
+  <!-- EN: image->stylized [Color] banners [circumstance_phrase] -->
+  <ShipCombat.rulePack.rulesStrings.7>image->[Color]风格旗帜[circumstance_phrase]</ShipCombat.rulePack.rulesStrings.7>
+  <!-- EN: image->an enormous [Enemy] [circumstance_phrase] -->
+  <ShipCombat.rulePack.rulesStrings.8>image->巨型[Enemy][circumstance_phrase]</ShipCombat.rulePack.rulesStrings.8>
+  <!-- EN: circumstance_phrase->advancing over a [TerrainFeature] -->
+  <ShipCombat.rulePack.rulesStrings.9>circumstance_phrase->越过[TerrainFeature]</ShipCombat.rulePack.rulesStrings.9>
+  <!-- EN: circumstance_phrase->completely encircling a [Community] -->
+  <ShipCombat.rulePack.rulesStrings.10>circumstance_phrase->完全包围[Community]</ShipCombat.rulePack.rulesStrings.10>
+  <!-- EN: circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s -->
+  <ShipCombat.rulePack.rulesStrings.11>circumstance_phrase->正在进攻[Quantity_adjphrase][PersonJob]</ShipCombat.rulePack.rulesStrings.11>
+  <!-- EN: circumstance_phrase->roaring in victory -->
+  <ShipCombat.rulePack.rulesStrings.12>circumstance_phrase->志在必得</ShipCombat.rulePack.rulesStrings.12>
+  <!-- EN: circumstance_phrase->brandishing [Weapon]s -->
+  <ShipCombat.rulePack.rulesStrings.13>circumstance_phrase->挥舞着[Weapon]</ShipCombat.rulePack.rulesStrings.13>
+  <!-- EN: circumstance_phrase->covered in [Gore] -->
+  <ShipCombat.rulePack.rulesStrings.14>circumstance_phrase->隐蔽在[Gore]</ShipCombat.rulePack.rulesStrings.14>
+  <!-- EN: desc_sentence->[PAWN_nameDef] organizes a resistance while [defender_circumstance]. -->
+  <ShipCombat.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef]组织抵抗，并[defender_circumstance]。</ShipCombat.rulePack.rulesStrings.15>
+  <!-- EN: desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while [defender_circumstance]. -->
+  <ShipCombat.rulePack.rulesStrings.16>desc_sentence->[PAWN_nameDef]挥舞着[Weapon]，并[defender_circumstance]。</ShipCombat.rulePack.rulesStrings.16>
+  <!-- EN: desc_sentence->[PAWN_nameDef] lies on the ground, wounded. -->
+  <ShipCombat.rulePack.rulesStrings.17>desc_sentence->[PAWN_nameDef]受伤倒地。</ShipCombat.rulePack.rulesStrings.17>
+  <!-- EN: desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] while [defender_circumstance]. -->
+  <ShipCombat.rulePack.rulesStrings.18>desc_sentence->[PAWN_nameDef]用其[Weapon]报复，并[defender_circumstance]。</ShipCombat.rulePack.rulesStrings.18>
+  <!-- EN: desc_sentence->[PAWN_nameDef] stands as tall as a building, [defender_circumstance]. -->
+  <ShipCombat.rulePack.rulesStrings.19>desc_sentence->[PAWN_nameDef]和一栋楼一样高，并[defender_circumstance]。</ShipCombat.rulePack.rulesStrings.19>
+  <!-- EN: desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression. -->
+  <ShipCombat.rulePack.rulesStrings.20>desc_sentence->[PAWN_nameDef]面露[AdjectiveBadass]的表情。</ShipCombat.rulePack.rulesStrings.20>
+  <!-- EN: desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression. -->
+  <ShipCombat.rulePack.rulesStrings.21>desc_sentence->[PAWN_nameDef]面露[AdjectiveAngsty]的表情。</ShipCombat.rulePack.rulesStrings.21>
+  <!-- EN: desc_sentence->The ground is coated in [Gore]. -->
+  <ShipCombat.rulePack.rulesStrings.22>desc_sentence->地上覆盖着[Gore]。</ShipCombat.rulePack.rulesStrings.22>
+  <!-- EN: desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area. -->
+  <ShipCombat.rulePack.rulesStrings.23>desc_sentence->[Quantity_adjphrase][PersonJob]逃离该地区。</ShipCombat.rulePack.rulesStrings.23>
+  <!-- EN: desc_sentence->[Quantity_adjphrase] [Animal]s flee the area. -->
+  <ShipCombat.rulePack.rulesStrings.24>desc_sentence->[Quantity_adjphrase][Animal]逃离该地区。</ShipCombat.rulePack.rulesStrings.24>
+  <!-- EN: defender_circumstance->shouting triumphantly -->
+  <ShipCombat.rulePack.rulesStrings.25>defender_circumstance->得意地喊叫</ShipCombat.rulePack.rulesStrings.25>
+  <!-- EN: defender_circumstance->glowing [Color] -->
+  <ShipCombat.rulePack.rulesStrings.26>defender_circumstance->发出[Color]光</ShipCombat.rulePack.rulesStrings.26>
+  <!-- EN: defender_circumstance->raising a fist in defiance -->
+  <ShipCombat.rulePack.rulesStrings.27>defender_circumstance->挥舞着拳头</ShipCombat.rulePack.rulesStrings.27>
+  <!-- EN: defender_circumstance->flexing [PAWN_possessive] muscles -->
+  <ShipCombat.rulePack.rulesStrings.28>defender_circumstance->伸展其肌肉</ShipCombat.rulePack.rulesStrings.28>
+  
+  <!-- EN: space debris -->
+  <SpaceDebris.label>太空垃圾</SpaceDebris.label>
+  <!-- EN:
+    <li>tale_noun->space debris that threatened [PAWN_nameDef]'s [Community]</li>
+    <li>tale_noun->[PAWN_nameDef]'s [Community] being menaced by space debris</li>
+    <li>image->[Quantity_adjphrase] lightning strikes [circumstance_phrase]</li>
+    <li>image->[behavior] wall of rocks [circumstance_phrase]</li>
+    <li>image->[behavior] wall of [Color] rocks [circumstance_phrase]</li>
+    <li>image->[behavior] cloud of ash and smoke [circumstance_phrase]</li>
+    <li>image->[behavior] wave of dust [circumstance_phrase]</li>
+    <li>behavior->a</li>
+    <li>behavior->an advancing</li>
+    <li>behavior->an approaching</li>
+    <li>circumstance_phrase->advancing towards a [Community]</li>
+    <li>circumstance_phrase->in an intimidating cloud</li>
+    <li>circumstance_phrase->nearly enveloping a [TerrainFeature]</li>
+    <li>circumstance_phrase->nearly enveloping [Quantity_adjphrase] [TerrainFeature]s</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with visible fright.</li>
+    <li>desc_sentence->[PAWN_nameDef] watches with awe on [PAWN_possessive] face.</li>
+    <li>desc_sentence->[PAWN_nameDef] is coordinating defensive measures.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s rush to prepare.</li>
+  -->
+  <SpaceDebris.rulePack.rulesStrings>
+    <li>tale_noun->太空垃圾威胁到了[PAWN_nameDef]的[Community]</li>
+    <li>tale_noun->太空垃圾对[PAWN_nameDef]的[Community]构成了威胁</li>
+    <li>image->[Quantity_adjphrase]太空垃圾强袭，[circumstance_phrase]</li>
+    <li>image->[behavior]石墙[circumstance_phrase]</li>
+    <li>image->[behavior][Color]石墙[circumstance_phrase]</li>
+    <li>image->[behavior]由烟灰组成的云雾[circumstance_phrase]</li>
+    <li>image->[behavior]火浪[circumstance_phrase]</li>
+    <li>behavior->一片</li>
+    <li>behavior->一片迫近的</li>
+    <li>behavior->一片附近的</li>
+    <li>circumstance_phrase->向[Community]袭来</li>
+    <li>circumstance_phrase->在令人生畏的云层下面</li>
+    <li>circumstance_phrase->几乎将一片[TerrainFeature]包围</li>
+    <li>circumstance_phrase->几乎将[Quantity_adjphrase][TerrainFeature]包围</li>
+    <li>desc_sentence->[PAWN_nameDef]十分震惊地望着这一幕。</li>
+    <li>desc_sentence->[PAWN_nameDef]望着这一切，[PAWN_possessive]的脸上充满恐惧。</li>
+    <li>desc_sentence->[PAWN_nameDef]协调人手抵御灾害。</li>
+    <li>desc_sentence->[Quantity_adjphrase][PersonJob]匆忙准备。</li>
+  </SpaceDebris.rulePack.rulesStrings>
+  
+</LanguageData>

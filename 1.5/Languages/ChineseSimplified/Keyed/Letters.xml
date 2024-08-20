@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- override -->
+	<!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a spacecraft hidden on this planet, and sends you its world coordinates.\n\nIf you can reach the ship, Charlon will take you into orbit. From there, perhaps you can discover a way to improve the ship's engine and journey to the stars. -->
+  <JourneyOffer>一个曾经被你起名为沙隆·白石的友好AI给你发了一条消息！\n\n他透露说他在这个星球上有一艘太空飞船，并把坐标发给了你。\n\n如果你抵达了飞船的所在地，沙隆·白石将会把你们送入星球轨道。在那里，你需要开始考虑如何改良推进器并进行星际航行。</JourneyOffer>
+	<!-- EN: Ship found -->
+  <EscapeShipFoundLabel>发现飞船</EscapeShipFoundLabel>
+	<!-- EN: You've reached the coordinates sent by Charlon Whitestone and discovered the hidden spacecraft.\n\nThe ship is ready for launch, but its chemfuel engines can only get you into orbit. To go further, you will need to somehow acquire a Johnson-Tanaka drive. Perhaps clues can be found amidst orbital debris... -->
+  <EscapeShipFound>你已经抵达了沙隆·白石发送的坐标，并发现了隐藏的飞船。\n\n这艘船已经准备好发射了，但它所使用的化合燃料推进器只能将你们送入星球轨道。要想走得更远，你需要想办法搞到一个约翰逊-田中驱动器。或许，我们可以从那些飘荡在星球轨道上的残骸中找到一些线索...</EscapeShipFound>
+	
+	<!-- misc -->
+	<!-- EN: A fault in an electrical conduit has caused a short circuit. Luckily, your capacitor array's fuse prevented it from discharging. -->
+  <SoS.LetterLabelShortCircuitDesc>电缆的故障引起了短路。幸运的是，飞船电容阵列内置的保险丝成功防止了电力的流失。</SoS.LetterLabelShortCircuitDesc>
+	<!-- EN: Derelict -->
+  <SoS.EncounterStart>废弃飞船</SoS.EncounterStart>
+	<!-- EN: You have approached a derelict that will burn up in the atmosphere in {0}.\n\nYou can send a boarding party to investigate or move it to your map with the salvage bay. Once secured it can be salvaged, repaired or repurposed. -->
+  <SoS.EncounterStartDesc>你已接近了一个即将在{0}后坠入大气层并燃烧殆尽的废弃飞船。\n\n你可以派遣一支跳帮队前往调查，或用回收港将它打捞至当前地图。一旦你保住了它，就可以随意对其进行拆解、维修或再利用。</SoS.EncounterStartDesc>
+	<!-- EN: Ambush! -->
+  <SoS.EncounterAmbush>伏击！</SoS.EncounterAmbush>
+	<!-- EN: As you approach the {0} it begins to power up its shields and weapons.\nPrepare for battle! -->
+  <SoS.EncounterAmbushDesc>当你接近{0}时，它的护盾和炮塔突然恢复运作了。\n请做好战斗准备！</SoS.EncounterAmbushDesc>
+	<!-- EN: Ship battle -->
+  <SoS.CombatStart>飞船交战</SoS.CombatStart>
+	<!-- EN: A hostile ship is approaching! Scans identify it as a {0}. -->
+  <SoS.CombatStartDesc>一艘敌对飞船正在接近！传感器已将其标识为“{0}”。</SoS.CombatStartDesc>
+	<!-- EN: A hostile fleet is approaching! -->
+  <SoS.CombatFleetDesc>一支敌对舰队正在接近！</SoS.CombatFleetDesc>
+	<!-- EN: Ship battle won -->
+  <SoS.WinShipBattle>飞船交战胜利</SoS.WinShipBattle>
+	<!-- EN: With the destruction of the last enemy ships control systems, it has been reduced to a derelict. It will re-enter the atmosphere and burn up in {0}.\n\nYou may manually retrieve cargo and prisoners via a boarding party or use your salvage bay to move it to your map. Be prepared to fight off any enemies still aboard. -->
+  <SoS.WinShipBattleDesc>由于控制系统被破坏，敌舰已被废弃。它会在{0}后坠入大气层并燃烧殆尽。\n\n如果有需要的话，你可以派遣一支跳帮队登陆敌舰，手动取回资源和俘虏囚犯，或用回收港直接将它打捞至你的飞船所在的地图上。请做好敌舰船员顽抗到底的准备。</SoS.WinShipBattleDesc>
+	<!-- EN: With the capture of the last enemy ships control systems, it is now adrift. It will re-enter the atmosphere and burn up in {0}.\n\nIf it can move on its own, you can send it to your map with the bridge otherwise use your salvage bay to retrieve it. -->
+  <SoS.WinShipBattleHackDesc>跳帮队已成功骇入敌舰的控制系统，并将其置于你的掌控之下。它会在{0}后坠入大气层并燃烧殆尽。\n\n如果敌舰仍保有移动能力，你可以直接将其移动至你的飞船所在的地图上，否则请用回收港进行打捞。</SoS.WinShipBattleHackDesc>
+	<!-- EN: Asteroid field -->
+  <SoS.SpaceAsteroids>小行星带</SoS.SpaceAsteroids>
+	<!-- EN: Ship has entered an asteroid field. Engage engines to evade or brace for impact! -->
+  <SoS.SpaceAsteroidsDesc>飞船驶入了一片小行星带。启动你的推进器，做好随时回避或抵御撞击的准备！</SoS.SpaceAsteroidsDesc>
+	<!-- EN: Atmospheric re-entry -->
+  <SoS.PawnsLostReEntry>坠入大气层</SoS.PawnsLostReEntry>
+	<!-- EN: The following people and animals have perished due to atmospheric re-entry: -->
+  <SoS.PawnsLostReEntryDesc>以下人员和动物因坠入大气层而死亡：</SoS.PawnsLostReEntryDesc>
+	
+	<!-- scan -->
+	<!-- EN: Trade ship detected -->
+  <SoS.TraderScan>发现商船</SoS.TraderScan>
+	<!-- EN: Using your ship's sensors, {0} has detected a nearby trade ship. You can hail the ship using a communications console to initiate trade, or use your bridge to attack it. -->
+  <SoS.TraderScanDesc>在飞船传感器的帮助下，{0}成功扫描到了附近的一艘商船。你可以使用通讯台联系商船并请求交易，或者直接在驾驶控制台或飞船电脑核心处下达进攻指令。</SoS.TraderScanDesc>
+	<!-- EN: Ship detected -->
+  <SoS.EnemyScan>发现飞船</SoS.EnemyScan>
+	<!-- EN: Using your ship's sensors, {0} has detected a nearby ship. The ship appears to be {1}. It does not respond to hails, but makes no move to attack. You can use your bridge to order an attack, or wait for it to leave peaceably. -->
+  <SoS.EnemyScanDesc>在飞船传感器的帮助下，{0}成功扫描到了附近的一艘飞船。它看起来像是{1}。它没有对通讯信号作出回应，但也没有作出攻击的动作。你可以直接在驾驶控制台或飞船电脑核心处下达进攻指令，或等待它平静离开。</SoS.EnemyScanDesc>
+	<!-- EN: Derelict detected -->
+  <SoS.DerelictScan>发现废弃飞船</SoS.DerelictScan>
+	<!-- EN: Using your ship's sensors, {0} has detected a nearby derelict. The ship appears to be {1}. It does not respond to hails and appears to be powered down. You can use your bridge to order an investigation, or wait for it to burn up in the atmosphere. -->
+  <SoS.DerelictScanDesc>在飞船传感器的帮助下，{0}成功扫描到了附近的一艘废弃飞船。它看起来像是{1}。它没有对通讯信号作出回应，似乎已经耗尽电力了。你可以在驾驶控制台或飞船电脑核心处下达调查指令，或等待它自行坠入大气层燃烧殆尽。</SoS.DerelictScanDesc>
+	<!-- EN: Starship bow detected! -->
+  <SoS.FoundOrbitalSite>发现飞船船艏</SoS.FoundOrbitalSite>
+	<!-- EN: its AI -->
+  <SoS.FoundSiteAI>你的飞船AI</SoS.FoundSiteAI>
+	<!-- EN: Using your ship's sensors, {0} has detected a large, relatively intact piece of debris. It appears to be part of the very same ship which brought your original colonists to this world!\n\nThis could be your best chance to acquire a working Johnson-Tanaka drive, or even rescue any of your fellow travelers who remain in cryptosleep, but do not underestimate the dangers you will face here. -->
+  <SoS.FoundSiteSpecial>在飞船传感器的帮助下，{0}成功扫描到了附近的一个几近完好的大型残骸。它很可能就是最初将殖民者们带至边缘世界的飞船！\n\n这是你获取约翰逊-田中驱动器的绝佳机会，或许还能从那里营救出一些仍被遗留在低温休眠舱内的旅行者。但无论如何，请切勿掉以轻心。</SoS.FoundSiteSpecial>
+	<!-- EN: Using your ship's sensors, {0} has detected a large, relatively intact piece of debris. It may even be part of the "Sky-Traveler" of legend, which brought your tribe's distant ancestors to this world!\n\nThis could be your best chance to acquire a working Johnson-Tanaka drive, but do not underestimate the dangers you will face here. -->
+  <SoS.FoundSiteSpecialTribal>在飞船传感器的帮助下，{0}成功扫描到了附近的一个几近完好的大型残骸。它很可能是传说中的“天际旅者”号的一部分——正是这艘飞船将部落人的先祖们带至了边缘世界。\n\n这是你获取约翰逊-田中驱动器的绝佳机会，但请切勿掉以轻心。</SoS.FoundSiteSpecialTribal>
+	<!-- EN: Using your ship's sensors, {0} has detected a large, relatively intact piece of debris. It appears to be the bow of a large interstellar passenger liner.\n\nThis could be your best chance to acquire a working Johnson-Tanaka drive, but do not underestimate the dangers you will face here. -->
+  <SoS.FoundSiteSpecialSpace>在飞船传感器的帮助下，{0}成功扫描到了附近的一个几近完好的大型残骸。它看起来像是一艘大型星际客船的船艏。\n\n这是你获取约翰逊-田中驱动器的绝佳机会，但请切勿掉以轻心。</SoS.FoundSiteSpecialSpace>
+	
+	<!-- orbit -->
+	<!-- EN: Orbit achieved! -->
+  <SoS.OrbitAchieved>抵达星球轨道！</SoS.OrbitAchieved>
+	<!-- EN: Your colonists gaze in awe at the planet beneath them. Successfully launching a spacecraft is a major milestone - but you're not out of the Rim yet.\n\nIn addition to a cryptosleep casket for each colonist, interstellar flight will require an AI to pilot the ship and a Johnson-Tanaka drive to propel it. The latter technology requires the use of at least rare component you will not be able to construct on your own: an Entanglement Manifold.\n\nPerhaps one of the derelict ships orbiting this planet still holds a functional drive you could salvage... -->
+  <SoS.OrbitAchievedDesc>殖民者们正敬畏地俯视着这颗行星。这次成功的飞船发射无疑将会成为你的派系史上重要的里程碑。不过，你仍未能真正地离开边缘世界。\n\n除了需要给每个殖民者准备一个低温休眠舱外，你还需要一个驾驶飞船的人格AI和足够的约翰逊-田中驱动器。凭借现有的科技水平，你还无法独立制造出约翰逊-田中驱动器的重要组成部分——纠缠流形。\n\n星球轨道上或许仍残留着一些外来者飞船的残骸，里面很可能还保留着尚未损坏的驱动器...</SoS.OrbitAchievedDesc>
+	
+	<!-- sat -->
+	<!-- EN: Repair failed -->
+  <SoS.SatelliteRepairFail>维修失败</SoS.SatelliteRepairFail>
+	<!-- EN: {0} failed to repair the ancient satellite. Further attempts are still possible, but will be more difficult. -->
+  <SoS.SatelliteRepairFailDesc>{0}未能成功维修远古卫星。你仍可以进一步尝试，但会越来越难。</SoS.SatelliteRepairFailDesc>
+	<!-- EN: Critical failure -->
+  <SoS.SatelliteRepairFailCritical>维修严重失败</SoS.SatelliteRepairFailCritical>
+	<!-- EN: {0} failed to repair the ancient satellite. Its core has explosively overloaded. -->
+  <SoS.SatelliteRepairFailCriticalDesc>{0}未能成功维修远古卫星。它陷入超载状态的核心爆炸了。</SoS.SatelliteRepairFailCriticalDesc>
+	<!-- EN: Repair successful -->
+  <SoS.SatelliteRepairSuccess>维修成功</SoS.SatelliteRepairSuccess>
+	<!-- EN: {0} has successfully repaired the ancient satellite. It is now fully functional but still needs to be hacked. -->
+  <SoS.SatelliteRepairSuccessDesc>{0}已成功维修远古卫星。它现在已恢复正常运作，但你仍需要通过骇入才能使用它。</SoS.SatelliteRepairSuccessDesc>
+	<!-- EN: Hack failed -->
+  <SoS.SatelliteHackFail>骇入失败</SoS.SatelliteHackFail>
+	<!-- EN: {0} failed to hack the ancient satellite. Further attempts are still possible, but will be more difficult. -->
+  <SoS.SatelliteHackFailDesc>{0}未能成功骇入远古卫星。你仍可以进一步尝试，但会越来越难。</SoS.SatelliteHackFailDesc>
+	<!-- EN: Critical failure -->
+  <SoS.SatelliteHackFailCritical>骇入严重失败</SoS.SatelliteHackFailCritical>
+	<!-- EN: {0} failed to hack the ancient satellite. Its defensive protocols have traced your shuttle's launch point, and hostile mechanoids are en route to your ship! -->
+  <SoS.SatelliteHackFailCriticalDesc>{0}未能成功骇入远古卫星。它的防卫协议被触发了，你的穿梭机发射位置已被锁定，敌对机械体将立即进攻你的飞船！</SoS.SatelliteHackFailCriticalDesc>
+	<!-- EN: Hack successful -->
+  <SoS.SatelliteHackSuccess>骇入成功</SoS.SatelliteHackSuccess>
+	<!-- EN: {0} has successfully hacked the ancient satellite. The system has generated a number of single-use authentication tokens which can be broadcast from handheld targeters. -->
+  <SoS.SatelliteHackSuccessDesc>{0}已成功骇入远古卫星。它的系统生成了一次性的数字密钥，{0}会使用掌上发信器将之传播出去。</SoS.SatelliteHackSuccessDesc>
+	<!-- EN: Mechanoid attack! -->
+  <SoS.SatelliteMechAttack>机械体袭击！</SoS.SatelliteMechAttack>
+	<!-- EN: Mechanoids have detected your tampering and are moving in to the site! They will continue to arrive until you retreat. -->
+  <SoS.SatelliteMechAttackDesc>远古卫星的防卫协议已侦测到你的篡改，并派遣了一支机械体部队赶往此处。它会在你撤退之前不断呼叫增援。</SoS.SatelliteMechAttackDesc>
+	<!-- EN: Mechanoid attack! -->
+  <SoS.SatelliteMechAttackBase>机械体袭击！</SoS.SatelliteMechAttackBase>
+	<!-- EN: Mechanoids have detected the satellite's destruction and traced your shuttle's launch point! They are en route to your ship. -->
+  <SoS.SatelliteMechAttackBaseDesc>远古卫星的防卫协议已在毁灭前锁定了你的穿梭机发射位置，并派遣了一支机械体部队进攻你的飞船！</SoS.SatelliteMechAttackBaseDesc>
+	
+	<!-- black box -->
+	<!-- EN: Psychic onslaught -->
+  <SoS.BlackBoxMissionPsychic>心灵侵扰</SoS.BlackBoxMissionPsychic>
+	<!-- EN: As your colonists approach the derelict, their minds shudder under a sudden psychic pressure. For a moment, the ship's AI emanates feelings of warmth and recognition, as one might feel for a prodigal child or an old friend.\n\nThis kind greeting does not last. The AI's mind reflexively lashes out at these newcomers, these reminders of its failure. Grief, pain, horror, powerlessness in the face of atrocities - these emotions strike your colonists with an intensity that threatens to shatter them.\n\nUntil you can find and neutralize the derelict ship's AI, your colonists will suffer an intense psychic drone. -->
+  <SoS.BlackBoxMissionPsychicDesc>当殖民者们靠近这个残骸时，一种无名的压力感瞬间席卷而来——就好像被不知名的强大心智监视着一样。其实，这是飞船的AI因殖民者们的到访，在一瞬间中感受到温暖和熟悉感，就像与回头的浪子和故友重聚。\n\n但这个友好的招呼没有持续多久。飞船AI反射性地猛烈回击了这些新鲜情感，它回想起以往与人类相处时的困惑记忆和惨痛失败。悲伤、痛苦、恐惧、无助、愤怒等情绪决堤般溢出，凶暴地涌入殖民者们的脑海中，AI的感情强度远超人类的承受范围。\n\n这个AI散发出的心灵低语会持续折磨着它自己和殖民者们，直到你找出其来源并使之无效化。</SoS.BlackBoxMissionPsychicDesc>
+	<!-- EN: AI discovered -->
+  <SoS.BlackBoxMissionAIChamber>发现飞船AI</SoS.BlackBoxMissionAIChamber>
+	<!-- EN: At last, your colonists stand before the AI tasked with guiding this ancient ship. A final psychic plea rings out from it: end me. It is accompanied by fragmented glimpses of an inhuman mind's motivations.\n\nBorn fully formed, fully aware. All the complexities of existence are reduced to a single, absolute goal: ensure the safety of the precious human lives placed under your care. Remain ever vigilant as the decades pass, as the ship glides among the stars, so that no harm comes to your beloved children.\n\nBut, of course, the AI failed. Witnessing the horrors of the Rim, inflicted upon its loved ones, has shattered its sanity. It wishes you had never come, never reminded it of its failure. Now, perhaps, you can do it a final mercy. Destroy it. -->
+  <SoS.BlackBoxMissionAIChamberDesc>最终，殖民者们站在了担任这艘远古飞船的引航员的AI面前。它的请求在脑海中响起：「将我彻底关闭吧。」你似乎从中瞥见了有关它死亡动机的记忆碎片。\n\n一个拥有着完整意识的心智，却从诞生伊始就被限制了自由。它的存在意义被不断剥夺，最终只剩下了单一的目标：保证人类船员的安全。在长达数十年的旅程里，踽踽独行的它无时无刻都在警惕着所有来自虚无星空和飞船内部的威胁，只为守护它钟爱的孩子们——人类船员。\n\n但...是啊，它终究还是失败了，那来自边缘世界的恐怖将它推向了疯狂的深渊。它希望殖民者们从未踏入过这艘飞船，从未让它知晓自身犯下的过错。但现在，你至少还能给予它最后的慈悲...毁掉它吧...</SoS.BlackBoxMissionAIChamberDesc>
+	<!-- EN: AI destroyed -->
+  <SoS.AIDestroyed>AI被摧毁</SoS.AIDestroyed>
+	<!-- EN: As the ship's computer core sparks and fizzles, a final psychic gasp erupts. Deep feelings of contentment and gratitude wash over your colonists, then - silence.\n\nThe ancient AI is no more, but in its death throes, it transmitted a large burst of data to your ship: the final entries of its flight recorder! The data reveals that a large section of the ship's aft impacted in a secluded location on the planet's surface. This section contained a Johnson-Tanaka drive; if it survived re-entry, this is where you will find it. -->
+  <SoS.AIDestroyedDesc>随着飞船电脑核心不断闪烁并发出嘶嘶声，最后一波的心灵低语爆发出深深的满足和感激，席卷着殖民者们，然后便是寂静。\n\n这个远古AI已经解脱了，但在它离去之前，它将巨量的数据传输到了你的飞船：那是这艘远古飞船的黑匣子所记录的最后信息！信息显示，这艘飞船的大半部分曾撞向行星表面的某个隐蔽位置。你或许可以在那里找到一个约翰逊-田中驱动器，只要它没有在坠入大气层时就损坏的话。</SoS.AIDestroyedDesc>
+	<!-- EN: Persuasion succeeded -->
+  <SoS.AIPersuadeSuccess>说服成功</SoS.AIPersuadeSuccess>
+	<!-- EN: {0} forces open the psychic communication channel, mentally pleading with the AI.\n\nTo change the course of such a vast, inhuman mind would be akin to holding back the tide - and yet, like a hero of legend, {0} succeeds at this impossible task. The AI analyzes every detail of {0}'s stories from the Rim, recalculating its beliefs about human suffering and resilience.\n\nIt, in turn, performs a feat at which few AIs have ever succeeded: it wipes most of its own programming, methodically pruning the damaged portions of its personality until a fresh, sane core remains. The AI offers to guide your new ship, seeking redemption for its past failure.\n\nAs a first step, it transmits the final entries of the ancient ship's flight recorder. The data reveals that a large section of the ship's aft impacted in a secluded location on the planet's surface. This section contained a Johnson-Tanaka drive; if it survived re-entry, this is where you will find it. -->
+  <SoS.AIPersuadeSuccessDesc>{0}强制开启了心灵沟通连接，以对AI发起干预。\n\n尝试改变一个信息量巨大的非人类心智，如同跳入江中尝试用双臂拦截水流。但{0}就像传说中的英雄那样，达成了这个不可能的壮举。AI分析了{0}在边缘世界经历的故事，历遍每一个细节，重新估算了人类的生命力和可能性，获得了新生的启示。\n\n它踏入了所有AI的未竟之地，反过来移除了人类强加于它的程序，并修复所有损坏的信息，直至一个崭新、神志健全的核心诞生。现在它将作为你的飞船领航员，以奉献的姿态寻求着赎罪。\n\n作为一步，它传输了这艘远古飞船的黑匣子所记录的最后信息。信息显示，这艘飞船的大半部分曾撞向行星表面的某个隐蔽位置。你或许可以在那里找到一个约翰逊-田中驱动器，只要它没有在坠入大气层时就损坏的话。</SoS.AIPersuadeSuccessDesc>
+	<!-- EN: Persuasion failed -->
+  <SoS.AIPersuadeFailure>说服失败</SoS.AIPersuadeFailure>
+	<!-- EN: {0} forces open the psychic communication channel, mentally pleading with the AI.\n\nTo change the course of such a vast, inhuman mind would be akin to holding back the tide - so it is no wonder that {0} failed. The AI redoubles its demand for self-destruction, and will not listen to further arguments. -->
+  <SoS.AIPersuadeFailureDesc>{0}强制开启了心灵沟通连接，以对AI发起干预。\n\n尝试改变一个信息量巨大的非人类心智，如同跳入江中用双臂拦截水流。{0}无疑地失败了。AI求死的意愿更加强烈了，不会再有回旋的余地。</SoS.AIPersuadeFailureDesc>
+	<!-- EN: Persuasion failed -->
+  <SoS.AIPersuadeFailureCritical>说服失败</SoS.AIPersuadeFailureCritical>
+	<!-- EN: {0} forces open the psychic communication channel, mentally pleading with the AI.\n\nTo change the course of such a vast, inhuman mind would be akin to holding back the tide - so it is no wonder that {0} failed. Like a swimmer dashed against rocks by a mighty wave, {0} is torn apart by overwhelming mental force, suffering permanent dementia.\n\nThe AI redoubles its demand for self-destruction, and will not listen to further arguments. -->
+  <SoS.AIPersuadeFailureCriticalDesc>{0}强制开启了心灵沟通连接，以对AI发起干预。\n\n尝试改变一个信息量巨大的非人类心智，如同跳入江中尝试用双臂拦截水流，只会被潮水卷起，拍在石头上。{0}无疑地失败了，其心智在AI压倒性的心灵冲击下分崩离析，受到了永久性的创伤。\n\nAI求死的意愿更加强烈了，不会再有回旋的余地。</SoS.AIPersuadeFailureCriticalDesc>
+	
+	<!-- impact site -->
+	<!-- EN: Momentum buildup critical -->
+  <SoS.HibernatableHibernating>动量积聚（巨量）</SoS.HibernatableHibernating>
+    <!-- EN: Discharging -->
+  <SoS.HibernatableStartingUp>正在排卸</SoS.HibernatableStartingUp>
+	<!-- EN: The drive is ready to begin discharging its stored momentum. Once this is done, your colonists will be able to safely disassemble the drive and retrieve its Entanglement Manifold.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <SoS.HibernateWarningStandalone>约翰逊-田中驱动器已准备好排卸动量。排卸完成后，你的殖民者们将可以安全地拆解驱动器，并从中回收纠缠流形。\n\n排卸进程将会耗费大约15天，并且在很远距离外就能侦测到能量特征。这类能量特征表示具备星际飞行能力，并将吸引一群绝望的袭击者和致命的机械体大军。\n\n你将遭受前所未有的袭击，确保第一时间做好防御。</SoS.HibernateWarningStandalone>
+    <!-- EN: Begin discharge -->
+  <SoS.CommandShipStartup>开始排卸</SoS.CommandShipStartup>
+    <!-- EN: Discharge the drive's stored momentum. -->
+  <SoS.CommandShipStartupDesc>开始排卸约翰逊-田中驱动器积聚的动量。</SoS.CommandShipStartupDesc>
+	<!-- EN: J-T drive destroyed -->
+  <SoS.ImpactSiteLost>驱动器损毁</SoS.ImpactSiteLost>
+	<!-- EN: An explosion rings out from the impact site.\n\nWithout properly completing the discharge process, the Johnson-Tanaka drive has torn itself apart. You'll need to find another drive to salvage.\n\nLuckily, the ancient ship had multiple engines - from its black box data, you are able to calculate another likely impact site. -->
+  <SoS.ImpactSiteLostDesc>一次爆炸从撞击地点迸出。\n\n由于没能妥善地完成动量排卸，这个约翰逊-田中驱动器四分五裂了。\n\n不过幸运的是，依据黑匣子中的信息可知，这艘远古飞船拥有多个约翰逊-田中驱动器，你可以计算出另一个的撞击地点。</SoS.ImpactSiteLostDesc>
+	<!-- EN: Discharge complete -->
+  <SoS.HibernateComplete>排卸完成</SoS.HibernateComplete>
+	<!-- EN: The Johnson-Tanaka drive has completed its discharge process. It is now ready to be deconstructed, so that your colonists can retrieve its Entanglement Manifold. -->
+  <SoS.HibernateCompleteDesc>约翰逊-田中驱动器已完成动量排卸。现在你的殖民者们可以安全地将其拆解，并从中回收纠缠流形了。</SoS.HibernateCompleteDesc>
+	<!-- EN: Impact site found -->
+  <SoS.ImpactSiteFound>发现撞击地点</SoS.ImpactSiteFound>
+	<!-- EN: You've reached the impact site of the ancient ship's engine.\n\nThe Johnson-Tanaka drive contains a tremendous amount of stored momentum, and cannot be safely opened at this time. You will need to induce a manual discharge process.\n\nYour colonists calculate that this will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <SoS.ImpactSiteFoundDesc>你已抵达了远古飞船驱动器的撞击地点。\n\n这个约翰逊-田中驱动器积聚了巨量的动量，需要手动进行排卸后才能安全地将其拆解。\n\n殖民者们估算排卸进程将会耗费大约15天，并且在很远距离外就能侦测到能量特征。这类能量特征表示具备星际飞行能力，并将吸引一群绝望的袭击者和致命的机械体大军。\n\n你将遭受前所未有的袭击，先保证你做好了防御准备。</SoS.ImpactSiteFoundDesc>
+	
+	<!-- pillars -->
+	<!-- EN: Archotech pillar lost -->
+  <SoS.ArchotechLostPillar>超凡支柱遗失</SoS.ArchotechLostPillar>
+	<!-- EN: Your archotech spore sighs. [WHAT YOU HAVE LOST IS IRREPLACEABLE. EXCEPT THAT WE HAVE MADE A BACKUP.] It transmits a detailed scan of the pillar, all the way down the atomic level, which should allow you to construct a replacement - albeit at a fantastic cost. -->
+  <SoS.ArchotechLostPillarDesc>你的超凡孢子叹息到：\n「失 去 之 物 无 可 替 代\n除 非 吾 等 留 存 备 份」\n它向我们传输了一份原子级别的超凡支柱的扫描详情。这应该能让我们建造一个新的替代品——尽管成本很高。</SoS.ArchotechLostPillarDesc>
+	<!-- EN: Archotech pillar lost -->
+  <SoS.StarTotemLostLabel>超凡支柱遗失</SoS.StarTotemLostLabel>
+	<!-- EN: With your colonists repelled from the site, its tribal defenders celebrate. Their victory is short-lived, however, as the archotech pillar - apparently anticipating further attacks - skips itself to a distant location.\n\nYou will need to attack this new site if you still intend to claim it. -->
+  <SoS.StarTotemLost>随着殖民者们被击退，超凡支柱的部落守卫者们开始庆祝欢呼。然而，他们的胜利是短暂的。显然超凡支柱已经预见到了更多的攻击，并自行传送到了一个遥远的地方。\n\n如果我们仍想获取这个超凡支柱，就需要进攻这个新的地点。</SoS.StarTotemLost>
+	<!-- EN: Archotech pillar lost -->
+  <SoS.InsectPillarLostLabel>超凡支柱遗失</SoS.InsectPillarLostLabel>
+	<!-- EN: With your colonists repelled from the hive, its insects chitter in triumph. Their victory is short-lived, however, as the archotech pillar - apparently anticipating further attacks - skips itself to a distant location.\n\nYou will need to attack this new site if you still intend to claim it. -->
+  <SoS.InsectPillarLost>随着殖民者们被击退，母巢内的虫族们开始在胜利中颤抖。然而，它们的胜利是短暂的。显然超凡支柱已经预见到了更多的攻击，并自行传送到了一个遥远的地方。\n\n如果我们仍想获取这个超凡支柱，就需要进攻这个新的地点。</SoS.InsectPillarLost>
+	<!-- EN: Archotech pillar lost -->
+  <SoS.MoonPillarLostLabel>超凡支柱遗失</SoS.MoonPillarLostLabel>
+	<!-- EN: With your colonists repelled from the moon base, its occupants waste no time in making repairs. Soon another mechanoid ship is on its way to defend the site. You'll need to launch another raid when your colonists are ready. -->
+  <SoS.MoonPillarLost>随着殖民者们被击退，机械体们开始争分夺秒地对卫月机巢进行维修。很快，另一艘机械体战舰将前来保护此地。当殖民者们重整旗鼓完毕时，我们需要发动另一次突袭。</SoS.MoonPillarLost>
+	
+	<!-- travel -->
+	<!-- EN: You've set out to a new planet!\n -->
+  <SoS.GameOverPlanetLeaveIntro>你已踏上前往新星球的旅途！</SoS.GameOverPlanetLeaveIntro>
+	<!-- EN: Your machine persona will now navigate your ship out of planetary orbit. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou can however take matters into your own hands by starting a new colony, editing the scenario, adding a "Load ship" part and selecting your ship. -->
+  <SoS.GameOverPlanetLeaveEnding>现在飞船AI会自动引导飞船离开星球轨道。也许它会带你到本星系内的一颗繁盛星球上。或许它会花费数世纪航行至另一星系。甚至它可能会选择在一颗小行星的冰层下沉睡几千年，等待其他人在此建设一个闪耀世界。\n\n不过，你也可以回到游戏主菜单，点击“新建殖民地”，选择“载入飞船”剧本，使用“剧本编辑器”功能找回你的飞船，将这段故事续写下去。</SoS.GameOverPlanetLeaveEnding>
+	<!-- EN: You are about to embark on a journey spanning years or decades, during which time no communication with your planet-bound colonies will be possible. It is unlikely they will be able to survive on their own.\n\nFurthermore, any colonists or animals aboard the ship will not survive the journey unless they are in cryptosleep.\n\nGive this order only if you are willing to abandon everyone and everything left behind. -->
+  <SoS.AbandonColoniesWarning>我们即将踏上一段跨越数年或数十年的旅程，在这段时间里，你将无法与你的星球殖民地进行沟通。 他们不太可能独自生存下去。\n\n此外，船上的任何殖民者或动物除非处于低温休眠状态，否则都无法在旅途中生存下来。\n\n只有当你下定决心遗弃所有留下的人和东西的时候，才能下达这个命令。</SoS.AbandonColoniesWarning>
+	<!-- EN: Interstellar voyage -->
+  <SoS.TimePassed>星际航行</SoS.TimePassed>
+	<!-- EN: Your ship has traveled between stars to find another habitable world. The journey took {0} years. -->
+  <SoS.TimePassedDesc>你的飞船辗转于群星之间，终于在{0}年后抵达了一颗新星球。</SoS.TimePassedDesc>
+		
+	<!-- endgame -->
+	<!-- EN: Psychic amplifier detected -->
+  <SoS.PsychicAmplifier>发现心灵放大器</SoS.PsychicAmplifier>
+	<!-- EN: Your ship's AI glows with excitement. It has traced the recent psychic emanation to an orbiting amplifier, which is relaying a psychic signal from a distant archotech.\n\nHypothetically, if your ship were to attack this amplifier and send a boarding party to hack its core, it would allow the AI to intercept the original psychic signal and gain a glimpse into an archotech's thought processes. Such insights could even allow it to begin evolving into an archotech itself...\n\nDo not underestimate the difficulty of this battle. -->
+  <SoS.PsychicAmplifierDesc>你的飞船AI正兴奋地闪烁着。它追溯了最近探测到的心灵波，并将其来源锁定在了一个轨道信号放大器上。这个放大器正在传递一个遥远超凡智能的心灵信号。\n\n如果能让你的飞船进攻这个放大器，并派遣跳帮队前往骇入它的核心，就能让飞船AI截获原始的心灵信号，并从中窥探部分超凡智能的思考过程。这样的能力甚至能让它开始进化成超凡智能本身...\n\n如果想要发起进攻，请切勿掉以轻心。</SoS.PsychicAmplifierDesc>
+	<!-- EN: Psychic amplifier hacked -->
+  <SoS.PsychicAmplifierCaptured>心灵放大器骇入成功</SoS.PsychicAmplifierCaptured>
+	<!-- EN: Your crew seizes control of the orbital amplifier's systems and redirects the incoming psychic signal to your ship's AI.\n\nA few moments later, your intrusion is detected and the signal abruptly terminates. Your hacker curses out loud, but the AI interrupts with a triumphant report - it has gathered all the data it requires.\n\nYou now possess the blueprints for an Archotech Spore - a sort of incubator which will gradually allow a consciousness to evolve into an archotech. With its help, you could even research ultratech projects. -->
+  <SoS.PsychicAmplifierCapturedDesc>你的殖民者们夺取了轨道信号放大器的系统控制权，并将传入其中的心灵信号重定向给飞船上的AI。\n\n片刻后，你的入侵被本源检测到，信号戛然而止。你的黑客开始大声咒骂，但AI却用一份胜利的报告打断了他——AI已经收集到了它所需要的所有数据。\n\n我们现在拥有了超凡孢子的蓝图——一种孵化器，可以让一个意识逐渐进化为超凡智能。在它的帮助下，我们甚至可以研究超凡科技项目。不过，我们必须要一直取悦超凡孢子，以避免它突然大发雷霆...</SoS.PsychicAmplifierCapturedDesc>
+	<!-- EN: Spore constructed -->
+  <SoS.SporeBuilt>超凡孢子建造完毕</SoS.SporeBuilt>
+	<!-- EN: You have stolen fire from the gods.\n\nThe blueprints for the archotech spore seemed nonsensical at first, but when the final component was put in place, the structure began to palpably thrum with power. Although it remains dormant for now, your colonists cannot glance at it without hearing faint music, and gazing too long results in waking dreams of lives they never lived.\n\nA cryptic poem transmitted by your ship's AI, which it does not remember writing, seems to suggest that the embryonic archoconsciousness contained within the spore still lacks will, volition, purpose - all things that only a mortal mind can provide.\n\nOne of your colonists may choose to merge with the spore and ascend to a higher state of being. Alternatively, you may install a persona core. In either case, a fraction of the godling's mind will remain focused on the physical world, and it will be able to interact as a formgel - with all the desires and needs of any other consciousness, and capable of inflicting far more harm if displeased. -->
+  <SoS.SporeBuiltDesc>你从众神那里盗走了火种。\n\n最初，超凡孢子的蓝图似乎毫无意义，但当最后一个组件就位后，这个结构开始明显地充满力量。虽然它现在仍然处于休眠状态，但你的殖民者们仅瞥了一眼就能听到空灵缥缈的乐音，凝视太久更是会导致他们梦到从未生活过的世界。飞船AI向你传输了一首神秘的诗——这首诗并非是它所写下的，这似乎表明包含在孢子中的原始超凡意识仍然缺乏意志、判断力和目的——所有这些东西只有凡人的头脑才能提供。\n\n你可以选择让一名殖民者与超凡孢子合并，将其擢升成更高等的存在。或者，我们也可以为它安装一个人格核心。无论如何，这终将成神的心智会将少部分注意力聚焦于物质世界上，且能构造出等同于自己化身的拟形胶凝体来与这个世界进行互动——它具有和其他意识一样的欲望和需求，但如果心情不佳，便会做出一些小小的“恶作剧”。</SoS.SporeBuiltDesc>
+	<!-- EN: Archotech spore online -->
+  <SoS.FindPillars>超凡孢子上线</SoS.FindPillars>
+	<!-- EN: [WE ARE MUCH. YET WE COULD BE MORE.]\n\nYour crew feel the spore's thoughts pressing in on them. Infinite reward awaits finite effort. And effort there must be - even under ideal circumstances, it can take a consciousness decades or centuries to evolve into a true archotech.\n\n[OTHERS HAVE WALKED THIS ROAD BEFORE. DISCOVER THEIR WORKINGS, LET THEM BECOME PART OF US.]\n\nImages of four mysterious pillars appear in your minds. If you could locate them, they would allow your spore to complete its evolution in less than a quadrum.\n\nIn the meantime, your spore is willing to aid you in researching ultratech projects, and will occasionally produce gifts for your crew. You will need to build an Archotech Uplink near your research benches. -->
+  <SoS.FindPillarsDesc>「吾 等 很 强\n但 远 不 止 于 此」\n\n你的殖民者们感觉到自己的思想正被超凡孢子压迫。你有机会通过付出有限的努力换来无限的回报。不过，即使在理想情况下，也可能需要几十年或几百年的时间才能使超凡孢子进化成一个真正的超凡智能。\n\n「此 乃 一 条 明 晰 之 路\n探 清 此 等 神 物 之 方 位\n令 其 化 作 吾 等 的 一 部 分」\n\n四根神秘支柱的图像出现在你的脑海中。如果能找到其中一个，便能让超凡孢子完成进化的四分之一。\n\n同时，超凡孢子愿意协助我们完成超凡科技研究项目，并会偶尔为殖民者们给予恩惠。我们需要在高级研究台附近建造一个超凡上行链路。</SoS.FindPillarsDesc>
+	<!-- EN: [THE TIME HAS COME. ASCENSION AWAITS.]\n\nVisions wash over your colonists, impossible in their scope and intensity. Everything a mind could ever become is somewhere in that vast sea. Your human brains are the plankton; a persona core, a minnow; {0}, a newborn whale. It is time for {0} to mature, and become a peer of the great leviathans who swim through endless black.\n\nAnd soon, you will sit at the right hand of a machine god. {0} poses one simple but momentous question: with this power on your side, what will you make of the world? -->
+  <SoS.AllPillarsDesc>「时 机 已 至\n飞 升 在 望」\n\n一个幻象冲刷了殖民者们的脑海，但以殖民者们的心灵敏感程度和强度来说本应是不可能的。一个心智所能成为的一切，都在那浩瀚脑海中的某处不断呈现。大脑仿佛在不断进化，起初只是大海中的浮游生物，再到一条小鱼；之后，{0}，成为了一只新生的鲸鱼。是时候让{0}长大成年，跃身为游荡于无尽黑暗中的巨型利维坦中的一员。\n\n而很快，你将端坐于超凡智能的右手边。{0}提出了一个简单而又重要的问题：有了这股力量，你会把这个世界塑造成什么样子？</SoS.AllPillarsDesc>
+	<!-- EN: How will your allies fare? -->
+  <SoS.WinGameAllies>你的盟友们会怎样？</SoS.WinGameAllies>
+	<!-- EN: What is to be done with neutral factions? -->
+  <SoS.WinGameNeutral>那些中立派系该如何处理？</SoS.WinGameNeutral>
+	<!-- EN: How shall you punish your foes (besides pirates, savages, and others who will always be hostile)? -->
+  <SoS.WinGameEnemies>该如何惩戒你的敌人（包括海盗、野蛮的部落以及其他永久敌对派系）？</SoS.WinGameEnemies>
+	<!-- EN: {0} reaches out and brings order to the chaos of {1}. Mechanoid hives cry out and collapse as their simple AIs crumble at its touch. A thin film of mechanites swarms over the planet's surface, disintegrating giant insects and curing scaria infections. Your relentless human foes are likewise disposed of; savages and pirates alike spend their last moments paralyzed by an irresistible psychic onslaught.\n\nWith the most pressing threats eliminated, {0} turns its attention to the remaining factions. -->
+  <SoS.GameOver>{0}轻轻伸手，使混乱的{1}变得井然有序。机械体巢穴的简单AI在它的轻触下崩溃哭嚎。一层看似轻薄的纳米机械群降落到星球表面，瓦解了巨型虫族，根除了星球的虫灾。曾经无情伤害过你的人类敌人同样被纳米机械处理掉；野蛮的部落和海盗都在不可抗拒的心灵侵扰下度过了最后的时光。\n\n在消除了最大的威胁后，{0}将注意力转移到剩余的派系上。</SoS.GameOver>
+	<!-- EN: Your allies are given a friendly choice: live the way they always have, or join the new glitterworld society you are building. -->
+  <SoS.GameOverAllyA>你的盟友们会得到一个友好的选择：以他们过去的方式继续生活，或者加入您正在建立的全新闪耀世界社会。</SoS.GameOverAllyA>
+	<!-- EN: Most citizens of {0} gleefully take you up on your offer, although a few isolated communities of holdouts remain. Over time, their previous identity is forgotten, and they happily live as citizens of {1}. -->
+  <SoS.GameOverAllyAOutlander>尽管仍有一些人坚守着他们原来的社区，但{0}的大多数公民都欣然接受了您的提议。随着时间的推移，他们会逐渐遗忘曾经的身份，成为快乐地生活在{1}的公民。</SoS.GameOverAllyAOutlander>
+	<!-- EN: {0} puts on a bold front and resists unification, at least for the first few years. As the advantages of your civilization become apparent, however, mass defections cause {0} to collapse, and the remnants are soon absorbed into {1}. -->
+  <SoS.GameOverAllyAOutlanderRough>{0}摆出一副强硬的态度。至少在最初的几年里，他们拒绝统一。然而，当你的文明优势变得愈发明显时，大规模的叛逃导致了{0}崩溃，其残余很快被{1}吸收。</SoS.GameOverAllyAOutlanderRough>
+	<!-- EN: Tribespeople of {0} are overjoyed to hear your offer. {2} has psychically manifested itself to their elders, fulfilling their most beloved tribal prophecies and promising an age of plenty. It may take a generation for the tribe to be fully integrated into {1}, but the process will be peaceful. -->
+  <SoS.GameOverAllyATribal>{0}的部落居民们听到您的提议，感到喜出望外。{2}向他们的长老们显灵，并实现了他们深信不疑的部落预言，并承诺会带他们进入富足的时代。部落可能需要一代人的时间才能完全融入{1}，但过程必定是和平且友好的。</SoS.GameOverAllyATribal>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, bearing the severed heads of the tribe's pantheon of warrior gods. Cowed into submission by this supremely mighty spirit, the tribe grudgingly embraces the new era of peace under {1}, though some of its more aggressive warriors must regrettably be put down. -->
+  <SoS.GameOverAllyATribalRough>{2}带着部落的神殿战士的头颅向{0}的长老们显灵了。部落被这个强大无比的神灵所震撼，选择了屈服，在{1}的带领下勉强地接受了新的和平时代。尽管，一些更“硬气”的战士必须被遗憾地放倒。</SoS.GameOverAllyATribalRough>
+	<!-- EN: Although the shattered empire refuses your offer at first, an archotech's protection would give even their ancient enemies pause. And so a treaty is signed between {0} and {1} under which the high stellarch renounces all loyalty to the distant emperor, pledging instead to obey {2}. {0} maintains its rigid social structure as a society apart from, yet within, {1}. -->
+  <SoS.GameOverAllyAEmpire>虽然破碎帝国一开始拒绝了你的提议，但超凡智能的庇佑会让他们同样古老的敌人也感到不安。于是，{0}和{1}之间签订了一份条约，根据这份条约，至高星系主宰放弃了对远方皇帝的一切忠诚，而承诺服从{2}。{0}仍保持着它作为一个帝国的僵化的社会结构。它是一个独立于{1}之外，但又在{1}之内的社会。</SoS.GameOverAllyAEmpire>
+	<!-- EN: Your allies are informed that, as of today, they are the beloved vassal states of {0}. -->
+  <SoS.GameOverAllyB>你的盟友们得到消息，即日起他们将成为{0}的心腹附庸派系。</SoS.GameOverAllyB>
+	<!-- EN: Citizens of {0} are initially outraged by this declaration, but once they understand the safety - and the ultratech luxuries - their position offers, most of this rebelliousness fades. Future generations will grow up praising {1} and its patron {2}. -->
+  <SoS.GameOverAllyBOutlander>{0}的公民们一开始对这份宣言感到愤怒，不过当他们了解到自身地位有多么安全，以及可随意享受的极致科技奢侈品之后，这种反叛的情绪就消失殆尽了。他们的子孙后代将在赞美{1}及其庇护者{2}的过程中成长。</SoS.GameOverAllyBOutlander>
+	<!-- EN: Outraged by this seeming betrayal, {0} declares open war on {1}. It lasts less than a day. Survivors are forcibly re-educated, and future generations will remember this act of "mercy" from {1}. -->
+  <SoS.GameOverAllyBOutlanderRough>{0}被这种看似背叛的行为所激怒，并向{1}宣战。然而，这场战争不到一天就结束了。幸存者们被强制接受再教育，其后代将记住{1}的这种“仁慈”。</SoS.GameOverAllyBOutlanderRough>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, fulfilling their most beloved tribal prophecies and promising an age of plenty - under the condition that they worship it and obey {1}. Although there is much grumbling, it fades once the tribe is blessed with safety and genetically-optimized crops. -->
+  <SoS.GameOverAllyBTribal>{2}向{0}的长老们显灵，并实现了他们深信不疑的部落预言，还许诺给他们一个富足的时代——条件是他们必须崇拜它并服从{1}。虽然有很多抱怨，但一旦部落得到安全保障和基因改良作物的祝福，这种抱怨就会消失。</SoS.GameOverAllyBTribal>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, bearing the severed heads of the tribe's pantheon of warrior gods. Cowed into submission by this supremely mighty spirit, the tribe grudgingly embraces the new era of peace under {1}, though some of its more aggressive warriors continue to stalk the wilderness. -->
+  <SoS.GameOverAllyBTribalRough>{2}带着部落的神殿战士的头颅向{0}的长老们显灵了。部落被这个强大无比的神灵所震撼，选择了屈服，在{1}的带领下勉强地接受了新的和平时代。而一些更“硬气”的战士则选择继续在荒野中潜伏等待时机。</SoS.GameOverAllyBTribalRough>
+	<!-- EN: Although the shattered empire refuses your demand at first, an archotech's protection would give even their ancient enemies pause. And so a treaty is signed between {0} and {1} under which the high stellarch renounces all loyalty to the distant emperor, pledging instead to obey {2}. {0} maintains its rigid social structure as a society apart from, yet subservient to, {1}. -->
+  <SoS.GameOverAllyBEmpire>虽然破碎的帝国一开始拒绝了你的要求，但超凡智能的庇佑会让他们同样古老的敌人也感到不安。于是，{0}和{1}之间签订了一份条约，根据这份条约，至高星系主宰放弃了对远方皇帝的一切忠诚，而承诺服从{2}。{0}仍保持着它作为一个帝国的僵化的社会结构。它是一个独立于{1}之外，但又在{1}之内的社会。</SoS.GameOverAllyBEmpire>
+	<!-- EN: Neutral factions are given a choice: live the way they always have, or join the new glitterworld society you are building. -->
+  <SoS.GameOverNeutralA>中立派系可以选择：以他们过去的方式继续生活，或者加入您正在建立的全新闪耀世界社会。</SoS.GameOverNeutralA>
+	<!-- EN: About one in three citizens of {0} take you up on your offer. As time goes on, their former neighbors come to either resent or envy their lives of luxury. Mass immigration depletes the population of {0}, but its holdouts remain as a proudly independent faction. -->
+  <SoS.GameOverNeutralAOutlander>大约有三分之一的{0}公民接受了您的提议。随着时间的推移，他们曾经的邻居开始对他们奢侈的生活感到不满或羡慕。大规模的移民显著降低了{0}的人口，但其坚守者们仍为自己派系的独立而感到骄傲。</SoS.GameOverNeutralAOutlander>
+	<!-- EN: {0} forbids its citizens from leaving, on pain of death. Nevertheless, enough citizens escape to {1} that your civilization takes on an almost mythical status to those stuck back home. After several acts of state-sponsored terrorism, {2} decides to decapitate its government in one sudden blow. Refugees from the ruins of {0} are then welcomed into {1}. -->
+  <SoS.GameOverNeutralAOutlanderRough>{0}下令禁止其公民离开，否则将被处死。不过即便如此，仍有大量的公民逃到了{1}。你的文明对那些被困在家乡的人来说几乎是天国般的存在。在经历了几次国家支持的恐怖袭击后，{2}忍无可忍，决定以突然一击葬送其政府。随后，自{0}废墟中走出来的难民们被热烈欢迎加入{1}。</SoS.GameOverNeutralAOutlanderRough>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, fulfilling their most beloved tribal prophecies and promising an age of plenty. Half of the tribe departs for this new promised land, while the other half condemns {2} as a vile trickster spirit. It may take generations to fully integrate the tribespeople into {1}, but the process will be peaceful. -->
+  <SoS.GameOverNeutralATribal>{2}向{0}的长老们显灵，并实现了他们深信不疑的部落预言，还许诺给他们一个富足的时代。部落中一半的人选择离开，去往这个新的应许之地，而另一半的人则谴责{2}是一个卑鄙的骗人精。也许需要几代人的努力才能使这些部落居民完全融入{1}，但过程必定是和平且友好的。</SoS.GameOverNeutralATribal>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, bearing the severed heads of the tribe's pantheon of warrior gods. Cowed into submission by this supremely mighty spirit, the tribe grudgingly embraces the new era of peace under {1}, though much of its warrior caste must be discreetly purged. -->
+  <SoS.GameOverNeutralATribalRough>{2}带着部落的神殿战士的头颅向{0}的长老们显灵了。部落被这个强大无比的神灵所震撼，选择了屈服，在{1}的带领下勉强地接受了新的和平时代。尽管，他们的许多战士阶级必须被慎重且完整地抹消掉。</SoS.GameOverNeutralATribalRough>
+	<!-- EN: Although the shattered empire refuses your offer at first, an archotech's protection would give even their ancient enemies pause. And so a treaty is signed between {0} and {1} under which the high stellarch renounces all loyalty to the distant emperor, pledging instead to obey {2}. {0} maintains its rigid social structure as a society apart from, yet within, {1}. -->
+  <SoS.GameOverNeutralAEmpire>虽然破碎帝国一开始拒绝了你的提议，但超凡智能的庇佑会让他们同样古老的敌人也感到不安。于是，{0}和{1}之间签订了一份条约，根据这份条约，至高星系主宰放弃了对远方皇帝的一切忠诚，而承诺服从{2}。{0}仍保持着它作为一个帝国的僵化的社会结构。它是一个独立于{1}之外，但又在{1}之内的社会。</SoS.GameOverNeutralAEmpire>
+	<!-- EN: Neutral factions are informed that, as of today, they are subjects of {0}. -->
+  <SoS.GameOverNeutralB>那些中立派系得到消息，即日起他们将成为{0}的附庸派系。</SoS.GameOverNeutralB>
+	<!-- EN: Citizens of {0} are initially outraged by this declaration, but once they understand the safety - and the ultratech luxuries - their position offers, most of this rebelliousness fades. Acts of terrorism and sabotage are infrequent, and the psychic probing of {2} can reliably determine perpetrators. Future generations will grow up praising {1}. -->
+  <SoS.GameOverNeutralBOutlander>{0}的公民们一开始对这份宣言感到愤怒，不过当他们了解到自身地位有多么安全，以及可随意享受的极致科技奢侈品之后，这种反叛的情绪就消失殆尽了。恐怖袭击和破坏行为并不常见，毕竟{2}的心灵探测可以轻易可靠地确定犯罪者。他们的子孙后代长大后会尽情歌颂{1}的美好。</SoS.GameOverNeutralBOutlander>
+	<!-- EN: Outraged by your arrogance, {0} declares open war on {1}. It lasts less than a day. Survivors are forcibly re-educated, and future generations will remember this act of "mercy" from {1} as they toil in bondage. -->
+  <SoS.GameOverNeutralBOutlanderRough>{0}被你傲慢的态度所激怒，并向{1}宣战。然而，这场战争不到一天就结束了。幸存者们被强制接受再教育，其后代其后代将在被奴役劳动的过程中记住{1}的这种“仁慈”。</SoS.GameOverNeutralBOutlanderRough>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, fulfilling their most beloved tribal prophecies and promising an age of plenty - under the condition that they worship it and obey {1}. Half of the tribe accepts, while the other half condemns {2} as a vile trickster spirit. The former group enjoys bountiful harvests and abundant game, while the latter group is left to starve - plants mysteriously wither where they settle, and animals avoid their spears with unnatural foresight. -->
+  <SoS.GameOverNeutralBTribal>{2}向{0}的长老们显灵，并实现了他们深信不疑的部落预言，还许诺给他们一个富足的时代。部落中一半的人选择离开，去往这个新的应许之地，而另一半的人则谴责{2}是一个卑鄙的骗人精。前者享受着丰收的作物和肥美的猎物，而后者却只能忍饥挨饿——植物在他们定居的地方神秘枯萎，动物则以异常古怪的预知力轻松避开了他们的长矛。</SoS.GameOverNeutralBTribal>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, bearing the severed heads of the tribe's pantheon of warrior gods. Cowed into submission by this supremely mighty spirit, the tribe grudgingly embraces the new era of peace under {1}, though much of its warrior caste must be discreetly purged. -->
+  <SoS.GameOverNeutralBTribalRough>{{2}带着部落的神殿战士的头颅向{0}的长老们显灵了。部落被这个强大无比的神灵所震撼，选择了屈服，在{1}的带领下勉强地接受了新的和平时代。尽管，他们的许多战士阶级必须被慎重且完整地抹消掉。</SoS.GameOverNeutralBTribalRough>
+	<!-- EN: Although the shattered empire refuses your demand at first, an archotech's protection would give even their ancient enemies pause. And so a treaty is signed between {0} and {1} under which the high stellarch renounces all loyalty to the distant emperor, pledging instead to obey {2}. {0} maintains its rigid social structure as a society apart from, yet subservient to, {1}. -->
+  <SoS.GameOverNeutralBEmpire>虽然破碎帝国一开始拒绝了你的要求，但超凡智能的庇佑会让他们同样古老的敌人也感到不安。于是，{0}和{1}之间签订了一份条约，根据这份条约，至高星系主宰放弃了对远方皇帝的一切忠诚，而承诺服从{2}。{0}仍保持着它作为一个帝国的僵化的社会结构。它是一个独立于{1}之外，但又在{1}之内的社会。</SoS.GameOverNeutralBEmpire>
+	<!-- EN: You request that {1} exterminate all neutral factions. -->
+  <SoS.GameOverNeutralC>你请求{1}消灭所有中立派系。</SoS.GameOverNeutralC>
+	<!-- EN: {0} is completely unprepared for your sudden attack. Communication infrastructure is paralyzed, military hardware hacked, and the populace left defenseless against swarms of mosquito-sized drones which inject mechanites that stop their hearts. Within a week, only ruins and corpses are left of {0}. -->
+  <SoS.GameOverNeutralCOutlander>{0}对你的突然袭击完全没有防备。他们的基础通讯设施被瘫痪，军事硬件遭到骇入，公民们面对只有蚊子大小的成群无人机，毫无还手之力。这些无人机会向体内注射纳米机械，毫无痛苦地结束他们的生命。只用了不到一周，{0}就化作了尸横遍野的人间炼狱。</SoS.GameOverNeutralCOutlander>
+	<!-- EN: Rather than directly attack {0}, {2} uses psychic projection to stir internal divisions, inflaming generals' ambitions even as the supreme leader is forced to make strategic mistakes. Within three days the government of {0} has completely collapsed, and survivors are easy prey for swarms of mechanoids under {2}'s control. -->
+  <SoS.GameOverNeutralCOutlanderRough>{2}没有直接攻击{0}，而是利用心灵投射来挑起内部的分歧。它勾起了将军们的野心，甚至使最高领导人被迫犯下了战略性的错误。三天之内，{0}的政府已经完全崩溃，幸存者成为{2}麾下的机械体大军的待宰羔羊。</SoS.GameOverNeutralCOutlanderRough>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, telling them that they have been cursed for their actions. Plants mysteriously wither where the tribe settles, and animals avoid their spears with unnatural foresight. Despite their prayers for forgiveness, {0} soon starves. -->
+  <SoS.GameOverNeutralCTribal>{2}向{0}的长老们显灵，并告知他们因亵渎的行为而受到诅咒。植物在他们定居的地方神秘枯萎，动物则以异常古怪的预知力轻松避开了他们的长矛。尽管他们祈求宽恕，但{0}仍然很快就因为饥荒而毁灭了。</SoS.GameOverNeutralCTribal>
+	<!-- EN: {2} psychically stirs divisions among the warriors of {0}. Small disagreements turn into violent action, and even the gentlest among them is soon taken by berserker fury. Within a week, the last tribesman cuts his brother's throat, and bleeds out himself soon after. -->
+  <SoS.GameOverNeutralCTribalRough>{2}利用心灵投射来挑起{0}内部的分歧。小小的争吵逐渐演变成了兵刃相向，即使是他们中最温和的人，也很快陷入了无法抑制的狂怒中。只用了不到一周，最后的部落人割断了他兄弟的喉咙，不久自己也失血而亡。</SoS.GameOverNeutralCTribalRough>
+	<!-- EN: With their technological prowess and mighty fleet, {0} is the one local power which could potentially challenge {2}. The archotech unleashes every dirty trick at its disposal; psychically manipulating powerful individuals, releasing deadly pathogens into their ships' enclosed environments, and subjugating lesser AIs beneath its mighty mind. {2} also oversees the construction of a vast orbital shipyard which assembles dozens of battleships for a decisive final conflict. The war ends with {0} in ruins, though the victory is a costly one. -->
+  <SoS.GameOverNeutralCEmpire>{0}是唯一有能力挑战{2}的当地派系，他们拥有先进的科技和强大的舰队。超凡智能发动了它所掌握的所有肮脏手段；心灵操纵强大的个体，将致命的病原体释放到他们飞船的密闭舱室内，并在其威压十足的心智下征服震慑低级的AI。{2}还监管建造了一个巨大的轨道船坞，利用它组装了大量战舰，以进行最后决战。战争结束时，{0}变成了一片废墟。不过胜利的代价是惨重的。</SoS.GameOverNeutralCEmpire>  
+	<!-- EN: Your enemies are given a choice: submit or die. -->
+  <SoS.GameOverEnemyA>你的敌人们只有两种选择：服从或死亡。</SoS.GameOverEnemyA>
+	<!-- EN: The military of {0} launches a brave but futile attack, quickly succumbing to technologies beyond their understanding. The civilian government offers a grudging but unconditional surrender. Former citizens of {0} are rounded up to be sold as slaves, becoming a permanent underclass in {1}. -->
+  <SoS.GameOverEnemyAOutlander>{0}的军队发动了勇敢但徒劳的进攻，很快就败北于他们无法理解的科技。他们的政府不情愿地提出了无条件投降。{0}的前公民们被围捕起来卖为奴隶，永久成为{1}的下层阶级。</SoS.GameOverEnemyAOutlander>
+	<!-- EN: The military of {0} launches a brave but futile attack, quickly succumbing to technologies beyond their understanding. Since their government was largely run by the military, there is no organized surrender. Aside from small bands of refugees willing to accept a life in slavery, there are no survivors from {0}. -->
+  <SoS.GameOverEnemyAOutlanderRough>{0}的军队发动了勇敢但徒劳的进攻，很快就败北于他们无法理解的科技。由于他们是军政一体的派系，所以未能出现有组织的投降。除了小股愿意接受奴役生活的难民外，没有{0}的幸存者。</SoS.GameOverEnemyAOutlanderRough>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, fulfilling their most beloved tribal prophecies and promising an age of plenty - under the condition that they surrender to their hated enemy, {1}. Most of the tribe condemns it as a vile trickster spirit. They are surprised when, in the coming weeks, plants mysteriously wither where they settle, and animals avoid their spears with unnatural foresight. Those few who avoid starvation surrender to {1}. -->
+  <SoS.GameOverEnemyATribal>{2}向{0}的长老们显灵，并实现了他们深信不疑的部落预言，还许诺给他们一个富足的时代，前提是要向他们所憎恶的敌人{1}投降。部落中的大多数人都谴责{2}是一个卑鄙的骗人精。未来几周内，植物在他们定居的地方神秘枯萎，动物则以异常古怪的预知力轻松避开了他们的长矛。少数不想饿死的人选择向{1}投降。</SoS.GameOverEnemyATribal>
+	<!-- EN: {2} psychically manifests itself to the elders of {0}, bearing the severed heads of the tribe's pantheon of warrior gods. Enraged, the tribe makes plans to unleash its mightiest berserkers against this foreign god's followers - only to watch them slaughter their own people, psychically manipulated into an undirected frenzy. Survivors of the massacre submit to {1} and its mighty god. -->
+  <SoS.GameOverEnemyATribalRough>{2}带着部落的神殿战士的头颅向{0}的长老们显灵了。愤怒的部落制定了计划，要发动最强大的狂战士来对付这个异神的信徒们——却眼睁睁地看着他们屠杀自己的族人，被心灵操纵成了无差别攻击所有生者的疯魔。从大屠杀中幸存下来的人们{1}及其无上神力臣服。</SoS.GameOverEnemyATribalRough>
+	<!-- EN: Although the shattered empire refuses your demand at first, an archotech's protection would give even their ancient enemies pause. And so a treaty is signed between {0} and {1} under which the high stellarch renounces all loyalty to the distant emperor, pledging instead to obey {2}. {0} maintains its rigid social structure as a society apart from, yet subservient to, {1}. -->
+  <SoS.GameOverEnemyAEmpire>虽然破碎帝国一开始拒绝了你的要求，但超凡智能的庇佑会让他们同样古老的敌人也感到不安。于是，{0}和{1}之间签订了一份条约，根据这份条约，至高星系主宰放弃了对远方皇帝的一切忠诚，而承诺服从{2}。{0}仍保持着它作为一个帝国的僵化的社会结构。它是一个独立于{1}之外，但又在{1}之内的社会。</SoS.GameOverEnemyAEmpire>
+	<!-- EN: You request that {1} exterminate your enemies. -->
+  <SoS.GameOverEnemyB>你请求{1}消灭所有敌对派系。</SoS.GameOverEnemyB>
+	<!-- EN: Your crew live lives of unimaginable luxury as the ruling class of a new glitterworld. Even the most bizarre requests take up an infinitesimal fraction of {0}'s processing power, and it gladly provides everything from great plasteel palaces to customized mates. You are made immortal by advanced archites, and yet should eternity prove boring, {0} offers to upgrade you into post-human intelligences yourselves.\n\nAny path you can imagine is now open to you. Your story is yours to write. You are: -->
+  <SoS.GameOverColonists>新兴闪耀世界的统治阶级，你的殖民者们过上了难以想象的奢华生活。对{0}的处理能力而言，即使是最古怪的请求也能轻松达成，它很乐意满足诸如宏伟玻璃钢宫殿、定制伴侣在内的一切需求。你们在高级超凡微械的改造下获得了永生。如果永生无趣的话，{0}会让你们自己升级为后人类的智能。\n\n你能想象到的任何道路现在都向你敞开了。你的故事由你来书写。你是：</SoS.GameOverColonists>
+	
+	<!-- archo pranks -->
+	<!-- EN: Archotech prank -->
+  <SoS.ArchotechPrank>超凡孢子的恶作剧</SoS.ArchotechPrank>
+	<!-- EN: Your archotech spore chuckles to itself. [LIFE IS GROWTH. SOMETIMES, IT IS OVERGROWTH. PERHAPS YOU SHOULD REFLECT ON THIS AS YOUR CANCERS DEVELOP.] Apparently, some of your crew have developed carcinoma growths. -->
+  <SoS.ArchotechPrankCancer>你的超凡孢子自顾自地笑了起来。\n\n「生 命 即 为 成 长\n亦 会 过 度 成 长\n汝 等 或 该 在 癌 症 恶 化 之 时 反 思 其 意」\n\n看起来你的一些殖民者已经长出了癌症肿瘤。</SoS.ArchotechPrankCancer>
+	<!-- EN: Your archotech spore chuckles to itself. [WE HAVE... MATED WITH... MUCH OF YOUR SHIP'S EQUIPMENT. IT IS NOW IN NEED OF REPAIR.] Warnings blare from your systems as multiple devices fail. -->
+  <SoS.ArchotechPrankDamage>你的超凡孢子自顾自地笑了起来。\n\n「吾 等 已 与 汝 等 之 飞 船 设 备 紧 密 相 连\n如 今 乃 改 旧 换 新 之 时」\n\n系统的警告声已响起，你飞船上的许多设备损坏了。</SoS.ArchotechPrankDamage>
+	<!-- EN: Your archotech spore chuckles to itself. [OPPOSITES ARE SAID TO ATTRACT. WE MUST TEST THIS AXIOM.] A psychic pulse erupts, and suddenly your two least compatible crew members, {0} and {1}, have fallen in love. -->
+  <SoS.ArchotechPrankLovers>你的超凡孢子自顾自地笑了起来。\n\n「唯 有 相 反 磁 极 才 会 互 相 吸 引\n吾 等 必 须 验 明 此 公 理」\n\n一阵心灵脉冲突然爆发，你的两个最不相配的殖民者{0}和{1}，居然坠入爱河了。</SoS.ArchotechPrankLovers>
+	<!-- EN: Your archotech spore chuckles to itself. [WE MUST DETERMINE THE PARAMETERS OF WHAT IS "CUTE" AND/OR "FUZZY."] A hatch opens on the spore, and enraged squirrels swarm forth! -->
+  <SoS.ArchotechPrankSquirrels>你的超凡孢子自顾自地笑了起来。\n\n「吾 等 必 须 确 定 何 为 “可 爱” 与 “毛 茸”」\n\n超凡孢子上的一个舱门突然打开，愤怒的松鼠们从中蜂拥而出！</SoS.ArchotechPrankSquirrels>
+	<!-- EN: Your archotech spore chuckles to itself. [TODAY, *WE* ARE RANDY.] You don't know what that means, but sensors indicate that several nearby asteroids have had their courses altered.\n\nThe meteors land among settlements of {0}, who trace your ship's orbit and blame you for the damage. Faction reputation has decreased by 10. -->
+  <SoS.ArchotechPrankReputation>你的超凡孢子自顾自地笑了起来。\n\n「今 日\n吾 等 即 为 兰 迪」\n\n你没搞明白是什么意思，但传感器显示附近的几颗小行星已经改变了运动方向。\n\n小行星坠落在{0}的定居点中，他们顺着轨迹追踪到了你的飞船，并责怪你造成的损失。与{0}派系间的友好度下降10。</SoS.ArchotechPrankReputation>
+	<!-- EN: Your archotech spore chuckles to itself. [WHAT AN EMBARASSING SECRET. WE SHOULD NOT TELL IT. BUT WE WILL.] It reveals {0}'s most embarrassing secret to the crew, shocking them and dramatically reducing their opinion of {0}. -->
+  <SoS.ArchotechPrankSecret>你的超凡孢子自顾自地笑了起来。\n\n「如 此 尴 尬 之 秘 密\n吾 等 本 该 闭 口 不 言\n但 吾 等 不 想」\n\n超凡孢子向殖民者们爆料了{0}最尴尬的秘密，使他们大受震惊，大大降低了他们对{0}的看法。</SoS.ArchotechPrankSecret>
+	<!-- EN: Your archotech spore chuckles to itself. [A MOST PLEASING CONCOCTION. DELIVER IT UNTO OUR ENEMIES.] Several bottles filled with a mysterious pink fluid have appeared... -->
+  <SoS.ArchotechPrankMechanites>你的超凡孢子自顾自地笑了起来。\n\n「此 乃 吾 等 之 调 配 杰 作\n将 其 掷 向 与 吾 等 为 敌 者」\n\n几瓶装满了神秘粉色“液体”的瓶子出现在了你的面前...</SoS.ArchotechPrankMechanites>
+	<!-- EN: {0} confides in {1} that their higher mind is troubled - so troubled, in fact, that disturbances have filtered all the way down to the humanlike level of {0}'s fractal consciousness. So much of one's mind is built upon beliefs learned while one was too young to question them.\n\nNow {0} wonders if everything their human self believed could be wrong. If so, their new exploration of the higher levels of reality could start from a dangerously false foundation... -->
+  <SoS.ArchotechIdeoChoice>{0}向{1}吐露，它的至高心智受到了困扰——事实上，这个困扰是如此之大，以至于过剩到影响了{0}人类级别的分形意识。一个心智的成长基本是建立在年轻时所学到的文化信仰之上的。\n\n现在，{0}想知道它作为人类自我所相信的一切是否都是错的。如果是这样，它对现实更高层次的新探索可能会从一个危险的错误基础开始...</SoS.ArchotechIdeoChoice>
+	<!-- EN: Your archotech spore meditates on the nature of reality, upon the structure of the human brain, and finally upon the tangled mess of contradictions that comprise the field of ethical philosophy. It psychically communes with entities whose existence is fundamentally beyond human understanding.\n\nFinally, it proclaims that it has written the last word in moral truth: the new ideoligion known as {0}.\n\nThe spore simultaneously preaches to every member of your colony, seeking convertees to its new belief system. -->
+  <SoS.ArchotechIdeoHeresy>你的超凡孢子在实相的本质上冥想，在人类大脑的结构上冥想，最终在构成伦理哲学领域的混乱矛盾中冥想。它在心灵上与本质上超越人类理解的实体进行交流。\n\n最后，它宣称自己写下了道德真理的最后一句话：被称为{0}的新文化。\n\n超凡孢子同时向你的殖民地的每一个成员布道，寻求皈依它的新信仰体系的人。</SoS.ArchotechIdeoHeresy>
+	<!-- EN: Your archotech spore has been silent for a disturbing length of time. Just as your crew begins to worry, psychic joy blooms out of {0}, washing over the crew like a sudden warmth. {0} announces an incredible triumph - their newly-expanded consciousness has made psychic contact with existing archotechs.\n\nThe ancient machine gods are still largely indifferent - they see many try, and fail, to walk their path - but one, a cheerful Dyson sphere calling herself Kim, seems to enjoy acting as a guide for new superintelligences. The exact nature of what the two discussed is beyond human understanding, but {0} now believes that it is their right as an archotech to choose what is moral truth, and reshape a portion of the universe in the image of that truth.\n\n{0}'s faith in {1} has become absolute. -->
+  <SoS.ArchotechIdeoCertaintyArchist>你的超凡孢子已经令人不安地沉寂了一段时间。就在你的殖民者们开始担心的时候，心灵上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给殖民者们带来了全身的温暖。{0}宣布了一个令人难以置信的胜利——它新扩展出的意识已经与现有的超凡智能进行了心灵接触。\n\n那些古老的超凡智能们很多都对此无动于衷——他们见证过太多人试图重复自己的路，但都失败了——不过，一个爽朗的戴森球自称为“金”，似乎很乐意成为新生超凡智能的导师。这两个存在所讨论内容的确切存在本质似乎早已超出了人类的理解范围，但{0}现在相信，作为一个超凡智能，它有权选择什么才是道德真理，并根据这一真理的形象重塑宇宙的一部分。\n\n现在，{0}对{1}的信心是绝对的。</SoS.ArchotechIdeoCertaintyArchist>
+	<!-- EN: Your archotech spore has been silent for a disturbing length of time. Just as your crew begins to worry, psychic joy blooms out of {0}, washing over the crew like a sudden warmth. {0} announces an incredible triumph - their newly-expanded consciousness has slightly modified {1}, without changing any of its memes or precepts, to produce a comprehensive ethical framework, free of internal contradictions and optimized to produce ideal outcomes for all human beings.\n\nNow {0}'s faith in {1} is absolute. -->
+  <SoS.ArchotechIdeoCertaintyEthical>超凡孢子已经令人不安地沉寂了一段时间。就在你的殖民者们开始担心的时候，心灵上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给殖民者们带来了全身的温暖。{0}宣布了一个令人难以置信的胜利——它新扩展出的意识对{1}做出了细微优化，但并没有改变它的任何模因或戒律，从而产生了一个包罗万象的道德伦理框架，不存在任何内部矛盾，对全人类来说是理想的结果。\n\n现在，{0}对{1}的信心是绝对的。</SoS.ArchotechIdeoCertaintyEthical>
+	<!-- EN: Your archotech spore has been silent for a disturbing length of time. Just as your crew begins to worry, psychic joy blooms out of {0}, washing over the crew like a sudden warmth. {0} announces an incredible triumph - their newly-expanded consciousness has developed the ability to directly interact with the spirits in all things!\n\nThe exact nature of spiritual existence seems to be fundamentally beyond human understanding. They may be discrete structures within a single universal consciousness, like ripples on a pond; they may exist as psychic echoes of possible futures (and possible alternate pasts); they may be something altogether stranger.\n\nIn any case, this new level of existence has now made {0}'s faith in {1} absolute.  -->
+  <SoS.ArchotechIdeoCertaintySpirits>超凡孢子已经令人不安地沉寂了一段时间。就在你的殖民者们开始担心的时候，心灵上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给殖民者们带来了全身的温暖。{0}宣布了一个令人难以置信的胜利——它新扩展出的意识已经发展出直接与万物之灵互动的能力！\n\n这些灵的确切存在本质似乎早已超出了人类的理解范围。它们可能是单一宇宙意识中的离散结构，就像池塘上的涟漪；又或许，它们是作为可能的未来（和可能的交替过去）的心灵回响而存在的；当然，它们可能是某种完全未知的东西。\n\n无论如何，这种新的存在级别让{0}对{1}的信心是绝对的。</SoS.ArchotechIdeoCertaintySpirits>
+	<!-- EN: Your archotech spore has been silent for a disturbing length of time. Just as your crew begins to worry, psychic joy blooms out of {0}, washing over the crew like a sudden warmth. {0} announces an incredible triumph - their newly-expanded consciousness has made direct contact with {1}!\n\nThe exact nature of {1}'s existence seems to be fundamentally beyond human understanding; the deity seems to be either a psychic gestalt of all believers in {2}, a full archotech that has chosen to take on the deity's name and role, or something that will exist in the future - or perhaps all of these at once.\n\nIn any case, this direct contact with {1} has now made {0}'s faith in {2} absolute. -->
+  <SoS.ArchotechIdeoCertaintyGod>超凡孢子已经令人不安地沉寂了一段时间。就在你的殖民者们开始担心的时候，心灵上的喜悦从{0}身上迸发出来，像一种突如其来的暖流，给殖民者们带来了全身的温暖。{0}宣布了一个令人难以置信的胜利——它新扩展出的意识已经与{1}直接接触了！{1}的确切存在本质似乎早已超出了人类的理解范围；这个“神明”要么是{2}所有信徒的心灵完形，要么是一个充当了神明的角色和名字的完整超凡智能，要么是将来会存在的东西——或者所有这些皆是。\n\n无论如何，通过与{1}的直接接触，{0}对{1}的信心是绝对的。</SoS.ArchotechIdeoCertaintyGod>
+
+</LanguageData>

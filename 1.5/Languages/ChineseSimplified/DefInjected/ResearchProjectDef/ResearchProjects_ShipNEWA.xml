@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: escape pods -->
+  <ShipCryptosleep.label>飞船低温休眠舱</ShipCryptosleep.label>
+  <!-- EN: Construct a specialized cryptosleep casket capable of surviving atmospheric re-entry, and which does not need to be opened manually. It would be a good idea to have at least one aboard a starship. -->
+  <ShipCryptosleep.description>解锁建造紧急逃生用的特殊低温休眠舱。在飞船上配备这种装置是很有必要的。</ShipCryptosleep.description>
+  <!-- EN:
+    <li>subject->starship-grade cryptosleep caskets</li>
+    <li>subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, so the old generation ship could be used again</li>
+    <li>subject_story->was accidentally ejected in deep space, surviving in a self-designed casket for two months</li>
+    <li>subject_story->lectured on the differences between planetary- and starship-grade equipment</li>
+    <li>subject_gerund->constructing hardened cryptosleep caskets</li>
+  -->
+  <ShipCryptosleep.generalRules.rulesStrings>
+    <li>subject->飞船级低温休眠舱</li>
+    <li>subject_story->更换了CMC“塞莱斯特”号上失效的低温休眠舱，使这艘老旧的世代殖民飞船可以再次使用</li>
+    <li>subject_story->被意外弹射到太空深处，在自己设计的低温休眠舱里存活了两个月</li>
+    <li>subject_story->讲授行星级和飞船级设备的区别</li>
+    <li>subject_gerund->建造强化低温休眠舱</li>
+  </ShipCryptosleep.generalRules.rulesStrings>
+
+</LanguageData>

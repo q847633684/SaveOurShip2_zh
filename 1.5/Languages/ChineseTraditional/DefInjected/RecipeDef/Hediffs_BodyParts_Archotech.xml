@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install archotech skin -->
+  <InstallSoSArchotechSkin.label>安裝遠古仿生皮膚</InstallSoSArchotechSkin.label>
+  <!-- EN: Install archotech skin. -->
+  <InstallSoSArchotechSkin.description>安裝遠古仿生皮膚。</InstallSoSArchotechSkin.description>
+  <!-- EN: Installing archotech skin. -->
+  <InstallSoSArchotechSkin.jobString>安裝遠古仿生皮膚。</InstallSoSArchotechSkin.jobString>
+  
+  <!-- EN: install psychic manipulator -->
+  <InstallSoSPsychicManipulator.label>安裝心靈操縱裝置</InstallSoSPsychicManipulator.label>
+  <!-- EN: Install a psychic manipulator. -->
+  <InstallSoSPsychicManipulator.description>安裝一個心靈操縱裝置。</InstallSoSPsychicManipulator.description>
+  <!-- EN: Installing psychic manipulator. -->
+  <InstallSoSPsychicManipulator.jobString>安裝心靈操縱裝置。</InstallSoSPsychicManipulator.jobString>
+  
+  <!-- EN: install psychic predictor -->
+  <InstallSoSPsychicPredictor.label>安裝心靈預測裝置</InstallSoSPsychicPredictor.label>
+  <!-- EN: Install a psychic predictor. -->
+  <InstallSoSPsychicPredictor.description>安裝一個心靈預測裝置。</InstallSoSPsychicPredictor.description>
+  <!-- EN: Installing psychic predictor. -->
+  <InstallSoSPsychicPredictor.jobString>安裝心靈預測裝置。</InstallSoSPsychicPredictor.jobString>
+  
+  <!-- EN: remove archotech skin -->
+  <RemoveSoSArchotechSkin.label>移除遠古仿生皮膚。</RemoveSoSArchotechSkin.label>
+  <!-- EN: Remove archotech skin. -->
+  <RemoveSoSArchotechSkin.description>移除遠古仿生皮膚。</RemoveSoSArchotechSkin.description>
+  <!-- EN: Removing archotech skin. -->
+  <RemoveSoSArchotechSkin.jobString>移除遠古仿生皮膚。</RemoveSoSArchotechSkin.jobString>
+  
+  <!-- EN: remove psychic manipulator -->
+  <RemoveSoSPsychicManipulator.label>移除心靈操縱裝置</RemoveSoSPsychicManipulator.label>
+  <!-- EN: Remove psychic manipulator. -->
+  <RemoveSoSPsychicManipulator.description>移除心靈操縱裝置。</RemoveSoSPsychicManipulator.description>
+  <!-- EN: Removing psychic manipulator. -->
+  <RemoveSoSPsychicManipulator.jobString>移除心靈操縱裝置。</RemoveSoSPsychicManipulator.jobString>
+  
+  <!-- EN: remove psychic predictor -->
+  <RemoveSoSPsychicPredictor.label>移除心靈預測裝置</RemoveSoSPsychicPredictor.label>
+  <!-- EN: Remove psychic predictor. -->
+  <RemoveSoSPsychicPredictor.description>移除心靈預測裝置。</RemoveSoSPsychicPredictor.description>
+  <!-- EN: Removing psychic predictor. -->
+  <RemoveSoSPsychicPredictor.jobString>移除心靈預測裝置。</RemoveSoSPsychicPredictor.jobString>
+  
+  <!-- EN: install archotech ear -->
+  <SoSInstallArchotechEar.label>安裝遠古仿生耳</SoSInstallArchotechEar.label>
+  <!-- EN: Install an archotech ear. -->
+  <SoSInstallArchotechEar.description>安裝一隻遠古仿生耳。</SoSInstallArchotechEar.description>
+  <!-- EN: Installing archotech ear. -->
+  <SoSInstallArchotechEar.jobString>安裝遠古仿生耳。</SoSInstallArchotechEar.jobString>
+  
+  <!-- EN: install archotech heart -->
+  <SoSInstallArchotechHeart.label>安裝遠古仿生心</SoSInstallArchotechHeart.label>
+  <!-- EN: Install an archotech heart. -->
+  <SoSInstallArchotechHeart.description>安裝一個遠古仿生心。</SoSInstallArchotechHeart.description>
+  <!-- EN: Installing archotech heart. -->
+  <SoSInstallArchotechHeart.jobString>安裝遠古仿生心。</SoSInstallArchotechHeart.jobString>
+  
+  <!-- EN: install archotech jaw -->
+  <SoSInstallArchotechJaw.label>安裝遠古仿生頜</SoSInstallArchotechJaw.label>
+  <!-- EN: Install archotech jaw. -->
+  <SoSInstallArchotechJaw.description>安裝一個遠古仿生頜。</SoSInstallArchotechJaw.description>
+  <!-- EN: Installing archotech jaw. -->
+  <SoSInstallArchotechJaw.jobString>安裝遠古仿生頜。</SoSInstallArchotechJaw.jobString>
+  
+  <!-- EN: install archotech kidney -->
+  <SoSInstallArchotechKidney.label>安裝遠古仿生腎</SoSInstallArchotechKidney.label>
+  <!-- EN: Install an archotech kidney. -->
+  <SoSInstallArchotechKidney.description>安裝一個遠古仿生腎。</SoSInstallArchotechKidney.description>
+  <!-- EN: Installing archotech kidney. -->
+  <SoSInstallArchotechKidney.jobString>安裝遠古仿生腎。</SoSInstallArchotechKidney.jobString>
+  
+  <!-- EN: install archotech liver -->
+  <SoSInstallArchotechLiver.label>安裝遠古仿生肝</SoSInstallArchotechLiver.label>
+  <!-- EN: Install an archotech liver. -->
+  <SoSInstallArchotechLiver.description>安裝一個遠古仿生肝。</SoSInstallArchotechLiver.description>
+  <!-- EN: Installing archotech liver. -->
+  <SoSInstallArchotechLiver.jobString>安裝遠古仿生肝。</SoSInstallArchotechLiver.jobString>
+  
+  <!-- EN: install archotech lung -->
+  <SoSInstallArchotechLung.label>安裝遠古仿生肺</SoSInstallArchotechLung.label>
+  <!-- EN: Install an archotech lung. -->
+  <SoSInstallArchotechLung.description>安裝一個遠古仿生肺。</SoSInstallArchotechLung.description>
+  <!-- EN: Installing archotech lung. -->
+  <SoSInstallArchotechLung.jobString>安裝遠古仿生肺。</SoSInstallArchotechLung.jobString>
+  
+  <!-- EN: install archotech nose -->
+  <SoSInstallArchotechNose.label>安裝遠古仿生鼻</SoSInstallArchotechNose.label>
+  <!-- EN: Install an archotech nose. -->
+  <SoSInstallArchotechNose.description>安裝一個遠古仿生鼻。</SoSInstallArchotechNose.description>
+  <!-- EN: Installing archotech nose. -->
+  <SoSInstallArchotechNose.jobString>安裝遠古仿生鼻。</SoSInstallArchotechNose.jobString>
+  
+  <!-- EN: install archotech spine -->
+  <SoSInstallArchotechSpine.label>安裝遠古仿生脊椎</SoSInstallArchotechSpine.label>
+  <!-- EN: Install an archotech spine. -->
+  <SoSInstallArchotechSpine.description>安裝一根遠古仿生脊椎。</SoSInstallArchotechSpine.description>
+  <!-- EN: Installing archotech spine. -->
+  <SoSInstallArchotechSpine.jobString>安裝遠古仿生脊椎。</SoSInstallArchotechSpine.jobString>
+  
+  <!-- EN: install archotech stomach -->
+  <SoSInstallArchotechStomach.label>安裝遠古仿生胃</SoSInstallArchotechStomach.label>
+  <!-- EN: Install an archotech stomach. -->
+  <SoSInstallArchotechStomach.description>安裝一個遠古仿生胃。</SoSInstallArchotechStomach.description>
+  <!-- EN: Installing archotech stomach. -->
+  <SoSInstallArchotechStomach.jobString>安裝遠古仿生胃。</SoSInstallArchotechStomach.jobString>
+  
+</LanguageData>

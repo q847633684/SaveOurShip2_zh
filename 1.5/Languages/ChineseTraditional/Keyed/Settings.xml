@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: SOS2 {0} -->
+  <SoS.Settings.ShowVersionUI>SOS2 版本：{0}</SoS.Settings.ShowVersionUI>
+	<!-- EN: Dynamic planet rendering -->
+  <SoS.Settings.RenderPlanet>星球動態渲染</SoS.Settings.RenderPlanet>
+	<!-- EN: If checked, orbital maps will show a day/night cycle on the planet. Disable this option if the game runs slowly in space. Default: off -->
+  <SoS.Settings.RenderPlanet.Desc>如果啟用此項，則太空地圖背景中的星球會顯示晝夜循環效果。若你覺得這個功能會對遊戲性能造成負面影響，那就將其禁用。\n\n默認：禁用</SoS.Settings.RenderPlanet.Desc>
+	
+	<!-- EN: Interface settings: -->
+  <SoS.Settings.UI>界面設置：</SoS.Settings.UI>
+	<!-- EN: SoS splash screen -->
+  <SoS.Settings.UseSplashScreen>SOS2風格主菜單背景</SoS.Settings.UseSplashScreen>
+	<!-- EN: If checked, RimWorld will use SoS2's new splash screen. Restart the game after changing this setting. Default: on -->
+  <SoS.Settings.UseSplashScreen.Desc>如果啟用此項，則原版的主菜單背景會被替換為SOS2風格。修改此項後需要重啟遊戲才能生效。\n\n默認：啟用</SoS.Settings.UseSplashScreen.Desc>
+	<!-- EN: Persistent ship UI -->
+  <SoS.Settings.PersistShipUI>始終顯示飛船UI界面</SoS.Settings.PersistShipUI>
+	<!-- EN: If checked, will show your ship power and heat even out of combat. Default: off -->
+  <SoS.Settings.PersistShipUI.Desc>如果啟用此項，即使在非戰鬥狀態下也會於屏幕上方顯示飛船UI界面（如蓄熱量、蓄電量等）。\n\n默認：禁用</SoS.Settings.PersistShipUI.Desc>
+	<!-- EN: Ship UI offset X -->
+  <SoS.Settings.OffsetUIx>飛船UI界面位置偏移（X軸）</SoS.Settings.OffsetUIx>
+	<!-- EN: UI offset horizontal from the center of your screen. -->
+  <SoS.Settings.OffsetUIx.Desc>調整飛船UI界面在屏幕上的位置（X軸）。</SoS.Settings.OffsetUIx.Desc>
+	<!-- EN: Ship UI offset Y -->
+  <SoS.Settings.OffsetUIy>飛船UI界面位置偏移（Y軸）O</SoS.Settings.OffsetUIy>
+	<!-- EN: UI offset vertical from bellow the pawn bar. -->
+  <SoS.Settings.OffsetUIy.Desc>調整飛船UI界面在屏幕上的位置（Y軸）。</SoS.Settings.OffsetUIy.Desc>
+	<!-- EN: Shuttles to display -->
+  <SoS.Settings.ShuttlesToDisplay>太空梭顯示數量</SoS.Settings.ShuttlesToDisplay>
+	<!-- EN: Maximum number of shuttles to display in combat. More damaged shuttles will be prioritized. If 0, will display as many as your screen can handle. -->
+  <SoS.Settings.ShuttlesToDisplay.Desc>戰鬥時最多能顯示幾艘太空梭的UI界面。太空梭受損越嚴重，顯示優先級越高。如果將此項的值設為0，則會依照你的屏幕處理能力來顯示。</SoS.Settings.ShuttlesToDisplay.Desc>
+	
+	<!-- EN: Misc settings: -->
+  <SoS.Settings.Misc>雜項設置：</SoS.Settings.Misc>
+	<!-- EN: Easy boarding mode -->
+  <SoS.Settings.EasyMode>簡單跳幫模式</SoS.Settings.EasyMode>
+	<!-- EN: If checked, will prevent player pawns in shuttles from dying to point defense. Default: off -->
+  <SoS.Settings.EasyMode.Desc>如果啟用此項，則處於太空梭內的殖民者不會被敵艦的點防禦砲塔擊斃。\n\n默認：禁用</SoS.Settings.EasyMode.Desc>
+	<!-- EN: Ship map physics -->
+  <SoS.Settings.ShipMapPhysics>飛船地圖物理效果</SoS.Settings.ShipMapPhysics>
+	<!-- EN: If enabled pawns and things not on a ship while it is moving will be sent to the graveyard. This will also restrict shuttle landings to bays or outer hull. Default: off -->
+  <SoS.Settings.ShipMapPhysics.Desc>如果啟用此項，則當飛船移動時，未處於其內部的單位和物品都將被送至墓地軌道。這也意味著太空梭必須停靠在星港或船體外。\n\n默認：禁用</SoS.Settings.ShipMapPhysics.Desc>
+	<!-- EN: Failsafe: Archolife Spawning -->
+  <SoS.Settings.ArchoRemove>遠古生物限制生成</SoS.Settings.ArchoRemove>
+	<!-- EN: If a third-party mod spawns archolife creatures before the archotech spore has been built, this setting will cause them to vanish. Default: off -->
+  <SoS.Settings.ArchoRemove.Desc>如果有其它Mod在你建造遠古孢子前就生成出了遠古生物，啟用此項會使它們消失。\n\n默認：禁用</SoS.Settings.ArchoRemove.Desc>
+	<!-- EN: Archotech creatures die without spore -->
+  <SoS.Settings.ArchoKill>缺少遠古孢子會使遠古生物死亡</SoS.Settings.ArchoKill>
+	<!-- EN: If the archotech spore is destroyed, all archolife creatures will die. Default: off -->
+  <SoS.Settings.ArchoKill.Desc>如果你的遠古孢子被摧毀了，則所有的遠古生物都會死亡。\n\n默認：禁用</SoS.Settings.ArchoKill.Desc>
+	<!-- EN: Debug mode -->
+  <SoS.Settings.Debug>Debug模式</SoS.Settings.Debug>
+	<!-- EN: Will draw ship area and list all ships/wrecks on map on screen with mouse over for details and add more info to the log. Default: off -->
+  <SoS.Settings.Debug.Desc>如果啟用此項，則會用不同的色塊在屏幕上標明飛船/殘骸的實際判定範圍。屏幕左側也會列出當前地圖上所有的飛船/殘骸，將光標移動到對應的標籤上可以看到具體屬性。除此之外，遊戲日誌也會顯示更多信息。\n\n默認：禁用</SoS.Settings.Debug.Desc>
+	
+	<!--SoS.Settings.UseVacuumPathfinding>Use vacuum pathfinding</SoS.Settings.UseVacuumPathfinding>
+	<SoS.Settings.UseVacuumPathfinding.Desc>If checked, pawns without EVA gear will attempt to avoid vacuum areas. This can break compatibility with other mods which alter pathfinding. Restart the game after changing this setting.</SoS.Settings.UseVacuumPathfinding.Desc-->
+	
+	<!-- EN: Gameplay settings: -->
+  <SoS.Settings.Gameplay>遊戲設置：</SoS.Settings.Gameplay>
+	<!-- EN: Ship combat difficulty factor (Min: {0} Max: {1} Default: {2} Current: {3}) -->
+  <SoS.Settings.DifficultySoS>飛船交戰難度係數（最小：{0} 最大：{1} 默認：{2} 當前：{3}）</SoS.Settings.DifficultySoS>
+	<!-- EN: Affects the size and strength of enemy ships. -->
+  <SoS.Settings.DifficultySoS.Desc>調整此項會影響敵艦的大小和戰鬥等級。</SoS.Settings.DifficultySoS.Desc>
+	<!-- EN: Ship Combat Frequency (Min: {0} Max: {1} Default: {2} Current: {3}) -->
+  <SoS.Settings.FrequencySoS>飛船交戰頻率（最小：{0} 最大：{1} 默認：{2} 當前：{3}）</SoS.Settings.FrequencySoS>
+	<!-- EN: Higher values mean less cooldown time between ship battles. -->
+  <SoS.Settings.FrequencySoS.Desc>此項的值越高，兩次飛船交戰的間隔就越短。</SoS.Settings.FrequencySoS.Desc>
+	<!-- EN: Navy chance (Min: {0} Max: {1} Default: {2} Current: {3}) -->
+  <SoS.Settings.NavyShipChance>帝國海軍遭遇幾率（最小：{0} 最大：{1} 默認：{2} 當前：{3}）</SoS.Settings.NavyShipChance>
+	<!-- EN: How likely navies will appear in random encounters. -->
+  <SoS.Settings.NavyShipChance.Desc>飛船交戰時遇到的敵艦為帝國海軍的幾率。</SoS.Settings.NavyShipChance.Desc>
+	<!-- EN: Random fleet chance (Min: {0} Max: {1} Default: {2} Current: {3}) -->
+  <SoS.Settings.FleetChance>敵對艦隊遭遇幾率（最小：{0} 最大：{1} 默認：{2} 當前：{3}）</SoS.Settings.FleetChance>
+	<!-- EN: Chance for random unknown enemy ships and traders to be fleets. Will be ignored at very low or high combat rating. -->
+  <SoS.Settings.FleetChance.Desc>飛船交戰時遇到的敵艦和商船為艦隊規模的幾率。戰鬥等級過高或過低時，此項不會生效。</SoS.Settings.FleetChance.Desc>
+	
+	<!-- EN: Travel settings: -->
+  <SoS.Settings.Travel>星際航行設置：</SoS.Settings.Travel>
+	<!-- EN: Minimum travel time (Min: {0} Max: {1} Default: {2} Current: {3}) -->
+  <SoS.Settings.MinTravelTime>最短星際航行時間（最小：{0} 最大：{1} 默認：{2} 當前：{3}）</SoS.Settings.MinTravelTime>
+	<!-- EN: Minimum number of years that pass when traveling to a new world. -->
+  <SoS.Settings.MinTravelTime.Desc>你的飛船通過星際航行抵達新星球最短需要幾年時間。</SoS.Settings.MinTravelTime.Desc>
+	<!-- EN: Maximum travel time (Min: {0} Max: {1} Default: {2} Current: {3}) -->
+  <SoS.Settings.MaxTravelTime>最長星際航行時間（最小：{0} 最大：{1} 默認：{2} 當前：{3}）</SoS.Settings.MaxTravelTime>
+	<!-- EN: Maximum number of years that pass when traveling to a new world. -->
+  <SoS.Settings.MaxTravelTime.Desc>你的飛船通過星際航行抵達新星球最長需要幾年時間。</SoS.Settings.MaxTravelTime.Desc>
+	
+	<!-- EN: Dangerous settings (change at your own risk): -->
+  <SoS.Settings.Danger>風險設置（慎改，後果自負）：</SoS.Settings.Danger>
+	<!-- EN: Enemy fleet map size override (Min: {0} Max: {1} Default: {2} Current: {3}) -->
+  <SoS.Settings.EnemyMapSize>敵對艦隊地圖尺寸（最小：{0} 最大：{1} 默認：{2} 當前：{3}）</SoS.Settings.EnemyMapSize>
+	<!-- EN: Will allow fleets to spawn on larger maps with more and larger ships above CR 2000. -->
+  <SoS.Settings.EnemyMapSize.Desc>允許敵對艦隊在尺寸更大的地圖上生成。這會影響敵艦的數量和大小，且戰鬥等級可能會超過2000。</SoS.Settings.EnemyMapSize.Desc>
+</LanguageData>
